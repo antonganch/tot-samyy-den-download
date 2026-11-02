@@ -171,6 +171,17 @@
       "about": "В июньской программе УТ-1 вечерняя передача для детей стояла в 20:45.",
       "scheduleYear": 1991,
       "url": "https://oldtvprog.fandom.com/ru/wiki/3_июня_1991"
+    },
+    {
+      "country": "Украина",
+      "audience": "children",
+      "genre": "fairy-tale",
+      "start": "1995-01-01",
+      "end": "1997-12-31",
+      "program": "Вечірня казка",
+      "channel": "УТ-1",
+      "about": "В вечерней сказке Аллы Мигай звучали колыбельные и музыкальные истории.",
+      "url": "https://detector.media/production/article/60893/2011-03-07-ya-nenavyzhu-vas-ya-ne-ponymayu-vashu-skazku-y-ne-khochu-ee-slushat/"
     }
   ],
   "fares": [
@@ -347,6 +358,50 @@
       "price": "30 000 крб.",
       "detail": "Одна поездка в Киевском метрополитене.",
       "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "regional": true,
+      "region": "crimea",
+      "country": "Украина",
+      "start": "1995-03-11",
+      "end": "1996-01-24",
+      "price": "5 000 крб.",
+      "place": "Крым · городской автобус",
+      "detail": "Одна поездка по обычному городскому маршруту. Тариф действовал по автономной республике.",
+      "url": "https://docs.dtkt.ua/doc/1015.22256.1"
+    },
+    {
+      "regional": true,
+      "region": "crimea",
+      "country": "Украина",
+      "start": "1996-01-25",
+      "end": "1996-04-08",
+      "price": "10 000 крб.",
+      "place": "Крым · городской автобус",
+      "detail": "Одна поездка по обычному городскому маршруту. Тариф действовал по автономной республике.",
+      "url": "https://docs.dtkt.ua/doc/rb0005001-96"
+    },
+    {
+      "regional": true,
+      "region": "crimea",
+      "country": "Украина",
+      "start": "1996-04-09",
+      "end": "1996-09-01",
+      "price": "20 000 крб.",
+      "place": "Крым · городской автобус",
+      "detail": "Одна поездка по обычному городскому маршруту. Тариф действовал по автономной республике.",
+      "url": "https://docs.dtkt.ua/doc/1015.23496.1"
+    },
+    {
+      "regional": true,
+      "region": "crimea",
+      "country": "Украина",
+      "start": "1996-09-02",
+      "end": "1996-12-31",
+      "price": "20 коп.",
+      "place": "Крым · городской автобус",
+      "detail": "Одна поездка по обычному городскому маршруту. Тариф действовал по автономной республике.",
+      "url": "https://docs.dtkt.ua/doc/1015.23361.1"
     }
   ]
 }
