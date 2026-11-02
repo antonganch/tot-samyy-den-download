@@ -1,0 +1,13 @@
+{
+ "film": {
+  "title": "Thunders [ 8 ]",
+  "description": "Фильм, выбранный страной для подачи на премию «Оскар» в 2023 году.",
+  "url": "https://en.wikipedia.org/wiki/List_of_Moldovan_submissions_for_the_Academy_Award_for_Best_International_Feature_Film"
+ },
+ "music": {
+  "title": "Soarele și Luna",
+  "artist": "Pasha Parfeni",
+  "description": "Песня, с которой страна выступила на Евровидении в 2023 году.",
+  "url": "https://youtube.com/watch?v=jatc6dNgpjs"
+ }
+}
