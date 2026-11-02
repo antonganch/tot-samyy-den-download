@@ -127,6 +127,50 @@
       "time": "20:30",
       "about": "Вечерняя передача для дошкольников.",
       "url": "https://pressa.ru/files/issue/private/telek-pressaru/2018/16-2018/raw_issue/telek-pressaru-2018-16-2018.pdf#page=33"
+    },
+    {
+      "regions": [
+        "ua",
+        "crimea",
+        "sev"
+      ],
+      "audience": "children",
+      "genre": "kids-show",
+      "channel": "Украинское телевидение",
+      "program": "Вечірня казка",
+      "about": "Дед Панас рассказывал детям сказки перед сном.",
+      "start": "1970-01-01",
+      "end": "1972-02-29",
+      "url": "https://corp.suspilne.media/newsdetails/5077/"
+    },
+    {
+      "regions": [
+        "ua",
+        "crimea",
+        "sev"
+      ],
+      "audience": "children",
+      "genre": "kids-show",
+      "channel": "Украинское телевидение",
+      "program": "Катрусин кінозал",
+      "about": "Тётя Катя и кукла Катруся разговаривали с детьми и показывали мультфильмы.",
+      "start": "1972-04-01",
+      "end": "1986-12-31",
+      "url": "https://zn.ua/ART/kukolnyy_dom_telezvezdy_plenitelnogo_schastya_randevu_po_starym_adresam.html"
+    },
+    {
+      "regions": [
+        "ua",
+        "crimea",
+        "sev"
+      ],
+      "audience": "children",
+      "genre": "kids-show",
+      "channel": "УТ-1",
+      "program": "На добраніч, діти!",
+      "about": "В июньской программе УТ-1 вечерняя передача для детей стояла в 20:45.",
+      "scheduleYear": 1991,
+      "url": "https://oldtvprog.fandom.com/ru/wiki/3_июня_1991"
     }
   ],
   "fares": [
