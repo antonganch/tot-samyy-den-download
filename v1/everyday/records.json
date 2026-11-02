@@ -182,20 +182,56 @@
       "channel": "УТ-1",
       "about": "В вечерней сказке Аллы Мигай звучали колыбельные и музыкальные истории.",
       "url": "https://detector.media/production/article/60893/2011-03-07-ya-nenavyzhu-vas-ya-ne-ponymayu-vashu-skazku-y-ne-khochu-ee-slushat/"
+    },
+    {
+      "country": "Украина",
+      "genre": "fairy-tale",
+      "audience": "children",
+      "start": "1992-01-01",
+      "end": "1994-12-31",
+      "channel": "Украинское телевидение",
+      "program": "Вечірня казка",
+      "about": "Сказка на ночь для детей. В январской программе 1992 года у передачи было вечернее время.",
+      "url": "https://library.kr.ua/wp-content/elib/molkom/1992/MK4185-19920111.pdf"
+    },
+    {
+      "country": "СССР",
+      "region": "ru",
+      "city": "Москва",
+      "genre": "kids-show",
+      "audience": "children",
+      "start": "1952-01-01",
+      "end": "1964-12-31",
+      "channel": "Московское телевидение",
+      "program": "Умелые руки",
+      "about": "Детям показывали, как делать поделки своими руками.",
+      "url": "https://vital.lib.tsu.ru/vital/access/services/Download/vital%3A7448/SOURCE01"
+    },
+    {
+      "country": "СССР",
+      "region": "ru",
+      "city": "Москва",
+      "genre": "kids-show",
+      "audience": "children",
+      "scheduleYear": 1951,
+      "channel": "Московское телевидение",
+      "program": "Юный пионер",
+      "about": "Детский телевизионный журнал.",
+      "url": "https://vital.lib.tsu.ru/vital/access/services/Download/vital%3A7448/SOURCE01"
+    },
+    {
+      "country": "Украина",
+      "genre": "fairy-tale",
+      "audience": "children",
+      "start": "2014-01-01",
+      "end": "2015-12-31",
+      "channel": "ПлюсПлюс",
+      "program": "Казка з татом",
+      "about": "Вечерняя сказка для детей.",
+      "url": "https://chasfaktiv.com.ua/plyusplyus/"
     }
   ],
   "fares": [
-    {
-      "country": "Украина",
-      "start": "2000-03-19",
-      "end": "2008-11-03",
-      "place": "Киев · метро",
-      "price": "0,50 грн",
-      "detail": "Киевский тариф этого периода: одной поездке соответствовал зелёный пластиковый жетон.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=1",
-      "city": "Киев",
-      "region": "ua"
-    },
     {
       "country": "СССР",
       "region": "crimea",
@@ -228,136 +264,6 @@
       "price": "7 руб.",
       "detail": "Столько стоил жетон на одну поездку.",
       "url": "https://www.fontanka.ru/2003/01/04/66572299/"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1960-12-01",
-      "end": "1960-12-31",
-      "place": "Киев · метро",
-      "price": "50 коп.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1961-02-01",
-      "end": "1991-03-31",
-      "place": "Киев · метро",
-      "price": "5 коп.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1991-05-01",
-      "end": "1991-12-31",
-      "place": "Киев · метро",
-      "price": "15 коп.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1992-02-01",
-      "end": "1992-04-30",
-      "place": "Киев · метро",
-      "price": "30 коп.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1992-06-01",
-      "end": "1992-11-30",
-      "place": "Киев · метро",
-      "price": "50 коп.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1993-01-01",
-      "end": "1993-05-31",
-      "place": "Киев · метро",
-      "price": "5 крб.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1993-07-01",
-      "end": "1993-08-31",
-      "place": "Киев · метро",
-      "price": "15 крб.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1993-10-01",
-      "end": "1993-11-30",
-      "place": "Киев · метро",
-      "price": "30 крб.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1994-01-01",
-      "end": "1994-07-31",
-      "place": "Киев · метро",
-      "price": "150 крб.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1994-09-01",
-      "end": "1995-01-31",
-      "place": "Киев · метро",
-      "price": "200 крб.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1995-03-01",
-      "end": "1995-08-31",
-      "place": "Киев · метро",
-      "price": "7 000 крб.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1995-10-01",
-      "end": "1996-01-31",
-      "place": "Киев · метро",
-      "price": "10 000 крб.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
-    },
-    {
-      "city": "Киев",
-      "region": "ua",
-      "start": "1996-03-01",
-      "end": "1996-08-31",
-      "place": "Киев · метро",
-      "price": "30 000 крб.",
-      "detail": "Одна поездка в Киевском метрополитене.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
     },
     {
       "regional": true,
@@ -402,6 +308,280 @@
       "place": "Крым · городской автобус",
       "detail": "Одна поездка по обычному городскому маршруту. Тариф действовал по автономной республике.",
       "url": "https://docs.dtkt.ua/doc/1015.23361.1"
+    },
+    {
+      "city": "Керчь",
+      "region": "crimea",
+      "country": "Россия",
+      "start": "2026-04-11",
+      "end": "2026-11-02",
+      "price": "35–40 руб.",
+      "place": "Керчь · городской транспорт",
+      "detail": "35 рублей при безналичной оплате, 40 рублей наличными.",
+      "url": "https://www.kerch.com.ru/image/Pictures/Articles/00125339/125339_003.pdf"
+    },
+    {
+      "city": "Симферополь",
+      "region": "crimea",
+      "country": "Россия",
+      "start": "2014-03-18",
+      "end": "2014-05-31",
+      "price": "1,25 грн",
+      "place": "Симферополь · троллейбус",
+      "detail": "Одна поездка по городскому маршруту.",
+      "url": "https://ru.krymr.com/a/25407291.html"
+    },
+    {
+      "city": "Симферополь",
+      "region": "crimea",
+      "country": "Россия",
+      "start": "2014-06-01",
+      "end": "2014-07-31",
+      "price": "5 руб.",
+      "place": "Симферополь · троллейбус",
+      "detail": "Одна поездка по городскому маршруту.",
+      "url": "https://ru.krymr.com/a/25407291.html"
+    },
+    {
+      "city": "Симферополь",
+      "region": "crimea",
+      "country": "Россия",
+      "start": "2014-08-01",
+      "end": "2014-12-31",
+      "price": "4,25 руб.",
+      "place": "Симферополь · троллейбус",
+      "detail": "Одна поездка по городскому маршруту.",
+      "url": "https://ru.krymr.com/a/25477352.html"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1960-11-12",
+      "end": "1960-12-31",
+      "price": "50 коп.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1961-01-01",
+      "end": "1991-04-01",
+      "price": "5 коп.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1991-04-02",
+      "end": "1991-12-31",
+      "price": "15 коп.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1992-01-01",
+      "end": "1992-04-26",
+      "price": "30 коп.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1992-04-27",
+      "end": "1992-12-25",
+      "price": "50 коп.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1992-12-26",
+      "end": "1993-06-04",
+      "price": "5 крб.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1993-06-05",
+      "end": "1993-09-09",
+      "price": "15 крб.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1993-09-10",
+      "end": "1993-12-10",
+      "price": "30 крб.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1993-12-11",
+      "end": "1994-08-10",
+      "price": "100 крб.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1994-08-11",
+      "end": "1994-10-31",
+      "price": "200 крб.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1994-11-01",
+      "end": "1995-01-31",
+      "price": "1 500 крб.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1995-02-01",
+      "end": "1995-09-06",
+      "price": "7 000 крб.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1995-09-07",
+      "end": "1996-02-06",
+      "price": "10 000 крб.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1996-02-07",
+      "end": "1996-09-01",
+      "price": "20 000 крб.",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1996-09-02",
+      "end": "1996-12-14",
+      "price": "0,20 грн",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1996-12-15",
+      "end": "2000-03-18",
+      "price": "0,30 грн",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "2000-03-19",
+      "end": "2008-11-03",
+      "price": "0,50 грн",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "2008-11-04",
+      "end": "2009-01-30",
+      "price": "2 грн",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "2009-01-31",
+      "end": "2010-09-05",
+      "price": "1,70 грн",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "2010-09-06",
+      "end": "2015-02-06",
+      "price": "2 грн",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "2015-02-07",
+      "end": "2017-07-14",
+      "price": "4 грн",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "2017-07-15",
+      "end": "2018-07-13",
+      "price": "5 грн",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "2018-07-14",
+      "end": "2022-11-18",
+      "price": "8 грн",
+      "place": "Киев · метро",
+      "detail": "Разовая поездка в Киевском метрополитене.",
+      "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
     }
   ]
 }

@@ -1,0 +1,154 @@
+{
+ "1928": {
+  "currency": "SUR",
+  "cities": {
+   "Москва": {
+    "region": "ru",
+    "start": "1928-01-01",
+    "end": "1928-12-31",
+    "retail": {
+     "bread": 0.08,
+     "flour": 0.22,
+     "rice": 0.484,
+     "potato": 0.112,
+     "sugar": 0.62,
+     "beef": 0.873
+    },
+    "note": "Расчёт по ценам Москвы за 1928 год."
+   }
+  }
+ },
+ "1932": {
+  "currency": "SUR",
+  "cities": {
+   "Москва": {
+    "region": "ru",
+    "start": "1932-01-01",
+    "end": "1932-12-31",
+    "retail": {
+     "bread": 0.125,
+     "flour": 0.19,
+     "rice": 0.4,
+     "potato": 0.25,
+     "sugar": 0.95,
+     "beef": 2.12
+    },
+    "note": "Расчёт по ценам Москвы за 1932 год."
+   }
+  }
+ },
+ "1936": {
+  "currency": "SUR",
+  "cities": {
+   "Москва": {
+    "region": "ru",
+    "start": "1936-01-01",
+    "end": "1936-12-31",
+    "retail": {
+     "bread": 0.85,
+     "flour": 2.9,
+     "rice": 6.5,
+     "potato": 0.35,
+     "sugar": 3.8,
+     "beef": 7.6
+    },
+    "note": "Расчёт по ценам Москвы за 1936 год."
+   }
+  }
+ },
+ "1939": {
+  "currency": "SUR",
+  "cities": {
+   "Уфа": {
+    "region": "ru",
+    "start": "1939-01-01",
+    "end": "1939-12-31",
+    "retail": {
+     "potato": 1.25,
+     "onion": 1.25,
+     "butter": 25,
+     "beef": 13,
+     "milk": 3,
+     "eggs": 6
+    },
+    "note": "Расчёт по ценам рынка Уфы за 1939 год."
+   }
+  }
+ },
+ "1941": {
+  "currency": "SUR",
+  "cities": {
+   "Уфа": {
+    "region": "ru",
+    "start": "1941-01-01",
+    "end": "1941-12-31",
+    "retail": {
+     "potato": 5,
+     "onion": 5,
+     "butter": 150,
+     "beef": 55,
+     "milk": 17,
+     "eggs": 35
+    },
+    "note": "Расчёт по ценам рынка Уфы за 1941 год."
+   }
+  }
+ },
+ "1942": {
+  "currency": "SUR",
+  "cities": {
+   "Уфа": {
+    "region": "ru",
+    "start": "1942-01-01",
+    "end": "1942-12-31",
+    "retail": {
+     "potato": 30,
+     "onion": 40,
+     "butter": 875,
+     "beef": 300,
+     "milk": 75,
+     "eggs": 200
+    },
+    "note": "Расчёт по ценам рынка Уфы за 1942 год."
+   }
+  }
+ },
+ "1943": {
+  "currency": "SUR",
+  "cities": {
+   "Уфа": {
+    "region": "ru",
+    "start": "1943-01-01",
+    "end": "1943-12-31",
+    "retail": {
+     "potato": 35,
+     "onion": 50,
+     "butter": 500,
+     "beef": 300,
+     "milk": 60,
+     "eggs": null
+    },
+    "note": "Расчёт по ценам рынка Уфы за 1943 год."
+   }
+  }
+ },
+ "1947": {
+  "currency": "SUR",
+  "cities": {
+   "Уфа": {
+    "region": "ru",
+    "start": "1947-01-01",
+    "end": "1947-12-15",
+    "retail": {
+     "potato": 6,
+     "onion": 12,
+     "butter": 137,
+     "beef": 42,
+     "milk": 14,
+     "eggs": null
+    },
+    "note": "Расчёт по ценам рынка Уфы за 1947 год."
+   }
+  }
+ }
+}
