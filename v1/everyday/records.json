@@ -9,7 +9,103 @@
       "channel": "УТ-1 · Украина",
       "program": "Вечірня казка",
       "caption": "28 апреля 2003 года в 20:50 на УТ-1 в программе стояла «Вечірня казка» — «Вечерняя сказка».",
-      "url": "https://www.istpravda.com.ua/files/e/6/e6f36f1------.pdf"
+      "url": "https://www.istpravda.com.ua/files/e/6/e6f36f1------.pdf",
+      "time": "20:50",
+      "about": "Вечерняя сказка для малышей."
+    },
+    {
+      "country": "Украина",
+      "audience": "children",
+      "program": "Покемон",
+      "channel": "УТ-2 · Украина",
+      "about": "Мультсериал о путешествиях Эша и Пикачу.",
+      "url": "https://www.istpravda.com.ua/files/1/0/1068c34----------.pdf",
+      "scheduleYear": 2002
+    },
+    {
+      "country": "Украина",
+      "audience": "children",
+      "program": "Крок до зірок",
+      "channel": "Первый национальный · Украина",
+      "about": "Юные исполнители выходили на сцену и показывали свои таланты.",
+      "url": "https://esu.com.ua/article-2087",
+      "start": "1998-01-01",
+      "end": "2013-12-31"
+    },
+    {
+      "country": "Литва",
+      "audience": "children",
+      "program": "Gustavo enciklopedija",
+      "channel": "Литовское телевидение",
+      "about": "В детской энциклопедии Густав рассказывает о природе, науке и повседневных вещах.",
+      "url": "https://www.lrt.lt/mediateka/irasas/2000200171/gustavo-enciklopedija",
+      "airDate": "1999-10-16",
+      "time": "20:00"
+    },
+    {
+      "country": "Латвия",
+      "audience": "children",
+      "program": "Kas te? Es te!",
+      "channel": "Латвийское телевидение",
+      "about": "Детская передача о приключениях в картонном домике.",
+      "url": "https://ltv.lsm.lv/raidijumi/kas-te-es-te",
+      "scheduleYear": 2016
+    },
+    {
+      "country": "СССР",
+      "audience": "children",
+      "program": "Спокойной ночи, малыши!",
+      "channel": "Детское телевидение · СССР",
+      "about": "Вечерняя передача для дошкольников. Маленькая история перед сном и мультфильм.",
+      "url": "https://www.karusel-tv.ru/announce/3775-spokoynoy_nochi_malyshi",
+      "start": "1964-09-01",
+      "end": "2026-11-02"
+    },
+    {
+      "country": "Россия",
+      "audience": "children",
+      "program": "Спокойной ночи, малыши!",
+      "channel": "Детское телевидение · Россия",
+      "about": "Вечерняя передача для дошкольников. Маленькая история перед сном и мультфильм.",
+      "url": "https://www.karusel-tv.ru/announce/3775-spokoynoy_nochi_malyshi",
+      "start": "1964-09-01",
+      "end": "2026-11-02"
+    },
+    {
+      "country": "СССР",
+      "city": "Москва",
+      "region": "ru",
+      "audience": "children",
+      "program": "Снеговик-почтовик",
+      "channel": "Московская телепрограмма",
+      "about": "",
+      "url": "https://cinemafirst.ru/novogodnie-teleprogrammy-1951-1961/",
+      "airDate": "1956-12-31",
+      "time": "18:30"
+    },
+    {
+      "country": "СССР",
+      "city": "Москва",
+      "region": "ru",
+      "audience": "children",
+      "program": "Юный пионер",
+      "channel": "Московская телепрограмма",
+      "about": "",
+      "url": "https://cinemafirst.ru/novogodnie-teleprogrammy-1951-1961/",
+      "airDate": "1959-12-31",
+      "time": "17:50"
+    },
+    {
+      "country": "СССР",
+      "city": "Москва",
+      "region": "ru",
+      "audience": "children",
+      "program": "Необыкновенное путешествие в Антарктиду",
+      "channel": "Московская телепрограмма",
+      "about": "",
+      "url": "https://cinemafirst.ru/novogodnie-teleprogrammy-1951-1961/",
+      "airDate": "1960-12-31",
+      "time": "15:00"
     }
   ],
   "fares": [
