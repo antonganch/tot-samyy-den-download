@@ -116,7 +116,9 @@
       "place": "Киев · метро",
       "price": "0,50 грн",
       "detail": "Киевский тариф этого периода: одной поездке соответствовал зелёный пластиковый жетон.",
-      "url": "https://www.metropoliten.kiev.ua/price.php?lang=1"
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=1",
+      "city": "Киев",
+      "region": "ua"
     },
     {
       "country": "СССР",
@@ -139,6 +141,147 @@
       "price": "0,50 грн",
       "detail": "Из городской газеты за 2003 год. Когда катер не смог подойти к Северной стороне, автобус предприятия «Северное» довозил пассажиров до 15-го причала за 50 копеек.",
       "url": "https://sevastopol.press/2003/29/vopros.shtml"
+    },
+    {
+      "city": "Санкт-Петербург",
+      "country": "Россия",
+      "region": "ru",
+      "start": "2003-01-01",
+      "end": "2004-01-09",
+      "place": "Санкт-Петербург · метро",
+      "price": "7 руб.",
+      "detail": "Столько стоил жетон на одну поездку.",
+      "url": "https://www.fontanka.ru/2003/01/04/66572299/"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1960-12-01",
+      "end": "1960-12-31",
+      "place": "Киев · метро",
+      "price": "50 коп.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1961-02-01",
+      "end": "1991-03-31",
+      "place": "Киев · метро",
+      "price": "5 коп.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1991-05-01",
+      "end": "1991-12-31",
+      "place": "Киев · метро",
+      "price": "15 коп.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1992-02-01",
+      "end": "1992-04-30",
+      "place": "Киев · метро",
+      "price": "30 коп.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1992-06-01",
+      "end": "1992-11-30",
+      "place": "Киев · метро",
+      "price": "50 коп.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1993-01-01",
+      "end": "1993-05-31",
+      "place": "Киев · метро",
+      "price": "5 крб.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1993-07-01",
+      "end": "1993-08-31",
+      "place": "Киев · метро",
+      "price": "15 крб.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1993-10-01",
+      "end": "1993-11-30",
+      "place": "Киев · метро",
+      "price": "30 крб.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1994-01-01",
+      "end": "1994-07-31",
+      "place": "Киев · метро",
+      "price": "150 крб.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1994-09-01",
+      "end": "1995-01-31",
+      "place": "Киев · метро",
+      "price": "200 крб.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1995-03-01",
+      "end": "1995-08-31",
+      "place": "Киев · метро",
+      "price": "7 000 крб.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1995-10-01",
+      "end": "1996-01-31",
+      "place": "Киев · метро",
+      "price": "10 000 крб.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
+    },
+    {
+      "city": "Киев",
+      "region": "ua",
+      "start": "1996-03-01",
+      "end": "1996-08-31",
+      "place": "Киев · метро",
+      "price": "30 000 крб.",
+      "detail": "Одна поездка в Киевском метрополитене.",
+      "url": "https://www.metropoliten.kiev.ua/price.php?lang=2"
     }
   ]
 }
