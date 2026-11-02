@@ -3,3 +3,4 @@ Ukraine national monthly consumer prices: https://index.minfin.com.ua/ua/markets
 Russian national consumer prices, end of year: Rosstat, Trade in Russia 2017, table 2.35. https://www.rosstat.gov.ru/storage/mediabank/torg17.pdf
 Ukraine 1992–93 Kyiv monetary prices: The Road to Hyperinflation, table 2, prices per kg of bread and litre of milk. https://documents1.worldbank.org/curated/en/306351468914523835/pdf/multi0page.pdf
 Ulyanovsk market prices: Rosstat, Simbirsk–Ulyanovsk 365 years. https://73.rosstat.gov.ru/storage/mediabank/365_%D1%81%D0%B1%D0%BE%D1%80%D0%BD%D0%B8%D0%BA.pdf
+Russian national consumer prices, end of 2018: Rosstat, Trade in Russia 2019. https://www.rosstat.gov.ru/storage/mediabank/Torgov_2019.pdf
