@@ -44,6 +44,29 @@
    "url": "https://www.evpatori.ru/evpatoriya-v-poslevoennye-gody-1950-1970.html",
    "from": "1962-01-01",
    "to": "1990-12-31"
+  },
+  {
+   "lat": 44.608045,
+   "lon": 33.521819,
+   "city": "Севастополь",
+   "from": "2023-01-01",
+   "to": "2023-12-31",
+   "name": "Кинотеатр «Победа»",
+   "address": "Большая Морская улица, 13",
+   "detail": "Два зала — Синий и Красный. В августе 2023 года «Победа» участвовала в «Ночи кино».",
+   "url": "https://www.culture.ru/institutes/59032/kinoteatr-pobeda",
+   "periodSource": "https://forpostsevastopol.ru/social/kulture/v-sevastopole-projdet-vserossijskaja-akcija-noch-kino-2023/"
+  },
+  {
+   "lat": 44.94139,
+   "lon": 34.10306,
+   "city": "Симферополь",
+   "name": "Кинотеатр «Родина»",
+   "address": "улица Крылова",
+   "from": "1946-01-01",
+   "to": "1989-12-31",
+   "detail": "Бывший кинотеатр имени Субхи в Старом городе.",
+   "url": "https://www.c-inform.info/news/id/21793"
   }
  ]
 }
