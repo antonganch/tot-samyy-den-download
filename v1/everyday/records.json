@@ -11,7 +11,8 @@
       "caption": "28 апреля 2003 года в 20:50 на УТ-1 в программе стояла «Вечірня казка» — «Вечерняя сказка».",
       "url": "https://www.istpravda.com.ua/files/e/6/e6f36f1------.pdf",
       "time": "20:50",
-      "about": "Вечерняя сказка для малышей."
+      "about": "Вечерняя сказка для малышей.",
+      "genre": "kids-show"
     },
     {
       "country": "Украина",
@@ -20,7 +21,8 @@
       "channel": "УТ-2 · Украина",
       "about": "Мультсериал о путешествиях Эша и Пикачу.",
       "url": "https://www.istpravda.com.ua/files/1/0/1068c34----------.pdf",
-      "scheduleYear": 2002
+      "scheduleYear": 2002,
+      "genre": "animation"
     },
     {
       "country": "Украина",
@@ -30,7 +32,8 @@
       "about": "Юные исполнители выходили на сцену и показывали свои таланты.",
       "url": "https://esu.com.ua/article-2087",
       "start": "1998-01-01",
-      "end": "2013-12-31"
+      "end": "2013-12-31",
+      "genre": "kids-show"
     },
     {
       "country": "Литва",
@@ -40,7 +43,8 @@
       "about": "В детской энциклопедии Густав рассказывает о природе, науке и повседневных вещах.",
       "url": "https://www.lrt.lt/mediateka/irasas/2000200171/gustavo-enciklopedija",
       "airDate": "1999-10-16",
-      "time": "20:00"
+      "time": "20:00",
+      "genre": "kids-show"
     },
     {
       "country": "Латвия",
@@ -49,7 +53,8 @@
       "channel": "Латвийское телевидение",
       "about": "Детская передача о приключениях в картонном домике.",
       "url": "https://ltv.lsm.lv/raidijumi/kas-te-es-te",
-      "scheduleYear": 2016
+      "scheduleYear": 2016,
+      "genre": "kids-show"
     },
     {
       "country": "СССР",
@@ -59,7 +64,8 @@
       "about": "Вечерняя передача для дошкольников. Маленькая история перед сном и мультфильм.",
       "url": "https://www.karusel-tv.ru/announce/3775-spokoynoy_nochi_malyshi",
       "start": "1964-09-01",
-      "end": "2026-11-02"
+      "end": "2026-11-02",
+      "genre": "kids-show"
     },
     {
       "country": "Россия",
@@ -69,7 +75,8 @@
       "about": "Вечерняя передача для дошкольников. Маленькая история перед сном и мультфильм.",
       "url": "https://www.karusel-tv.ru/announce/3775-spokoynoy_nochi_malyshi",
       "start": "1964-09-01",
-      "end": "2026-11-02"
+      "end": "2026-11-02",
+      "genre": "kids-show"
     },
     {
       "country": "СССР",
@@ -81,7 +88,8 @@
       "about": "",
       "url": "https://cinemafirst.ru/novogodnie-teleprogrammy-1951-1961/",
       "airDate": "1956-12-31",
-      "time": "18:30"
+      "time": "18:30",
+      "genre": "animation"
     },
     {
       "country": "СССР",
@@ -93,7 +101,8 @@
       "about": "",
       "url": "https://cinemafirst.ru/novogodnie-teleprogrammy-1951-1961/",
       "airDate": "1959-12-31",
-      "time": "17:50"
+      "time": "17:50",
+      "genre": "kids-show"
     },
     {
       "country": "СССР",
@@ -105,7 +114,19 @@
       "about": "",
       "url": "https://cinemafirst.ru/novogodnie-teleprogrammy-1951-1961/",
       "airDate": "1960-12-31",
-      "time": "15:00"
+      "time": "15:00",
+      "genre": "kids-show"
+    },
+    {
+      "country": "Россия",
+      "audience": "children",
+      "genre": "kids-show",
+      "program": "Спокойной ночи, малыши!",
+      "channel": "Карусель",
+      "airDate": "2018-04-25",
+      "time": "20:30",
+      "about": "Вечерняя передача для дошкольников.",
+      "url": "https://pressa.ru/files/issue/private/telek-pressaru/2018/16-2018/raw_issue/telek-pressaru-2018-16-2018.pdf#page=33"
     }
   ],
   "fares": [
