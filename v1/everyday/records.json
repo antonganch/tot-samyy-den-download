@@ -582,6 +582,476 @@
       "place": "Киев · метро",
       "detail": "Разовая поездка в Киевском метрополитене.",
       "url": "https://tykyiv.com/ce-kyiv/iak-zrostala-ta-zminiuvalas-tsina-na-kiyivske-metro-1991-roku-do-teper/"
+    },
+    {
+      "city": "Баку",
+      "region": "az",
+      "start": "1967-11-06",
+      "end": "1992-01-03",
+      "place": "Баку · метро",
+      "price": "5 коп.",
+      "detail": "Одна поездка в Бакинском метрополитене.",
+      "url": "https://metro.gov.az/az/page/muddealar/gedis-haqqinin-odenilmesi"
+    },
+    {
+      "city": "Баку",
+      "region": "az",
+      "start": "1992-01-04",
+      "end": "1992-02-29",
+      "place": "Баку · метро",
+      "price": "15 коп.",
+      "detail": "Одна поездка в Бакинском метрополитене.",
+      "url": "https://metro.gov.az/az/page/muddealar/gedis-haqqinin-odenilmesi"
+    },
+    {
+      "city": "Баку",
+      "region": "az",
+      "start": "1992-03-01",
+      "end": "1992-05-31",
+      "place": "Баку · метро",
+      "price": "30 коп.",
+      "detail": "Одна поездка в Бакинском метрополитене.",
+      "url": "https://metro.gov.az/az/page/muddealar/gedis-haqqinin-odenilmesi"
+    },
+    {
+      "city": "Баку",
+      "region": "az",
+      "start": "1992-06-01",
+      "end": "1992-12-16",
+      "place": "Баку · метро",
+      "price": "1 руб.",
+      "detail": "Одна поездка в Бакинском метрополитене.",
+      "url": "https://metro.gov.az/az/page/muddealar/gedis-haqqinin-odenilmesi"
+    },
+    {
+      "city": "Баку",
+      "region": "az",
+      "start": "2018-08-01",
+      "end": "2023-02-02",
+      "place": "Баку · метро",
+      "price": "0,30 маната",
+      "detail": "Одна поездка в Бакинском метрополитене.",
+      "url": "https://metro.gov.az/az/page/muddealar/gedis-haqqinin-odenilmesi"
+    },
+    {
+      "city": "Баку",
+      "region": "az",
+      "start": "2023-02-03",
+      "end": "2024-06-30",
+      "place": "Баку · метро",
+      "price": "0,40 маната",
+      "detail": "Одна поездка в Бакинском метрополитене.",
+      "url": "https://metro.gov.az/az/page/muddealar/gedis-haqqinin-odenilmesi"
+    },
+    {
+      "city": "Баку",
+      "region": "az",
+      "start": "2024-07-01",
+      "end": "2025-09-30",
+      "place": "Баку · метро",
+      "price": "0,50 маната",
+      "detail": "Одна поездка в Бакинском метрополитене.",
+      "url": "https://metro.gov.az/az/page/muddealar/gedis-haqqinin-odenilmesi"
+    },
+    {
+      "city": "Баку",
+      "region": "az",
+      "start": "2025-10-01",
+      "end": "2026-11-03",
+      "place": "Баку · метро",
+      "price": "0,60 маната",
+      "detail": "Одна поездка в Бакинском метрополитене.",
+      "url": "https://metro.gov.az/az/page/muddealar/gedis-haqqinin-odenilmesi"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2025-01-01",
+      "end": "2026-09-30",
+      "place": "Ташкент · метро",
+      "price": "1 700–3 000 сумов",
+      "detail": "Электронная оплата — 1 700 сумов. Разовый QR-билет за наличные в кассе — 3 000.",
+      "url": "https://tashtrans.uz/oplata-proezda-v-metropolitene-tashkenta/"
+    },
+    {
+      "city": "Тбилиси",
+      "region": "ge",
+      "start": "2022-02-01",
+      "end": "2026-11-03",
+      "place": "Тбилиси · городской транспорт",
+      "price": "1 лари",
+      "detail": "Билет на 90 минут с пересадками.",
+      "url": "https://ttc.com.ge/index.php/en/tariff/10"
+    },
+    {
+      "city": "Рига",
+      "region": "lv",
+      "start": "2022-12-31",
+      "end": "2026-11-03",
+      "place": "Рига · городской транспорт",
+      "price": "1,50 евро",
+      "detail": "Билет на 90 минут в муниципальном транспорте.",
+      "url": "https://www.rigassatiksme.lv/en/current%20information/riga-public-transport-will-reduce-the-price-of-monthly-tickets-and-change-the-range-of-tickets/"
+    },
+    {
+      "city": "Ереван",
+      "region": "am",
+      "start": "2004-01-01",
+      "end": "2011-06-30",
+      "place": "Ереван · метро",
+      "price": "50 драмов",
+      "detail": "Одна поездка в Ереванском метро.",
+      "url": "https://mirmetro.net/articles/oplata-proezda-v-erevanskom-metro"
+    },
+    {
+      "city": "Ереван",
+      "region": "am",
+      "start": "2011-07-01",
+      "end": "2024-12-31",
+      "place": "Ереван · метро",
+      "price": "100 драмов",
+      "detail": "Одна поездка в Ереванском метро.",
+      "url": "https://mirmetro.net/articles/oplata-proezda-v-erevanskom-metro"
+    },
+    {
+      "city": "Ереван",
+      "region": "am",
+      "start": "2025-02-01",
+      "end": "2025-12-31",
+      "place": "Ереван · городской транспорт",
+      "price": "150 драмов",
+      "detail": "Разовый городской билет.",
+      "url": "https://www.yerevan.am/en/news/mek-owgheworowt-yan-hamar-nor-owghetoms-150-dram-sakagnov-erewani-avaganin-havanowt-yown-tvets-orosh/"
+    },
+    {
+      "city": "Ереван",
+      "region": "am",
+      "start": "2026-01-01",
+      "end": "2026-11-03",
+      "place": "Ереван · городской транспорт",
+      "price": "150 драмов",
+      "detail": "Разовый городской билет.",
+      "url": "https://www.yerevan.am/uploads/media/default/0002/57/af6ce50a409c044dd81f7c9f135db9143d38776b.pdf"
+    },
+    {
+      "city": "Москва",
+      "region": "ru",
+      "start": "2026-01-02",
+      "end": "2026-11-03",
+      "place": "Москва · метро",
+      "price": "75 руб.",
+      "detail": "Одна поездка по тарифу «Кошелёк» карты «Тройка».",
+      "url": "https://transport.mos.ru/mostrans/oplata_proezda_transport"
+    },
+    {
+      "city": "Минск",
+      "region": "by",
+      "start": "1985-01-01",
+      "end": "1990-12-31",
+      "place": "Минск · метро",
+      "price": "5 коп.",
+      "detail": "Монету опускали в автомат на входе в метро.",
+      "url": "https://mirmetro.net/news/vsya-zhizn-tut"
+    },
+    {
+      "city": "Минск",
+      "region": "by",
+      "start": "2026-08-01",
+      "end": "2026-11-03",
+      "place": "Минск · метро",
+      "price": "1,15 бел. руб.",
+      "detail": "Одна поездка на городском метро.",
+      "url": "https://hellominsk.by/transport"
+    },
+    {
+      "city": "Кишинёв",
+      "region": "md",
+      "start": "2001-09-01",
+      "end": "2006-07-31",
+      "place": "Кишинёв · троллейбус",
+      "price": "0,75 лея",
+      "detail": "Разовый билет на городской троллейбус.",
+      "url": "https://ru.wikipedia.org/wiki/Кишинёвский_троллейбус"
+    },
+    {
+      "city": "Кишинёв",
+      "region": "md",
+      "start": "2006-08-01",
+      "end": "2009-09-30",
+      "place": "Кишинёв · троллейбус",
+      "price": "1 лей",
+      "detail": "Разовый билет на городской троллейбус.",
+      "url": "https://ru.wikipedia.org/wiki/Кишинёвский_троллейбус"
+    },
+    {
+      "city": "Кишинёв",
+      "region": "md",
+      "start": "2009-10-01",
+      "end": "2022-06-30",
+      "place": "Кишинёв · троллейбус",
+      "price": "2 лея",
+      "detail": "Разовый билет на городской троллейбус.",
+      "url": "https://ru.wikipedia.org/wiki/Кишинёвский_троллейбус"
+    },
+    {
+      "city": "Кишинёв",
+      "region": "md",
+      "start": "2022-07-01",
+      "end": "2026-04-30",
+      "place": "Кишинёв · городской транспорт",
+      "price": "6 леев",
+      "detail": "Разовый билет на автобус или троллейбус.",
+      "url": "https://proiecte.chisinau.md/ru/pv-263-tarife-preferen-iale-i-gratuita-i-in-transport"
+    },
+    {
+      "city": "Кишинёв",
+      "region": "md",
+      "start": "2026-05-01",
+      "end": "2026-11-03",
+      "place": "Кишинёв · городской транспорт",
+      "price": "7 леев",
+      "detail": "Одна поездка в городском автобусе или троллейбусе.",
+      "url": "https://radiomoldova.md/p/75508"
+    },
+    {
+      "city": "Вильнюс",
+      "region": "lt",
+      "start": "2025-06-01",
+      "end": "2025-06-30",
+      "place": "Вильнюс · городской транспорт",
+      "price": "0,65 €",
+      "detail": "Билет на 30 минут.",
+      "url": "https://judu.lt/wp-content/uploads/2025/06/Judu_Kainos_dabar-galiojancios-ir-nuo-07_01.pdf"
+    },
+    {
+      "city": "Вильнюс",
+      "region": "lt",
+      "start": "2025-07-01",
+      "end": "2026-11-03",
+      "place": "Вильнюс · городской транспорт",
+      "price": "1 €",
+      "detail": "Билет на 30 минут. В течение этого времени разрешены пересадки.",
+      "url": "https://vilnius.lt/naujienos/nuo-liepos-1-d-kainodaros-pokyciai-sostines-viesajame-transporte-ka-svarbu-zinoti"
+    },
+    {
+      "city": "Таллин",
+      "region": "ee",
+      "start": "2013-01-01",
+      "end": "2026-11-03",
+      "place": "Таллин · городской транспорт",
+      "price": "Бесплатно для жителей",
+      "detail": "Для зарегистрированных жителей города с персонализированной транспортной картой. Для гостей действовал отдельный тариф.",
+      "url": "https://www.tallinn.ee/en/pilet/how-buy-ticket"
+    },
+    {
+      "city": "Душанбе",
+      "region": "tj",
+      "start": "2021-11-10",
+      "end": "2026-11-03",
+      "place": "Душанбе · городской автобус",
+      "price": "1,80–2,50 сомони",
+      "detail": "По транспортной карте — 1,80 сомони, по разовой карточке — 2,50.",
+      "url": "https://dushanbe.tj/public/articles/797-ittiloiya"
+    },
+    {
+      "city": "Бишкек",
+      "region": "kg",
+      "start": "2024-01-30",
+      "end": "2026-06-30",
+      "place": "Бишкек · городской автобус",
+      "price": "17–20 сомов",
+      "detail": "Безналичная поездка в городском автобусе — 17 сомов, наличными при наличии валидатора — 20.",
+      "url": "https://www.bishkek.gov.kg/ru/post/28558"
+    },
+    {
+      "city": "Бишкек",
+      "region": "kg",
+      "start": "2026-07-01",
+      "end": "2026-11-03",
+      "place": "Бишкек · городской автобус",
+      "price": "17 сомов",
+      "detail": "Безналичная оплата обычной поездки в большом автобусе или электробусе.",
+      "url": "https://online.toktom.kg/NewsTopic/7611"
+    },
+    {
+      "city": "Астана",
+      "region": "kz",
+      "start": "2019-01-01",
+      "end": "2024-07-31",
+      "place": "Астана · городской автобус",
+      "price": "90 тенге",
+      "detail": "Стоимость обычной городской поездки с электронной оплатой.",
+      "url": "https://www.adilet.zan.kz/rus/docs/V18ABW01181"
+    },
+    {
+      "city": "Астана",
+      "region": "kz",
+      "start": "2024-08-01",
+      "end": "2026-11-03",
+      "place": "Астана · городской автобус",
+      "price": "110 тенге",
+      "detail": "Цена обычной городской поездки с электронной оплатой.",
+      "url": "https://www.gov.kz/org/astana/press/news/details/813372"
+    },
+    {
+      "city": "Алматы",
+      "region": "kz",
+      "start": "2024-08-03",
+      "end": "2024-12-31",
+      "place": "Алматы · городской транспорт",
+      "price": "120 тенге",
+      "detail": "Разовая безналичная оплата проезда.",
+      "url": "https://www.gov.kz/org/almaty/press/news/details/819965?lang=ru"
+    },
+    {
+      "city": "Ашхабад",
+      "region": "tm",
+      "start": "2017-11-01",
+      "end": "2026-08-23",
+      "place": "Ашхабад · городской автобус",
+      "price": "0,50 маната",
+      "detail": "Одна поездка стоила пятьдесят тенге — половину туркменского маната.",
+      "url": "https://turkmenportal.com/ru/news/12377"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "1977-11-07",
+      "end": "1991-04-01",
+      "place": "Ташкент · метро",
+      "price": "5 коп.",
+      "detail": "Вход по монете достоинством пять копеек.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2006-03-01",
+      "end": "2006-11-30",
+      "place": "Ташкент · метро",
+      "price": "160 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2006-12-01",
+      "end": "2008-10-14",
+      "place": "Ташкент · метро",
+      "price": "200 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2008-10-15",
+      "end": "2008-11-30",
+      "place": "Ташкент · метро",
+      "price": "350 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2008-12-01",
+      "end": "2010-03-31",
+      "place": "Ташкент · метро",
+      "price": "400 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2010-04-01",
+      "end": "2011-03-31",
+      "place": "Ташкент · метро",
+      "price": "500 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2011-04-01",
+      "end": "2012-03-31",
+      "place": "Ташкент · метро",
+      "price": "600 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2012-04-01",
+      "end": "2013-04-01",
+      "place": "Ташкент · метро",
+      "price": "700 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2013-04-02",
+      "end": "2014-06-14",
+      "place": "Ташкент · метро",
+      "price": "800 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2014-06-15",
+      "end": "2016-03-31",
+      "place": "Ташкент · метро",
+      "price": "1000 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2016-04-01",
+      "end": "2019-08-14",
+      "place": "Ташкент · метро",
+      "price": "1200 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2019-08-15",
+      "end": "2023-10-31",
+      "place": "Ташкент · метро",
+      "price": "1400 сум",
+      "detail": "Одна поездка в ташкентской подземке.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2023-11-01",
+      "end": "2024-12-31",
+      "place": "Ташкент · метро",
+      "price": "1 700–2 000 сум",
+      "detail": "1 700 сум при электронной оплате и 2 000 сум наличными.",
+      "url": "https://metrotashkent.narod.ru/proezd/proezd.html"
+    },
+    {
+      "city": "Ташкент",
+      "region": "uz",
+      "start": "2026-10-01",
+      "end": "2026-11-03",
+      "place": "Ташкент · городской транспорт",
+      "price": "2 500–3 000 сум",
+      "detail": "2 500 сум при электронной оплате, 3 000 сум за разовый билет наличными.",
+      "url": "https://gov.uz/ru/mintrans/news/view/225119"
     }
   ]
 }

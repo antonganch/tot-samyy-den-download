@@ -1,0 +1,185 @@
+{
+  "tv": [
+    {
+      "region": "ee",
+      "channel": "Эстонское телевидение · ETV",
+      "program": "Tipp ja Täpp",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Кукольные друзья Типп и Тяпп ездили на заводной машинке и пели о конфетах.",
+      "url": "https://eeter.err.ee/279160/lobus-video-vaata-kuidas-tipp-ja-tapp-ehk-malle-peedo-ja-ingrid-kivirahk-nukutood-meenutavad",
+      "start": "1965-01-28",
+      "end": "1979-12-31"
+    },
+    {
+      "region": "ee",
+      "channel": "Эстонское телевидение · ETV",
+      "program": "Kõige suurem sõber",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Леопольд, почтовая птичка и дядя Райво были героями детской передачи «Самый большой друг».",
+      "url": "https://kultuur.err.ee/883772/lastesarjast-tuntud-apu-sai-oma-joululoo",
+      "start": "1982-01-01",
+      "end": "1989-12-31"
+    },
+    {
+      "region": "ee",
+      "channel": "ETV2",
+      "program": "Kõige suurem sõber",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "В 2017 году канал вернул на экран десять сохранившихся выпусков с Леопольдом.",
+      "url": "https://eeter.err.ee/641426/koige-suurem-sober-leopold-jouab-tagasi-err-i-ekraanile",
+      "scheduleYear": 2017
+    },
+    {
+      "region": "lv",
+      "channel": "Латвийское телевидение",
+      "program": "Čučumuiža",
+      "genre": "fairy-tale",
+      "audience": "children",
+      "about": "Гномы и их крёстная разыгрывали истории, а в конце звучала песенка.",
+      "url": "https://www.la.lv/cilvekstasts-cucumuizas-ruku-stasts-aktierim-kurs-strada-berniem-visu-muzu-jaspej-saglabat-sevi-speja-brinities/galerija/1",
+      "start": "1993-01-01",
+      "end": "1997-12-31"
+    },
+    {
+      "region": "lv",
+      "channel": "LTV1",
+      "program": "Tutas lietas",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Тута знакомит малышей с одной новой темой за выпуск. В 2019 году LTV впервые показало первый сезон.",
+      "url": "https://ltv.lsm.lv/storage/documents/files/03402abb912b45b535e006688610c52f.pdf",
+      "scheduleYear": 2019
+    },
+    {
+      "region": "lt",
+      "channel": "LRT Televizija",
+      "program": "Gustavo enciklopedija",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Густав рассказывает детям об устройстве мира, а в конце выпуска отправляется на кухню.",
+      "url": "https://www.lrt.lt/mediateka/irasas/1013702030/gustavo-enciklopedija",
+      "start": "2016-01-01",
+      "end": "2025-12-31"
+    },
+    {
+      "region": "by",
+      "channel": "Белорусское телевидение",
+      "program": "Калыханка",
+      "genre": "fairy-tale",
+      "audience": "children",
+      "about": "Кукольные герои приходят пожелать детям доброй ночи. Название передачи означает «колыбельная».",
+      "url": "https://sputnik.by/20240726/eto-zadacha-so-zvezdochkoy-mariya-vasilevich-o-rabote-veduschey-kalykhanki-1088312971.html",
+      "start": "1981-02-01",
+      "end": "2024-07-26"
+    },
+    {
+      "region": "by",
+      "channel": "Беларусь 3",
+      "program": "Калыханка",
+      "genre": "fairy-tale",
+      "audience": "children",
+      "about": "В архиве канала сохранился выпуск «Модныя змяненні».",
+      "url": "https://www.youtube.com/watch?v=4Hc2Dl2graY",
+      "airDate": "2026-03-31",
+      "scheduleYear": 2026
+    },
+    {
+      "region": "ge",
+      "channel": "Грузинское телевидение",
+      "program": "ძილისპირული",
+      "genre": "fairy-tale",
+      "audience": "children",
+      "about": "«Дзилиспирули» — детская передача перед сном. Она выходила на грузинском телевидении около тридцати лет.",
+      "url": "https://dspace.nplg.gov.ge/bitstream/1234/171655/2/Avtoreferati.pdf",
+      "start": "1964-01-01",
+      "end": "1991-12-31"
+    },
+    {
+      "region": "ge",
+      "channel": "Грузинское телевидение",
+      "program": "ბასტი-ბუბუ",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Дети узнавали кукольных героев Басти и Бубу. В конце 1990-х у них появились новые друзья.",
+      "url": "https://dspace.nplg.gov.ge/bitstream/1234/171655/2/Avtoreferati.pdf",
+      "start": "1994-01-01",
+      "end": "1998-12-31"
+    },
+    {
+      "region": "am",
+      "channel": "Ереванская телестудия",
+      "program": "Сказки бабушки Гюльназ",
+      "genre": "fairy-tale",
+      "audience": "children",
+      "about": "Первая детская передача в истории армянского телевидения. Режиссёр — Ольга Мелик-Вртанесян.",
+      "url": "https://www.1tv.am/en/history/",
+      "airDate": "1957-02-17",
+      "start": "1957-02-17",
+      "end": "1957-12-31"
+    },
+    {
+      "region": "am",
+      "channel": "Общественное телевидение Армении",
+      "program": "Четыре мечты",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Сериал для детей и родителей о том, как школьники идут к своей мечте.",
+      "url": "https://1tv.am/en/program/four-dreams",
+      "scheduleYear": 2022
+    },
+    {
+      "region": "am",
+      "channel": "Общественное телевидение Армении",
+      "program": "Четыре мечты",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Сериал для детей и родителей о том, как школьники идут к своей мечте.",
+      "url": "https://1tv.am/en/program/four-dreams",
+      "scheduleYear": 2023
+    },
+    {
+      "region": "kz",
+      "channel": "Balapan",
+      "program": "Ойлан, тап!",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Детская игровая передача казахстанского канала «Балапан».",
+      "url": "https://balapan.tv/news/831",
+      "scheduleYear": 2016
+    },
+    {
+      "region": "kz",
+      "channel": "Balapan",
+      "program": "Самға, Балапан",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Детский праздничный концерт к семилетию канала.",
+      "url": "https://balapan.tv/news/1372/",
+      "airDate": "2017-09-27",
+      "time": "19:35"
+    },
+    {
+      "region": "kz",
+      "channel": "Balapan",
+      "program": "Қане, бізге қосыл!",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Дети-ведущие показывают упражнения под музыку.",
+      "url": "https://balapan.tv/projects/qane-bizge-kosyl/",
+      "scheduleYear": 2023
+    },
+    {
+      "region": "kz",
+      "channel": "Balapan",
+      "program": "Қайырлы түн, балапан!",
+      "genre": "kids-show",
+      "audience": "children",
+      "about": "Вечерняя детская передача из программы осеннего сезона канала.",
+      "url": "https://balapan.tv/news/10115",
+      "scheduleYear": 2024
+    }
+  ]
+}

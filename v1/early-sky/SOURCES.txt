@@ -1,0 +1,5 @@
+NOAA-CIRES-DOE Twentieth Century Reanalysis version 3, ensemble mean 2-m air temperature. NOAA Physical Sciences Laboratory.
+https://psl.noaa.gov/data/gridded/data.20thC_ReanV3.html
+https://psl.noaa.gov/thredds/ncss/grid/Datasets/20thC_ReanV3/Monthlies/2mMO/air.2m.mon.mean.nc?var=air&north=85&west=15&east=194&south=33&horizStride=1&time_start=1900-01-01T00:00:00Z&time_end=1939-12-01T00:00:00Z&accept=netcdf
+Grid subset is at the original 1-degree spatial resolution. Binary layout per year is 12 months × 53 latitude rows (33–85 N) × 180 longitude columns (15–194 E) in ascending order. Each signed byte is a monthly mean temperature in half-degrees Celsius, 127 is missing. These are reconstructions rather than station readings.
+For a daily reconstruction, the app requests tmin.2m.YEAR.nc and tmax.2m.YEAR.nc from /thredds/ncss/grid/Datasets/20thC_ReanV3/Dailies/2mSI/ for the selected date and coordinates. Daily fields use UTC dates.
