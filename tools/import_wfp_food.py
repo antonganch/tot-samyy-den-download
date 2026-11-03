@@ -30,7 +30,7 @@ for cc, currency in currencies.items():
     csv_path = source / (cc+'.csv')
     if not csv_path.exists():
         continue
-    cities = {r[5].lower():r[0] for r in reversed(places) if r[4]==cc and r[5]}
+    cities = places[cc] if isinstance(places,dict) else {r[5].lower():r[0] for r in reversed(places) if r[4]==cc and r[5]}
     monthly = defaultdict(lambda: defaultdict(list))
     with csv_path.open() as f:
         for row in csv.DictReader(f):
@@ -62,11 +62,15 @@ for cc, currency in currencies.items():
         if rec['currency']!=currency:
             continue
         if city:
-            rec.setdefault('cities',{})[city]={'region':cc,'start':f'{year}-01-01','retail':prices,
+            existing=rec.setdefault('cities',{}).get(city,{})
+            if existing and existing.get('source')!='WFP' and not existing.get('note','').startswith('Ориентир для чека — розничные цены за '):
+                continue
+            rec['cities'][city]={'source':'WFP','region':cc,'start':f'{year}-01-01','retail':prices,
                 'note':f'Ориентир для чека — розничные цены за {year} год. Город наблюдения — {city}.'}
         else:
             # Prefer existing published monthly or annual retail figures.
-            if not rec.get('retail'):
+            if not rec.get('retail') or rec.get('retailSource')=='WFP' or rec.get('note','').startswith('Оценка по розничным наблюдениям в стране за '):
+                rec['retailSource']='WFP'
                 rec['retail']=prices
                 rec['note']=f'Оценка по розничным наблюдениям в стране за {year} год.'
     path.write_text(json.dumps(data,ensure_ascii=False,separators=(',',':'))+'\n')
