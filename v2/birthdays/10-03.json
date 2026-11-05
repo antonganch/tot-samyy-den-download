@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "10-03",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q46896",
+      "name": "Златан Ибрагимович",
+      "birthDate": "1981-10-03",
+      "birthYear": 1981,
+      "description": "шведский футболист",
+      "category": "sport",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%B1%D1%80%D0%B0%D0%B3%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87,_%D0%97%D0%BB%D0%B0%D1%82%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q46896#P569",
+      "verified": {
+        "revision": 2558287798,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-10-03",
+        "originalCalendar": "gregorian",
+        "claim": "q46896$4fe53bd2-416e-056c-798d-14cd9731e974",
+        "references": []
+      }
+    },
+    {
+      "id": "Q483379",
+      "name": "Гвен Стефани",
+      "birthDate": "1969-10-03",
+      "birthYear": 1969,
+      "description": "американский музыкант, вокалистка группы No Doubt",
+      "category": "music",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%B8,_%D0%93%D0%B2%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q483379#P569",
+      "verified": {
+        "revision": 2563725520,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-10-03",
+        "originalCalendar": "gregorian",
+        "claim": "q483379$DDB518D3-5C14-40F5-9634-05F2C1BF9C88",
+        "references": []
+      }
+    },
+    {
+      "id": "Q439314",
+      "name": "Алисия Викандер",
+      "birthDate": "1988-10-03",
+      "birthYear": 1988,
+      "description": "шведская актриса (род. 1988)",
+      "category": "screen",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D0%B0%D0%BD%D0%B4%D0%B5%D1%80,_%D0%90%D0%BB%D0%B8%D1%81%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q439314#P569",
+      "verified": {
+        "revision": 2564007698,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1988-10-03",
+        "originalCalendar": "gregorian",
+        "claim": "Q439314$CE15C647-9BC5-4B31-8D4B-4F3A7F4AFD89",
+        "references": []
+      }
+    },
+    {
+      "id": "Q4128",
+      "name": "Луи Арагон",
+      "birthDate": "1897-10-03",
+      "birthYear": 1897,
+      "description": "французский поэт и прозаик",
+      "category": "literature",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%B0%D0%B3%D0%BE%D0%BD,_%D0%9B%D1%83%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q4128#P569",
+      "verified": {
+        "revision": 2563461989,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1897-10-03",
+        "originalCalendar": "gregorian",
+        "claim": "q4128$0FE129ED-AEBD-4915-ADB0-42912F2BCD32",
+        "references": []
+      }
+    },
+    {
+      "id": "Q167821",
+      "name": "Гор Видал",
+      "birthDate": "1925-10-03",
+      "birthYear": 1925,
+      "description": "американский прозаик, публицист, драматург, эссеист",
+      "category": "literature",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B4%D0%B0%D0%BB,_%D0%93%D0%BE%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q167821#P569",
+      "verified": {
+        "revision": 2557898360,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-10-03",
+        "originalCalendar": "gregorian",
+        "claim": "q167821$377A69C8-B99A-438D-9C2A-3475C20E121D",
+        "references": []
+      }
+    }
+  ]
+}

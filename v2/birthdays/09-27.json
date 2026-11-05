@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "09-27",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q30449",
+      "name": "Аврил Лавин",
+      "birthDate": "1984-09-27",
+      "birthYear": 1984,
+      "description": "канадская певица, автор-исполнитель, дизайнер, парфюмер и актриса",
+      "category": "screen",
+      "sitelinks": 138,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B2%D0%B8%D0%BD,_%D0%90%D0%B2%D1%80%D0%B8%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q30449#P569",
+      "verified": {
+        "revision": 2559572207,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1984-09-27",
+        "originalCalendar": "gregorian",
+        "claim": "q30449$B52CCBAD-1F53-49CE-96C7-53F34EEF9164",
+        "references": []
+      }
+    },
+    {
+      "id": "Q34460",
+      "name": "Гвинет Пэлтроу",
+      "birthDate": "1972-09-27",
+      "birthYear": 1972,
+      "description": "голливудская актриса",
+      "category": "screen",
+      "sitelinks": 132,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%8D%D0%BB%D1%82%D1%80%D0%BE%D1%83,_%D0%93%D0%B2%D0%B8%D0%BD%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q34460#P569",
+      "verified": {
+        "revision": 2560614061,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-09-27",
+        "originalCalendar": "gregorian",
+        "claim": "q34460$C70C7706-0E84-433C-9B47-48F67D6FB791",
+        "references": []
+      }
+    },
+    {
+      "id": "Q20110",
+      "name": "Франческо Тотти",
+      "birthDate": "1976-09-27",
+      "birthYear": 1976,
+      "description": "итальянский футболист",
+      "category": "sport",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%82%D1%82%D0%B8,_%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q20110#P569",
+      "verified": {
+        "revision": 2560883321,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1976-09-27",
+        "originalCalendar": "gregorian",
+        "claim": "q20110$10AA8C04-0C75-4278-B9A7-06DD9EE7FBC4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7728",
+      "name": "Грация Деледда",
+      "birthDate": "1871-09-27",
+      "birthYear": 1871,
+      "description": "итальянская писательница",
+      "category": "literature",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D0%B5%D0%B4%D0%B4%D0%B0,_%D0%93%D1%80%D0%B0%D1%86%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q7728#P569",
+      "verified": {
+        "revision": 2563197202,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1871-09-27",
+        "originalCalendar": "gregorian",
+        "claim": "q7728$A4E0C0F6-C502-4806-A826-8648B2E3DE19",
+        "references": []
+      }
+    },
+    {
+      "id": "Q737533",
+      "name": "Людовик XIII",
+      "birthDate": "1601-09-27",
+      "birthYear": 1601,
+      "description": "король Франции и Наварры",
+      "category": "public",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA_XIII",
+      "source": "https://www.wikidata.org/wiki/Q737533#P569",
+      "verified": {
+        "revision": 2564796498,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1601-09-27",
+        "originalCalendar": "gregorian",
+        "claim": "q737533$C52EDDDB-4EE0-425B-BA66-1BD636D43EE4",
+        "references": []
+      }
+    }
+  ]
+}

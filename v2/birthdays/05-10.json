@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "05-10",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q100937",
+      "name": "Фред Астер",
+      "birthDate": "1899-05-10",
+      "birthYear": 1899,
+      "description": "американский танцор, актёр и певец",
+      "category": "screen",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B4_%D0%90%D1%81%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q100937#P569",
+      "verified": {
+        "revision": 2564236577,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1899-05-10",
+        "originalCalendar": "gregorian",
+        "claim": "q100937$884A186B-DF5B-4270-A011-6F062B24E654",
+        "references": []
+      }
+    },
+    {
+      "id": "Q834621",
+      "name": "Боно",
+      "birthDate": "1960-05-10",
+      "birthYear": 1960,
+      "description": "ирландский музыкант, вокалист группы U2",
+      "category": "music",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BD%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q834621#P569",
+      "verified": {
+        "revision": 2563859389,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1960-05-10",
+        "originalCalendar": "gregorian",
+        "claim": "q834621$8dc575b5-4ba4-2e1c-64e0-5b43f3ab1a3e",
+        "references": []
+      }
+    },
+    {
+      "id": "Q47878",
+      "name": "Сид Вишес",
+      "birthDate": "1957-05-10",
+      "birthYear": 1957,
+      "description": "Британский музыкант",
+      "category": "music",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B4_%D0%92%D0%B8%D1%88%D0%B5%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q47878#P569",
+      "verified": {
+        "revision": 2553825122,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1957-05-10",
+        "originalCalendar": "gregorian",
+        "claim": "q47878$3e91412f-4699-9e0f-c222-68f5fb8510c0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q157451",
+      "name": "Гейдар Алиев",
+      "birthDate": "1923-05-10",
+      "birthYear": 1923,
+      "description": "советский и азербайджанский государственный, партийный и политический деятель; президент Азербайджана (1993-2003), председатель Милли Меджлиса Азербайджана (1993), первый секретарь ЦК КП Азербайджана (1969-1983)",
+      "category": "public",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D0%B5%D0%B2,_%D0%93%D0%B5%D0%B9%D0%B4%D0%B0%D1%80_%D0%90%D0%BB%D0%B8%D1%80%D0%B7%D0%B0_%D0%BE%D0%B3%D0%BB%D1%8B",
+      "source": "https://www.wikidata.org/wiki/Q157451#P569",
+      "verified": {
+        "revision": 2557914308,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1923-05-10",
+        "originalCalendar": "gregorian",
+        "claim": "q157451$04E849B7-66B0-4756-AE60-583BBCB9498E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q185389",
+      "name": "Деннис Бергкамп",
+      "birthDate": "1969-05-10",
+      "birthYear": 1969,
+      "description": "нидерландский футболист",
+      "category": "sport",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B3%D0%BA%D0%B0%D0%BC%D0%BF,_%D0%94%D0%B5%D0%BD%D0%BD%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q185389#P569",
+      "verified": {
+        "revision": 2562508209,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-05-10",
+        "originalCalendar": "gregorian",
+        "claim": "q185389$FEF3980E-C679-4E74-ADAA-3396DB4F2CAA",
+        "references": []
+      }
+    }
+  ]
+}

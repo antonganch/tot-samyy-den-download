@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "12-30",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q34743",
+      "name": "Редьярд Киплинг",
+      "birthDate": "1865-12-30",
+      "birthYear": 1865,
+      "description": "английский писатель (1865–1936)",
+      "category": "literature",
+      "sitelinks": 190,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BF%D0%BB%D0%B8%D0%BD%D0%B3,_%D0%A0%D0%B5%D0%B4%D1%8C%D1%8F%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q34743#P569",
+      "verified": {
+        "revision": 2564267372,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1865-12-30",
+        "originalCalendar": "gregorian",
+        "claim": "q34743$F49887D1-6D7D-4CB8-8FF2-23336C01D6F5",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/kipling-joseph-rudyard"
+        ]
+      }
+    },
+    {
+      "id": "Q36159",
+      "name": "Леброн Джеймс",
+      "birthDate": "1984-12-30",
+      "birthYear": 1984,
+      "description": "американский баскетболист",
+      "category": "sport",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81,_%D0%9B%D0%B5%D0%B1%D1%80%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q36159#P569",
+      "verified": {
+        "revision": 2564768966,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1984-12-30",
+        "originalCalendar": "gregorian",
+        "claim": "q36159$E8CDA290-B030-4C87-ADD9-3188526EC590",
+        "references": []
+      }
+    },
+    {
+      "id": "Q31164",
+      "name": "Элли Голдинг",
+      "birthDate": "1986-12-30",
+      "birthYear": 1986,
+      "description": "английская певица и композитор",
+      "category": "music",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3,_%D0%AD%D0%BB%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q31164#P569",
+      "verified": {
+        "revision": 2563803279,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-12-30",
+        "originalCalendar": "gregorian",
+        "claim": "q31164$9C306FCD-5B79-4667-BE9B-4F7D9247730C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q557",
+      "name": "Патти Смит",
+      "birthDate": "1946-12-30",
+      "birthYear": 1946,
+      "description": "американская певица и поэтесса",
+      "category": "music",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B8%D1%82,_%D0%9F%D0%B0%D1%82%D1%82%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q557#P569",
+      "verified": {
+        "revision": 2561162467,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-12-30",
+        "originalCalendar": "gregorian",
+        "claim": "q557$F9255C6A-B59D-4BC9-8C65-AB392269F41C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q10993",
+      "name": "Тайгер Вудс",
+      "birthDate": "1975-12-30",
+      "birthYear": 1975,
+      "description": "американский гольфист",
+      "category": "other",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%B4%D1%81,_%D0%A2%D0%B0%D0%B9%D0%B3%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q10993#P569",
+      "verified": {
+        "revision": 2561425652,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-12-30",
+        "originalCalendar": "gregorian",
+        "claim": "q10993$1DEFC477-0E7B-4EF0-82BB-05C764AFD738",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "04-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q352",
+      "name": "Адольф Гитлер",
+      "birthDate": "1889-04-20",
+      "birthYear": 1889,
+      "description": "немецкий диктатор, политик, основатель национал-социализма, фюрер и рейхсканцлер Германии (1933—1945)",
+      "category": "public",
+      "sitelinks": 329,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D1%82%D0%BB%D0%B5%D1%80,_%D0%90%D0%B4%D0%BE%D0%BB%D1%8C%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q352#P569",
+      "verified": {
+        "revision": 2564906402,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1889-04-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q352$c9720582-4df8-472e-e29f-aa7cbc2bd6fc",
+        "references": [
+          "https://data.matricula-online.eu/de/oesterreich/oberoesterreich/braunau-am-inn/106%252F1889/?pg=8"
+        ]
+      }
+    },
+    {
+      "id": "Q152384",
+      "name": "Жоан Миро",
+      "birthDate": "1893-04-20",
+      "birthYear": 1893,
+      "description": "испанский (каталонский) художник",
+      "category": "art",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%80%D0%BE,_%D0%96%D0%BE%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q152384#P569",
+      "verified": {
+        "revision": 2562494636,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1893-04-20",
+        "originalCalendar": "gregorian",
+        "claim": "q152384$CAEE521D-FA9E-4CBD-BD58-794B0AA27593",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/miro-joan"
+        ]
+      }
+    },
+    {
+      "id": "Q173585",
+      "name": "Джессика Лэнг",
+      "birthDate": "1949-04-20",
+      "birthYear": 1949,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8D%D0%BD%D0%B3,_%D0%94%D0%B6%D0%B5%D1%81%D1%81%D0%B8%D0%BA%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q173585#P569",
+      "verified": {
+        "revision": 2557963813,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-04-20",
+        "originalCalendar": "gregorian",
+        "claim": "q173585$C72F250B-6394-4AD4-8278-94958E010795",
+        "references": []
+      }
+    },
+    {
+      "id": "Q206922",
+      "name": "Энди Сёркис",
+      "birthDate": "1964-04-20",
+      "birthYear": 1964,
+      "description": "английский актёр и кинорежиссёр",
+      "category": "screen",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%BA%D0%B8%D1%81,_%D0%AD%D0%BD%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q206922#P569",
+      "verified": {
+        "revision": 2563194028,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-04-20",
+        "originalCalendar": "gregorian",
+        "claim": "q206922$DDABA0B3-F436-4597-9DF8-6244E71B3E30",
+        "references": []
+      }
+    },
+    {
+      "id": "Q127454",
+      "name": "Миранда Керр",
+      "birthDate": "1983-04-20",
+      "birthYear": 1983,
+      "description": "Австралийская супермодель",
+      "category": "other",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%80,_%D0%9C%D0%B8%D1%80%D0%B0%D0%BD%D0%B4%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q127454#P569",
+      "verified": {
+        "revision": 2558023803,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-04-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q127454$8CAAB508-005E-4B13-B901-F9BA53F9E52F",
+        "references": []
+      }
+    }
+  ]
+}

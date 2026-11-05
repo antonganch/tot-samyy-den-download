@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "10-27",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7324",
+      "name": "Джеймс Кук",
+      "birthDate": "1728-10-27",
+      "birthYear": 1728,
+      "description": "английский мореплаватель, капитан",
+      "category": "exploration",
+      "sitelinks": 186,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q7324#P569",
+      "verified": {
+        "revision": 2564815935,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1728-10-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q7324$1FA6EDBF-36BC-469F-98BE-7DAC5F5BCDE8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q33866",
+      "name": "Теодор Рузвельт",
+      "birthDate": "1858-10-27",
+      "birthYear": 1858,
+      "description": "американский политик, 26-й Президент США (1901–1909), 25-й Вице-президент США",
+      "category": "public",
+      "sitelinks": 194,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B7%D0%B2%D0%B5%D0%BB%D1%8C%D1%82,_%D0%A2%D0%B5%D0%BE%D0%B4%D0%BE%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q33866#P569",
+      "verified": {
+        "revision": 2563805345,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1858-10-27",
+        "originalCalendar": "gregorian",
+        "claim": "q33866$C88C5CAC-4E72-4D40-91F8-388CB0577845",
+        "references": []
+      }
+    },
+    {
+      "id": "Q66075",
+      "name": "Никколо Паганини",
+      "birthDate": "1782-10-27",
+      "birthYear": 1782,
+      "description": "итальянский скрипач и гитарист-виртуоз, композитор",
+      "category": "music",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B3%D0%B0%D0%BD%D0%B8%D0%BD%D0%B8,_%D0%9D%D0%B8%D0%BA%D0%BA%D0%BE%D0%BB%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q66075#P569",
+      "verified": {
+        "revision": 2563862770,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1782-10-27",
+        "originalCalendar": "gregorian",
+        "claim": "q66075$200C90DA-0EE4-4DFE-9A9D-F291FDAAC2F2",
+        "references": [
+          "https://tritius.kmol.cz/authority/865181"
+        ]
+      }
+    },
+    {
+      "id": "Q133054",
+      "name": "Сильвия Плат",
+      "birthDate": "1932-10-27",
+      "birthYear": 1932,
+      "description": "американская поэтесса и писательница",
+      "category": "literature",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D1%82,_%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q133054#P569",
+      "verified": {
+        "revision": 2561431678,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1932-10-27",
+        "originalCalendar": "gregorian",
+        "claim": "q133054$EB6BE416-8577-4C6E-9C1B-FD3C39C0E684",
+        "references": []
+      }
+    },
+    {
+      "id": "Q23301",
+      "name": "Роберто Бениньи",
+      "birthDate": "1952-10-27",
+      "birthYear": 1952,
+      "description": "итальянский актёр",
+      "category": "screen",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D1%8C%D0%B8,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q23301#P569",
+      "verified": {
+        "revision": 2558227638,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1952-10-27",
+        "originalCalendar": "gregorian",
+        "claim": "q23301$C9A50BD4-DFA6-43C9-A6BE-6C2820D2AC0E",
+        "references": []
+      }
+    }
+  ]
+}

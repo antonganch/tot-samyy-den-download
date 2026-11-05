@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "05-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9061",
+      "name": "Карл Маркс",
+      "birthDate": "1818-05-05",
+      "birthYear": 1818,
+      "description": "немецкий философ, экономист и социолог, основоположник марксизма",
+      "category": "science",
+      "sitelinks": 313,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D1%81,_%D0%9A%D0%B0%D1%80%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q9061#P569",
+      "verified": {
+        "revision": 2563979580,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1818-05-05",
+        "originalCalendar": "gregorian",
+        "claim": "q9061$8F9FA880-3B5B-4F6B-8556-900117CCB266",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/marx-karl-heinrich"
+        ]
+      }
+    },
+    {
+      "id": "Q6512",
+      "name": "Сёрен Кьеркегор",
+      "birthDate": "1813-05-05",
+      "birthYear": 1813,
+      "description": "датский философ, протестантский теолог, писатель и основоположник экзистенциализма (1813–1855)",
+      "category": "literature",
+      "sitelinks": 171,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8C%D0%B5%D1%80%D0%BA%D0%B5%D0%B3%D0%BE%D1%80,_%D0%A1%D1%91%D1%80%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q6512#P569",
+      "verified": {
+        "revision": 2563341059,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1813-05-05",
+        "originalCalendar": "gregorian",
+        "claim": "q6512$E7B8E904-9DA7-47C9-8612-7B95DC85009B",
+        "references": [
+          "https://www.britannica.com/biography/Soren-Kierkegaard"
+        ]
+      }
+    },
+    {
+      "id": "Q23215",
+      "name": "Адель",
+      "birthDate": "1988-05-05",
+      "birthYear": 1988,
+      "description": "британская певица и автор песен",
+      "category": "music",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BB%D1%8C_(%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D0%B0)",
+      "source": "https://www.wikidata.org/wiki/Q23215#P569",
+      "verified": {
+        "revision": 2563801736,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1988-05-05",
+        "originalCalendar": "gregorian",
+        "claim": "q23215$303d83fa-41b7-7e77-d3f5-f0aea52cc156",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41502",
+      "name": "Генрик Сенкевич",
+      "birthDate": "1846-05-05",
+      "birthYear": 1846,
+      "description": "польский писатель",
+      "category": "literature",
+      "sitelinks": 140,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D0%BA%D0%B5%D0%B2%D0%B8%D1%87,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q41502#P569",
+      "verified": {
+        "revision": 2563993526,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1846-05-05",
+        "originalCalendar": "gregorian",
+        "claim": "q41502$E20A2B54-9F88-44C6-8818-764ACFB9A93E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44279",
+      "name": "Оливер Кромвель",
+      "birthDate": "1599-05-05",
+      "birthYear": 1599,
+      "description": "английский государственный деятель и полководец, вождь индепендентов, руководитель Английской революции",
+      "category": "public",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BC%D0%B2%D0%B5%D0%BB%D1%8C,_%D0%9E%D0%BB%D0%B8%D0%B2%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q44279#P569",
+      "verified": {
+        "revision": 2564814369,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1599-04-25",
+        "originalCalendar": "julian",
+        "claim": "q44279$427D3408-F85A-4CC0-96CB-634CFFFF90C6",
+        "references": [
+          "https://books.google.ca/books?id=bveSSImAmSIC&pg=PA369"
+        ]
+      }
+    }
+  ]
+}

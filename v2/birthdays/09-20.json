@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "09-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q43252",
+      "name": "Софи Лорен",
+      "birthDate": "1934-09-20",
+      "birthYear": 1934,
+      "description": "итальянская актриса",
+      "category": "screen",
+      "sitelinks": 133,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%84%D0%B8_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q43252#P569",
+      "verified": {
+        "revision": 2563884173,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1934-09-20",
+        "originalCalendar": "gregorian",
+        "claim": "q43252$084D72BC-F311-45B5-B13C-7F544248BDBF",
+        "references": [
+          "https://cs.isabart.org/person/164604"
+        ]
+      }
+    },
+    {
+      "id": "Q181677",
+      "name": "Джордж Р. Р. Мартин",
+      "birthDate": "1948-09-20",
+      "birthYear": 1948,
+      "description": "американский писатель-фантаст (род. 1948)",
+      "category": "literature",
+      "sitelinks": 115,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_(%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C)",
+      "source": "https://www.wikidata.org/wiki/Q181677#P569",
+      "verified": {
+        "revision": 2562794023,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1948-09-20",
+        "originalCalendar": "gregorian",
+        "claim": "q181677$CEDC31F0-383C-4474-8847-40DFE0BF3FFA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q132596",
+      "name": "Таро Асо",
+      "birthDate": "1940-09-20",
+      "birthYear": 1940,
+      "description": "японский политик",
+      "category": "public",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D0%BE,_%D0%A2%D0%B0%D1%80%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q132596#P569",
+      "verified": {
+        "revision": 2562946562,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-09-20",
+        "originalCalendar": "gregorian",
+        "claim": "q132596$b904c138-4ea6-607c-bed3-97b6bd02c43a",
+        "references": []
+      }
+    },
+    {
+      "id": "Q216134",
+      "name": "Эптон Синклер",
+      "birthDate": "1878-09-20",
+      "birthYear": 1878,
+      "description": "американский писатель, журналист и социалистический деятель первой половине XX века (1878-1968)",
+      "category": "literature",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%BA%D0%BB%D0%B5%D1%80,_%D0%AD%D0%BF%D1%82%D0%BE%D0%BD_%D0%91%D0%B8%D0%BB%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q216134#P569",
+      "verified": {
+        "revision": 2564308372,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1878-09-20",
+        "originalCalendar": "gregorian",
+        "claim": "q216134$1138D514-31A9-49EF-9319-90A953939DC5",
+        "references": [
+          "https://cs.isabart.org/person/61696"
+        ]
+      }
+    },
+    {
+      "id": "Q315697",
+      "name": "Дракслер, Юлиан",
+      "birthDate": "1993-09-20",
+      "birthYear": 1993,
+      "description": "немецкий футболист",
+      "category": "sport",
+      "sitelinks": 67,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%BA%D1%81%D0%BB%D0%B5%D1%80,_%D0%AE%D0%BB%D0%B8%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q315697#P569",
+      "verified": {
+        "revision": 2562673682,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1993-09-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q315697$CCE55DDD-D5A0-44B0-AD5A-7ED7AEB41154",
+        "references": []
+      }
+    }
+  ]
+}

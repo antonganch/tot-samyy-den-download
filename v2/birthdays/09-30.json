@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "09-30",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q81819",
+      "name": "Моника Беллуччи",
+      "birthDate": "1964-09-30",
+      "birthYear": 1964,
+      "description": "итальянская актриса и фотомодель",
+      "category": "screen",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BB%D1%83%D1%87%D1%87%D0%B8,_%D0%9C%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q81819#P569",
+      "verified": {
+        "revision": 2561051313,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-09-30",
+        "originalCalendar": "gregorian",
+        "claim": "q81819$2CAD37C1-D64D-41A5-87FC-E7B628CA9FDF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q18391",
+      "name": "Эли Визель",
+      "birthDate": "1928-09-30",
+      "birthYear": 1928,
+      "description": "писатель, лауреат Нобелевской премии мира",
+      "category": "literature",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C,_%D0%AD%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q18391#P569",
+      "verified": {
+        "revision": 2563200751,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-09-30",
+        "originalCalendar": "gregorian",
+        "claim": "q18391$E8856A1D-0743-4E67-A715-9AF80A7F1EBF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q134180",
+      "name": "Трумен Капоте",
+      "birthDate": "1924-09-30",
+      "birthYear": 1924,
+      "description": "американский романист и новеллист",
+      "category": "literature",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D0%BE%D1%82%D0%B5,_%D0%A2%D1%80%D1%83%D0%BC%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q134180#P569",
+      "verified": {
+        "revision": 2564310257,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-09-30",
+        "originalCalendar": "gregorian",
+        "claim": "q134180$16251ACF-B772-469F-BE14-F0A9CC66DAA0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2239218",
+      "name": "Макс Верстаппен",
+      "birthDate": "1997-09-30",
+      "birthYear": 1997,
+      "description": "нидерландский автогонщик, четырёхкратный чемпион мира Формулы-1",
+      "category": "sport",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D1%81%D1%82%D0%B0%D0%BF%D0%BF%D0%B5%D0%BD,_%D0%9C%D0%B0%D0%BA%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q2239218#P569",
+      "verified": {
+        "revision": 2558164798,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1997-09-30",
+        "originalCalendar": "gregorian",
+        "claim": "Q2239218$CE9C8935-70DE-4E52-A5FC-96B586D732DB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q8927",
+      "name": "Марион Котийяр",
+      "birthDate": "1975-09-30",
+      "birthYear": 1975,
+      "description": "французская актриса (род. 1975)",
+      "category": "screen",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%82%D0%B8%D0%B9%D1%8F%D1%80,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q8927#P569",
+      "verified": {
+        "revision": 2558155504,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-09-30",
+        "originalCalendar": "gregorian",
+        "claim": "Q8927$5E71505D-4F39-4076-BFBC-204144851712",
+        "references": []
+      }
+    }
+  ]
+}

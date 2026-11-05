@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "07-29",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q23559",
+      "name": "Бенито Муссолини",
+      "birthDate": "1883-07-29",
+      "birthYear": 1883,
+      "description": "диктатор Италии с 1922 по 1943 год",
+      "category": "other",
+      "sitelinks": 201,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D1%81%D0%BE%D0%BB%D0%B8%D0%BD%D0%B8,_%D0%91%D0%B5%D0%BD%D0%B8%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q23559#P569",
+      "verified": {
+        "revision": 2563724028,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1883-07-29",
+        "originalCalendar": "gregorian",
+        "claim": "q23559$6BFC25D7-00E2-4EA7-ACBB-838E496A8E09",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/mussolini-benito-amilcare-andrea",
+          "https://cs.isabart.org/person/86376"
+        ]
+      }
+    },
+    {
+      "id": "Q10514",
+      "name": "Фернандо Алонсо",
+      "birthDate": "1981-07-29",
+      "birthYear": 1981,
+      "description": "испанский автогонщик, двукратный чемпион мира Формулы-1",
+      "category": "sport",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BE%D0%BD%D1%81%D0%BE,_%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q10514#P569",
+      "verified": {
+        "revision": 2560506011,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-07-29",
+        "originalCalendar": "gregorian",
+        "claim": "q10514$FEB78B73-8986-4478-9BF3-F03F3A747CFB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1267",
+      "name": "Даг Хаммаршёльд",
+      "birthDate": "1905-07-29",
+      "birthYear": 1905,
+      "description": "шведский государственный деятель, Генеральный секретарь ООН",
+      "category": "other",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%BC%D0%B0%D1%80%D1%88%D1%91%D0%BB%D1%8C%D0%B4,_%D0%94%D0%B0%D0%B3",
+      "source": "https://www.wikidata.org/wiki/Q1267#P569",
+      "verified": {
+        "revision": 2563458155,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1905-07-29",
+        "originalCalendar": "gregorian",
+        "claim": "q1267$849F6BE3-8166-43D8-8E06-3167689A560B",
+        "references": [
+          "https://sok.riksarkivet.se/bildvisning/A0006807_00144#?cv=143&z=13.7545%2C3194.6747%2C3755.1687%2C2365.7563&c=&m=&s=&xywh=119%2C3378%2C2852%2C1547",
+          "https://sok.riksarkivet.se/bildvisning/A0008523_00130?c=0&m=0&s=0&cv=0#?cv=129&z=62.2684%2C483.2664%2C2789.9149%2C1710.9832"
+        ]
+      }
+    },
+    {
+      "id": "Q140694",
+      "name": "Алексис де Токвиль",
+      "birthDate": "1805-07-29",
+      "birthYear": 1805,
+      "description": "французский политический деятель и историк, министр иностранных дел Франции (1849)",
+      "category": "public",
+      "sitelinks": 116,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BA%D0%B2%D0%B8%D0%BB%D1%8C,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B8%D1%81_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q140694#P569",
+      "verified": {
+        "revision": 2564775293,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1805-07-29",
+        "originalCalendar": "gregorian",
+        "claim": "q140694$BE0991D0-B7F8-41EB-AC6E-173320E14F8A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q165969",
+      "name": "Исидор Айзек Раби",
+      "birthDate": "1898-07-29",
+      "birthYear": 1898,
+      "description": "американский физик",
+      "category": "science",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B1%D0%B8,_%D0%98%D1%81%D0%B8%D0%B4%D0%BE%D1%80_%D0%90%D0%B9%D0%B7%D0%B5%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q165969#P569",
+      "verified": {
+        "revision": 2563200033,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1898-07-29",
+        "originalCalendar": "gregorian",
+        "claim": "q165969$BE4A087A-241C-452A-962B-D91D1CBDD1B3",
+        "references": []
+      }
+    }
+  ]
+}

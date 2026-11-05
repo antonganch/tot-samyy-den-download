@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "05-26",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q40531",
+      "name": "Джон Уэйн",
+      "birthDate": "1907-05-26",
+      "birthYear": 1907,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD_%D0%A3%D1%8D%D0%B9%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q40531#P569",
+      "verified": {
+        "revision": 2562488897,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-05-26",
+        "originalCalendar": "gregorian",
+        "claim": "q40531$4D93EB32-FD61-4E93-B47D-57D6E607F0E9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q93341",
+      "name": "Майлз Дэвис",
+      "birthDate": "1926-05-26",
+      "birthYear": 1926,
+      "description": "американский джазовый музыкант",
+      "category": "music",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%8D%D0%B2%D0%B8%D1%81,_%D0%9C%D0%B0%D0%B9%D0%BB%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q93341#P569",
+      "verified": {
+        "revision": 2560434665,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-05-26",
+        "originalCalendar": "gregorian",
+        "claim": "q93341$A1B148B5-6D72-4793-90D9-2627AA9B76B5",
+        "references": [
+          "https://data.bnf.fr/en/13893030/miles_davis/"
+        ]
+      }
+    },
+    {
+      "id": "Q483512",
+      "name": "Айседора Дункан",
+      "birthDate": "1877-05-26",
+      "birthYear": 1877,
+      "description": "американская танцовщица-новатор",
+      "category": "other",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%BD%D0%BA%D0%B0%D0%BD,_%D0%90%D0%B9%D1%81%D0%B5%D0%B4%D0%BE%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q483512#P569",
+      "verified": {
+        "revision": 2561744525,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1877-05-26",
+        "originalCalendar": "gregorian",
+        "claim": "Q483512$05e186be-2348-4cee-8787-8f2b1d6023e6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q170428",
+      "name": "Хелена Бонэм Картер",
+      "birthDate": "1966-05-26",
+      "birthYear": 1966,
+      "description": "британская актриса",
+      "category": "screen",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BD%D0%B5%D0%BC_%D0%9A%D0%B0%D1%80%D1%82%D0%B5%D1%80,_%D0%A5%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q170428#P569",
+      "verified": {
+        "revision": 2563910356,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1966-05-26",
+        "originalCalendar": "gregorian",
+        "claim": "q170428$FA141334-F8F8-4FED-B8CD-A099E678D51A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q180224",
+      "name": "Ленни Кравиц",
+      "birthDate": "1964-05-26",
+      "birthYear": 1964,
+      "description": "американский певец, автор песен, мультиинструменталист, продюсер, аранжировщик",
+      "category": "music",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D0%B2%D0%B8%D1%86,_%D0%9B%D0%B5%D0%BD%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q180224#P569",
+      "verified": {
+        "revision": 2560053918,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-05-26",
+        "originalCalendar": "gregorian",
+        "claim": "q180224$A302B4D5-94CE-4ACE-949D-7F3CF72E536B",
+        "references": []
+      }
+    }
+  ]
+}

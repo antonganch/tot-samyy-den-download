@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "11-19",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1149",
+      "name": "Индира Ганди",
+      "birthDate": "1917-11-19",
+      "birthYear": 1917,
+      "description": "индийский политик",
+      "category": "public",
+      "sitelinks": 174,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B4%D0%B8,_%D0%98%D0%BD%D0%B4%D0%B8%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q1149#P569",
+      "verified": {
+        "revision": 2563457355,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1917-11-19",
+        "originalCalendar": "gregorian",
+        "claim": "q1149$A099E730-07E2-48F0-A5BD-2C4380F3AEB3",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/gandhi-indira-priyadarshini"
+        ]
+      }
+    },
+    {
+      "id": "Q41351",
+      "name": "Джоди Фостер",
+      "birthDate": "1962-11-19",
+      "birthYear": 1962,
+      "description": "американская актриса, кинорежиссёр и кинопродюсер",
+      "category": "screen",
+      "sitelinks": 118,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%81%D1%82%D0%B5%D1%80,_%D0%94%D0%B6%D0%BE%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q41351#P569",
+      "verified": {
+        "revision": 2563912906,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1962-11-19",
+        "originalCalendar": "gregorian",
+        "claim": "Q41351$C1EB2D2B-4617-4B0E-9595-78AFE9AADA36",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/foster-jodie"
+        ]
+      }
+    },
+    {
+      "id": "Q58720",
+      "name": "Михаил Васильевич Ломоносов",
+      "birthDate": "1711-11-19",
+      "birthYear": 1711,
+      "description": "первый крупный русский учёный-естествоиспытатель, лингвист, философ, историк и поэт (1711-1765)",
+      "category": "science",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D1%81%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q58720#P569",
+      "verified": {
+        "revision": 2564360589,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1711-11-08",
+        "originalCalendar": "julian",
+        "claim": "q58720$303741E9-FBDE-4119-819D-BADF9C3A5450",
+        "references": []
+      }
+    },
+    {
+      "id": "Q167498",
+      "name": "Мег Райан",
+      "birthDate": "1961-11-19",
+      "birthYear": 1961,
+      "description": "американская актриса и продюсер",
+      "category": "screen",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B3_%D0%A0%D0%B0%D0%B9%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q167498#P569",
+      "verified": {
+        "revision": 2560788140,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1961-11-19",
+        "originalCalendar": "gregorian",
+        "claim": "q167498$B77FFD11-6E38-4868-952B-BDDADADA2B83",
+        "references": []
+      }
+    },
+    {
+      "id": "Q84238",
+      "name": "Питер Фердинанд Друкер",
+      "birthDate": "1909-11-19",
+      "birthYear": 1909,
+      "description": "американский экономист австрийского происхождения",
+      "category": "science",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D1%83%D0%BA%D0%B5%D1%80,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80_%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q84238#P569",
+      "verified": {
+        "revision": 2564471880,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1909-11-19",
+        "originalCalendar": "gregorian",
+        "claim": "q84238$427F66C7-C31C-45AE-BF92-E869DB65FACC",
+        "references": []
+      }
+    }
+  ]
+}

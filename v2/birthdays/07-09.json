@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "07-09",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q2263",
+      "name": "Том Хэнкс",
+      "birthDate": "1956-07-09",
+      "birthYear": 1956,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D1%8D%D0%BD%D0%BA%D1%81,_%D0%A2%D0%BE%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q2263#P569",
+      "verified": {
+        "revision": 2561650438,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1956-07-09",
+        "originalCalendar": "gregorian",
+        "claim": "q2263$1B308ABC-2DCC-4437-A7DA-216F32F87413",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1459658",
+      "name": "Виктор Фёдорович Янукович",
+      "birthDate": "1950-07-09",
+      "birthYear": 1950,
+      "description": "Бывший президент Украины (2010—2014), бывший премьер-министр (2002—2005, 2006—2007)",
+      "category": "public",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D1%83%D0%BA%D0%BE%D0%B2%D0%B8%D1%87,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%A4%D1%91%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q1459658#P569",
+      "verified": {
+        "revision": 2564937495,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-07-09",
+        "originalCalendar": "gregorian",
+        "claim": "q1459658$2D679315-6053-46FD-B09E-B23682154B3D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q222071",
+      "name": "Кортни Лав",
+      "birthDate": "1964-07-09",
+      "birthYear": 1964,
+      "description": "американская певица, автор песен, гитаристка и актриса",
+      "category": "screen",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B2,_%D0%9A%D0%BE%D1%80%D1%82%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q222071#P569",
+      "verified": {
+        "revision": 2563794665,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-07-09",
+        "originalCalendar": "gregorian",
+        "claim": "q222071$0641B933-666E-430F-8D76-100899128DE9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q168040",
+      "name": "Амели Нотомб",
+      "birthDate": "1966-07-09",
+      "birthYear": 1966,
+      "description": "бельгийская писательница (род. 1966)",
+      "category": "literature",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%82%D0%BE%D0%BC%D0%B1,_%D0%90%D0%BC%D0%B5%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q168040#P569",
+      "verified": {
+        "revision": 2564469494,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1966-07-09",
+        "originalCalendar": "gregorian",
+        "claim": "Q168040$E91B96D4-8999-42D0-A6C1-BEA7FF039D95",
+        "references": [
+          "https://modernlanguages.sas.ac.uk/research-centres/centre-study-contemporary-womens-writing/languages/french/am%C3%A9lie-nothomb",
+          "https://www.discogs.com/artist/1649645-Am%C3%A9lie-Nothomb",
+          "https://www.proquest.com/openview/f5edeb1ac542436e634a99afa37af2c8/1?pq-origsite=gscholar"
+        ]
+      }
+    },
+    {
+      "id": "Q107423",
+      "name": "Бен Рой Моттельсон",
+      "birthDate": "1926-07-09",
+      "birthYear": 1926,
+      "description": "датский физик-теоретик",
+      "category": "science",
+      "sitelinks": 70,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%82%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%BD,_%D0%91%D0%B5%D0%BD_%D0%A0%D0%BE%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q107423#P569",
+      "verified": {
+        "revision": 2563200292,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-07-09",
+        "originalCalendar": "gregorian",
+        "claim": "q107423$F8AD2B2F-59CE-4F01-836D-70038D616F2A",
+        "references": [
+          "https://www.nobelprize.org/prizes/physics/1975/mottelson/facts/"
+        ]
+      }
+    }
+  ]
+}

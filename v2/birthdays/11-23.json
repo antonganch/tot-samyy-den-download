@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "11-23",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q4235",
+      "name": "Майли Сайрус",
+      "birthDate": "1992-11-23",
+      "birthYear": 1992,
+      "description": "американская актриса и певица (род. 1992)",
+      "category": "screen",
+      "sitelinks": 143,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B9%D1%80%D1%83%D1%81,_%D0%9C%D0%B0%D0%B9%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q4235#P569",
+      "verified": {
+        "revision": 2564646273,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1992-11-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q4235$8554DA0D-597F-4AAF-8545-46091A92BD97",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/cyrus-miley"
+        ]
+      }
+    },
+    {
+      "id": "Q58132",
+      "name": "Николас Мадуро",
+      "birthDate": "1962-11-23",
+      "birthYear": 1962,
+      "description": "49-й президент Венесуэлы (с 2013)",
+      "category": "public",
+      "sitelinks": 141,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D1%83%D1%80%D0%BE,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q58132#P569",
+      "verified": {
+        "revision": 2562718421,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1962-11-23",
+        "originalCalendar": "gregorian",
+        "claim": "q58132$0ba57d6d-4188-722e-8fe2-355259d119b6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q153469",
+      "name": "Кшиштоф Пендерецкий",
+      "birthDate": "1933-11-23",
+      "birthYear": 1933,
+      "description": "польский композитор",
+      "category": "music",
+      "sitelinks": 60,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%B5%D1%86%D0%BA%D0%B8%D0%B9,_%D0%9A%D1%88%D0%B8%D1%88%D1%82%D0%BE%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q153469#P569",
+      "verified": {
+        "revision": 2563192355,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-11-23",
+        "originalCalendar": "gregorian",
+        "claim": "q153469$E557EB11-9C15-42AD-B59F-305F76071D5A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q193504",
+      "name": "Венсан Кассель",
+      "birthDate": "1966-11-23",
+      "birthYear": 1966,
+      "description": "французский актёр (род. 1966)",
+      "category": "screen",
+      "sitelinks": 60,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%81%D0%B5%D0%BB%D1%8C,_%D0%92%D0%B5%D0%BD%D1%81%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q193504#P569",
+      "verified": {
+        "revision": 2563029849,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1966-11-23",
+        "originalCalendar": "gregorian",
+        "claim": "q193504$D60A516B-F1D5-4215-8DEA-A5828FF05071",
+        "references": []
+      }
+    },
+    {
+      "id": "Q193283",
+      "name": "Мануэль де Фалья",
+      "birthDate": "1876-11-23",
+      "birthYear": 1876,
+      "description": "испанский композитор",
+      "category": "music",
+      "sitelinks": 55,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BB%D1%8C%D1%8F,_%D0%9C%D0%B0%D0%BD%D1%83%D1%8D%D0%BB%D1%8C_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q193283#P569",
+      "verified": {
+        "revision": 2563793362,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1876-11-23",
+        "originalCalendar": "gregorian",
+        "claim": "q193283$6A7B2154-4A31-492A-B263-A5F42F2CDE7B",
+        "references": []
+      }
+    }
+  ]
+}

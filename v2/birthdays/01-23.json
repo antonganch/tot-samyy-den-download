@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "01-23",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q41585",
+      "name": "Давид Гильберт",
+      "birthDate": "1862-01-23",
+      "birthYear": 1862,
+      "description": "немецкий математик",
+      "category": "science",
+      "sitelinks": 165,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q41585#P569",
+      "verified": {
+        "revision": 2563977312,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1862-01-23",
+        "originalCalendar": "gregorian",
+        "claim": "q41585$98D15E8B-B3B8-4352-A64E-B7162E1B9CDF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q502",
+      "name": "Стендаль",
+      "birthDate": "1783-01-23",
+      "birthYear": 1783,
+      "description": "французский писатель",
+      "category": "literature",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BD%D0%B4%D0%B0%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q502#P569",
+      "verified": {
+        "revision": 2564781350,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1783-01-23",
+        "originalCalendar": "gregorian",
+        "claim": "q502$E5E6DFE8-51EA-4CE6-95D1-3A22B3C4BA98",
+        "references": []
+      }
+    },
+    {
+      "id": "Q40599",
+      "name": "Эдуард Мане",
+      "birthDate": "1832-01-23",
+      "birthYear": 1832,
+      "description": "французский художник",
+      "category": "art",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B5,_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q40599#P569",
+      "verified": {
+        "revision": 2561607194,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1832-01-23",
+        "originalCalendar": "gregorian",
+        "claim": "q40599$062B579D-B76E-4FAB-A836-AAFCFB97AA03",
+        "references": []
+      }
+    },
+    {
+      "id": "Q132701",
+      "name": "Дерек Уолкотт",
+      "birthDate": "1930-01-23",
+      "birthYear": 1930,
+      "description": "Поэт, драматург и уроженец Сент-Люсии",
+      "category": "literature",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BB%D0%BA%D0%BE%D1%82%D1%82,_%D0%94%D0%B5%D1%80%D0%B5%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q132701#P569",
+      "verified": {
+        "revision": 2563198587,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-01-23",
+        "originalCalendar": "gregorian",
+        "claim": "q132701$A26C4DC1-5D70-4BEC-BE97-81BDE36FC522",
+        "references": [
+          "https://www.blackpast.org/global-african-history/derek-walcott-1930-2017/"
+        ]
+      }
+    },
+    {
+      "id": "Q43913",
+      "name": "Арьен Роббен",
+      "birthDate": "1984-01-23",
+      "birthYear": 1984,
+      "description": "нидерландский футболист",
+      "category": "sport",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D0%B1%D0%B5%D0%BD,_%D0%90%D1%80%D1%8C%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q43913#P569",
+      "verified": {
+        "revision": 2557791922,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1984-01-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q43913$02CD2BE6-7EEF-49A3-95FC-96BE4FD78F4A",
+        "references": []
+      }
+    }
+  ]
+}

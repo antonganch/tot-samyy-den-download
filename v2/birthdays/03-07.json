@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "03-07",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1178",
+      "name": "Морис Равель",
+      "birthDate": "1875-03-07",
+      "birthYear": 1875,
+      "description": "французский композитор-импрессионист, дирижёр, один из реформаторов музыки XX века",
+      "category": "music",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C,_%D0%9C%D0%BE%D1%80%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q1178#P569",
+      "verified": {
+        "revision": 2564783499,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1875-03-07",
+        "originalCalendar": "gregorian",
+        "claim": "q1178$56FF6062-79CA-4102-A7A4-EBDFA0E3B659",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1064",
+      "name": "Алессандро Мандзони",
+      "birthDate": "1785-03-07",
+      "birthYear": 1785,
+      "description": "итальянский писатель",
+      "category": "literature",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D0%B7%D0%BE%D0%BD%D0%B8,_%D0%90%D0%BB%D0%B5%D1%81%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q1064#P569",
+      "verified": {
+        "revision": 2564798541,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1785-03-07",
+        "originalCalendar": "gregorian",
+        "claim": "q1064$D74046D7-1F60-4A89-A7A7-914B4908F97E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q134077",
+      "name": "Рэйчел Вайс",
+      "birthDate": "1970-03-07",
+      "birthYear": 1970,
+      "description": "английская актриса",
+      "category": "screen",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B9%D1%81,_%D0%A0%D1%8D%D0%B9%D1%87%D0%B5%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q134077#P569",
+      "verified": {
+        "revision": 2564487268,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1970-03-07",
+        "originalCalendar": "gregorian",
+        "claim": "q134077$EAA542FE-B98F-4C21-A578-C33CE769D95D",
+        "references": [
+          "https://find-and-update.company-information.service.gov.uk/company/00921909/filing-history/MzA4OTczNjA2NGFkaXF6a2N4/document?format=pdf&download=0"
+        ]
+      }
+    },
+    {
+      "id": "Q23547",
+      "name": "Брайан Крэнстон",
+      "birthDate": "1956-03-07",
+      "birthYear": 1956,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%8D%D0%BD%D1%81%D1%82%D0%BE%D0%BD,_%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q23547#P569",
+      "verified": {
+        "revision": 2561656652,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1956-03-07",
+        "originalCalendar": "gregorian",
+        "claim": "q23547$C3F1FCB2-1487-4D52-8365-01DE7523DDCA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q14278",
+      "name": "Джон Гершель",
+      "birthDate": "1792-03-07",
+      "birthYear": 1792,
+      "description": "английский астроном и физик",
+      "category": "science",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D1%88%D0%B5%D0%BB%D1%8C,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q14278#P569",
+      "verified": {
+        "revision": 2561120229,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1792-03-07",
+        "originalCalendar": "gregorian",
+        "claim": "q14278$A5384FE3-EB94-4CDD-824C-6CD46D75484E",
+        "references": []
+      }
+    }
+  ]
+}

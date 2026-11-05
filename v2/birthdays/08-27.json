@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "08-27",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9235",
+      "name": "Георг Вильгельм Фридрих Гегель",
+      "birthDate": "1770-08-27",
+      "birthYear": 1770,
+      "description": "немецкий философ (1770–1831)",
+      "category": "literature",
+      "sitelinks": 194,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B3%D0%B5%D0%BB%D1%8C,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q9235#P569",
+      "verified": {
+        "revision": 2564769281,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1770-08-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q9235$9819CB2C-F883-4183-84E2-A81549989FE1",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/hegel-georg-wilhelm-friedrich"
+        ]
+      }
+    },
+    {
+      "id": "Q9640",
+      "name": "Линдон Джонсон",
+      "birthDate": "1908-08-27",
+      "birthYear": 1908,
+      "description": "американский политик, президент США (1963-1969), вице-презиент США (1961-1963)",
+      "category": "public",
+      "sitelinks": 176,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81%D0%BE%D0%BD,_%D0%9B%D0%B8%D0%BD%D0%B4%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q9640#P569",
+      "verified": {
+        "revision": 2563804410,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-08-27",
+        "originalCalendar": "gregorian",
+        "claim": "q9640$CC6499F1-D596-4CD4-92B1-B874C5EE216B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2662517",
+      "name": "Джамала",
+      "birthDate": "1983-08-27",
+      "birthYear": 1983,
+      "description": "украинская певица",
+      "category": "music",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B0%D0%BC%D0%B0%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q2662517#P569",
+      "verified": {
+        "revision": 2562279052,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-08-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q2662517$125BBD6C-FA31-4E01-A076-4E846E8CE709",
+        "references": []
+      }
+    },
+    {
+      "id": "Q103759",
+      "name": "Сезария Эвора",
+      "birthDate": "1941-08-27",
+      "birthYear": 1941,
+      "description": "кабо-вердианская певица",
+      "category": "music",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B2%D0%BE%D1%80%D0%B0,_%D0%A1%D0%B5%D0%B7%D0%B0%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q103759#P569",
+      "verified": {
+        "revision": 2559546539,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-08-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q103759$3B548520-62C8-4584-8074-13CC974A9AB5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q486096",
+      "name": "Теодор Драйзер",
+      "birthDate": "1871-08-27",
+      "birthYear": 1871,
+      "description": "американский писатель и общественный деятель (1871—1945)",
+      "category": "literature",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%B9%D0%B7%D0%B5%D1%80,_%D0%A2%D0%B5%D0%BE%D0%B4%D0%BE%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q486096#P569",
+      "verified": {
+        "revision": 2558255144,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1871-08-27",
+        "originalCalendar": "gregorian",
+        "claim": "q486096$C2D1EFD7-303A-4C6C-A1F8-BF90DF381ABE",
+        "references": []
+      }
+    }
+  ]
+}

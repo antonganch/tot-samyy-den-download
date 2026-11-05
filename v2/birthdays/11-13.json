@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "11-13",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1512",
+      "name": "Роберт Льюис Стивенсон",
+      "birthDate": "1850-11-13",
+      "birthYear": 1850,
+      "description": "шотландский писатель и поэт (1850—1894)",
+      "category": "literature",
+      "sitelinks": 154,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%D1%81%D0%BE%D0%BD,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82_%D0%9B%D1%8C%D1%8E%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q1512#P569",
+      "verified": {
+        "revision": 2564792129,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1850-11-13",
+        "originalCalendar": "gregorian",
+        "claim": "q1512$2e593047-4683-0837-21ad-bfdadadcd817",
+        "references": []
+      }
+    },
+    {
+      "id": "Q49001",
+      "name": "Вупи Голдберг",
+      "birthDate": "1955-11-13",
+      "birthYear": 1955,
+      "description": "американская актриса, продюсер и телеведущая (род. 1955)",
+      "category": "screen",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BF%D0%B8_%D0%93%D0%BE%D0%BB%D0%B4%D0%B1%D0%B5%D1%80%D0%B3",
+      "source": "https://www.wikidata.org/wiki/Q49001#P569",
+      "verified": {
+        "revision": 2564428337,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-11-13",
+        "originalCalendar": "gregorian",
+        "claim": "q49001$CC9CD8CA-4143-4203-A57C-4F31C29C26DA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q315087",
+      "name": "Гарри Маршалл",
+      "birthDate": "1934-11-13",
+      "birthYear": 1934,
+      "description": "американский кинорежиссёр, продюсер и сценарист",
+      "category": "screen",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB%D0%BB,_%D0%93%D0%B0%D1%80%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q315087#P569",
+      "verified": {
+        "revision": 2559130908,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1934-11-13",
+        "originalCalendar": "gregorian",
+        "claim": "q315087$674C6705-98E7-4F83-A3F6-B38B5FD47905",
+        "references": []
+      }
+    },
+    {
+      "id": "Q318508",
+      "name": "Андрес Мануэль Лопес Обрадор",
+      "birthDate": "1953-11-13",
+      "birthYear": 1953,
+      "description": "мексиканский политический деятель, президент Мексики (с 2018)",
+      "category": "public",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B5%D1%81_%D0%9E%D0%B1%D1%80%D0%B0%D0%B4%D0%BE%D1%80,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D1%81_%D0%9C%D0%B0%D0%BD%D1%83%D1%8D%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q318508#P569",
+      "verified": {
+        "revision": 2557763729,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-11-13",
+        "originalCalendar": "gregorian",
+        "claim": "Q318508$DFAA0108-04C0-47F7-8A39-3B54A57AFB34",
+        "references": []
+      }
+    },
+    {
+      "id": "Q22007193",
+      "name": "Ландо Норрис",
+      "birthDate": "1999-11-13",
+      "birthYear": 1999,
+      "description": "британский автогонщик",
+      "category": "sport",
+      "sitelinks": 63,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D1%80%D0%B8%D1%81,_%D0%9B%D0%B0%D0%BD%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q22007193#P569",
+      "verified": {
+        "revision": 2563983896,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1999-11-13",
+        "originalCalendar": "gregorian",
+        "claim": "Q22007193$8488E39C-4112-4A24-BECA-4C0C5BB7F8ED",
+        "references": [
+          "https://es.motorsport.com/driver/lando-norris/290513/"
+        ]
+      }
+    }
+  ]
+}

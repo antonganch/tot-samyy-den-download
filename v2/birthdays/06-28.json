@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "06-28",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q6527",
+      "name": "Жан-Жак Руссо",
+      "birthDate": "1712-06-28",
+      "birthYear": 1712,
+      "description": "французский деятель эпохи Просвещения",
+      "category": "other",
+      "sitelinks": 236,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BE,_%D0%96%D0%B0%D0%BD-%D0%96%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q6527#P569",
+      "verified": {
+        "revision": 2564792859,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1712-06-28",
+        "originalCalendar": "gregorian",
+        "claim": "q6527$3BEB59AF-58FC-48FA-AB81-09DF507C242D",
+        "references": [
+          "https://ge.ch/arvaegrefdoc/EC3/87605/chaeg_ec_saint_pierre_bm_11_00149.JPG"
+        ]
+      }
+    },
+    {
+      "id": "Q317521",
+      "name": "Илон Маск",
+      "birthDate": "1971-06-28",
+      "birthYear": 1971,
+      "description": "американский предприниматель и политик",
+      "category": "public",
+      "sitelinks": 203,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D0%BA,_%D0%98%D0%BB%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q317521#P569",
+      "verified": {
+        "revision": 2562916973,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-06-28",
+        "originalCalendar": "gregorian",
+        "claim": "q317521$a73fecdf-4309-4f5e-4bd5-19124fc2a38b",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1403",
+      "name": "Луиджи Пиранделло",
+      "birthDate": "1867-06-28",
+      "birthYear": 1867,
+      "description": "итальянский писатель и драматург",
+      "category": "literature",
+      "sitelinks": 135,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%B0%D0%BD%D0%B4%D0%B5%D0%BB%D0%BB%D0%BE,_%D0%9B%D1%83%D0%B8%D0%B4%D0%B6%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q1403#P569",
+      "verified": {
+        "revision": 2563627898,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1867-06-28",
+        "originalCalendar": "gregorian",
+        "claim": "q1403$24CA241B-0C98-40C4-98B7-CB6C46EDCF8F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q43969",
+      "name": "Мухаммад Юнус",
+      "birthDate": "1940-06-28",
+      "birthYear": 1940,
+      "description": "Бангладешский банкир, экономист, лауреат Нобелевской премии мира",
+      "category": "science",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D1%83%D1%81,_%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q43969#P569",
+      "verified": {
+        "revision": 2563050908,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-06-28",
+        "originalCalendar": "gregorian",
+        "claim": "q43969$804D939B-3071-4D49-908B-590E4900A389",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57100",
+      "name": "Мария Гёпперт-Майер",
+      "birthDate": "1906-06-28",
+      "birthYear": 1906,
+      "description": "американский физик-теоретик немецкого происхождения",
+      "category": "science",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%91%D0%BF%D0%BF%D0%B5%D1%80%D1%82-%D0%9C%D0%B0%D0%B9%D0%B5%D1%80,_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q57100#P569",
+      "verified": {
+        "revision": 2564004033,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1906-06-28",
+        "originalCalendar": "gregorian",
+        "claim": "q57100$F96ADD3F-CF2B-41D6-A311-D59F7CA1B2F6",
+        "references": []
+      }
+    }
+  ]
+}

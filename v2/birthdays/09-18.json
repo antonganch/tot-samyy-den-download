@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "day": "09-18",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q78516",
+      "name": "Анна Юрьевна Нетребко",
+      "birthDate": "1971-09-18",
+      "birthYear": 1971,
+      "description": "российская, австрийская оперная певица",
+      "category": "music",
+      "sitelinks": 169,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%82%D1%80%D0%B5%D0%B1%D0%BA%D0%BE,_%D0%90%D0%BD%D0%BD%D0%B0_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q78516#P569",
+      "verified": {
+        "revision": 2564949442,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-09-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q78516$9BBB65A7-26F8-4FE3-92FC-598BCE8B1641",
+        "references": [
+          "https://bigenc.ru/music/text/5294884"
+        ]
+      }
+    },
+    {
+      "id": "Q183266",
+      "name": "Сэмюэл Джонсон",
+      "birthDate": "1709-09-18",
+      "birthYear": 1709,
+      "description": "английский критик, лексикограф, поэт",
+      "category": "literature",
+      "sitelinks": 134,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81%D0%BE%D0%BD,_%D0%A1%D1%8D%D0%BC%D1%8E%D1%8D%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q183266#P569",
+      "verified": {
+        "revision": 2564801871,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1709-09-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q183266$83D4D91F-B675-4A2B-9B3D-CADBC6861FC6",
+        "references": [
+          "https://tritius.kmol.cz/authority/766561"
+        ]
+      }
+    },
+    {
+      "id": "Q5443",
+      "name": "Грета Гарбо",
+      "birthDate": "1905-09-18",
+      "birthYear": 1905,
+      "description": "шведская и американская киноактриса",
+      "category": "screen",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B1%D0%BE,_%D0%93%D1%80%D0%B5%D1%82%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q5443#P569",
+      "verified": {
+        "revision": 2564499005,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1905-09-18",
+        "originalCalendar": "gregorian",
+        "claim": "q5443$E02FC2F4-B818-41CE-B176-70563AD6595F",
+        "references": [
+          "https://sok.riksarkivet.se/bildvisning/00006820_00152#?cv=151&z=61.4277%2C2161.29%2C2927.119%2C1754.2227&c=&m=&s=&xywh=-234%2C1887%2C3577%2C2025"
+        ]
+      }
+    },
+    {
+      "id": "Q529207",
+      "name": "Роналдо",
+      "birthDate": "1976-09-18",
+      "birthYear": 1976,
+      "description": "бразильский футболист",
+      "category": "sport",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q529207#P569",
+      "verified": {
+        "revision": 2564560204,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1976-09-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q529207$2894DDF1-77E6-4034-99C5-37EA1C84ADFF",
+        "references": [
+          "https://veja.abril.com.br/esporte/ronaldo-um-fenomeno-40-anos-em-40-atos/",
+          "https://as.com/futbol/2021/09/23/internacional/1632408257_731451.html"
+        ]
+      }
+    },
+    {
+      "id": "Q308722",
+      "name": "Джеймс Гандолфини",
+      "birthDate": "1961-09-18",
+      "birthYear": 1961,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BD%D0%B4%D0%BE%D0%BB%D1%8C%D1%84%D0%B8%D0%BD%D0%B8,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q308722#P569",
+      "verified": {
+        "revision": 2563193340,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1961-09-18",
+        "originalCalendar": "gregorian",
+        "claim": "q308722$5c7fbb47-4e77-2950-6567-da66a2a1df36",
+        "references": []
+      }
+    }
+  ]
+}

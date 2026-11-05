@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "10-12",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q37615",
+      "name": "Лучано Паваротти",
+      "birthDate": "1935-10-12",
+      "birthYear": 1935,
+      "description": "итальянский оперный певец (1935—2007)",
+      "category": "music",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B0%D1%80%D0%BE%D1%82%D1%82%D0%B8,_%D0%9B%D1%83%D1%87%D0%B0%D0%BD%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q37615#P569",
+      "verified": {
+        "revision": 2563871757,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1935-10-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q37615$5eee68e9-3ec6-41b4-9c1d-f0b8d70dda9f",
+        "references": []
+      }
+    },
+    {
+      "id": "Q129591",
+      "name": "Хью Джекман",
+      "birthDate": "1968-10-12",
+      "birthYear": 1968,
+      "description": "австралийский актёр театра и кино, продюсер",
+      "category": "screen",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BA%D0%BC%D0%B0%D0%BD,_%D0%A5%D1%8C%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q129591#P569",
+      "verified": {
+        "revision": 2563798838,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-10-12",
+        "originalCalendar": "gregorian",
+        "claim": "q129591$CD453B3A-8351-497D-BFCA-B7FEC1F40179",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83174",
+      "name": "Эудженио Монтале",
+      "birthDate": "1896-10-12",
+      "birthYear": 1896,
+      "description": "итальянский поэт, прозаик, литературный критик",
+      "category": "literature",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%BB%D0%B5,_%D0%AD%D1%83%D0%B4%D0%B6%D0%B5%D0%BD%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q83174#P569",
+      "verified": {
+        "revision": 2563197689,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1896-10-12",
+        "originalCalendar": "gregorian",
+        "claim": "q83174$3DEF3651-DD73-418E-AA3A-C8A288F21CA9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q172684",
+      "name": "Алистер Кроули",
+      "birthDate": "1875-10-12",
+      "birthYear": 1875,
+      "description": "британский оккультист, мистик и поэт",
+      "category": "literature",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%83%D0%BB%D0%B8,_%D0%90%D0%BB%D0%B8%D1%81%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q172684#P569",
+      "verified": {
+        "revision": 2563883718,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1875-10-12",
+        "originalCalendar": "gregorian",
+        "claim": "q172684$890FCDB4-45FC-4BEE-908F-94DEC3FDB69A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q217004",
+      "name": "Джош Хатчерсон",
+      "birthDate": "1992-10-12",
+      "birthYear": 1992,
+      "description": "американский актёр кино и телевидения",
+      "category": "screen",
+      "sitelinks": 66,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%82%D1%87%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D1%88",
+      "source": "https://www.wikidata.org/wiki/Q217004#P569",
+      "verified": {
+        "revision": 2553932980,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1992-10-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q217004$88A89FC3-59CA-496B-BE2A-6FED50D8EAB1",
+        "references": []
+      }
+    }
+  ]
+}

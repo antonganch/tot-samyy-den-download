@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "05-24",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q392",
+      "name": "Боб Дилан",
+      "birthDate": "1941-05-24",
+      "birthYear": 1941,
+      "description": "американский автор-исполнитель песен, поэт, художник, киноактёр (р. 1941)",
+      "category": "screen",
+      "sitelinks": 185,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BB%D0%B0%D0%BD,_%D0%91%D0%BE%D0%B1",
+      "source": "https://www.wikidata.org/wiki/Q392#P569",
+      "verified": {
+        "revision": 2563199994,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-05-24",
+        "originalCalendar": "gregorian",
+        "claim": "q392$1c2094f1-486c-ebf1-a913-883a09e4333a",
+        "references": []
+      }
+    },
+    {
+      "id": "Q9439",
+      "name": "Виктория",
+      "birthDate": "1819-05-24",
+      "birthYear": 1819,
+      "description": "королева Великобритании (1837–1901)",
+      "category": "public",
+      "sitelinks": 177,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8)",
+      "source": "https://www.wikidata.org/wiki/Q9439#P569",
+      "verified": {
+        "revision": 2564128415,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1819-05-24",
+        "originalCalendar": "gregorian",
+        "claim": "q9439$37A1316B-9914-4C37-8181-B4CA03EC3BF2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q42398",
+      "name": "Михаил Александрович Шолохов",
+      "birthDate": "1905-05-24",
+      "birthYear": 1905,
+      "description": "русский писатель, журналист, киносценарист и общественный деятель",
+      "category": "screen",
+      "sitelinks": 118,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D0%BB%D0%BE%D1%85%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q42398#P569",
+      "verified": {
+        "revision": 2564767910,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1905-05-11",
+        "originalCalendar": "julian",
+        "claim": "q42398$78907361-4ef8-bf7a-b610-4595384dc2fb",
+        "references": []
+      }
+    },
+    {
+      "id": "Q862",
+      "name": "Иосиф Александрович Бродский",
+      "birthDate": "1940-05-24",
+      "birthYear": 1940,
+      "description": "русский и американский поэт, лауреат Нобелевской премии по литературе",
+      "category": "literature",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9,_%D0%98%D0%BE%D1%81%D0%B8%D1%84_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q862#P569",
+      "verified": {
+        "revision": 2564395655,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-05-24",
+        "originalCalendar": "gregorian",
+        "claim": "q862$5FEAD5DE-BD8A-46EF-ACAB-72554AE16C14",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57073",
+      "name": "Габриель Фаренгейт",
+      "birthDate": "1686-05-24",
+      "birthYear": 1686,
+      "description": "немецкий физик, создатель шкалы Фаренгейта",
+      "category": "science",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D0%B5%D0%BD%D0%B3%D0%B5%D0%B9%D1%82,_%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q57073#P569",
+      "verified": {
+        "revision": 2564358883,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1686-05-24",
+        "originalCalendar": "gregorian",
+        "claim": "q57073$F0AA2C52-4986-4C9B-8693-485F28CA8FC2",
+        "references": []
+      }
+    }
+  ]
+}

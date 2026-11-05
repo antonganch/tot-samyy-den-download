@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "11-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q6279",
+      "name": "Джо Байден",
+      "birthDate": "1942-11-20",
+      "birthYear": 1942,
+      "description": "46-й президент США (2021—2025), американский политик",
+      "category": "public",
+      "sitelinks": 278,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D0%B4%D0%B5%D0%BD,_%D0%94%D0%B6%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q6279#P569",
+      "verified": {
+        "revision": 2564539770,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-11-20",
+        "originalCalendar": "gregorian",
+        "claim": "q6279$BDF7B80B-FCD5-458C-84DD-297988C377B9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44519",
+      "name": "Сельма Лагерлёф",
+      "birthDate": "1858-11-20",
+      "birthYear": 1858,
+      "description": "шведская писательница",
+      "category": "literature",
+      "sitelinks": 155,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D0%BB%D1%91%D1%84,_%D0%A1%D0%B5%D0%BB%D1%8C%D0%BC%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q44519#P569",
+      "verified": {
+        "revision": 2564609718,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1858-11-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q44519$D0E0AAEF-AF1A-42E3-B64B-D5C6C0706C79",
+        "references": [
+          "https://sok.riksarkivet.se/bildvisning/C0039805_00103?c=0&m=0&s=0&cv=0#?cv=102&z=2778.2727%2C3058.3862%2C2977.2693%2C1557.168",
+          "https://sok.riksarkivet.se/bildvisning/C0039792_00126?c=0&m=0&s=0&cv=0#?cv=125&z=203.4318%2C858.6494%2C1944.2398%2C1192.3524"
+        ]
+      }
+    },
+    {
+      "id": "Q47619",
+      "name": "Надин Гордимер",
+      "birthDate": "1923-11-20",
+      "birthYear": 1923,
+      "description": "южноафриканский писатель",
+      "category": "literature",
+      "sitelinks": 128,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B4%D0%B8%D0%BC%D0%B5%D1%80,_%D0%9D%D0%B0%D0%B4%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q47619#P569",
+      "verified": {
+        "revision": 2563050874,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1923-11-20",
+        "originalCalendar": "gregorian",
+        "claim": "q47619$C29DFDED-005B-40AF-8027-A014BDF47305",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/gordimer-nadine"
+        ]
+      }
+    },
+    {
+      "id": "Q43027",
+      "name": "Эдвин Пауэлл Хаббл",
+      "birthDate": "1889-11-20",
+      "birthYear": 1889,
+      "description": "американский астроном",
+      "category": "science",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB,_%D0%AD%D0%B4%D0%B2%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q43027#P569",
+      "verified": {
+        "revision": 2564646145,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1889-11-20",
+        "originalCalendar": "gregorian",
+        "claim": "q43027$4B344497-02AF-4C0B-85F1-94A72F424A22",
+        "references": []
+      }
+    },
+    {
+      "id": "Q101740",
+      "name": "Бенуа Мандельброт",
+      "birthDate": "1924-11-20",
+      "birthYear": 1924,
+      "description": "французский и американский математик",
+      "category": "science",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C%D0%B1%D1%80%D0%BE%D1%82,_%D0%91%D0%B5%D0%BD%D1%83%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q101740#P569",
+      "verified": {
+        "revision": 2557809432,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-11-20",
+        "originalCalendar": "gregorian",
+        "claim": "q101740$D9D02F41-12F8-474D-8D29-61DE6E99FBA2",
+        "references": []
+      }
+    }
+  ]
+}

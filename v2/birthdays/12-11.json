@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "12-11",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7176",
+      "name": "Нагиб Махфуз",
+      "birthDate": "1911-12-11",
+      "birthYear": 1911,
+      "description": "египетский писатель-романист, драматург, сценарист",
+      "category": "screen",
+      "sitelinks": 173,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%85%D1%84%D1%83%D0%B7,_%D0%9D%D0%B0%D0%B3%D0%B8%D0%B1",
+      "source": "https://www.wikidata.org/wiki/Q7176#P569",
+      "verified": {
+        "revision": 2563960157,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1911-12-11",
+        "originalCalendar": "gregorian",
+        "claim": "q7176$CC9D6F5D-B313-414F-A91A-5B22AC8FFC53",
+        "references": []
+      }
+    },
+    {
+      "id": "Q34474",
+      "name": "Александр Исаевич Солженицын",
+      "birthDate": "1918-12-11",
+      "birthYear": 1918,
+      "description": "советский писатель (1918—2008)",
+      "category": "literature",
+      "sitelinks": 160,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%B8%D1%86%D1%8B%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%98%D1%81%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q34474#P569",
+      "verified": {
+        "revision": 2563201415,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1918-12-11",
+        "originalCalendar": "gregorian",
+        "claim": "q34474$00B7BB48-804F-4CA3-AA51-CF67F90955F1",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/solschenizyn-alexander-issajewitsch"
+        ]
+      }
+    },
+    {
+      "id": "Q1151",
+      "name": "Гектор Берлиоз",
+      "birthDate": "1803-12-11",
+      "birthYear": 1803,
+      "description": "французский композитор и дирижёр",
+      "category": "music",
+      "sitelinks": 135,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%B7,_%D0%93%D0%B5%D0%BA%D1%82%D0%BE%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q1151#P569",
+      "verified": {
+        "revision": 2564825844,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1803-12-11",
+        "originalCalendar": "gregorian",
+        "claim": "q1151$42D35739-6B63-43F4-BB8D-DC859E792A56",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/berlioz-louis-hector"
+        ]
+      }
+    },
+    {
+      "id": "Q37193",
+      "name": "Роберт Кох",
+      "birthDate": "1843-12-11",
+      "birthYear": 1843,
+      "description": "немецкий микробиолог",
+      "category": "science",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%85,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q37193#P569",
+      "verified": {
+        "revision": 2563978388,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1843-12-11",
+        "originalCalendar": "gregorian",
+        "claim": "q37193$CBF144BA-5D57-4EC3-815B-4925D01775E6",
+        "references": [
+          "https://tritius.kmol.cz/authority/772211"
+        ]
+      }
+    },
+    {
+      "id": "Q58978",
+      "name": "Макс Борн",
+      "birthDate": "1882-12-11",
+      "birthYear": 1882,
+      "description": "немецкий и британский физик-теоретик и математик",
+      "category": "science",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BD,_%D0%9C%D0%B0%D0%BA%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q58978#P569",
+      "verified": {
+        "revision": 2564037711,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1882-12-11",
+        "originalCalendar": "gregorian",
+        "claim": "q58978$803D9881-9FF4-4767-A066-D974990D6F11",
+        "references": []
+      }
+    }
+  ]
+}

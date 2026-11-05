@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "07-14",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7546",
+      "name": "Ингмар Бергман",
+      "birthDate": "1918-07-14",
+      "birthYear": 1918,
+      "description": "шведский кинорежиссёр (1918–2007)",
+      "category": "screen",
+      "sitelinks": 165,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B3%D0%BC%D0%B0%D0%BD,_%D0%98%D0%BD%D0%B3%D0%BC%D0%B0%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q7546#P569",
+      "verified": {
+        "revision": 2561572476,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1918-07-14",
+        "originalCalendar": "gregorian",
+        "claim": "q7546$D12B4AFE-8EA8-4FD0-BEDE-05A455492227",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/bergman-ingmar"
+        ]
+      }
+    },
+    {
+      "id": "Q9582",
+      "name": "Джеральд Форд",
+      "birthDate": "1913-07-14",
+      "birthYear": 1913,
+      "description": "американский политик, президент США (1974–1977), вице-президент США (1973–1974)",
+      "category": "public",
+      "sitelinks": 175,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%B4,_%D0%94%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q9582#P569",
+      "verified": {
+        "revision": 2562972233,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1913-07-14",
+        "originalCalendar": "gregorian",
+        "claim": "q9582$7834A884-9874-4DDF-B362-8DF4502936D7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q75612",
+      "name": "Исаак Башевис Зингер",
+      "birthDate": "1904-07-14",
+      "birthYear": 1904,
+      "description": "американский еврейский писатель",
+      "category": "literature",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%88%D0%B5%D0%B2%D0%B8%D1%81-%D0%97%D0%B8%D0%BD%D0%B3%D0%B5%D1%80,_%D0%98%D1%81%D0%B0%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q75612#P569",
+      "verified": {
+        "revision": 2563196792,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1904-07-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q75612$3e56a6f3-8c39-4b66-a094-d9f3ca97d575",
+        "references": [
+          "https://bigenc.ru/literature/text/2879163"
+        ]
+      }
+    },
+    {
+      "id": "Q34661",
+      "name": "Густав Климт",
+      "birthDate": "1862-07-14",
+      "birthYear": 1862,
+      "description": "австрийский художник (1862 – 1918)",
+      "category": "art",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BC%D1%82,_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q34661#P569",
+      "verified": {
+        "revision": 2563978334,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1862-07-14",
+        "originalCalendar": "gregorian",
+        "claim": "q34661$6c7f9e1a-4be3-0bbd-dd46-493cf19c8a66",
+        "references": [
+          "https://data.matricula-online.eu/de/oesterreich/wien/14-baumgarten/01-03/?pg=116"
+        ]
+      }
+    },
+    {
+      "id": "Q4061",
+      "name": "Вуди Гатри",
+      "birthDate": "1912-07-14",
+      "birthYear": 1912,
+      "description": "американский музыкант",
+      "category": "music",
+      "sitelinks": 64,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%82%D1%80%D0%B8,_%D0%92%D1%83%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q4061#P569",
+      "verified": {
+        "revision": 2563767471,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-07-14",
+        "originalCalendar": "gregorian",
+        "claim": "q4061$704659AB-1B12-4012-AE50-1A6777136186",
+        "references": []
+      }
+    }
+  ]
+}

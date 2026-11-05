@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "05-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9711",
+      "name": "Оноре де Бальзак",
+      "birthDate": "1799-05-20",
+      "birthYear": 1799,
+      "description": "французский писатель-прозаик",
+      "category": "literature",
+      "sitelinks": 177,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D1%8C%D0%B7%D0%B0%D0%BA,_%D0%9E%D0%BD%D0%BE%D1%80%D0%B5_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q9711#P569",
+      "verified": {
+        "revision": 2564818139,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1799-05-20",
+        "originalCalendar": "gregorian",
+        "claim": "q9711$DCB099AA-C843-4262-A50B-172E38DFF4F1",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/balzac-honore-de"
+        ]
+      }
+    },
+    {
+      "id": "Q50020",
+      "name": "Джон Стюарт Милль",
+      "birthDate": "1806-05-20",
+      "birthYear": 1806,
+      "description": "английский философ, экономист, политик",
+      "category": "public",
+      "sitelinks": 151,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D1%8C,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q50020#P569",
+      "verified": {
+        "revision": 2564813236,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1806-05-20",
+        "originalCalendar": "gregorian",
+        "claim": "q50020$DA67E315-42BA-40FE-8974-5054A02C4583",
+        "references": []
+      }
+    },
+    {
+      "id": "Q12003",
+      "name": "Шер",
+      "birthDate": "1946-05-20",
+      "birthYear": 1946,
+      "description": "американская певица, актриса",
+      "category": "screen",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q12003#P569",
+      "verified": {
+        "revision": 2564959615,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-05-20",
+        "originalCalendar": "gregorian",
+        "claim": "q12003$C92C11B9-71B7-4F01-B98D-58FA1E5E0ED0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q80889",
+      "name": "Сигрид Унсет",
+      "birthDate": "1882-05-20",
+      "birthYear": 1882,
+      "description": "норвежская писательница",
+      "category": "literature",
+      "sitelinks": 118,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D1%81%D0%B5%D1%82,_%D0%A1%D0%B8%D0%B3%D1%80%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q80889#P569",
+      "verified": {
+        "revision": 2563064228,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1882-05-20",
+        "originalCalendar": "gregorian",
+        "claim": "q80889$3CE5B552-8C78-4234-A578-AFF3AF65353C",
+        "references": [
+          "https://tritius.kmol.cz/authority/864999"
+        ]
+      }
+    },
+    {
+      "id": "Q11584",
+      "name": "Икер Касильяс",
+      "birthDate": "1981-05-20",
+      "birthYear": 1981,
+      "description": "испанский футболист",
+      "category": "sport",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D1%8F%D1%81,_%D0%98%D0%BA%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q11584#P569",
+      "verified": {
+        "revision": 2562778046,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-05-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q11584$928C775A-23D2-4967-9465-32FC693BB95E",
+        "references": []
+      }
+    }
+  ]
+}

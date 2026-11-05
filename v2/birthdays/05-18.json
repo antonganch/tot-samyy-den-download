@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "day": "05-18",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q989",
+      "name": "Иоанн Павел II",
+      "birthDate": "1920-05-18",
+      "birthYear": 1920,
+      "description": "папа римский (1978—2005)",
+      "category": "public",
+      "sitelinks": 209,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_II",
+      "source": "https://www.wikidata.org/wiki/Q989#P569",
+      "verified": {
+        "revision": 2564769170,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1920-05-18",
+        "originalCalendar": "gregorian",
+        "claim": "q989$CFBC073A-3E27-4701-8869-134304C727E7",
+        "references": [
+          "https://tritius.kmol.cz/authority/723786"
+        ]
+      }
+    },
+    {
+      "id": "Q33760",
+      "name": "Бертран Рассел",
+      "birthDate": "1872-05-18",
+      "birthYear": 1872,
+      "description": "британский философ, логик и общественный деятель",
+      "category": "literature",
+      "sitelinks": 187,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BB,_%D0%91%D0%B5%D1%80%D1%82%D1%80%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q33760#P569",
+      "verified": {
+        "revision": 2563962074,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1872-05-18",
+        "originalCalendar": "gregorian",
+        "claim": "q33760$1023DFDB-900A-4D7A-B788-58A848A2A507",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/russell-bertrand-arthur-william"
+        ]
+      }
+    },
+    {
+      "id": "Q51492",
+      "name": "Фрэнк Капра",
+      "birthDate": "1897-05-18",
+      "birthYear": 1897,
+      "description": "Американский кинорежиссёр и продюсер итальянского происхождения",
+      "category": "screen",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%80%D0%B0,_%D0%A4%D1%80%D1%8D%D0%BD%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q51492#P569",
+      "verified": {
+        "revision": 2557882777,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1897-05-18",
+        "originalCalendar": "gregorian",
+        "claim": "q51492$439B71F4-90A2-4162-A1DA-B6BA501DEC0E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q61071",
+      "name": "Вальтер Гропиус",
+      "birthDate": "1883-05-18",
+      "birthYear": 1883,
+      "description": "немецкий архитектор, основатель баухауза",
+      "category": "art",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D0%BF%D0%B8%D1%83%D1%81,_%D0%92%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q61071#P569",
+      "verified": {
+        "revision": 2563746345,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1883-05-18",
+        "originalCalendar": "gregorian",
+        "claim": "q61071$0B08C7CA-C7E4-4291-89CF-B84F23624E6D",
+        "references": [
+          "https://frankfurter-personenlexikon.de/node/2433",
+          "https://brockhaus.de/ecs/julex/article/gropius-walter",
+          "https://cs.isabart.org/person/13454"
+        ]
+      }
+    },
+    {
+      "id": "Q57120",
+      "name": "Петер Грюнберг",
+      "birthDate": "1939-05-18",
+      "birthYear": 1939,
+      "description": "немецкий физик, лауреат Нобелевской премии",
+      "category": "science",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D1%8E%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%9F%D0%B5%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q57120#P569",
+      "verified": {
+        "revision": 2563198874,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1939-05-18",
+        "originalCalendar": "gregorian",
+        "claim": "q57120$88E76643-3A05-47BA-A59D-FF86626B10F5",
+        "references": [
+          "https://tritius.plzen.eu/authority/133215"
+        ]
+      }
+    }
+  ]
+}

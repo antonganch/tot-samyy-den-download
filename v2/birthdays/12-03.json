@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "12-03",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q82925",
+      "name": "Джозеф Конрад",
+      "birthDate": "1857-12-03",
+      "birthYear": 1857,
+      "description": "английский писатель польского происхождения (1857—1924)",
+      "category": "literature",
+      "sitelinks": 132,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%80%D0%B0%D0%B4,_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q82925#P569",
+      "verified": {
+        "revision": 2564793629,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1857-12-03",
+        "originalCalendar": "gregorian",
+        "claim": "q82925$55BB59E6-CBE6-42EB-A431-4E7A580E977E",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/conrad-joseph"
+        ]
+      }
+    },
+    {
+      "id": "Q80405",
+      "name": "Джулианна Мур",
+      "birthDate": "1960-12-03",
+      "birthYear": 1960,
+      "description": "американская актриса (род. 1960)",
+      "category": "screen",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D0%BB%D0%B8%D0%B0%D0%BD%D0%BD%D0%B0_%D0%9C%D1%83%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q80405#P569",
+      "verified": {
+        "revision": 2563190713,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1960-12-03",
+        "originalCalendar": "gregorian",
+        "claim": "q80405$E3C57EA6-5206-4738-B54A-E6C1E2D3CF4B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q133151",
+      "name": "Оззи Осборн",
+      "birthDate": "1948-12-03",
+      "birthYear": 1948,
+      "description": "английский рок-музыкант",
+      "category": "music",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%B1%D0%BE%D1%80%D0%BD,_%D0%9E%D0%B7%D0%B7%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q133151#P569",
+      "verified": {
+        "revision": 2564790369,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1948-12-03",
+        "originalCalendar": "gregorian",
+        "claim": "q133151$4F0BA9B9-CEC3-4034-9F3C-404C4F48DBF5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q53001",
+      "name": "Жан-Люк Годар",
+      "birthDate": "1930-12-03",
+      "birthYear": 1930,
+      "description": "франко-швейцарский кинорежиссёр, актёр, сценарист и кинопродюсер",
+      "category": "screen",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B4%D0%B0%D1%80,_%D0%96%D0%B0%D0%BD-%D0%9B%D1%8E%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q53001#P569",
+      "verified": {
+        "revision": 2561093606,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-12-03",
+        "originalCalendar": "gregorian",
+        "claim": "q53001$D38E0A67-D7F9-4AFE-B8B0-2280266C8963",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/godard-jean-luc"
+        ]
+      }
+    },
+    {
+      "id": "Q83006",
+      "name": "Давид Вилья",
+      "birthDate": "1981-12-03",
+      "birthYear": 1981,
+      "description": "испанский футболист",
+      "category": "sport",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D1%8F,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q83006#P569",
+      "verified": {
+        "revision": 2557852060,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-12-03",
+        "originalCalendar": "gregorian",
+        "claim": "Q83006$725BE240-B9F6-41A6-BDFF-0036C55A2BF5",
+        "references": []
+      }
+    }
+  ]
+}

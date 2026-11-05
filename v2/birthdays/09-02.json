@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "09-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q43416",
+      "name": "Киану Ривз",
+      "birthDate": "1964-09-02",
+      "birthYear": 1964,
+      "description": "канадский актёр, продюсер и музыкант (род. 1964)",
+      "category": "screen",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B2%D0%B7,_%D0%9A%D0%B8%D0%B0%D0%BD%D1%83",
+      "source": "https://www.wikidata.org/wiki/Q43416#P569",
+      "verified": {
+        "revision": 2562641397,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-09-02",
+        "originalCalendar": "gregorian",
+        "claim": "q43416$B41FC7EB-8613-4FCE-9603-925AD893FFB7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q125106",
+      "name": "Сальма Хайек",
+      "birthDate": "1966-09-02",
+      "birthYear": 1966,
+      "description": "мексикано-американская актриса (род. 1966)",
+      "category": "screen",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B9%D0%B5%D0%BA,_%D0%A1%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q125106#P569",
+      "verified": {
+        "revision": 2561652293,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1966-09-02",
+        "originalCalendar": "gregorian",
+        "claim": "q125106$B4A81C18-6F6F-4AFB-B152-A9AB1F3FF605",
+        "references": []
+      }
+    },
+    {
+      "id": "Q6383803",
+      "name": "Кир Стармер",
+      "birthDate": "1962-09-02",
+      "birthYear": 1962,
+      "description": "британский юрист и политик, премьер-министр Великобритании (2024–2026)",
+      "category": "public",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%80%D0%BC%D0%B5%D1%80,_%D0%9A%D0%B8%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q6383803#P569",
+      "verified": {
+        "revision": 2564275882,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1962-09-02",
+        "originalCalendar": "gregorian",
+        "claim": "Q6383803$2D533868-1D27-4E68-B113-0AE8B9118B8D",
+        "references": [
+          "https://www.standard.co.uk/news/politics/sir-keir-starmer-wikipedia-battle-millionaire-labour-leadership-a4317411.html"
+        ]
+      }
+    },
+    {
+      "id": "Q12658",
+      "name": "Вильгельм Фридрих Оствальд",
+      "birthDate": "1853-09-02",
+      "birthYear": 1853,
+      "description": "балтийско-немецкий химик",
+      "category": "science",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D1%82%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4,_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q12658#P569",
+      "verified": {
+        "revision": 2564654192,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1853-09-02",
+        "originalCalendar": "gregorian",
+        "claim": "q12658$72BE42D9-B62E-4CE1-A275-68DC04C1CC49",
+        "references": []
+      }
+    },
+    {
+      "id": "Q102830",
+      "name": "Фредерик Содди",
+      "birthDate": "1877-09-02",
+      "birthYear": 1877,
+      "description": "английский радиохимик, лауреат Нобелевской премии по химии",
+      "category": "science",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B4%D0%B4%D0%B8,_%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q102830#P569",
+      "verified": {
+        "revision": 2563197532,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1877-09-02",
+        "originalCalendar": "gregorian",
+        "claim": "q102830$431851DD-5639-40DD-89AD-2B4C2F6EA3EE",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "02-29",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9726",
+      "name": "Джоаккино Россини",
+      "birthDate": "1792-02-29",
+      "birthYear": 1792,
+      "description": "итальянский композитор",
+      "category": "music",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%BD%D0%B8,_%D0%94%D0%B6%D0%BE%D0%B0%D0%BA%D0%BA%D0%B8%D0%BD%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q9726#P569",
+      "verified": {
+        "revision": 2564815476,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1792-02-29",
+        "originalCalendar": "gregorian",
+        "claim": "q9726$4A5B2783-B753-4A07-8D83-17431688629A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q6070218",
+      "name": "Педро Санчес",
+      "birthDate": "1972-02-29",
+      "birthYear": 1972,
+      "description": "испанский политик",
+      "category": "public",
+      "sitelinks": 102,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D1%87%D0%B5%D1%81,_%D0%9F%D0%B5%D0%B4%D1%80%D0%BE_(%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA)",
+      "source": "https://www.wikidata.org/wiki/Q6070218#P569",
+      "verified": {
+        "revision": 2562965729,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-02-29",
+        "originalCalendar": "gregorian",
+        "claim": "Q6070218$3A51C1E1-0E35-490D-A6B7-7D3F75634F84",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44297797",
+      "name": "Ферран Торрес",
+      "birthDate": "2000-02-29",
+      "birthYear": 2000,
+      "description": "испанский футболист",
+      "category": "sport",
+      "sitelinks": 68,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D1%81,_%D0%A4%D0%B5%D1%80%D1%80%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q44297797#P569",
+      "verified": {
+        "revision": 2564893939,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "2000-02-29",
+        "originalCalendar": "gregorian",
+        "claim": "Q44297797$CF5E0449-CFA7-4326-974C-FD45F69EB145",
+        "references": []
+      }
+    },
+    {
+      "id": "Q234897",
+      "name": "Мишель Морган",
+      "birthDate": "1920-02-29",
+      "birthYear": 1920,
+      "description": "французская актриса",
+      "category": "screen",
+      "sitelinks": 53,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%88%D0%B5%D0%BB%D1%8C_%D0%9C%D0%BE%D1%80%D0%B3%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q234897#P569",
+      "verified": {
+        "revision": 2558168429,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1920-02-29",
+        "originalCalendar": "gregorian",
+        "claim": "Q234897$CEED1B18-1F73-403A-B399-0AD52CEB6ABF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q192145",
+      "name": "Герман Холлерит",
+      "birthDate": "1860-02-29",
+      "birthYear": 1860,
+      "description": "американский инженер и изобретатель немецкого происхождения (1860-1929)",
+      "category": "science",
+      "sitelinks": 59,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D1%82,_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q192145#P569",
+      "verified": {
+        "revision": 2558935302,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1860-02-29",
+        "originalCalendar": "gregorian",
+        "claim": "Q192145$04121F2F-DF87-4ACE-B9C5-D8875FB47E42",
+        "references": []
+      }
+    }
+  ]
+}

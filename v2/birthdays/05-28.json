@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "05-28",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q11998",
+      "name": "Кайли Миноуг",
+      "birthDate": "1968-05-28",
+      "birthYear": 1968,
+      "description": "австралийская певица, автор песен и актриса",
+      "category": "screen",
+      "sitelinks": 123,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%BE%D1%83%D0%B3,_%D0%9A%D0%B0%D0%B9%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q11998#P569",
+      "verified": {
+        "revision": 2564820403,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-05-28",
+        "originalCalendar": "gregorian",
+        "claim": "q11998$83873292-BA54-4CE4-8BDD-013D24D95088",
+        "references": []
+      }
+    },
+    {
+      "id": "Q82104",
+      "name": "Ян Флеминг",
+      "birthDate": "1908-05-28",
+      "birthYear": 1908,
+      "description": "английский писатель (1908—1964)",
+      "category": "literature",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B5%D0%BC%D0%B8%D0%BD%D0%B3,_%D0%AF%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q82104#P569",
+      "verified": {
+        "revision": 2564655666,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-05-28",
+        "originalCalendar": "gregorian",
+        "claim": "q82104$793FE9D3-181B-47B3-90DE-AC8C84446CA0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q219655",
+      "name": "Кэри Маллиган",
+      "birthDate": "1985-05-28",
+      "birthYear": 1985,
+      "description": "английская актриса",
+      "category": "screen",
+      "sitelinks": 70,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%BB%D0%B8%D0%B3%D0%B0%D0%BD,_%D0%9A%D1%8D%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q219655#P569",
+      "verified": {
+        "revision": 2563811051,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1985-05-28",
+        "originalCalendar": "gregorian",
+        "claim": "Q219655$A36B6B74-59C7-407B-9E8F-98B14991AFD7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q324546",
+      "name": "Марко Рубио",
+      "birthDate": "1971-05-28",
+      "birthYear": 1971,
+      "description": "государственный секретарь США (с 2025 г.)",
+      "category": "other",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B1%D0%B8%D0%BE,_%D0%9C%D0%B0%D1%80%D0%BA%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q324546#P569",
+      "verified": {
+        "revision": 2563995173,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-05-28",
+        "originalCalendar": "gregorian",
+        "claim": "Q324546$51FE8B53-7399-411E-AFDC-49153392E003",
+        "references": []
+      }
+    },
+    {
+      "id": "Q128902",
+      "name": "Уильям Питт-младший",
+      "birthDate": "1759-05-28",
+      "birthYear": 1759,
+      "description": "британский государственный деятель, премьер-министр Великобритании (1801, 1804-1806)",
+      "category": "public",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%82%D1%82,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%9C%D0%BB%D0%B0%D0%B4%D1%88%D0%B8%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q128902#P569",
+      "verified": {
+        "revision": 2562947477,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1759-05-28",
+        "originalCalendar": "gregorian",
+        "claim": "q128902$6428B581-9791-409A-9852-DFB2ED282E4F",
+        "references": []
+      }
+    }
+  ]
+}

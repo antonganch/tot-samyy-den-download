@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "12-07",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9049",
+      "name": "Ноам Хомский",
+      "birthDate": "1928-12-07",
+      "birthYear": 1928,
+      "description": "американский лингвист, политический публицист и философ",
+      "category": "public",
+      "sitelinks": 189,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BC%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9D%D0%BE%D0%B0%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q9049#P569",
+      "verified": {
+        "revision": 2563777090,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-12-07",
+        "originalCalendar": "gregorian",
+        "claim": "q9049$35B91161-A5E7-4DC7-A25A-193D30E78831",
+        "references": []
+      }
+    },
+    {
+      "id": "Q298347",
+      "name": "Николас Холт",
+      "birthDate": "1989-12-07",
+      "birthYear": 1989,
+      "description": "британский актёр (р. 1989)",
+      "category": "screen",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D1%82,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q298347#P569",
+      "verified": {
+        "revision": 2559190244,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1989-12-07",
+        "originalCalendar": "gregorian",
+        "claim": "Q298347$5593AF92-8B01-40E6-920E-EA6D681CD470",
+        "references": []
+      }
+    },
+    {
+      "id": "Q211144",
+      "name": "Эллен Бёрстин",
+      "birthDate": "1932-12-07",
+      "birthYear": 1932,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%BB%D0%B5%D0%BD_%D0%91%D1%91%D1%80%D1%81%D1%82%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q211144#P569",
+      "verified": {
+        "revision": 2552200154,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1932-12-07",
+        "originalCalendar": "gregorian",
+        "claim": "q211144$0412CB41-2D7A-4BE1-8054-C9D8FA0B1F83",
+        "references": []
+      }
+    },
+    {
+      "id": "Q160538",
+      "name": "Джованни Лоренцо Бернини",
+      "birthDate": "1598-12-07",
+      "birthYear": 1598,
+      "description": "итальянский скульптор и архитектор",
+      "category": "art",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B8%D0%BD%D0%B8,_%D0%94%D0%B6%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B8_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%86%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q160538#P569",
+      "verified": {
+        "revision": 2563202159,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1598-12-07",
+        "originalCalendar": "gregorian",
+        "claim": "q160538$527264AC-2F26-4D4A-B0A1-68E8EE3612F2",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/bernini-giovanni-lorenzo-gianlorenzo"
+        ]
+      }
+    },
+    {
+      "id": "Q83456",
+      "name": "Джон Терри",
+      "birthDate": "1980-12-07",
+      "birthYear": 1980,
+      "description": "английский футболист",
+      "category": "sport",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D1%80%D0%B8,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q83456#P569",
+      "verified": {
+        "revision": 2558015417,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1980-12-07",
+        "originalCalendar": "gregorian",
+        "claim": "q83456$2D652A21-CC83-4AC6-9C70-05095BADB28D",
+        "references": []
+      }
+    }
+  ]
+}

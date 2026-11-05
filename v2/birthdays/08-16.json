@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "08-16",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1744",
+      "name": "Мадонна",
+      "birthDate": "1958-08-16",
+      "birthYear": 1958,
+      "description": "американская певица, автор песен и актриса (род. 1958)",
+      "category": "screen",
+      "sitelinks": 195,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0_(%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D0%B0)",
+      "source": "https://www.wikidata.org/wiki/Q1744#P569",
+      "verified": {
+        "revision": 2564107859,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-08-16",
+        "originalCalendar": "gregorian",
+        "claim": "q1744$cae50dea-434e-090f-ca1f-0637da5f2332",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/madonna-20"
+        ]
+      }
+    },
+    {
+      "id": "Q42574",
+      "name": "Джеймс Кэмерон",
+      "birthDate": "1954-08-16",
+      "birthYear": 1954,
+      "description": "канадский кинорежиссёр (род. 1954)",
+      "category": "screen",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D0%BC%D0%B5%D1%80%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q42574#P569",
+      "verified": {
+        "revision": 2564567780,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1954-08-16",
+        "originalCalendar": "gregorian",
+        "claim": "q42574$9BB72DBB-E83E-4DF6-8D98-66E4510A2C1F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q76409",
+      "name": "Чарльз Буковски",
+      "birthDate": "1920-08-16",
+      "birthYear": 1920,
+      "description": "Американский писатель",
+      "category": "literature",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8,_%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q76409#P569",
+      "verified": {
+        "revision": 2557836631,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1920-08-16",
+        "originalCalendar": "gregorian",
+        "claim": "q76409$99af2a3d-4f34-e34f-b7a1-a12bb7ab6a5c",
+        "references": []
+      }
+    },
+    {
+      "id": "Q170596",
+      "name": "Томас Эдвард Лоуренс",
+      "birthDate": "1888-08-16",
+      "birthYear": 1888,
+      "description": "британский офицер и путешественник",
+      "category": "exploration",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q170596#P569",
+      "verified": {
+        "revision": 2559415903,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1888-08-16",
+        "originalCalendar": "gregorian",
+        "claim": "q170596$86ED8312-CD23-4512-8AA1-93626158C395",
+        "references": []
+      }
+    },
+    {
+      "id": "Q75814",
+      "name": "Вильгельм Вундт",
+      "birthDate": "1832-08-16",
+      "birthYear": 1832,
+      "description": "немецкий физиолог и психолог",
+      "category": "science",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BD%D0%B4%D1%82,_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q75814#P569",
+      "verified": {
+        "revision": 2563986967,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1832-08-16",
+        "originalCalendar": "gregorian",
+        "claim": "q75814$C8E3C213-0556-4182-88B7-AA118C151A1C",
+        "references": []
+      }
+    }
+  ]
+}

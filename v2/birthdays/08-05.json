@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "08-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1615",
+      "name": "Нил Армстронг",
+      "birthDate": "1930-08-05",
+      "birthYear": 1930,
+      "description": "американский астронавт НАСА; лётчик-испытатель; первый человек, ступивший на Луну",
+      "category": "exploration",
+      "sitelinks": 220,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D0%BC%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B3,_%D0%9D%D0%B8%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q1615#P569",
+      "verified": {
+        "revision": 2564429595,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-08-05",
+        "originalCalendar": "gregorian",
+        "claim": "q1615$06E08DEC-AA0E-4189-BFB8-258E3ED68421",
+        "references": []
+      }
+    },
+    {
+      "id": "Q9327",
+      "name": "Ги де Мопассан",
+      "birthDate": "1850-08-05",
+      "birthYear": 1850,
+      "description": "французский писатель",
+      "category": "literature",
+      "sitelinks": 156,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BF%D0%B0%D1%81%D1%81%D0%B0%D0%BD,_%D0%93%D0%B8_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q9327#P569",
+      "verified": {
+        "revision": 2562550030,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1850-08-05",
+        "originalCalendar": "gregorian",
+        "claim": "q9327$E6206B2D-BE73-41C0-9A50-039FA36FDE3C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q12927",
+      "name": "Марин Ле Пен",
+      "birthDate": "1968-08-05",
+      "birthYear": 1968,
+      "description": "французский политик, лидер партии \"Национальное объединение\"",
+      "category": "public",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5_%D0%9F%D0%B5%D0%BD,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q12927#P569",
+      "verified": {
+        "revision": 2560958205,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-08-05",
+        "originalCalendar": "gregorian",
+        "claim": "Q12927$E5CCEACF-F6D0-4623-AF9D-37A48222F1F9",
+        "references": [
+          "https://www.data.gouv.fr/fr/datasets/r/b3bfd9bd-320c-41c4-9990-4303d7013200",
+          "https://www.data.gouv.fr/fr/datasets/r/8597b9e5-162b-472a-a27e-fe1b25eb0c35"
+        ]
+      }
+    },
+    {
+      "id": "Q172911",
+      "name": "Илья Ефимович Репин",
+      "birthDate": "1844-08-05",
+      "birthYear": 1844,
+      "description": "русский живописец, писатель и педагог",
+      "category": "literature",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD,_%D0%98%D0%BB%D1%8C%D1%8F_%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q172911#P569",
+      "verified": {
+        "revision": 2559056590,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1844-07-24",
+        "originalCalendar": "julian",
+        "claim": "Q172911$AAD6434D-8EC8-46EE-A1A2-F766580C5A3D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q147395",
+      "name": "Каджол",
+      "birthDate": "1974-08-05",
+      "birthYear": 1974,
+      "description": "индийская актриса",
+      "category": "screen",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B4%D0%B6%D0%BE%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q147395#P569",
+      "verified": {
+        "revision": 2564100263,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-08-05",
+        "originalCalendar": "gregorian",
+        "claim": "q147395$3C2CCB85-30F9-4747-96DC-3BD5CD96A4F3",
+        "references": []
+      }
+    }
+  ]
+}

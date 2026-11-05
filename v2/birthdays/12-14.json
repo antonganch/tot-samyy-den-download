@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "12-14",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q40722",
+      "name": "Дилма Русеф",
+      "birthDate": "1947-12-14",
+      "birthYear": 1947,
+      "description": "президент Бразилии (2011—2016)",
+      "category": "public",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D0%B5%D1%84,_%D0%94%D0%B8%D0%BB%D0%BC%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q40722#P569",
+      "verified": {
+        "revision": 2563038952,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-12-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q40722$c3546b55-4c99-41c1-6f86-79d2933798f9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q123174",
+      "name": "Ванесса Хадженс",
+      "birthDate": "1988-12-14",
+      "birthYear": 1988,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B4%D0%B6%D0%B5%D0%BD%D1%81,_%D0%92%D0%B0%D0%BD%D0%B5%D1%81%D1%81%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q123174#P569",
+      "verified": {
+        "revision": 2563792479,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1988-12-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q123174$01E58C76-CE81-4194-9F54-ABA6C162085E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q40890",
+      "name": "Анна Мария Йопек",
+      "birthDate": "1970-12-14",
+      "birthYear": 1970,
+      "description": "польская певица, музыкант и продюсер",
+      "category": "music",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D0%BF%D0%B5%D0%BA,_%D0%90%D0%BD%D0%BD%D0%B0_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q40890#P569",
+      "verified": {
+        "revision": 2563867625,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1970-12-14",
+        "originalCalendar": "gregorian",
+        "claim": "q40890$6D9E114C-9E96-4B9E-8708-EB7A380CB34B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q55407",
+      "name": "Радж Капур",
+      "birthDate": "1924-12-14",
+      "birthYear": 1924,
+      "description": "индийский актёр, режиссёр и продюсер",
+      "category": "screen",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%83%D1%80,_%D0%A0%D0%B0%D0%B4%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q55407#P569",
+      "verified": {
+        "revision": 2563874097,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-12-14",
+        "originalCalendar": "gregorian",
+        "claim": "q55407$5BD23777-ABA9-4EAC-AD24-1AF02F805F84",
+        "references": []
+      }
+    },
+    {
+      "id": "Q128829",
+      "name": "Майкл Оуэн",
+      "birthDate": "1979-12-14",
+      "birthYear": 1979,
+      "description": "английский футболист",
+      "category": "sport",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D1%83%D1%8D%D0%BD,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q128829#P569",
+      "verified": {
+        "revision": 2558167344,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1979-12-14",
+        "originalCalendar": "gregorian",
+        "claim": "q128829$DB8E3C05-6B7E-4AD5-A48A-39F84051368A",
+        "references": []
+      }
+    }
+  ]
+}

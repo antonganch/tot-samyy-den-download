@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "07-13",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q81328",
+      "name": "Харрисон Форд",
+      "birthDate": "1942-07-13",
+      "birthYear": 1942,
+      "description": "американский актёр и продюсер",
+      "category": "screen",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%B4,_%D0%A5%D0%B0%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q81328#P569",
+      "verified": {
+        "revision": 2563103349,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-07-13",
+        "originalCalendar": "gregorian",
+        "claim": "q81328$92ab6acc-4cb4-3984-db79-e007794b8213",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41488",
+      "name": "Воле Шойинка",
+      "birthDate": "1934-07-13",
+      "birthYear": 1934,
+      "description": "нигерийский драматург, писатель и поэт, лауреат Нобелевской премии",
+      "category": "literature",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D0%B9%D0%B8%D0%BD%D0%BA%D0%B0,_%D0%92%D0%BE%D0%BB%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q41488#P569",
+      "verified": {
+        "revision": 2563063314,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1934-07-13",
+        "originalCalendar": "gregorian",
+        "claim": "q41488$AAE62873-ADA5-459C-BD1B-B5A217C8E0FE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q16296",
+      "name": "Патрик Стюарт",
+      "birthDate": "1940-07-13",
+      "birthYear": 1940,
+      "description": "английский актёр (1940—2026)",
+      "category": "screen",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D1%82,_%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q16296#P569",
+      "verified": {
+        "revision": 2564955951,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-07-13",
+        "originalCalendar": "gregorian",
+        "claim": "q16296$8A791D33-0F32-4A36-B6A6-4317A50301AA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q113704154",
+      "name": "Ламин Ямаль",
+      "birthDate": "2007-07-13",
+      "birthYear": 2007,
+      "description": "испанский футболист",
+      "category": "sport",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BC%D0%B8%D0%BD_%D0%AF%D0%BC%D0%B0%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q113704154#P569",
+      "verified": {
+        "revision": 2563186760,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "2007-07-13",
+        "originalCalendar": "gregorian",
+        "claim": "Q113704154$76bcd2db-444b-4ed9-bd4b-1b32b5417f15",
+        "references": [
+          "https://www.sport.es/es/noticias/barca/secretos-lamine-yamal-86354043"
+        ]
+      }
+    },
+    {
+      "id": "Q155956",
+      "name": "Климент X",
+      "birthDate": "1590-07-13",
+      "birthYear": 1590,
+      "description": "папа римский",
+      "category": "public",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BC%D0%B5%D0%BD%D1%82_X",
+      "source": "https://www.wikidata.org/wiki/Q155956#P569",
+      "verified": {
+        "revision": 2557845837,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1590-07-13",
+        "originalCalendar": "gregorian",
+        "claim": "q155956$3731E9A5-D562-4655-B947-1C2980DD2EC7",
+        "references": []
+      }
+    }
+  ]
+}

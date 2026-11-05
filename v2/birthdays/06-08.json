@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "06-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5604",
+      "name": "Фрэнк Ллойд Райт",
+      "birthDate": "1867-06-08",
+      "birthYear": 1867,
+      "description": "американский архитектор-новатор (1867—1959)",
+      "category": "art",
+      "sitelinks": 179,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B9%D1%82,_%D0%A4%D1%80%D1%8D%D0%BD%D0%BA_%D0%9B%D0%BB%D0%BE%D0%B9%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q5604#P569",
+      "verified": {
+        "revision": 2553122969,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1867-06-08",
+        "originalCalendar": "gregorian",
+        "claim": "q5604$B0FD2875-F9AE-45B7-81D6-35D368E4F615",
+        "references": [
+          "https://www.taliesinpreservation.org/history/"
+        ]
+      }
+    },
+    {
+      "id": "Q80",
+      "name": "Тим Бернерс-Ли",
+      "birthDate": "1955-06-08",
+      "birthYear": 1955,
+      "description": "британский учёный, изобретатель Всемирной паутины (р. 1955)",
+      "category": "science",
+      "sitelinks": 164,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B5%D1%80%D1%81-%D0%9B%D0%B8,_%D0%A2%D0%B8%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q80#P569",
+      "verified": {
+        "revision": 2561418633,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-06-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q80$2E730D6B-9373-4749-8429-A6580FE5E5D6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7351",
+      "name": "Роберт Шуман",
+      "birthDate": "1810-06-08",
+      "birthYear": 1810,
+      "description": "немецкий композитор, дирижёр, музыкальный критик, педагог",
+      "category": "music",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D0%B0%D0%BD,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q7351#P569",
+      "verified": {
+        "revision": 2564819354,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1810-06-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q7351$8f90f9d7-4551-d620-eb55-4ba3b3c6f3d1",
+        "references": [
+          "https://tritius.kmol.cz/authority/865192"
+        ]
+      }
+    },
+    {
+      "id": "Q15935",
+      "name": "Канье Уэст",
+      "birthDate": "1977-06-08",
+      "birthYear": 1977,
+      "description": "американский рэпер, продюсер, певец, дизайнер, бизнесмен и актёр",
+      "category": "screen",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D1%8D%D1%81%D1%82,_%D0%9A%D0%B0%D0%BD%D1%8C%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q15935#P569",
+      "verified": {
+        "revision": 2558501418,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1977-06-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q15935$68A8F619-37F1-44C5-B026-56790EFDCD76",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44819",
+      "name": "Сухарто",
+      "birthDate": "1921-06-08",
+      "birthYear": 1921,
+      "description": "индонезийский военный и государственный деятель, президент Индонезии (1968-1998), и.о. президента Индонезии (1967-1968)",
+      "category": "public",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%85%D0%B0%D1%80%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q44819#P569",
+      "verified": {
+        "revision": 2563067942,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1921-06-08",
+        "originalCalendar": "gregorian",
+        "claim": "q44819$80AB6BD7-DCE9-46D9-9F79-0AE0DCC69BFB",
+        "references": []
+      }
+    }
+  ]
+}

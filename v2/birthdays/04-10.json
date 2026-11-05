@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "04-10",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q82110",
+      "name": "Стивен Сигал",
+      "birthDate": "1952-04-10",
+      "birthYear": 1952,
+      "description": "американский актёр, мастер боевых искусств и кинопродюсер",
+      "category": "screen",
+      "sitelinks": 127,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B0%D0%BB,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q82110#P569",
+      "verified": {
+        "revision": 2560916321,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1952-04-10",
+        "originalCalendar": "gregorian",
+        "claim": "q82110$D444B310-C57E-4840-82B6-8DE4BD60C1E9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q170515",
+      "name": "Омар Шариф",
+      "birthDate": "1932-04-10",
+      "birthYear": 1932,
+      "description": "египетский актёр",
+      "category": "screen",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%80%D0%B8%D1%84,_%D0%9E%D0%BC%D0%B0%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q170515#P569",
+      "verified": {
+        "revision": 2560316719,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1932-04-10",
+        "originalCalendar": "gregorian",
+        "claim": "q170515$D3C76839-0A4D-484D-B18E-89ED8BEBEDCB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q154959",
+      "name": "Гуго Гроций",
+      "birthDate": "1583-04-10",
+      "birthYear": 1583,
+      "description": "голландский юрист и государственный деятель, философ, христианский апологет, драматург и поэт",
+      "category": "literature",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D1%86%D0%B8%D0%B9,_%D0%93%D1%83%D0%B3%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q154959#P569",
+      "verified": {
+        "revision": 2564767743,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1583-04-10",
+        "originalCalendar": "gregorian",
+        "claim": "q154959$6343D0C5-014A-46A2-97DA-43A78BD21116",
+        "references": []
+      }
+    },
+    {
+      "id": "Q209942",
+      "name": "Садио Мане",
+      "birthDate": "1992-04-10",
+      "birthYear": 1992,
+      "description": "сенегальский футболист",
+      "category": "sport",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B5,_%D0%A1%D0%B0%D0%B4%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q209942#P569",
+      "verified": {
+        "revision": 2562669598,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1992-04-10",
+        "originalCalendar": "gregorian",
+        "claim": "Q209942$A56C200C-9578-4848-A563-68A2485C7518",
+        "references": []
+      }
+    },
+    {
+      "id": "Q429039",
+      "name": "Роберто Карлос",
+      "birthDate": "1973-04-10",
+      "birthYear": 1973,
+      "description": "бразильский футболист",
+      "category": "sport",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D0%BE_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q429039#P569",
+      "verified": {
+        "revision": 2559159598,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1973-04-10",
+        "originalCalendar": "gregorian",
+        "claim": "q429039$119C9607-65AA-4214-A275-13AAE0373079",
+        "references": []
+      }
+    }
+  ]
+}

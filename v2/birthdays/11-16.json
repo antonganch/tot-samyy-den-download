@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "11-16",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q4414537",
+      "name": "Гильермо Лассо",
+      "birthDate": "1955-11-16",
+      "birthYear": 1955,
+      "description": "президент Эквадора",
+      "category": "public",
+      "sitelinks": 161,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%81%D0%BE,_%D0%93%D0%B8%D0%BB%D1%8C%D0%B5%D1%80%D0%BC%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q4414537#P569",
+      "verified": {
+        "revision": 2555305356,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-11-16",
+        "originalCalendar": "gregorian",
+        "claim": "Q4414537$3bbfb7a1-637f-4336-8a93-297eb93d4dad",
+        "references": [
+          "https://elyex.com/guillermo-alberto-santiago-lasso-mendoza/"
+        ]
+      }
+    },
+    {
+      "id": "Q37060",
+      "name": "Жозе Сарамаго",
+      "birthDate": "1922-11-16",
+      "birthYear": 1922,
+      "description": "португальский автор (1922—2010)",
+      "category": "other",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D0%B3%D0%BE,_%D0%96%D0%BE%D0%B7%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q37060#P569",
+      "verified": {
+        "revision": 2563196224,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-11-16",
+        "originalCalendar": "gregorian",
+        "claim": "q37060$870ED5D9-DADB-498B-8E5D-B1326E82F3E9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q155845",
+      "name": "Чинуа Ачебе",
+      "birthDate": "1930-11-16",
+      "birthYear": 1930,
+      "description": "нигерийский автор и литературный критик",
+      "category": "other",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%87%D0%B5%D0%B1%D0%B5,_%D0%A7%D0%B8%D0%BD%D1%83%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q155845#P569",
+      "verified": {
+        "revision": 2562985163,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-11-16",
+        "originalCalendar": "gregorian",
+        "claim": "q155845$25D2D1B9-A9A1-4BF1-8254-913B534FA7DB",
+        "references": [
+          "https://www.blackpast.org/global-african-history/achebe-chinua-1930/"
+        ]
+      }
+    },
+    {
+      "id": "Q202381",
+      "name": "Мэгги Джилленхол",
+      "birthDate": "1977-11-16",
+      "birthYear": 1977,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B8%D0%BB%D0%BB%D0%B5%D0%BD%D1%85%D0%BE%D0%BB,_%D0%9C%D1%8D%D0%B3%D0%B3%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q202381#P569",
+      "verified": {
+        "revision": 2563105464,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1977-11-16",
+        "originalCalendar": "gregorian",
+        "claim": "q202381$EDE7DED2-410A-4B15-B886-3F796541DF82",
+        "references": []
+      }
+    },
+    {
+      "id": "Q343633",
+      "name": "Бёрджесс Мередит",
+      "birthDate": "1907-11-16",
+      "birthYear": 1907,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 64,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%B5%D0%B4%D0%B8%D1%82,_%D0%91%D1%91%D1%80%D0%B4%D0%B6%D0%B5%D1%81%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q343633#P569",
+      "verified": {
+        "revision": 2557824774,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-11-16",
+        "originalCalendar": "gregorian",
+        "claim": "q343633$E7D035BE-2151-4817-AE48-218CA57D7A5E",
+        "references": []
+      }
+    }
+  ]
+}

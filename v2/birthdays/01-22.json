@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "01-22",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5679",
+      "name": "Джордж Гордон Байрон",
+      "birthDate": "1788-01-22",
+      "birthYear": 1788,
+      "description": "английский поэт-романтик",
+      "category": "literature",
+      "sitelinks": 219,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D1%80%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q5679#P569",
+      "verified": {
+        "revision": 2562932395,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1788-01-22",
+        "originalCalendar": "gregorian",
+        "claim": "q5679$79CC7468-79BC-4F3A-8D67-486DA2722AD9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q8003",
+      "name": "Сергей Михайлович Эйзенштейн",
+      "birthDate": "1898-01-22",
+      "birthYear": 1898,
+      "description": "советский режиссёр театра и кино, художник, сценарист, теоретик искусства, педагог",
+      "category": "screen",
+      "sitelinks": 148,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%B7%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q8003#P569",
+      "verified": {
+        "revision": 2563869701,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1898-01-10",
+        "originalCalendar": "julian",
+        "claim": "q8003$c632ebd2-4416-b781-5fb6-6da5d72cefb7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7724",
+      "name": "Юхан Август Стриндберг",
+      "birthDate": "1849-01-22",
+      "birthYear": 1849,
+      "description": "шведский писатель и публицист",
+      "category": "literature",
+      "sitelinks": 118,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B8%D0%BD%D0%B4%D0%B1%D0%B5%D1%80%D0%B3,_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q7724#P569",
+      "verified": {
+        "revision": 2563924774,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1849-01-22",
+        "originalCalendar": "gregorian",
+        "claim": "q7724$025A45BC-A540-4405-8EF6-EE81642E8459",
+        "references": [
+          "https://sok.riksarkivet.se/bildvisning/C0056424_00077#?c=&m=&s=&cv=76&xywh=728%2C3308%2C2922%2C1728"
+        ]
+      }
+    },
+    {
+      "id": "Q83003",
+      "name": "Антонио Грамши",
+      "birthDate": "1891-01-22",
+      "birthYear": 1891,
+      "description": "неомарксист, критик поверхностности революции",
+      "category": "other",
+      "sitelinks": 127,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BC%D1%88%D0%B8,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q83003#P569",
+      "verified": {
+        "revision": 2557782638,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1891-01-22",
+        "originalCalendar": "gregorian",
+        "claim": "q83003$766D944A-DC2A-40AD-9E4E-D5F26503757A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q133267",
+      "name": "Лев Давидович Ландау",
+      "birthDate": "1908-01-22",
+      "birthYear": 1908,
+      "description": "советский физик-теоретик, лауреат Нобелевской премии",
+      "category": "science",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D0%B0%D1%83,_%D0%9B%D0%B5%D0%B2_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q133267#P569",
+      "verified": {
+        "revision": 2563195875,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-01-09",
+        "originalCalendar": "julian",
+        "claim": "Q133267$95278E90-12E4-470F-A4AE-6556C3F170BB",
+        "references": []
+      }
+    }
+  ]
+}

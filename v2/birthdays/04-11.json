@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "04-11",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q60758679",
+      "name": "Дункан Лоуренс",
+      "birthDate": "1994-04-11",
+      "birthYear": 1994,
+      "description": "нидерландский певец",
+      "category": "music",
+      "sitelinks": 65,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81,_%D0%94%D1%83%D0%BD%D0%BA%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q60758679#P569",
+      "verified": {
+        "revision": 2548583821,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1994-04-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q60758679$519e5477-eb08-4f1e-a3a1-774ebf5e188d",
+        "references": []
+      }
+    },
+    {
+      "id": "Q184433",
+      "name": "Эндрю Уайлс",
+      "birthDate": "1953-04-11",
+      "birthYear": 1953,
+      "description": "английский математик",
+      "category": "science",
+      "sitelinks": 69,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B0%D0%B9%D0%BB%D1%81,_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q184433#P569",
+      "verified": {
+        "revision": 2561112466,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-04-11",
+        "originalCalendar": "gregorian",
+        "claim": "q184433$4768D0C9-AE1F-445B-B0BE-AC970C6C78C0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q216160",
+      "name": "Джереми Кларксон",
+      "birthDate": "1960-04-11",
+      "birthYear": 1960,
+      "description": "английский телеведущий, журналист и писатель",
+      "category": "screen",
+      "sitelinks": 61,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%80%D0%BA%D1%81%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BC%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q216160#P569",
+      "verified": {
+        "revision": 2561755169,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1960-04-11",
+        "originalCalendar": "gregorian",
+        "claim": "q216160$52885D77-5D21-4A71-ADDE-E78C3238DFF5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q75784",
+      "name": "Фердинанд Лассаль",
+      "birthDate": "1825-04-11",
+      "birthYear": 1825,
+      "description": "немецкий философ, деятель социал-демократии",
+      "category": "literature",
+      "sitelinks": 67,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%81%D1%81%D0%B0%D0%BB%D1%8C,_%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q75784#P569",
+      "verified": {
+        "revision": 2563978800,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1825-04-11",
+        "originalCalendar": "gregorian",
+        "claim": "q75784$C300C148-6B7B-444F-A4A1-D392721F3CC4",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/lassalle"
+        ]
+      }
+    },
+    {
+      "id": "Q603317",
+      "name": "Билл Ирвин",
+      "birthDate": "1950-04-11",
+      "birthYear": 1950,
+      "description": "американский актёр, клоун и комедиант",
+      "category": "screen",
+      "sitelinks": 57,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B2%D0%B8%D0%BD,_%D0%91%D0%B8%D0%BB%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q603317#P569",
+      "verified": {
+        "revision": 2563837599,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-04-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q603317$6087EA92-87C2-471B-94E1-EC02DA53C663",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "08-26",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q30547",
+      "name": "мать Тереза",
+      "birthDate": "1910-08-26",
+      "birthYear": 1910,
+      "description": "католическая монахиня, организатор \"домов умирающих\", лауреат Нобелевской премии мира",
+      "category": "other",
+      "sitelinks": 200,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%8C_%D0%A2%D0%B5%D1%80%D0%B5%D0%B7%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q30547#P569",
+      "verified": {
+        "revision": 2563050923,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1910-08-26",
+        "originalCalendar": "gregorian",
+        "claim": "q30547$A3B1F1D6-2985-4460-AF31-1ABD72848A89",
+        "references": []
+      }
+    },
+    {
+      "id": "Q23466",
+      "name": "Крис Пайн",
+      "birthDate": "1980-08-26",
+      "birthYear": 1980,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B9%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q23466#P569",
+      "verified": {
+        "revision": 2563942824,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1980-08-26",
+        "originalCalendar": "gregorian",
+        "claim": "q23466$970EBE04-CB88-41C8-8BEF-D84FF9921D42",
+        "references": []
+      }
+    },
+    {
+      "id": "Q133855",
+      "name": "Гийом Аполлинер",
+      "birthDate": "1880-08-26",
+      "birthYear": 1880,
+      "description": "французский поэт и писатель (1880—1918)",
+      "category": "literature",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B9%D0%BE%D0%BC_%D0%90%D0%BF%D0%BE%D0%BB%D0%BB%D0%B8%D0%BD%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q133855#P569",
+      "verified": {
+        "revision": 2564418145,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1880-08-26",
+        "originalCalendar": "gregorian",
+        "claim": "q133855$2612A96E-9CE4-4462-B4FF-7BA92D511042",
+        "references": []
+      }
+    },
+    {
+      "id": "Q174210",
+      "name": "Хулио Кортасар",
+      "birthDate": "1914-08-26",
+      "birthYear": 1914,
+      "description": "аргентинский писатель и поэт (1914—1984)",
+      "category": "literature",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%82%D0%B0%D1%81%D0%B0%D1%80,_%D0%A5%D1%83%D0%BB%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q174210#P569",
+      "verified": {
+        "revision": 2564012675,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1914-08-26",
+        "originalCalendar": "gregorian",
+        "claim": "Q174210$8212026E-81D5-4AEC-B8F0-824C676EE1FE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57066",
+      "name": "Джеймс Франк",
+      "birthDate": "1882-08-26",
+      "birthYear": 1882,
+      "description": "немецкий физик",
+      "category": "science",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q57066#P569",
+      "verified": {
+        "revision": 2564037889,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1882-08-26",
+        "originalCalendar": "gregorian",
+        "claim": "q57066$241036BF-308F-45AD-A2C6-04978B3F4919",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "10-28",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5284",
+      "name": "Билл Гейтс",
+      "birthDate": "1955-10-28",
+      "birthYear": 1955,
+      "description": "американский предприниматель и общественный деятель, филантроп",
+      "category": "other",
+      "sitelinks": 245,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B9%D1%82%D1%81,_%D0%91%D0%B8%D0%BB%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q5284#P569",
+      "verified": {
+        "revision": 2564105613,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-10-28",
+        "originalCalendar": "gregorian",
+        "claim": "q5284$407EE15E-5B82-405D-9288-EBEB0644D6D9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q40523",
+      "name": "Джулия Робертс",
+      "birthDate": "1967-10-28",
+      "birthYear": 1967,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 132,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D1%81,_%D0%94%D0%B6%D1%83%D0%BB%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q40523#P569",
+      "verified": {
+        "revision": 2564766661,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-10-28",
+        "originalCalendar": "gregorian",
+        "claim": "q40523$1E200F66-712F-485F-B781-779988E876BD",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/roberts-julia"
+        ]
+      }
+    },
+    {
+      "id": "Q34448",
+      "name": "Махмуд Ахмадинежад",
+      "birthDate": "1956-10-28",
+      "birthYear": 1956,
+      "description": "иранский политический и государственный деятель, президент Ирана (2005—2013)",
+      "category": "public",
+      "sitelinks": 145,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%85%D0%BC%D0%B0%D0%B4%D0%B8%D0%BD%D0%B5%D0%B6%D0%B0%D0%B4,_%D0%9C%D0%B0%D1%85%D0%BC%D1%83%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q34448#P569",
+      "verified": {
+        "revision": 2562962163,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1956-10-28",
+        "originalCalendar": "gregorian",
+        "claim": "q34448$09e1b67d-48ed-204e-1f68-03229af7cb51",
+        "references": []
+      }
+    },
+    {
+      "id": "Q185140",
+      "name": "Хоакин Феникс",
+      "birthDate": "1974-10-28",
+      "birthYear": 1974,
+      "description": "американский актёр, продюсер и музыкант",
+      "category": "screen",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BD%D0%B8%D0%BA%D1%81,_%D0%A5%D0%BE%D0%B0%D0%BA%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q185140#P569",
+      "verified": {
+        "revision": 2563788234,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-10-28",
+        "originalCalendar": "gregorian",
+        "claim": "q185140$DB957A5B-8B3B-4A35-8008-F8789C3E6214",
+        "references": []
+      }
+    },
+    {
+      "id": "Q153708",
+      "name": "Эрос Рамаццотти",
+      "birthDate": "1963-10-28",
+      "birthYear": 1963,
+      "description": "итальянский певец",
+      "category": "music",
+      "sitelinks": 71,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B0%D1%86%D1%86%D0%BE%D1%82%D1%82%D0%B8,_%D0%AD%D1%80%D0%BE%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q153708#P569",
+      "verified": {
+        "revision": 2561654948,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-10-28",
+        "originalCalendar": "gregorian",
+        "claim": "q153708$1080160c-4481-7e0b-f0d3-877f7d236473",
+        "references": []
+      }
+    }
+  ]
+}

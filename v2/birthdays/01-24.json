@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "01-24",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q33550",
+      "name": "Фридрих II Прусский",
+      "birthDate": "1712-01-24",
+      "birthYear": 1712,
+      "description": "король Пруссии (1740—1786)",
+      "category": "public",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85_II_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q33550#P569",
+      "verified": {
+        "revision": 2564793372,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1712-01-24",
+        "originalCalendar": "gregorian",
+        "claim": "q33550$FAEE58AF-A3D2-4CA4-B481-3A2484017B1A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q26517",
+      "name": "Луис Альберто Суарес",
+      "birthDate": "1987-01-24",
+      "birthYear": 1987,
+      "description": "уругвайский футболист",
+      "category": "sport",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B0%D1%80%D0%B5%D1%81,_%D0%9B%D1%83%D0%B8%D1%81_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q26517#P569",
+      "verified": {
+        "revision": 2563644460,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1987-01-24",
+        "originalCalendar": "gregorian",
+        "claim": "Q26517$0E23DE09-FD4C-4244-9A6E-AA9E9CB31AA8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q150471",
+      "name": "Эрнст Теодор Амадей Гофман",
+      "birthDate": "1776-01-24",
+      "birthYear": 1776,
+      "description": "немецкий писатель, композитор, художник (1776—1822)",
+      "category": "music",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%84%D0%BC%D0%B0%D0%BD,_%D0%AD%D1%80%D0%BD%D1%81%D1%82_%D0%A2%D0%B5%D0%BE%D0%B4%D0%BE%D1%80_%D0%90%D0%BC%D0%B0%D0%B4%D0%B5%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q150471#P569",
+      "verified": {
+        "revision": 2563977457,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1776-01-24",
+        "originalCalendar": "gregorian",
+        "claim": "q150471$55EE99B2-0C6B-4304-884C-BA0C40997FA0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q276032",
+      "name": "Эдит Уортон",
+      "birthDate": "1862-01-24",
+      "birthYear": 1862,
+      "description": "американская писательница",
+      "category": "literature",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D1%80%D1%82%D0%BE%D0%BD,_%D0%AD%D0%B4%D0%B8%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q276032#P569",
+      "verified": {
+        "revision": 2562722166,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1862-01-24",
+        "originalCalendar": "gregorian",
+        "claim": "q276032$EE50255B-FD03-4959-A6A2-1D76EDE89268",
+        "references": [
+          "https://cs.isabart.org/person/65265"
+        ]
+      }
+    },
+    {
+      "id": "Q486882",
+      "name": "Митио Каку",
+      "birthDate": "1947-01-24",
+      "birthYear": 1947,
+      "description": "американский физик",
+      "category": "science",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BA%D1%83,_%D0%9C%D0%B8%D1%82%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q486882#P569",
+      "verified": {
+        "revision": 2564647313,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-01-24",
+        "originalCalendar": "gregorian",
+        "claim": "q486882$0697B1F3-DE12-46D4-AA3B-56C3F075EF69",
+        "references": []
+      }
+    }
+  ]
+}

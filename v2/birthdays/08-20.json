@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "08-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q41173",
+      "name": "Деми Ловато",
+      "birthDate": "1992-08-20",
+      "birthYear": 1992,
+      "description": "американская актриса и певица",
+      "category": "screen",
+      "sitelinks": 134,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B2%D0%B0%D1%82%D0%BE,_%D0%94%D0%B5%D0%BC%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q41173#P569",
+      "verified": {
+        "revision": 2564123784,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1992-08-20",
+        "originalCalendar": "gregorian",
+        "claim": "q41173$4737D4CE-3A9D-4BD5-AACD-FE529933FECC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q23891",
+      "name": "Эндрю Гарфилд",
+      "birthDate": "1983-08-20",
+      "birthYear": 1983,
+      "description": "британский актёр",
+      "category": "screen",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%84%D0%B8%D0%BB%D0%B4,_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q23891#P569",
+      "verified": {
+        "revision": 2563556368,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-08-20",
+        "originalCalendar": "gregorian",
+        "claim": "q23891$047F4947-6B04-44B1-A96B-B5B4B0605A83",
+        "references": []
+      }
+    },
+    {
+      "id": "Q35678",
+      "name": "Бенджамин Гаррисон",
+      "birthDate": "1833-08-20",
+      "birthYear": 1833,
+      "description": "23-й Президент США",
+      "category": "public",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD,_%D0%91%D0%B5%D0%BD%D0%B4%D0%B6%D0%B0%D0%BC%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q35678#P569",
+      "verified": {
+        "revision": 2563802696,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1833-08-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q35678$ED7F01A0-152A-4499-9BAA-F0FD32F60CDF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q169566",
+      "name": "Говард Филлипс Лавкрафт",
+      "birthDate": "1890-08-20",
+      "birthYear": 1890,
+      "description": "американский писатель, поэт и журналист (1890—1937)",
+      "category": "literature",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B2%D0%BA%D1%80%D0%B0%D1%84%D1%82,_%D0%93%D0%BE%D0%B2%D0%B0%D1%80%D0%B4_%D0%A4%D0%B8%D0%BB%D0%BB%D0%B8%D0%BF%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q169566#P569",
+      "verified": {
+        "revision": 2560122404,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1890-08-20",
+        "originalCalendar": "gregorian",
+        "claim": "q169566$93979EF7-6198-443F-AF4C-6023E0B9AB6D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83038",
+      "name": "Сальваторе Квазимодо",
+      "birthDate": "1901-08-20",
+      "birthYear": 1901,
+      "description": "итальянский писатель, поэт, переводчик",
+      "category": "literature",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B7%D0%B8%D0%BC%D0%BE%D0%B4%D0%BE,_%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q83038#P569",
+      "verified": {
+        "revision": 2563064410,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-08-20",
+        "originalCalendar": "gregorian",
+        "claim": "q83038$9c91c49a-4114-1501-c448-203a05cc4087",
+        "references": [
+          "https://tritius.kmol.cz/authority/865164"
+        ]
+      }
+    }
+  ]
+}

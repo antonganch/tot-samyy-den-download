@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "11-27",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q16397",
+      "name": "Брюс Ли",
+      "birthDate": "1940-11-27",
+      "birthYear": 1940,
+      "description": "киноактёр, мастер и популяризатор боевых искусств (1940–1973)",
+      "category": "screen",
+      "sitelinks": 169,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8,_%D0%91%D1%80%D1%8E%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q16397#P569",
+      "verified": {
+        "revision": 2564224775,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-11-27",
+        "originalCalendar": "gregorian",
+        "claim": "q16397$23ed3c22-41d3-f88b-96c0-719c75d9a40e",
+        "references": [
+          "https://sugerlove1314.skyrock.com/3172151153-Bruce-Lee-exhibition-hits-Hong-Kong.html"
+        ]
+      }
+    },
+    {
+      "id": "Q5928",
+      "name": "Джими Хендрикс",
+      "birthDate": "1942-11-27",
+      "birthYear": 1942,
+      "description": "американский гитарист, певец и композитор",
+      "category": "music",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BD%D0%B4%D1%80%D0%B8%D0%BA%D1%81,_%D0%94%D0%B6%D0%B8%D0%BC%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q5928#P569",
+      "verified": {
+        "revision": 2560435906,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-11-27",
+        "originalCalendar": "gregorian",
+        "claim": "q5928$998DA7E5-E107-46E8-B5EE-3B5972E516E2",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/hendrix-jimi"
+        ]
+      }
+    },
+    {
+      "id": "Q48283",
+      "name": "Юлия Владимировна Тимошенко",
+      "birthDate": "1960-11-27",
+      "birthYear": 1960,
+      "description": "украинский государственный и политический деятель",
+      "category": "public",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%BE%D1%88%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%AE%D0%BB%D0%B8%D1%8F_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q48283#P569",
+      "verified": {
+        "revision": 2563033537,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1960-11-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q48283$617FBC80-471A-4CD4-AA7C-C0C3364DEB5C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q5646626",
+      "name": "Хан Ган",
+      "birthDate": "1970-11-27",
+      "birthYear": 1970,
+      "description": "южнокорейская писательница",
+      "category": "literature",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD_%D0%93%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q5646626#P569",
+      "verified": {
+        "revision": 2563197108,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1970-11-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q5646626$E97D6207-5253-48DD-9E11-FB98EFB7F312",
+        "references": []
+      }
+    },
+    {
+      "id": "Q34816",
+      "name": "Кэтрин Бигелоу",
+      "birthDate": "1951-11-27",
+      "birthYear": 1951,
+      "description": "американская кинорежиссёр и продюсер",
+      "category": "screen",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B3%D0%B5%D0%BB%D0%BE%D1%83,_%D0%9A%D1%8D%D1%82%D1%80%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q34816#P569",
+      "verified": {
+        "revision": 2558080955,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1951-11-27",
+        "originalCalendar": "gregorian",
+        "claim": "q34816$08016208-1FAF-4ADD-B78E-DDDE2C32AF1F",
+        "references": []
+      }
+    }
+  ]
+}

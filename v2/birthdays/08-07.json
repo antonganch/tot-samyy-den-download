@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "08-07",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q181",
+      "name": "Джимми Уэйлс",
+      "birthDate": "1966-08-07",
+      "birthYear": 1966,
+      "description": "основатель Википедии, директор Викии",
+      "category": "other",
+      "sitelinks": 237,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D1%8D%D0%B9%D0%BB%D1%81,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q181#P569",
+      "verified": {
+        "revision": 2563049903,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1966-08-07",
+        "originalCalendar": "gregorian",
+        "claim": "q181$bfb070b4-406e-d421-7035-91a0093a1cfb",
+        "references": [
+          "https://cs.isabart.org/person/96057"
+        ]
+      }
+    },
+    {
+      "id": "Q80046",
+      "name": "Шарлиз Терон",
+      "birthDate": "1975-08-07",
+      "birthYear": 1975,
+      "description": "американская актриса, продюсер, фотомодель и балерина (р. 1975)",
+      "category": "screen",
+      "sitelinks": 118,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BE%D0%BD,_%D0%A8%D0%B0%D1%80%D0%BB%D0%B8%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q80046#P569",
+      "verified": {
+        "revision": 2560505564,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-08-07",
+        "originalCalendar": "gregorian",
+        "claim": "q80046$9331BD47-C647-478A-8D82-21BB4FB31EBE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q43137",
+      "name": "София Ротару",
+      "birthDate": "1947-08-07",
+      "birthYear": 1947,
+      "description": "советская и украинская певица и актриса",
+      "category": "screen",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%82%D0%B0%D1%80%D1%83,_%D0%A1%D0%BE%D1%84%D0%B8%D1%8F_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q43137#P569",
+      "verified": {
+        "revision": 2553947942,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-08-07",
+        "originalCalendar": "gregorian",
+        "claim": "q43137$FC3D3FE8-9F0A-47E9-B44E-84EE19BBC547",
+        "references": []
+      }
+    },
+    {
+      "id": "Q82180",
+      "name": "Мата Хари",
+      "birthDate": "1876-08-07",
+      "birthYear": 1876,
+      "description": "исполнительница экзотических танцев и куртизанка фризского происхождения, шпионка",
+      "category": "other",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B0_%D0%A5%D0%B0%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q82180#P569",
+      "verified": {
+        "revision": 2558161560,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1876-08-07",
+        "originalCalendar": "gregorian",
+        "claim": "q82180$9CF9AE00-E802-4A56-AEF6-AF7FEE12D830",
+        "references": []
+      }
+    },
+    {
+      "id": "Q190151",
+      "name": "Брюс Дикинсон",
+      "birthDate": "1958-08-07",
+      "birthYear": 1958,
+      "description": "английский музыкант и пилот",
+      "category": "music",
+      "sitelinks": 70,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BA%D0%B8%D0%BD%D1%81%D0%BE%D0%BD,_%D0%91%D1%80%D1%8E%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q190151#P569",
+      "verified": {
+        "revision": 2561661700,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-08-07",
+        "originalCalendar": "gregorian",
+        "claim": "q190151$E092C6CF-12E9-4D5E-A3B3-B0D123927197",
+        "references": []
+      }
+    }
+  ]
+}

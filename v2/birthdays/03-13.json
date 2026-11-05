@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "03-13",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q165823",
+      "name": "Йоргос Сеферис",
+      "birthDate": "1900-03-13",
+      "birthYear": 1900,
+      "description": "крупнейший поэт в современной греческой литературе",
+      "category": "literature",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%84%D0%B5%D1%80%D0%B8%D1%81,_%D0%99%D0%BE%D1%80%D0%B3%D0%BE%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q165823#P569",
+      "verified": {
+        "revision": 2563197241,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1900-03-13",
+        "originalCalendar": "gregorian",
+        "claim": "q165823$53A61257-3C9B-49CB-8876-605BC750A1FE",
+        "references": [
+          "https://tritius.kmol.cz/authority/865131"
+        ]
+      }
+    },
+    {
+      "id": "Q16128113",
+      "name": "Саша Клементс",
+      "birthDate": "1990-03-13",
+      "birthYear": 1990,
+      "description": "канадская телевизионная актриса",
+      "category": "screen",
+      "sitelinks": 63,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%81,_%D0%A1%D0%B0%D1%88%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q16128113#P569",
+      "verified": {
+        "revision": 2551498565,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1990-03-13",
+        "originalCalendar": "gregorian",
+        "claim": "Q16128113$BB1BED42-2696-4B02-AAC9-D3AC44B16860",
+        "references": []
+      }
+    },
+    {
+      "id": "Q224159",
+      "name": "Уильям Мэйси",
+      "birthDate": "1950-03-13",
+      "birthYear": 1950,
+      "description": "американский актёр и сценарист, номинант на премию «Оскар» за роль второго плана",
+      "category": "screen",
+      "sitelinks": 62,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8D%D0%B9%D1%81%D0%B8,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q224159#P569",
+      "verified": {
+        "revision": 2546587032,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-03-13",
+        "originalCalendar": "gregorian",
+        "claim": "q224159$9BCA36B3-D68A-4342-8095-616D857FA86B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q132708",
+      "name": "Иннокентий XII",
+      "birthDate": "1615-03-13",
+      "birthYear": 1615,
+      "description": "папа римский",
+      "category": "public",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%BD%D0%BE%D0%BA%D0%B5%D0%BD%D1%82%D0%B8%D0%B9_XII",
+      "source": "https://www.wikidata.org/wiki/Q132708#P569",
+      "verified": {
+        "revision": 2557932292,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1615-03-13",
+        "originalCalendar": "gregorian",
+        "claim": "q132708$ECE879EE-6716-4129-A9ED-3EB7139ACA7D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q193655",
+      "name": "Джон Хазбрук Ван Флек",
+      "birthDate": "1899-03-13",
+      "birthYear": 1899,
+      "description": "американский физик",
+      "category": "science",
+      "sitelinks": 68,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD_%D0%A4%D0%BB%D0%B5%D0%BA,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B7%D0%B1%D1%80%D1%83%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q193655#P569",
+      "verified": {
+        "revision": 2563196323,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1899-03-13",
+        "originalCalendar": "gregorian",
+        "claim": "Q193655$07654A55-C228-4C40-B7AA-3E23511AC4F4",
+        "references": []
+      }
+    }
+  ]
+}

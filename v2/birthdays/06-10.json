@@ -1,0 +1,116 @@
+{
+  "schema": 1,
+  "day": "06-10",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q11637",
+      "name": "Джуди Гарленд",
+      "birthDate": "1922-06-10",
+      "birthYear": 1922,
+      "description": "американская актриса и певица",
+      "category": "screen",
+      "sitelinks": 153,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D0%B4%D0%B8_%D0%93%D0%B0%D1%80%D0%BB%D0%B5%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q11637#P569",
+      "verified": {
+        "revision": 2563767459,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-06-10",
+        "originalCalendar": "gregorian",
+        "claim": "Q11637$ACAE24D5-EF07-4F69-850B-1CF88A14ACE7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83059",
+      "name": "Сол Беллоу",
+      "birthDate": "1915-06-10",
+      "birthYear": 1915,
+      "description": "американский писатель",
+      "category": "literature",
+      "sitelinks": 121,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BB%D0%BE%D1%83,_%D0%A1%D0%BE%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q83059#P569",
+      "verified": {
+        "revision": 2563198321,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1915-06-10",
+        "originalCalendar": "gregorian",
+        "claim": "q83059$DC7F671F-FB36-4D07-8A1C-97ED5612FECA",
+        "references": [
+          "https://cs.isabart.org/person/75487"
+        ]
+      }
+    },
+    {
+      "id": "Q80976",
+      "name": "Филипп Маунтбеттен, герцог Эдинбургский",
+      "birthDate": "1921-06-10",
+      "birthYear": 1921,
+      "description": "супруг королевы Великобритании Елизаветы II",
+      "category": "public",
+      "sitelinks": 127,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF,_%D0%B3%D0%B5%D1%80%D1%86%D0%BE%D0%B3_%D0%AD%D0%B4%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q80976#P569",
+      "verified": {
+        "revision": 2561867454,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1921-06-10",
+        "originalCalendar": "gregorian",
+        "claim": "q80976$73f06a30-46c8-1ab8-9388-ccc1736b2c1d",
+        "references": [
+          "https://www.royal.uk/the-duke-of-edinburgh"
+        ]
+      }
+    },
+    {
+      "id": "Q174614",
+      "name": "Карло Анчелотти",
+      "birthDate": "1959-06-10",
+      "birthYear": 1959,
+      "description": "итальянский футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%87%D0%B5%D0%BB%D0%BE%D1%82%D1%82%D0%B8,_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q174614#P569",
+      "verified": {
+        "revision": 2563394223,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1959-06-10",
+        "originalCalendar": "gregorian",
+        "claim": "q174614$00085722-EA99-4AD1-B6E1-3FFFC9759E82",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/ancelotti-carlo"
+        ]
+      }
+    },
+    {
+      "id": "Q34618",
+      "name": "Гюстав Курбе",
+      "birthDate": "1819-06-10",
+      "birthYear": 1819,
+      "description": "французский художник",
+      "category": "art",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%B1%D0%B5,_%D0%93%D1%8E%D1%81%D1%82%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q34618#P569",
+      "verified": {
+        "revision": 2561607044,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1819-06-10",
+        "originalCalendar": "gregorian",
+        "claim": "q34618$9AADBF99-1889-45B2-955B-69B92B783BFC",
+        "references": [
+          "https://portail-archives.doubs.fr/ark:/25993/q2r0jg458xhz/dc9ef991-d89c-4826-82d0-5348aba5f4af"
+        ]
+      }
+    }
+  ]
+}

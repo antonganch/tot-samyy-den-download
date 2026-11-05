@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "11-10",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q22670",
+      "name": "Фридрих Шиллер",
+      "birthDate": "1759-11-10",
+      "birthYear": 1759,
+      "description": "немецкий поэт, философ, теоретик искусства, драматург, профессор истории и военный врач",
+      "category": "public",
+      "sitelinks": 183,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BB%D0%BB%D0%B5%D1%80,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q22670#P569",
+      "verified": {
+        "revision": 2564780358,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1759-11-10",
+        "originalCalendar": "gregorian",
+        "claim": "q22670$271B02DE-780C-4B5F-9289-3058C6DD2EB0",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/schiller-johann-christoph-friedrich"
+        ]
+      }
+    },
+    {
+      "id": "Q23848",
+      "name": "Эннио Морриконе",
+      "birthDate": "1928-11-10",
+      "birthYear": 1928,
+      "description": "итальянский композитор, аранжировщик и дирижёр",
+      "category": "music",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D0%BA%D0%BE%D0%BD%D0%B5,_%D0%AD%D0%BD%D0%BD%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q23848#P569",
+      "verified": {
+        "revision": 2563870922,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-11-10",
+        "originalCalendar": "gregorian",
+        "claim": "q23848$DC3B5981-0661-4F38-82D7-308C127FECC1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q151973",
+      "name": "Ричард Бёртон",
+      "birthDate": "1925-11-10",
+      "birthYear": 1925,
+      "description": "валлийский актер",
+      "category": "screen",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%91%D1%80%D1%82%D0%BE%D0%BD,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4_(%D0%B0%D0%BA%D1%82%D1%91%D1%80)",
+      "source": "https://www.wikidata.org/wiki/Q151973#P569",
+      "verified": {
+        "revision": 2564537797,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-11-10",
+        "originalCalendar": "gregorian",
+        "claim": "q151973$A96184DC-9836-4634-833F-FE6B238F37B2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q210059",
+      "name": "Нил Гейман",
+      "birthDate": "1960-11-10",
+      "birthYear": 1960,
+      "description": "английский писатель-фантаст, автор графических романов и комиксов (род. 1960)",
+      "category": "screen",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD,_%D0%9D%D0%B8%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q210059#P569",
+      "verified": {
+        "revision": 2558180260,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1960-11-10",
+        "originalCalendar": "gregorian",
+        "claim": "q210059$B3794F97-3FF5-4908-BD7B-DA8B11397E76",
+        "references": []
+      }
+    },
+    {
+      "id": "Q167573",
+      "name": "Михаил Тимофеевич Калашников",
+      "birthDate": "1919-11-10",
+      "birthYear": 1919,
+      "description": "советский и российский конструктор стрелкового оружия",
+      "category": "other",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q167573#P569",
+      "verified": {
+        "revision": 2558169747,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1919-11-10",
+        "originalCalendar": "gregorian",
+        "claim": "q167573$244D3888-2231-4A21-B44D-1E72DFFEB11F",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "08-14",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q37628",
+      "name": "Мила Кунис",
+      "birthDate": "1983-08-14",
+      "birthYear": 1983,
+      "description": "американская актриса (р. 1983)",
+      "category": "screen",
+      "sitelinks": 121,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D0%B8%D1%81,_%D0%9C%D0%B8%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q37628#P569",
+      "verified": {
+        "revision": 2562420844,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-08-14",
+        "originalCalendar": "gregorian",
+        "claim": "q37628$BADF8D5A-09D8-484F-8250-D535DF220C4D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1033016",
+      "name": "Хэлли Берри",
+      "birthDate": "1966-08-14",
+      "birthYear": 1966,
+      "description": "американская киноактриса",
+      "category": "screen",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D1%80%D0%B8,_%D0%A5%D1%8D%D0%BB%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q1033016#P569",
+      "verified": {
+        "revision": 2556242726,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1966-08-14",
+        "originalCalendar": "gregorian",
+        "claim": "q1033016$2E415FBE-19A5-4B5A-AD25-D32FF1E77F16",
+        "references": []
+      }
+    },
+    {
+      "id": "Q82248",
+      "name": "Джон Голсуорси",
+      "birthDate": "1867-08-14",
+      "birthYear": 1867,
+      "description": "английский прозаик и драматург (1867-1933)",
+      "category": "literature",
+      "sitelinks": 121,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%81%D1%83%D0%BE%D1%80%D1%81%D0%B8,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q82248#P569",
+      "verified": {
+        "revision": 2563196331,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1867-08-14",
+        "originalCalendar": "gregorian",
+        "claim": "q82248$180290D9-FB97-4517-8F01-93537FCD4FA4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q559838",
+      "name": "Дэни Родрик",
+      "birthDate": "1957-08-14",
+      "birthYear": 1957,
+      "description": "турецкий экономист",
+      "category": "science",
+      "sitelinks": 111,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D1%80%D0%B8%D0%BA,_%D0%94%D1%8D%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q559838#P569",
+      "verified": {
+        "revision": 2553442430,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1957-08-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q559838$C81B88D7-57D5-4EFF-B852-BDFD4C4D0DD0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44412",
+      "name": "Ханс Кристиан Эрстед",
+      "birthDate": "1777-08-14",
+      "birthYear": 1777,
+      "description": "датский физик и химик",
+      "category": "science",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D1%81%D1%82%D0%B5%D0%B4,_%D0%A5%D0%B0%D0%BD%D1%81_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q44412#P569",
+      "verified": {
+        "revision": 2564346714,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1777-08-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q44412$7FA1A10B-DCDC-4719-91F9-6EC0C67228B3",
+        "references": []
+      }
+    }
+  ]
+}

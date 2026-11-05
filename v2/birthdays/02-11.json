@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "02-11",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8743",
+      "name": "Томас Эдисон",
+      "birthDate": "1847-02-11",
+      "birthYear": 1847,
+      "description": "американский изобретатель и предприниматель",
+      "category": "science",
+      "sitelinks": 256,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B4%D0%B8%D1%81%D0%BE%D0%BD,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q8743#P569",
+      "verified": {
+        "revision": 2564312458,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1847-02-11",
+        "originalCalendar": "gregorian",
+        "claim": "q8743$588808C5-3822-4D6E-9ED5-2CDBF9A7DED2",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/edison-thomas-alva"
+        ]
+      }
+    },
+    {
+      "id": "Q32522",
+      "name": "Дженнифер Энистон",
+      "birthDate": "1969-02-11",
+      "birthYear": 1969,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 128,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B8%D1%81%D1%82%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%BD%D0%BD%D0%B8%D1%84%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q32522#P569",
+      "verified": {
+        "revision": 2562537666,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-02-11",
+        "originalCalendar": "gregorian",
+        "claim": "q32522$EA7CBFC9-92BE-4A57-882F-5B9F9C2CC688",
+        "references": []
+      }
+    },
+    {
+      "id": "Q23359",
+      "name": "Тэйлор Лотнер",
+      "birthDate": "1992-02-11",
+      "birthYear": 1992,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%82%D0%BD%D0%B5%D1%80,_%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q23359#P569",
+      "verified": {
+        "revision": 2563829837,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1992-02-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q23359$62A9A2C5-2C2B-4F62-8D63-E8EC50A9B928",
+        "references": []
+      }
+    },
+    {
+      "id": "Q27655344",
+      "name": "Розэ",
+      "birthDate": "1997-02-11",
+      "birthYear": 1997,
+      "description": "новозеландская и южнокорейская певица и танцовщица",
+      "category": "music",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D1%8D",
+      "source": "https://www.wikidata.org/wiki/Q27655344#P569",
+      "verified": {
+        "revision": 2561669049,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1997-02-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q27655344$6c8b80c3-4a3f-0f27-ba1d-44d78ee36c78",
+        "references": [
+          "https://pantheon.world/profile/person/Rosé_(singer)"
+        ]
+      }
+    },
+    {
+      "id": "Q43144",
+      "name": "Сара Пэйлин",
+      "birthDate": "1964-02-11",
+      "birthYear": 1964,
+      "description": "губернатор штата Аляска с 2006 по 2009",
+      "category": "other",
+      "sitelinks": 104,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%8D%D0%B9%D0%BB%D0%B8%D0%BD,_%D0%A1%D0%B0%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q43144#P569",
+      "verified": {
+        "revision": 2564769112,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-02-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q43144$0B93474C-C990-4DA5-AFC1-D916F5C2D710",
+        "references": []
+      }
+    }
+  ]
+}

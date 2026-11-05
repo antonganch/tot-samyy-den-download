@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "day": "06-07",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q241248",
+      "name": "Орхан Памук",
+      "birthDate": "1952-06-07",
+      "birthYear": 1952,
+      "description": "турецкий писатель, сценарист и общественный деятель",
+      "category": "screen",
+      "sitelinks": 138,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BC%D1%83%D0%BA,_%D0%9E%D1%80%D1%85%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q241248#P569",
+      "verified": {
+        "revision": 2563050678,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1952-06-07",
+        "originalCalendar": "gregorian",
+        "claim": "q241248$F66F51B9-163C-4553-ACDB-7890E9D7E0DC",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/pamuk-orhan"
+        ]
+      }
+    },
+    {
+      "id": "Q37693",
+      "name": "Поль Гоген",
+      "birthDate": "1848-06-07",
+      "birthYear": 1848,
+      "description": "французский живописец, скульптор-керамист и график",
+      "category": "art",
+      "sitelinks": 134,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B3%D0%B5%D0%BD,_%D0%9F%D0%BE%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q37693#P569",
+      "verified": {
+        "revision": 2563641609,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1848-06-07",
+        "originalCalendar": "gregorian",
+        "claim": "q37693$CED032F6-87C8-41E7-B6A9-6FE7A46DA5DC",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/gauguin-eugene-henri-paul"
+        ]
+      }
+    },
+    {
+      "id": "Q7542",
+      "name": "Принс",
+      "birthDate": "1958-06-07",
+      "birthYear": 1958,
+      "description": "американский музыкант и актёр",
+      "category": "screen",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q7542#P569",
+      "verified": {
+        "revision": 2560428138,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-06-07",
+        "originalCalendar": "gregorian",
+        "claim": "q7542$87CD89D8-F214-47A8-AFAD-DFF3C2E6BF90",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/prince-20"
+        ]
+      }
+    },
+    {
+      "id": "Q24313",
+      "name": "Майк Пенс",
+      "birthDate": "1959-06-07",
+      "birthYear": 1959,
+      "description": "48-й вице-президент США",
+      "category": "public",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BD%D1%81,_%D0%9C%D0%B0%D0%B9%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q24313#P569",
+      "verified": {
+        "revision": 2558169425,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1959-06-07",
+        "originalCalendar": "gregorian",
+        "claim": "q24313$58253B8B-A6B6-447F-AAFC-62F9EBFD8E27",
+        "references": [
+          "https://www.theguardian.com/us-news/2016/oct/04/mike-pence-tim-kaine-facts-vp-debate-trump-clinton",
+          "https://www.whitehouse.gov/administration/vice-president-pence"
+        ]
+      }
+    },
+    {
+      "id": "Q57063",
+      "name": "Филипп Эдуард Антон фон Ленард",
+      "birthDate": "1862-06-07",
+      "birthYear": 1862,
+      "description": "немецкий физик-экспериментатор",
+      "category": "science",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD%D0%B0%D1%80%D0%B4,_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF",
+      "source": "https://www.wikidata.org/wiki/Q57063#P569",
+      "verified": {
+        "revision": 2564847089,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1862-06-07",
+        "originalCalendar": "gregorian",
+        "claim": "q57063$09C1A0F7-337D-4F9D-85E7-E8F2176E60E8",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "04-30",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q6722",
+      "name": "Карл Фридрих Гаусс",
+      "birthDate": "1777-04-30",
+      "birthYear": 1777,
+      "description": "немецкий учёный; физик, математик, астроном",
+      "category": "science",
+      "sitelinks": 200,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%83%D1%81%D1%81,_%D0%9A%D0%B0%D1%80%D0%BB_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q6722#P569",
+      "verified": {
+        "revision": 2563945792,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1777-04-30",
+        "originalCalendar": "gregorian",
+        "claim": "q6722$26AD4DF1-40A9-42A6-BCA2-5DA21FC741EE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q311440",
+      "name": "Антониу Гутерриш",
+      "birthDate": "1949-04-30",
+      "birthYear": 1949,
+      "description": "португальский политик, генеральный секретарь ООН (с 2017), премьер-министр Португалии (1995-2002)",
+      "category": "public",
+      "sitelinks": 130,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%88,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D1%83",
+      "source": "https://www.wikidata.org/wiki/Q311440#P569",
+      "verified": {
+        "revision": 2557787497,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-04-30",
+        "originalCalendar": "gregorian",
+        "claim": "q311440$FB6207F5-6872-4F2A-9483-D1B086CD8255",
+        "references": []
+      }
+    },
+    {
+      "id": "Q76478",
+      "name": "Кирстен Данст",
+      "birthDate": "1982-04-30",
+      "birthYear": 1982,
+      "description": "американская актриса, сценарист, режиссёр, продюсер, модель и певица (р. 1982)",
+      "category": "screen",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D1%81%D1%82,_%D0%9A%D0%B8%D1%80%D1%81%D1%82%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q76478#P569",
+      "verified": {
+        "revision": 2558084131,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1982-04-30",
+        "originalCalendar": "gregorian",
+        "claim": "q76478$E62B8049-9FFD-4A16-8688-9A484DDCB7C2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q185654",
+      "name": "Галь Гадот",
+      "birthDate": "1985-04-30",
+      "birthYear": 1985,
+      "description": "израильская актриса и модель (род. 1985)",
+      "category": "screen",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D0%BE%D1%82,_%D0%93%D0%B0%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q185654#P569",
+      "verified": {
+        "revision": 2563409248,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1985-04-30",
+        "originalCalendar": "gregorian",
+        "claim": "Q185654$5430BAEE-D9C4-4016-840D-71F2FC43FE73",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2754",
+      "name": "Ярослав Гашек",
+      "birthDate": "1883-04-30",
+      "birthYear": 1883,
+      "description": "чешский писатель-сатирик, анархист, драматург, фельетонист, журналист, комиссар Красной Армии",
+      "category": "literature",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%88%D0%B5%D0%BA,_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q2754#P569",
+      "verified": {
+        "revision": 2563461373,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1883-04-30",
+        "originalCalendar": "gregorian",
+        "claim": "q2754$1813D09E-8601-4716-ACB8-05621B4BFD7C",
+        "references": [
+          "https://www.vuapraha.cz/legionari/27893",
+          "https://tritius.kkvysociny.cz/authority/863723"
+        ]
+      }
+    }
+  ]
+}

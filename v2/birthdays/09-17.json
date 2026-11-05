@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "09-17",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1058",
+      "name": "Нарендра Моди",
+      "birthDate": "1950-09-17",
+      "birthYear": 1950,
+      "description": "индийский политический и государственный деятель, 16-й премьер-министр Индии",
+      "category": "public",
+      "sitelinks": 174,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%B8,_%D0%9D%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q1058#P569",
+      "verified": {
+        "revision": 2558179383,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-09-17",
+        "originalCalendar": "gregorian",
+        "claim": "Q1058$2690DA90-C8A8-43D9-8462-38DD3042B21B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q34584",
+      "name": "Анастейша",
+      "birthDate": "1968-09-17",
+      "birthYear": 1968,
+      "description": "американская поп-певица и автор песен",
+      "category": "music",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B5%D0%B9%D1%88%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q34584#P569",
+      "verified": {
+        "revision": 2561709279,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-09-17",
+        "originalCalendar": "gregorian",
+        "claim": "q34584$E08379E7-6830-4C90-A606-5E44D2913E07",
+        "references": []
+      }
+    },
+    {
+      "id": "Q42299",
+      "name": "Бернхард Риман",
+      "birthDate": "1826-09-17",
+      "birthYear": 1826,
+      "description": "немецкий математик, механик и физик",
+      "category": "science",
+      "sitelinks": 111,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D0%B0%D0%BD,_%D0%91%D0%B5%D1%80%D0%BD%D1%85%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q42299#P569",
+      "verified": {
+        "revision": 2563981913,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1826-09-17",
+        "originalCalendar": "gregorian",
+        "claim": "q42299$E3E868F7-C8C3-40FD-95AC-7D9094B3595A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41239",
+      "name": "Константин Циолковский",
+      "birthDate": "1857-09-17",
+      "birthYear": 1857,
+      "description": "русский и советский ученый, философ, ключевой основоположник современной космонавтики",
+      "category": "science",
+      "sitelinks": 104,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q41239#P569",
+      "verified": {
+        "revision": 2559117356,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1857-09-05",
+        "originalCalendar": "julian",
+        "claim": "Q41239$1183161C-9CC4-4B1E-A663-63904A51CDA3",
+        "references": []
+      }
+    },
+    {
+      "id": "Q183532",
+      "name": "Энн Бэнкрофт",
+      "birthDate": "1931-09-17",
+      "birthYear": 1931,
+      "description": "американская актриса (1931–2005)",
+      "category": "screen",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%BD_%D0%91%D1%8D%D0%BD%D0%BA%D1%80%D0%BE%D1%84%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q183532#P569",
+      "verified": {
+        "revision": 2562729337,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1931-09-17",
+        "originalCalendar": "gregorian",
+        "claim": "q183532$BD2C0348-0BB6-4E0D-B3D5-F7F47AA7D36C",
+        "references": []
+      }
+    }
+  ]
+}

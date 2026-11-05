@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "01-28",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q329",
+      "name": "Николя Саркози",
+      "birthDate": "1955-01-28",
+      "birthYear": 1955,
+      "description": "французский государственный и политический деятель, президент Франции (2007—2012)",
+      "category": "public",
+      "sitelinks": 193,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D0%B7%D0%B8,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q329#P569",
+      "verified": {
+        "revision": 2563067547,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-01-28",
+        "originalCalendar": "gregorian",
+        "claim": "Q329$E969CB8C-CA71-4D1B-ABF3-B7594ED4CE15",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/sarkozy-nicolas"
+        ]
+      }
+    },
+    {
+      "id": "Q37571",
+      "name": "Джексон Поллок",
+      "birthDate": "1912-01-28",
+      "birthYear": 1912,
+      "description": "американский художник",
+      "category": "art",
+      "sitelinks": 118,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA,_%D0%94%D0%B6%D0%B5%D0%BA%D1%81%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q37571#P569",
+      "verified": {
+        "revision": 2557940830,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-01-28",
+        "originalCalendar": "gregorian",
+        "claim": "q37571$064C5ECC-4437-40CE-A655-F0583C4E520D",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/pollock-jackson"
+        ]
+      }
+    },
+    {
+      "id": "Q68060",
+      "name": "Джанлуиджи Буффон",
+      "birthDate": "1978-01-28",
+      "birthYear": 1978,
+      "description": "итальянский футболист",
+      "category": "sport",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%84%D1%84%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B0%D0%BD%D0%BB%D1%83%D0%B8%D0%B4%D0%B6%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q68060#P569",
+      "verified": {
+        "revision": 2562796427,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-01-28",
+        "originalCalendar": "gregorian",
+        "claim": "Q68060$CA87256E-6F73-48C1-9238-99C9931B112E",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/buffon-gianluigi"
+        ]
+      }
+    },
+    {
+      "id": "Q103285",
+      "name": "Хосе Марти",
+      "birthDate": "1853-01-28",
+      "birthYear": 1853,
+      "description": "кубинский поэт, писатель и публицист, лидер освободительного движения Кубы",
+      "category": "literature",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8,_%D0%A5%D0%BE%D1%81%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q103285#P569",
+      "verified": {
+        "revision": 2564811451,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1853-01-28",
+        "originalCalendar": "gregorian",
+        "claim": "q103285$CE52CBF7-354D-4244-AE5F-D19783538B44",
+        "references": []
+      }
+    },
+    {
+      "id": "Q483771",
+      "name": "Элайджа Вуд",
+      "birthDate": "1981-01-28",
+      "birthYear": 1981,
+      "description": "американский актёр (род. 1981)",
+      "category": "screen",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%B4,_%D0%AD%D0%BB%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q483771#P569",
+      "verified": {
+        "revision": 2563831542,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-01-28",
+        "originalCalendar": "gregorian",
+        "claim": "q483771$E34F3D50-626D-4E0E-8CAB-FE03B3E872D2",
+        "references": []
+      }
+    }
+  ]
+}

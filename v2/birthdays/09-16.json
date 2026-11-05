@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "09-16",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q104000",
+      "name": "Лорен Бэколл",
+      "birthDate": "1924-09-16",
+      "birthYear": 1924,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%80%D0%B5%D0%BD_%D0%91%D1%8D%D0%BA%D0%BE%D0%BB%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q104000#P569",
+      "verified": {
+        "revision": 2564307975,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-09-16",
+        "originalCalendar": "gregorian",
+        "claim": "q104000$5481727C-001C-46FF-9D1B-CC5913C53AC4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q131248",
+      "name": "Ли Куан Ю",
+      "birthDate": "1923-09-16",
+      "birthYear": 1923,
+      "description": "первый премьер-министр Сингапура (1959-1990)",
+      "category": "public",
+      "sitelinks": 121,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8_%D0%9A%D1%83%D0%B0%D0%BD_%D0%AE",
+      "source": "https://www.wikidata.org/wiki/Q131248#P569",
+      "verified": {
+        "revision": 2562793646,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1923-09-16",
+        "originalCalendar": "gregorian",
+        "claim": "q131248$EF456E58-0983-4C47-B34E-E92D1201F365",
+        "references": [
+          "https://www.theguardian.com/world/2015/mar/22/lee-kuan-yew"
+        ]
+      }
+    },
+    {
+      "id": "Q188969",
+      "name": "Би Би Кинг",
+      "birthDate": "1925-09-16",
+      "birthYear": 1925,
+      "description": "Американский блюзовый гитарист, певец и автор песен (1925–2015)",
+      "category": "music",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%B3,_%D0%91%D0%B8_%D0%91%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q188969#P569",
+      "verified": {
+        "revision": 2563366497,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-09-16",
+        "originalCalendar": "gregorian",
+        "claim": "q188969$7849353C-9AD5-4C4E-9A25-A3925A3AEBC8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q132723",
+      "name": "Франс Эмиль Силланпяя",
+      "birthDate": "1888-09-16",
+      "birthYear": 1888,
+      "description": "финский писатель, лауреат Нобелевской премии по литературе",
+      "category": "literature",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BB%D0%BB%D0%B0%D0%BD%D0%BF%D1%8F%D1%8F,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q132723#P569",
+      "verified": {
+        "revision": 2563197579,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1888-09-16",
+        "originalCalendar": "gregorian",
+        "claim": "q132723$43CB82F0-47A0-4FAF-BD27-188EF9FD7587",
+        "references": []
+      }
+    },
+    {
+      "id": "Q180468",
+      "name": "Альберт Сент-Дьёрдьи",
+      "birthDate": "1893-09-16",
+      "birthYear": 1893,
+      "description": "американский биохимик",
+      "category": "science",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD%D1%82-%D0%94%D1%8C%D1%91%D1%80%D0%B4%D1%8C%D0%B8,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q180468#P569",
+      "verified": {
+        "revision": 2563201420,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1893-09-16",
+        "originalCalendar": "gregorian",
+        "claim": "q180468$63399797-7EFB-4501-AD06-9F7C1A15264C",
+        "references": []
+      }
+    }
+  ]
+}

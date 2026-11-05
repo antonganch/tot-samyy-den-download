@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "10-21",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q23810",
+      "name": "Альфред Нобель",
+      "birthDate": "1833-10-21",
+      "birthYear": 1833,
+      "description": "шведский химик, инженер, изобретатель динамита",
+      "category": "science",
+      "sitelinks": 193,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B1%D0%B5%D0%BB%D1%8C,_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q23810#P569",
+      "verified": {
+        "revision": 2562762596,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1833-10-21",
+        "originalCalendar": "gregorian",
+        "claim": "q23810$984834BF-A5CA-426D-8BB6-F182513856A3",
+        "references": [
+          "https://sok.riksarkivet.se/bildvisning/C0054707_00124#?cv=123&z=543.8215%2C2567.1661%2C3313.7983%2C2116.4241&c=&m=&s=&xywh=688%2C2681%2C2445%2C1655"
+        ]
+      }
+    },
+    {
+      "id": "Q43723",
+      "name": "Биньямин Нетаньяху",
+      "birthDate": "1949-10-21",
+      "birthYear": 1949,
+      "description": "израильский государственный и политический деятель, премьер-министр Израиля",
+      "category": "public",
+      "sitelinks": 173,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%82%D0%B0%D0%BD%D1%8C%D1%8F%D1%85%D1%83,_%D0%91%D0%B8%D0%BD%D1%8C%D1%8F%D0%BC%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q43723#P569",
+      "verified": {
+        "revision": 2564537283,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-10-21",
+        "originalCalendar": "gregorian",
+        "claim": "q43723$C7114FCD-687C-4843-A20E-F3BD6351FCCD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q186304",
+      "name": "Ким Кардашьян",
+      "birthDate": "1980-10-21",
+      "birthYear": 1980,
+      "description": "американская звезда реалити-шоу, актриса, фотомодель (род. 1980)",
+      "category": "screen",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B4%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%9A%D0%B8%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q186304#P569",
+      "verified": {
+        "revision": 2563925309,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1980-10-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q186304$EDA4BCEB-A8D1-48E3-BF08-53932C36016B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q82409",
+      "name": "Сэмюэл Тейлор Кольридж",
+      "birthDate": "1772-10-21",
+      "birthYear": 1772,
+      "description": "английский поэт-романтик, критик и философ",
+      "category": "literature",
+      "sitelinks": 123,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D1%80%D0%B8%D0%B4%D0%B6,_%D0%A1%D1%8D%D0%BC%D1%8E%D1%8D%D0%BB_%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q82409#P569",
+      "verified": {
+        "revision": 2562945948,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1772-10-21",
+        "originalCalendar": "gregorian",
+        "claim": "q82409$85D1DC9B-F680-4717-8D80-C4BFB3F0A2CA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q108941",
+      "name": "Кэрри Фишер",
+      "birthDate": "1956-10-21",
+      "birthYear": 1956,
+      "description": "американская актриса, сценарист и прозаик",
+      "category": "screen",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D1%88%D0%B5%D1%80,_%D0%9A%D1%8D%D1%80%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q108941#P569",
+      "verified": {
+        "revision": 2563945801,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1956-10-21",
+        "originalCalendar": "gregorian",
+        "claim": "q108941$BA421281-A429-4AFE-AE87-366328BE8D1A",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "day": "01-17",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q34969",
+      "name": "Бенджамин Франклин",
+      "birthDate": "1706-01-17",
+      "birthYear": 1706,
+      "description": "Американский политический деятель, дипломат, учёный, изобретатель, журналист, издатель, масон",
+      "category": "public",
+      "sitelinks": 217,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BB%D0%B8%D0%BD,_%D0%91%D0%B5%D0%BD%D0%B4%D0%B6%D0%B0%D0%BC%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q34969#P569",
+      "verified": {
+        "revision": 2564774732,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1706-01-17",
+        "originalCalendar": "gregorian",
+        "claim": "q34969$A5455428-D44D-40E2-ACEC-01ED0217E06F",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/franklin-benjamin",
+          "https://tritius.kmol.cz/authority/777285"
+        ]
+      }
+    },
+    {
+      "id": "Q36107",
+      "name": "Мухаммед Али",
+      "birthDate": "1942-01-17",
+      "birthYear": 1942,
+      "description": "американский боксёр-профессионал и общественный деятель",
+      "category": "sport",
+      "sitelinks": 185,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8,_%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q36107#P569",
+      "verified": {
+        "revision": 2564797209,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-01-17",
+        "originalCalendar": "gregorian",
+        "claim": "q36107$29C04CEB-A1FF-4162-8E00-414C5A1AFF5E",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/muhammad-ali"
+        ]
+      }
+    },
+    {
+      "id": "Q40504",
+      "name": "Джим Керри",
+      "birthDate": "1962-01-17",
+      "birthYear": 1962,
+      "description": "канадо-американский актёр, комик, сценарист, продюсер и художник (род. 1962)",
+      "category": "screen",
+      "sitelinks": 127,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%80%D0%B8,_%D0%94%D0%B6%D0%B8%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q40504#P569",
+      "verified": {
+        "revision": 2563862159,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1962-01-17",
+        "originalCalendar": "gregorian",
+        "claim": "q40504$42F56776-C77E-4A6A-BB85-53FCEC62500B",
+        "references": [
+          "https://www.cbc.ca/archives/entry/1962-funny-man-jim-carrey-born-in-newmarket-ont"
+        ]
+      }
+    },
+    {
+      "id": "Q170800",
+      "name": "Педро Кальдерон де ла Барка",
+      "birthDate": "1600-01-17",
+      "birthYear": 1600,
+      "description": "испанский драматург и поэт (1600-1681)",
+      "category": "literature",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D1%80%D0%BE%D0%BD_%D0%B4%D0%B5_%D0%BB%D0%B0_%D0%91%D0%B0%D1%80%D0%BA%D0%B0,_%D0%9F%D0%B5%D0%B4%D1%80%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q170800#P569",
+      "verified": {
+        "revision": 2564826161,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1600-01-17",
+        "originalCalendar": "gregorian",
+        "claim": "q170800$39B4F285-0471-47CE-A994-2FDFE7792375",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/calderon-de-la-barca-pedro"
+        ]
+      }
+    },
+    {
+      "id": "Q44520",
+      "name": "Энн Бронте",
+      "birthDate": "1820-01-17",
+      "birthYear": 1820,
+      "description": "английская поэтесса и романистка",
+      "category": "literature",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BD%D1%82%D0%B5,_%D0%AD%D0%BD%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q44520#P569",
+      "verified": {
+        "revision": 2561134934,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1820-01-17",
+        "originalCalendar": "gregorian",
+        "claim": "q44520$E230C23F-4D9C-4D47-9452-3E83F3E8F448",
+        "references": []
+      }
+    }
+  ]
+}

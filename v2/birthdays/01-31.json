@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "01-31",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7312",
+      "name": "Франц Шуберт",
+      "birthDate": "1797-01-31",
+      "birthYear": 1797,
+      "description": "австрийский композитор",
+      "category": "music",
+      "sitelinks": 174,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%B1%D0%B5%D1%80%D1%82,_%D0%A4%D1%80%D0%B0%D0%BD%D1%86",
+      "source": "https://www.wikidata.org/wiki/Q7312#P569",
+      "verified": {
+        "revision": 2564824990,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1797-01-31",
+        "originalCalendar": "gregorian",
+        "claim": "q7312$8C407175-418D-48A6-A98D-28DBF5FEDD41",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/schubert-franz-peter"
+        ]
+      }
+    },
+    {
+      "id": "Q43432",
+      "name": "Джастин Тимберлейк",
+      "birthDate": "1981-01-31",
+      "birthYear": 1981,
+      "description": "американский певец",
+      "category": "music",
+      "sitelinks": 111,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BC%D0%B1%D0%B5%D1%80%D0%BB%D0%B5%D0%B9%D0%BA,_%D0%94%D0%B6%D0%B0%D1%81%D1%82%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q43432#P569",
+      "verified": {
+        "revision": 2561616403,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-01-31",
+        "originalCalendar": "gregorian",
+        "claim": "Q43432$59E256F6-6405-461B-9424-ABBA08D8F800",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/timberlake-justin"
+        ]
+      }
+    },
+    {
+      "id": "Q80095",
+      "name": "Кэндзабуро Оэ",
+      "birthDate": "1935-01-31",
+      "birthYear": 1935,
+      "description": "японский писатель (1935—2023)",
+      "category": "literature",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D1%8D,_%D0%9A%D1%8D%D0%BD%D0%B4%D0%B7%D0%B0%D0%B1%D1%83%D1%80%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q80095#P569",
+      "verified": {
+        "revision": 2563390251,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1935-01-31",
+        "originalCalendar": "gregorian",
+        "claim": "q80095$DC59DA17-B26C-4610-9F3A-3ADDE0C24A54",
+        "references": []
+      }
+    },
+    {
+      "id": "Q180962",
+      "name": "Норман Мейлер",
+      "birthDate": "1923-01-31",
+      "birthYear": 1923,
+      "description": "американский писатель, журналист, драматург, сценарист, кинорежиссёр",
+      "category": "screen",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B9%D0%BB%D0%B5%D1%80,_%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q180962#P569",
+      "verified": {
+        "revision": 2561394515,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1923-01-31",
+        "originalCalendar": "gregorian",
+        "claim": "q180962$1DB6EF34-1FAF-407C-9D66-9B0D49806BBE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q188671",
+      "name": "Прити Зинта",
+      "birthDate": "1975-01-31",
+      "birthYear": 1975,
+      "description": "индийская актриса",
+      "category": "screen",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%BD%D1%82%D0%B0,_%D0%9F%D1%80%D0%B8%D1%82%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q188671#P569",
+      "verified": {
+        "revision": 2563745365,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-01-31",
+        "originalCalendar": "gregorian",
+        "claim": "q188671$43F13C23-0157-40D6-9473-68B0610C082B",
+        "references": []
+      }
+    }
+  ]
+}

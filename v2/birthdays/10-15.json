@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "10-15",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9358",
+      "name": "Фридрих Ницше",
+      "birthDate": "1844-10-15",
+      "birthYear": 1844,
+      "description": "немецкий философ и классический филолог, композитор и поэт (1844–1900)",
+      "category": "music",
+      "sitelinks": 256,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%86%D1%88%D0%B5,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q9358#P569",
+      "verified": {
+        "revision": 2563980676,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1844-10-15",
+        "originalCalendar": "gregorian",
+        "claim": "q9358$441DCE30-B8B2-4145-AD23-4A9398882127",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44272",
+      "name": "Мишель Фуко",
+      "birthDate": "1926-10-15",
+      "birthYear": 1926,
+      "description": "французский философ (1926—1984)",
+      "category": "literature",
+      "sitelinks": 128,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D0%BA%D0%BE,_%D0%9C%D0%B8%D1%88%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q44272#P569",
+      "verified": {
+        "revision": 2563713069,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-10-15",
+        "originalCalendar": "gregorian",
+        "claim": "q44272$36369C07-E238-44C0-9586-7B4F5E4DB6C5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q46599",
+      "name": "Михаил Юрьевич Лермонтов",
+      "birthDate": "1814-10-15",
+      "birthYear": 1814,
+      "description": "русский поэт, прозаик, драматург, художник (1814–1841)",
+      "category": "literature",
+      "sitelinks": 128,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q46599#P569",
+      "verified": {
+        "revision": 2563162377,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1814-10-03",
+        "originalCalendar": "julian",
+        "claim": "Q46599$C626097E-5508-4595-8AEA-D53F830C77E0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83488",
+      "name": "Месут Озиль",
+      "birthDate": "1988-10-15",
+      "birthYear": 1988,
+      "description": "германский футболист",
+      "category": "sport",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B7%D0%B8%D0%BB%D1%8C,_%D0%9C%D0%B5%D1%81%D1%83%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q83488#P569",
+      "verified": {
+        "revision": 2562630125,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1988-10-15",
+        "originalCalendar": "gregorian",
+        "claim": "q83488$21904299-2238-4E2D-8B66-AA3426A655A6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q182870",
+      "name": "Марио Пьюзо",
+      "birthDate": "1920-10-15",
+      "birthYear": 1920,
+      "description": "американский писатель, критик и сценарист",
+      "category": "screen",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%8C%D1%8E%D0%B7%D0%BE,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q182870#P569",
+      "verified": {
+        "revision": 2558155466,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1920-10-15",
+        "originalCalendar": "gregorian",
+        "claim": "q182870$20D37979-73A4-477A-AFB9-1BD2CC4B824E",
+        "references": []
+      }
+    }
+  ]
+}

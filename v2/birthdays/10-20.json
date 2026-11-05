@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "10-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q10853588",
+      "name": "Камала Харрис",
+      "birthDate": "1964-10-20",
+      "birthYear": 1964,
+      "description": "49-й вице-президент США",
+      "category": "public",
+      "sitelinks": 193,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D1%80%D0%B8%D1%81,_%D0%9A%D0%B0%D0%BC%D0%B0%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q10853588#P569",
+      "verified": {
+        "revision": 2558066080,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-10-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q10853588$BFD2962D-BD0D-4534-8D34-6781258A0F46",
+        "references": []
+      }
+    },
+    {
+      "id": "Q493",
+      "name": "Артюр Рембо",
+      "birthDate": "1854-10-20",
+      "birthYear": 1854,
+      "description": "французский поэт",
+      "category": "literature",
+      "sitelinks": 144,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BC%D0%B1%D0%BE,_%D0%90%D1%80%D1%82%D1%8E%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q493#P569",
+      "verified": {
+        "revision": 2562947572,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1854-10-20",
+        "originalCalendar": "gregorian",
+        "claim": "q493$D1C75D91-6A5E-4F3A-808C-64369A1AE4F5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q47243",
+      "name": "Эльфрида Елинек",
+      "birthDate": "1946-10-20",
+      "birthYear": 1946,
+      "description": "австрийская романистка, драматург, поэт и литературный критик",
+      "category": "literature",
+      "sitelinks": 127,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B8%D0%BD%D0%B5%D0%BA,_%D0%AD%D0%BB%D1%8C%D1%84%D1%80%D0%B8%D0%B4%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q47243#P569",
+      "verified": {
+        "revision": 2563198002,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-10-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q47243$0AF9E5E3-0839-4880-9F7D-D88CC2C3AB31",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/jelinek-elfriede"
+        ]
+      }
+    },
+    {
+      "id": "Q80884",
+      "name": "Джеймс Чедвик",
+      "birthDate": "1891-10-20",
+      "birthYear": 1891,
+      "description": "английский физик, известный как первооткрыватель нейтрона и фотоядерной реакции",
+      "category": "science",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%B4%D0%B2%D0%B8%D0%BA,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q80884#P569",
+      "verified": {
+        "revision": 2563196635,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1891-10-20",
+        "originalCalendar": "gregorian",
+        "claim": "q80884$BA6477B3-83BD-4BDF-94E2-A8C8B177D4E0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q171363",
+      "name": "Вигго Мортенсен",
+      "birthDate": "1958-10-20",
+      "birthYear": 1958,
+      "description": "датский и американский актёр, фотограф, поэт, художник и музыкант",
+      "category": "screen",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%82%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%92%D0%B8%D0%B3%D0%B3%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q171363#P569",
+      "verified": {
+        "revision": 2563772929,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-10-20",
+        "originalCalendar": "gregorian",
+        "claim": "q171363$FF12E514-A5C5-47FA-907C-04AF99BA843D",
+        "references": []
+      }
+    }
+  ]
+}

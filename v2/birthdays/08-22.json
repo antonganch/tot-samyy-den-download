@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "08-22",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q4700",
+      "name": "Клод Дебюсси",
+      "birthDate": "1862-08-22",
+      "birthYear": 1862,
+      "description": "Французский композитор, музыкальный критик",
+      "category": "music",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B1%D1%8E%D1%81%D1%81%D0%B8,_%D0%9A%D0%BB%D0%BE%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q4700#P569",
+      "verified": {
+        "revision": 2564788368,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1862-08-22",
+        "originalCalendar": "gregorian",
+        "claim": "q4700$E98ACC8F-38DE-4E9D-8C0E-26B498DC3DB1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q16977",
+      "name": "Дэн Сяопин",
+      "birthDate": "1904-08-22",
+      "birthYear": 1904,
+      "description": "китайский политик и реформатор, деятель Коммунистической партии Китая",
+      "category": "public",
+      "sitelinks": 138,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%8D%D0%BD_%D0%A1%D1%8F%D0%BE%D0%BF%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q16977#P569",
+      "verified": {
+        "revision": 2564096515,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1904-08-22",
+        "originalCalendar": "gregorian",
+        "claim": "q16977$8362DA2D-D4B7-40F2-9507-1B8C7CB1A8E1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q21914464",
+      "name": "Дуа Липа",
+      "birthDate": "1995-08-22",
+      "birthYear": 1995,
+      "description": "британская певица и автор песен",
+      "category": "music",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BF%D0%B0,_%D0%94%D1%83%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q21914464#P569",
+      "verified": {
+        "revision": 2564435194,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1995-08-22",
+        "originalCalendar": "gregorian",
+        "claim": "Q21914464$758bd249-4da5-8529-073d-6a5a21840ccc",
+        "references": []
+      }
+    },
+    {
+      "id": "Q40640",
+      "name": "Рэй Брэдбери",
+      "birthDate": "1920-08-22",
+      "birthYear": 1920,
+      "description": "американский писатель (1920—2012)",
+      "category": "literature",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%8D%D0%B4%D0%B1%D0%B5%D1%80%D0%B8,_%D0%A0%D1%8D%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q40640#P569",
+      "verified": {
+        "revision": 2564488142,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1920-08-22",
+        "originalCalendar": "gregorian",
+        "claim": "q40640$278232C0-6EDD-46CE-8510-8C7160369202",
+        "references": []
+      }
+    },
+    {
+      "id": "Q55415",
+      "name": "Лени Рифеншталь",
+      "birthDate": "1902-08-22",
+      "birthYear": 1902,
+      "description": "Немецкий кинорежиссёр и фотограф",
+      "category": "screen",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D1%84%D0%B5%D0%BD%D1%88%D1%82%D0%B0%D0%BB%D1%8C,_%D0%9B%D0%B5%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q55415#P569",
+      "verified": {
+        "revision": 2561962901,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1902-08-22",
+        "originalCalendar": "gregorian",
+        "claim": "q55415$AA76E85B-4AF1-414C-A40D-88E76A3B090C",
+        "references": []
+      }
+    }
+  ]
+}

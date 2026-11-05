@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "04-07",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q36970",
+      "name": "Джеки Чан",
+      "birthDate": "1954-04-07",
+      "birthYear": 1954,
+      "description": "гонконгский и американский актёр, каскадёр, кинорежиссёр, продюсер, сценарист, постановщик трюков и боевых сцен, певец (р. 1954)",
+      "category": "screen",
+      "sitelinks": 163,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD,_%D0%94%D0%B6%D0%B5%D0%BA%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q36970#P569",
+      "verified": {
+        "revision": 2562528090,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1954-04-07",
+        "originalCalendar": "gregorian",
+        "claim": "q36970$f4e2ddcc-481f-a121-1474-bfa786d51adc",
+        "references": []
+      }
+    },
+    {
+      "id": "Q45546",
+      "name": "Уильям Вордсворт",
+      "birthDate": "1770-04-07",
+      "birthYear": 1770,
+      "description": "английский поэт-романтик",
+      "category": "literature",
+      "sitelinks": 141,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D1%80%D0%B4%D1%81%D0%B2%D0%BE%D1%80%D1%82,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q45546#P569",
+      "verified": {
+        "revision": 2561220783,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1770-04-07",
+        "originalCalendar": "gregorian",
+        "claim": "q45546$8CBC6267-FCBB-4736-AE33-15685BD34DA0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q129817",
+      "name": "Рассел Кроу",
+      "birthDate": "1964-04-07",
+      "birthYear": 1964,
+      "description": "новозеландский актёр, продюсер и музыкант",
+      "category": "screen",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%83,_%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q129817#P569",
+      "verified": {
+        "revision": 2564560885,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-04-07",
+        "originalCalendar": "gregorian",
+        "claim": "q129817$D22FC852-5A49-4B65-9CEC-6878264EBE22",
+        "references": []
+      }
+    },
+    {
+      "id": "Q80871",
+      "name": "Габриела Мистраль",
+      "birthDate": "1889-04-07",
+      "birthYear": 1889,
+      "description": "чилийская поэтесса, просветительница, дипломат, борец за права женщин",
+      "category": "literature",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D0%B5%D0%BB%D0%B0_%D0%9C%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q80871#P569",
+      "verified": {
+        "revision": 2564783650,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1889-04-07",
+        "originalCalendar": "gregorian",
+        "claim": "q80871$BEC71BA0-52A2-47FA-AFE9-54B4EEE9071E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2530",
+      "name": "Герхард Шрёдер",
+      "birthDate": "1944-04-07",
+      "birthYear": 1944,
+      "description": "немецкий политик и государственный деятель, федеральный канцлер Германии (1998—2005)",
+      "category": "public",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D1%91%D0%B4%D0%B5%D1%80,_%D0%93%D0%B5%D1%80%D1%85%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q2530#P569",
+      "verified": {
+        "revision": 2562765024,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1944-04-07",
+        "originalCalendar": "gregorian",
+        "claim": "q2530$03E2C726-A4E4-412C-A810-45847C06043F",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/schröder-gerhard-fritz-kurt"
+        ]
+      }
+    }
+  ]
+}

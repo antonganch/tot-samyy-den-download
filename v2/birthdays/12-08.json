@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "12-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q44301",
+      "name": "Джим Моррисон",
+      "birthDate": "1943-12-08",
+      "birthYear": 1943,
+      "description": "американский певец, поэт и музыкант, фронтмен The Doors",
+      "category": "music",
+      "sitelinks": 150,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B8%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q44301#P569",
+      "verified": {
+        "revision": 2563774464,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1943-12-08",
+        "originalCalendar": "gregorian",
+        "claim": "q44301$e7f5e990-48bf-d6ae-2084-16f684a3b579",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/morrison-jim"
+        ]
+      }
+    },
+    {
+      "id": "Q46405",
+      "name": "Бьёрнстьерне Бьёрнсон",
+      "birthDate": "1832-12-08",
+      "birthYear": 1832,
+      "description": "норвежский писатель",
+      "category": "literature",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%8C%D1%91%D1%80%D0%BD%D1%81%D0%BE%D0%BD,_%D0%91%D1%8C%D1%91%D1%80%D0%BD%D1%81%D1%82%D1%8C%D0%B5%D1%80%D0%BD%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q46405#P569",
+      "verified": {
+        "revision": 2563200024,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1832-12-08",
+        "originalCalendar": "gregorian",
+        "claim": "q46405$88985927-FAE5-48EE-9379-3134BE95A437",
+        "references": [
+          "https://collection.nationalmuseum.se/sv/artists/artist/15190"
+        ]
+      }
+    },
+    {
+      "id": "Q162202",
+      "name": "Ники Минаж",
+      "birthDate": "1982-12-08",
+      "birthYear": 1982,
+      "description": "тринидадская певица, рэперша, автор песен и актриса",
+      "category": "screen",
+      "sitelinks": 116,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%B0%D0%B6,_%D0%9D%D0%B8%D0%BA%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q162202#P569",
+      "verified": {
+        "revision": 2563804778,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1982-12-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q162202$5CFAD307-4113-4F8A-BB29-1C072509B6EA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q45682",
+      "name": "Ян Сибелиус",
+      "birthDate": "1865-12-08",
+      "birthYear": 1865,
+      "description": "финский композитор",
+      "category": "music",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B1%D0%B5%D0%BB%D0%B8%D1%83%D1%81,_%D0%AF%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q45682#P569",
+      "verified": {
+        "revision": 2563856681,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1865-12-08",
+        "originalCalendar": "gregorian",
+        "claim": "q45682$75D44D3D-024B-4ED8-B17D-4632746507D6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q131380",
+      "name": "Ким Бейсингер",
+      "birthDate": "1953-12-08",
+      "birthYear": 1953,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D1%81%D0%B8%D0%BD%D0%B3%D0%B5%D1%80,_%D0%9A%D0%B8%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q131380#P569",
+      "verified": {
+        "revision": 2560504840,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-12-08",
+        "originalCalendar": "gregorian",
+        "claim": "q131380$0188A646-AFB4-46F6-A793-DA9814A80741",
+        "references": []
+      }
+    }
+  ]
+}

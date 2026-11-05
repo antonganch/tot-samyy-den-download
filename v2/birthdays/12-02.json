@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "12-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q11975",
+      "name": "Бритни Спирс",
+      "birthDate": "1981-12-02",
+      "birthYear": 1981,
+      "description": "американская певица (род. 1981)",
+      "category": "music",
+      "sitelinks": 147,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%80%D1%81,_%D0%91%D1%80%D0%B8%D1%82%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q11975#P569",
+      "verified": {
+        "revision": 2563802875,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-12-02",
+        "originalCalendar": "gregorian",
+        "claim": "q11975$C9FB5591-1975-46C7-9A51-4E1645EA75C8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q128297",
+      "name": "Мария Каллас",
+      "birthDate": "1923-12-02",
+      "birthYear": 1923,
+      "description": "оперная певица (1923-1977)",
+      "category": "music",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%BB%D0%B0%D1%81,_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q128297#P569",
+      "verified": {
+        "revision": 2563974547,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1923-12-02",
+        "originalCalendar": "gregorian",
+        "claim": "q128297$5C313E4B-7B42-4045-AD5F-9BE46707FB6C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q80424",
+      "name": "Нелли Фуртадо",
+      "birthDate": "1978-12-02",
+      "birthYear": 1978,
+      "description": "канадская певица, автор песен и актриса",
+      "category": "screen",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%80%D1%82%D0%B0%D0%B4%D0%BE,_%D0%9D%D0%B5%D0%BB%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q80424#P569",
+      "verified": {
+        "revision": 2547387185,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-12-02",
+        "originalCalendar": "gregorian",
+        "claim": "q80424$40D5BB54-DA9C-4D68-8CA4-9330C425BF46",
+        "references": []
+      }
+    },
+    {
+      "id": "Q124617",
+      "name": "Георгий Константинович Жуков",
+      "birthDate": "1896-12-02",
+      "birthYear": 1896,
+      "description": "советский полководец, маршал Советского Союза",
+      "category": "public",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%96%D1%83%D0%BA%D0%BE%D0%B2,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q124617#P569",
+      "verified": {
+        "revision": 2562944929,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1896-12-02",
+        "originalCalendar": "gregorian",
+        "claim": "Q124617$3939465a-4426-7074-b640-d29b73cb745e",
+        "references": []
+      }
+    },
+    {
+      "id": "Q188375",
+      "name": "Люси Лью",
+      "birthDate": "1968-12-02",
+      "birthYear": 1968,
+      "description": "американская актриса, продюсер и режиссёр",
+      "category": "screen",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8C%D1%8E,_%D0%9B%D1%8E%D1%81%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q188375#P569",
+      "verified": {
+        "revision": 2564761211,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-12-02",
+        "originalCalendar": "gregorian",
+        "claim": "q188375$AF0915DB-8B48-41C4-ABAA-EDAC28352590",
+        "references": []
+      }
+    }
+  ]
+}

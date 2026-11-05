@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "06-03",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q10132",
+      "name": "Рафаэль Надаль",
+      "birthDate": "1986-06-03",
+      "birthYear": 1986,
+      "description": "испанский теннисист",
+      "category": "sport",
+      "sitelinks": 156,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B4%D0%B0%D0%BB%D1%8C,_%D0%A0%D0%B0%D1%84%D0%B0%D1%8D%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q10132#P569",
+      "verified": {
+        "revision": 2564487387,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-06-03",
+        "originalCalendar": "gregorian",
+        "claim": "q10132$a8aa6fd2-467e-9619-5fc7-fa30e823b31e",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/nadal-rafael"
+        ]
+      }
+    },
+    {
+      "id": "Q46809",
+      "name": "Рауль Кастро",
+      "birthDate": "1931-06-03",
+      "birthYear": 1931,
+      "description": "кубинский революционер, государственный и политический деятель",
+      "category": "public",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%82%D1%80%D0%BE,_%D0%A0%D0%B0%D1%83%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q46809#P569",
+      "verified": {
+        "revision": 2562807526,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1931-06-03",
+        "originalCalendar": "gregorian",
+        "claim": "q46809$CE33D971-68C3-4E5F-9D21-C68E5035993F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q6711",
+      "name": "Аллен Гинзберг",
+      "birthDate": "1926-06-03",
+      "birthYear": 1926,
+      "description": "американский поэт-битник",
+      "category": "literature",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BD%D0%B7%D0%B1%D0%B5%D1%80%D0%B3,_%D0%90%D0%BB%D0%BB%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q6711#P569",
+      "verified": {
+        "revision": 2560267439,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-06-03",
+        "originalCalendar": "gregorian",
+        "claim": "q6711$B1363C28-4A4C-4800-BD7A-9856BEF01E6A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q162389",
+      "name": "Тони Кёртис",
+      "birthDate": "1925-06-03",
+      "birthYear": 1925,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BD%D0%B8_%D0%9A%D1%91%D1%80%D1%82%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q162389#P569",
+      "verified": {
+        "revision": 2558261212,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-06-03",
+        "originalCalendar": "gregorian",
+        "claim": "q162389$A3A2F26E-398D-4EB2-9508-53B7E1080C9C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q151972",
+      "name": "Жозефина Бейкер",
+      "birthDate": "1906-06-03",
+      "birthYear": 1906,
+      "description": "американо-французская танцовщица и гражданская активистка",
+      "category": "other",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D0%BA%D0%B5%D1%80,_%D0%96%D0%BE%D0%B7%D0%B5%D1%84%D0%B8%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q151972#P569",
+      "verified": {
+        "revision": 2563874909,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1906-06-03",
+        "originalCalendar": "gregorian",
+        "claim": "q151972$A4D2FF3D-FCE9-4F3D-8513-3D7EEDD1C8A1",
+        "references": []
+      }
+    }
+  ]
+}

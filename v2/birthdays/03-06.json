@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "03-06",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5878",
+      "name": "Габриель Гарсиа Маркес",
+      "birthDate": "1927-03-06",
+      "birthYear": 1927,
+      "description": "колумбийский писатель (1927—2014)",
+      "category": "literature",
+      "sitelinks": 209,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%81%D0%B8%D0%B0_%D0%9C%D0%B0%D1%80%D0%BA%D0%B5%D1%81,_%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D1%8D%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q5878#P569",
+      "verified": {
+        "revision": 2563390154,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1927-03-06",
+        "originalCalendar": "gregorian",
+        "claim": "Q5878$5DBE4A75-E6EA-4ED1-A19E-23CB575BCED2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44371",
+      "name": "Валентина Владимировна Терешкова",
+      "birthDate": "1937-03-06",
+      "birthYear": 1937,
+      "description": "советский космонавт, первая в мире женщина в космосе",
+      "category": "exploration",
+      "sitelinks": 132,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%B5%D1%88%D0%BA%D0%BE%D0%B2%D0%B0,_%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%82%D0%B8%D0%BD%D0%B0_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q44371#P569",
+      "verified": {
+        "revision": 2564703337,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1937-03-06",
+        "originalCalendar": "gregorian",
+        "claim": "q44371$BACFE6C3-F92E-4FB4-95ED-250EFB843DD0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q106685",
+      "name": "Анджей Вайда",
+      "birthDate": "1926-03-06",
+      "birthYear": 1926,
+      "description": "польский кинорежиссёр, театральный режиссёр и сценарист",
+      "category": "screen",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B9%D0%B4%D0%B0,_%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q106685#P569",
+      "verified": {
+        "revision": 2559177652,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-03-06",
+        "originalCalendar": "gregorian",
+        "claim": "q106685$71607348-43F1-4955-8A53-24C130C2AB73",
+        "references": []
+      }
+    },
+    {
+      "id": "Q383197",
+      "name": "Динтала Пунлаб",
+      "birthDate": "1969-03-06",
+      "birthYear": 1969,
+      "description": "тайская певица",
+      "category": "music",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D0%BD%D0%BB%D0%B0%D0%B1,_%D0%94%D0%B8%D0%BD%D1%82%D0%B0%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q383197#P569",
+      "verified": {
+        "revision": 2553937124,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-03-06",
+        "originalCalendar": "gregorian",
+        "claim": "Q383197$19F1B896-D406-4084-85DD-382B90D043B1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q178517",
+      "name": "Дэвид Гилмор",
+      "birthDate": "1946-03-06",
+      "birthYear": 1946,
+      "description": "британский музыкант",
+      "category": "music",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BB%D0%BC%D0%BE%D1%80,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q178517#P569",
+      "verified": {
+        "revision": 2563764708,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-03-06",
+        "originalCalendar": "gregorian",
+        "claim": "q178517$97EE15B8-C806-43BE-84CE-D3D8D23D0E33",
+        "references": []
+      }
+    }
+  ]
+}

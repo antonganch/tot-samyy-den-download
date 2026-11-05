@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "08-17",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q36949",
+      "name": "Роберт Де Ниро",
+      "birthDate": "1943-08-17",
+      "birthYear": 1943,
+      "description": "американский актёр, режиссёр и продюсер.",
+      "category": "screen",
+      "sitelinks": 141,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5_%D0%9D%D0%B8%D1%80%D0%BE,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q36949#P569",
+      "verified": {
+        "revision": 2564255218,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1943-08-17",
+        "originalCalendar": "gregorian",
+        "claim": "q36949$9474FF8A-9C2B-43FD-88B5-93DEEC5D7CCE",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/de-niro-robert"
+        ]
+      }
+    },
+    {
+      "id": "Q38049",
+      "name": "Герта Мюллер",
+      "birthDate": "1953-08-17",
+      "birthYear": 1953,
+      "description": "немецкая поэтесса и писательница, общественный деятель, художник",
+      "category": "literature",
+      "sitelinks": 127,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8E%D0%BB%D0%BB%D0%B5%D1%80,_%D0%93%D0%B5%D1%80%D1%82%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q38049#P569",
+      "verified": {
+        "revision": 2563196889,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-08-17",
+        "originalCalendar": "gregorian",
+        "claim": "q38049$25329E6F-23C8-4035-A719-3C5AB24380C9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q202878",
+      "name": "Мэй Уэст",
+      "birthDate": "1893-08-17",
+      "birthYear": 1893,
+      "description": "американская актриса и секс-символ",
+      "category": "screen",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D1%8D%D1%81%D1%82,_%D0%9C%D1%8D%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q202878#P569",
+      "verified": {
+        "revision": 2564640425,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1893-08-17",
+        "originalCalendar": "gregorian",
+        "claim": "q202878$886D5523-B6A0-40EA-B460-63FE8D0732D5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q45901",
+      "name": "Тьерри Анри",
+      "birthDate": "1977-08-17",
+      "birthYear": 1977,
+      "description": "французский футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%80%D0%B8,_%D0%A2%D1%8C%D0%B5%D1%80%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q45901#P569",
+      "verified": {
+        "revision": 2558255406,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1977-08-17",
+        "originalCalendar": "gregorian",
+        "claim": "q45901$1b84da6d-4107-51cf-e5a3-8e920dd31391",
+        "references": []
+      }
+    },
+    {
+      "id": "Q16597",
+      "name": "Цзян Цзэминь",
+      "birthDate": "1926-08-17",
+      "birthYear": 1926,
+      "description": "китайский политик, генеральный секретарь ЦК КПК (1989-2002)",
+      "category": "public",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B7%D1%8F%D0%BD_%D0%A6%D0%B7%D1%8D%D0%BC%D0%B8%D0%BD%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q16597#P569",
+      "verified": {
+        "revision": 2563056949,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-08-17",
+        "originalCalendar": "gregorian",
+        "claim": "q16597$1114d5b0-41e4-4d7a-238c-8b8586050d82",
+        "references": []
+      }
+    }
+  ]
+}

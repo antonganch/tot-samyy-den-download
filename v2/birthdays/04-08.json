@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "04-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1254",
+      "name": "Кофи Аннан",
+      "birthDate": "1938-04-08",
+      "birthYear": 1938,
+      "description": "ганский дипломат, генеральный секретарь ООН (1997—2006)",
+      "category": "other",
+      "sitelinks": 178,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%BD%D0%B0%D0%BD,_%D0%9A%D0%BE%D1%84%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q1254#P569",
+      "verified": {
+        "revision": 2563196004,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1938-04-08",
+        "originalCalendar": "gregorian",
+        "claim": "q1254$9AC5261B-7F94-4B00-9167-2D5EA39B25FA",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/annan-kofi"
+        ]
+      }
+    },
+    {
+      "id": "Q104109",
+      "name": "Мэри Пикфорд",
+      "birthDate": "1892-04-08",
+      "birthYear": 1892,
+      "description": "канадская актриса (1892-1979)",
+      "category": "screen",
+      "sitelinks": 102,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8D%D1%80%D0%B8_%D0%9F%D0%B8%D0%BA%D1%84%D0%BE%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q104109#P569",
+      "verified": {
+        "revision": 2560222078,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1892-04-08",
+        "originalCalendar": "gregorian",
+        "claim": "q104109$48BC9CC6-1576-48CD-BA65-82BA6AF5CB78",
+        "references": []
+      }
+    },
+    {
+      "id": "Q58586",
+      "name": "Эдмунд Густав Альбрехт Гуссерль",
+      "birthDate": "1859-04-08",
+      "birthYear": 1859,
+      "description": "немецкий философ",
+      "category": "literature",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%81%D1%81%D0%B5%D1%80%D0%BB%D1%8C,_%D0%AD%D0%B4%D0%BC%D1%83%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q58586#P569",
+      "verified": {
+        "revision": 2563977665,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1859-04-08",
+        "originalCalendar": "gregorian",
+        "claim": "q58586$43B5BAD6-59FB-4C7D-B6CB-4F00B7957228",
+        "references": [
+          "https://aleph.vkol.cz/F/?func=find-c&ccl_term=sys=000006656&local_base=svk04",
+          "https://tritius.kmol.cz/authority/863884"
+        ]
+      }
+    },
+    {
+      "id": "Q1666",
+      "name": "Жак Брель",
+      "birthDate": "1929-04-08",
+      "birthYear": 1929,
+      "description": "бельгийский франкоязычный поэт, бард, актёр и режиссёр",
+      "category": "screen",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%BB%D1%8C,_%D0%96%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q1666#P569",
+      "verified": {
+        "revision": 2563757640,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1929-04-08",
+        "originalCalendar": "gregorian",
+        "claim": "q1666$1543CD8F-C211-4769-9C7E-CD17A31308E9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q193405",
+      "name": "Эмиль Мишель Чоран",
+      "birthDate": "1911-04-08",
+      "birthYear": 1911,
+      "description": "румынский и французский мыслитель-эссеист",
+      "category": "literature",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D1%80%D0%B0%D0%BD,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%9C%D0%B8%D1%88%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q193405#P569",
+      "verified": {
+        "revision": 2557868514,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1911-04-08",
+        "originalCalendar": "gregorian",
+        "claim": "q193405$0CB318B2-3169-4103-99BF-9EC4FBF0AEBF",
+        "references": []
+      }
+    }
+  ]
+}

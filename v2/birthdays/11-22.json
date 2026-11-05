@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "day": "11-22",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q2042",
+      "name": "Шарль де Голль",
+      "birthDate": "1890-11-22",
+      "birthYear": 1890,
+      "description": "французский генерал, государственный деятель",
+      "category": "other",
+      "sitelinks": 222,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5_%D0%93%D0%BE%D0%BB%D0%BB%D1%8C,_%D0%A8%D0%B0%D1%80%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q2042#P569",
+      "verified": {
+        "revision": 2562807165,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1890-11-22",
+        "originalCalendar": "gregorian",
+        "claim": "q2042$e68d8334-416b-6a43-aba1-c1514e2bbc2a",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/gaulle-charles-de",
+          "https://archives.lille.fr/ark:/74900/c9n2fjvqgxtp/1423e394-d12b-45ba-a1c9-40c6170ed566"
+        ]
+      }
+    },
+    {
+      "id": "Q34436",
+      "name": "Скарлетт Йоханссон",
+      "birthDate": "1984-11-22",
+      "birthYear": 1984,
+      "description": "американская актриса, модель и певица (род. 1984)",
+      "category": "screen",
+      "sitelinks": 157,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D1%85%D0%B0%D0%BD%D1%81%D1%81%D0%BE%D0%BD,_%D0%A1%D0%BA%D0%B0%D1%80%D0%BB%D0%B5%D1%82%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q34436#P569",
+      "verified": {
+        "revision": 2564638949,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1984-11-22",
+        "originalCalendar": "gregorian",
+        "claim": "q34436$01EB520D-B4CE-4005-A9E8-9368C44026B2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q47484",
+      "name": "Андре Жид",
+      "birthDate": "1869-11-22",
+      "birthYear": 1869,
+      "description": "французский писатель",
+      "category": "literature",
+      "sitelinks": 145,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D0%B4,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q47484#P569",
+      "verified": {
+        "revision": 2563201371,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1869-11-22",
+        "originalCalendar": "gregorian",
+        "claim": "q47484$C3450FDD-1514-4A16-AF81-713F8A284FB9",
+        "references": [
+          "https://tritius.kmol.cz/authority/865124"
+        ]
+      }
+    },
+    {
+      "id": "Q131333",
+      "name": "Джордж Элиот",
+      "birthDate": "1819-11-22",
+      "birthYear": 1819,
+      "description": "английская писательница (1819–1880)",
+      "category": "literature",
+      "sitelinks": 138,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_%D0%AD%D0%BB%D0%B8%D0%BE%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q131333#P569",
+      "verified": {
+        "revision": 2561011286,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1819-11-22",
+        "originalCalendar": "gregorian",
+        "claim": "q131333$2EDCDD9D-1A04-4863-A79D-484877BA099F",
+        "references": [
+          "https://www.wechanged.ugent.be/wechanged-database/"
+        ]
+      }
+    },
+    {
+      "id": "Q41422",
+      "name": "Марк Руффало",
+      "birthDate": "1967-11-22",
+      "birthYear": 1967,
+      "description": "американский актёр, продюсер и активист (р. 1967)",
+      "category": "screen",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%84%D1%84%D0%B0%D0%BB%D0%BE,_%D0%9C%D0%B0%D1%80%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q41422#P569",
+      "verified": {
+        "revision": 2563954496,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-11-22",
+        "originalCalendar": "gregorian",
+        "claim": "q41422$3243051D-972D-4289-AF33-9B4C7E490FEF",
+        "references": []
+      }
+    }
+  ]
+}

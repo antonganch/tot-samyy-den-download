@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "09-21",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q42511",
+      "name": "Герберт Уэллс",
+      "birthDate": "1866-09-21",
+      "birthYear": 1866,
+      "description": "английский писатель и публицист (1866—1946)",
+      "category": "literature",
+      "sitelinks": 169,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D1%8D%D0%BB%D0%BB%D1%81,_%D0%93%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D1%82_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q42511#P569",
+      "verified": {
+        "revision": 2562934386,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1866-09-21",
+        "originalCalendar": "gregorian",
+        "claim": "q42511$DF52C6EA-B434-465B-81DB-FCAF70531612",
+        "references": []
+      }
+    },
+    {
+      "id": "Q132345",
+      "name": "Синдзо Абэ",
+      "birthDate": "1954-09-21",
+      "birthYear": 1954,
+      "description": "японский государственный и политический деятель, премьер-министр Японии (2006–2007, 2012–2020)",
+      "category": "public",
+      "sitelinks": 164,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%8D,_%D0%A1%D0%B8%D0%BD%D0%B4%D0%B7%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q132345#P569",
+      "verified": {
+        "revision": 2562946569,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1954-09-21",
+        "originalCalendar": "gregorian",
+        "claim": "q132345$e7c3e54b-4608-5120-0f17-55418149a9d5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q39829",
+      "name": "Стивен Кинг",
+      "birthDate": "1947-09-21",
+      "birthYear": 1947,
+      "description": "американский писатель (род. 1947)",
+      "category": "literature",
+      "sitelinks": 148,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%B3,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q39829#P569",
+      "verified": {
+        "revision": 2562721341,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-09-21",
+        "originalCalendar": "gregorian",
+        "claim": "q39829$1F4D3EF1-A4D6-469E-B235-5C4D626CD876",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1276",
+      "name": "Леонард Коэн",
+      "birthDate": "1934-09-21",
+      "birthYear": 1934,
+      "description": "канадский поэт, писатель, певец и автор песен",
+      "category": "music",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%8D%D0%BD,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q1276#P569",
+      "verified": {
+        "revision": 2559537360,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1934-09-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q1276$F0E5DB68-9C68-424C-9148-69570795D1B9",
+        "references": [
+          "https://www.biography.com/people/leonard-cohen-9252529"
+        ]
+      }
+    },
+    {
+      "id": "Q184885",
+      "name": "Карина Капур",
+      "birthDate": "1980-09-21",
+      "birthYear": 1980,
+      "description": "индийская киноактриса",
+      "category": "screen",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%83%D1%80,_%D0%9A%D0%B0%D1%80%D0%B8%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q184885#P569",
+      "verified": {
+        "revision": 2563901702,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1980-09-21",
+        "originalCalendar": "gregorian",
+        "claim": "q184885$404DB122-FB6B-4F06-A0A8-8B7D1BF55051",
+        "references": []
+      }
+    }
+  ]
+}

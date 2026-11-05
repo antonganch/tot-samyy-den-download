@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "03-10",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1317",
+      "name": "Усама бен Ладен",
+      "birthDate": "1957-03-10",
+      "birthYear": 1957,
+      "description": "военный деятель, террорист и теоретик джихада саудовского происхождения, основатель и лидер «Аль-Каиды»",
+      "category": "public",
+      "sitelinks": 178,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%B0%D0%BC%D0%B0_%D0%B1%D0%B5%D0%BD_%D0%9B%D0%B0%D0%B4%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q1317#P569",
+      "verified": {
+        "revision": 2561871824,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1957-03-10",
+        "originalCalendar": "gregorian",
+        "claim": "q1317$54B414D4-3C87-44C3-93C9-A7216C053D83",
+        "references": [
+          "https://www2.fbi.gov/wanted/terrorists/terbinladen.htm",
+          "https://brockhaus.de/ecs/julex/article/bin-laden-osama"
+        ]
+      }
+    },
+    {
+      "id": "Q2673",
+      "name": "Чак Норрис",
+      "birthDate": "1940-03-10",
+      "birthYear": 1940,
+      "description": "aмериканский мастер боевых искусств и актёр (1940–2026)",
+      "category": "screen",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D1%80%D0%B8%D1%81,_%D0%A7%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q2673#P569",
+      "verified": {
+        "revision": 2559134778,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-03-10",
+        "originalCalendar": "gregorian",
+        "claim": "q2673$52337EC2-250F-408C-AC5C-D52502B61FF0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q62975",
+      "name": "Шэрон Стоун",
+      "birthDate": "1958-03-10",
+      "birthYear": 1958,
+      "description": "американская актриса и модель",
+      "category": "screen",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D1%83%D0%BD,_%D0%A8%D1%8D%D1%80%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q62975#P569",
+      "verified": {
+        "revision": 2558235366,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-03-10",
+        "originalCalendar": "gregorian",
+        "claim": "q62975$BE0D055B-F5AA-49DE-9D3C-FA8FF728C75E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q22007112",
+      "name": "Надия Мурад",
+      "birthDate": "1993-03-10",
+      "birthYear": 1993,
+      "description": "иракская правозащитница езидского происхождения",
+      "category": "other",
+      "sitelinks": 104,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%B4,_%D0%9D%D0%B0%D0%B4%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q22007112#P569",
+      "verified": {
+        "revision": 2563326387,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1993-03-10",
+        "originalCalendar": "gregorian",
+        "claim": "Q22007112$accc8bbc-4d56-2aaa-ae04-163ef50c5aeb",
+        "references": [
+          "https://www.nobelprize.org/prizes/peace/2018/murad/facts/"
+        ]
+      }
+    },
+    {
+      "id": "Q1255625",
+      "name": "Самюэль Это’о",
+      "birthDate": "1981-03-10",
+      "birthYear": 1981,
+      "description": "камерунский футболист",
+      "category": "sport",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D1%82%D0%BE%E2%80%99%D0%BE,_%D0%A1%D0%B0%D0%BC%D1%8E%D1%8D%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q1255625#P569",
+      "verified": {
+        "revision": 2547334945,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-03-10",
+        "originalCalendar": "gregorian",
+        "claim": "Q1255625$E4CA7427-483F-41BA-821B-7D20200769E3",
+        "references": []
+      }
+    }
+  ]
+}

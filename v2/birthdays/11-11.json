@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "11-11",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q38111",
+      "name": "Леонардо Ди Каприо",
+      "birthDate": "1974-11-11",
+      "birthYear": 1974,
+      "description": "американский актёр, продюсер и общественный деятель (род. 1974)",
+      "category": "screen",
+      "sitelinks": 150,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8_%D0%9A%D0%B0%D0%BF%D1%80%D0%B8%D0%BE,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q38111#P569",
+      "verified": {
+        "revision": 2563935172,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-11-11",
+        "originalCalendar": "gregorian",
+        "claim": "q38111$620EF63E-17B2-417F-AD4C-4899E8E01446",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/dicaprio-leonardo-wilhelm"
+        ]
+      }
+    },
+    {
+      "id": "Q43044",
+      "name": "Деми Мур",
+      "birthDate": "1962-11-11",
+      "birthYear": 1962,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80,_%D0%94%D0%B5%D0%BC%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q43044#P569",
+      "verified": {
+        "revision": 2564958052,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1962-11-11",
+        "originalCalendar": "gregorian",
+        "claim": "q43044$23644E10-EB5D-4E8C-A27B-BC161A6DC2E0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q49074",
+      "name": "Курт Воннегут",
+      "birthDate": "1922-11-11",
+      "birthYear": 1922,
+      "description": "американский писатель, сатирик и художник (1922—2007)",
+      "category": "literature",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BD%D0%BD%D0%B5%D0%B3%D1%83%D1%82,_%D0%9A%D1%83%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q49074#P569",
+      "verified": {
+        "revision": 2564441768,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-11-11",
+        "originalCalendar": "gregorian",
+        "claim": "q49074$4875EE04-87C9-415B-9D09-063259A38F6D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q566257",
+      "name": "Фридрих Мерц",
+      "birthDate": "1955-11-11",
+      "birthYear": 1955,
+      "description": "немецкий политик (ХДС), десятый канцлер Федеративной Республики Германия, депутат Бундестага.",
+      "category": "public",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D1%86,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q566257#P569",
+      "verified": {
+        "revision": 2560638393,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-11-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q566257$2EF1AEB8-2EAA-4E0C-97EB-E7FB6378A483",
+        "references": []
+      }
+    },
+    {
+      "id": "Q43682",
+      "name": "Филипп Лам",
+      "birthDate": "1983-11-11",
+      "birthYear": 1983,
+      "description": "немецкий футболист",
+      "category": "sport",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BC,_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF",
+      "source": "https://www.wikidata.org/wiki/Q43682#P569",
+      "verified": {
+        "revision": 2562675160,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-11-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q43682$50298D59-4442-4B83-A9F4-D35C59B23C09",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/lahm-philipp"
+        ]
+      }
+    }
+  ]
+}

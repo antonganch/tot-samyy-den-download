@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "06-09",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8479",
+      "name": "Пётр I",
+      "birthDate": "1672-06-09",
+      "birthYear": 1672,
+      "description": "император Всероссийский (1721–1725)",
+      "category": "public",
+      "sitelinks": 182,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%91%D1%82%D1%80_I",
+      "source": "https://www.wikidata.org/wiki/Q8479#P569",
+      "verified": {
+        "revision": 2564375976,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1672-05-30",
+        "originalCalendar": "julian",
+        "claim": "q8479$E5E29594-C338-4D27-9CB9-9FA5220B3058",
+        "references": []
+      }
+    },
+    {
+      "id": "Q37175",
+      "name": "Джонни Депп",
+      "birthDate": "1963-06-09",
+      "birthYear": 1963,
+      "description": "американский актёр, режиссёр, музыкант, сценарист и продюсер",
+      "category": "screen",
+      "sitelinks": 149,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BF%D0%BF,_%D0%94%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q37175#P569",
+      "verified": {
+        "revision": 2564224984,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-06-09",
+        "originalCalendar": "gregorian",
+        "claim": "Q37175$74F64E5C-329C-40A4-BD2C-336ED8D8431D",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/depp-johnny"
+        ]
+      }
+    },
+    {
+      "id": "Q37876",
+      "name": "Натали Портман",
+      "birthDate": "1981-06-09",
+      "birthYear": 1981,
+      "description": "израильско-американская актриса (р. 1981)",
+      "category": "screen",
+      "sitelinks": 138,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%BC%D0%B0%D0%BD,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q37876#P569",
+      "verified": {
+        "revision": 2563917297,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-06-09",
+        "originalCalendar": "gregorian",
+        "claim": "q37876$F857573C-FDD3-43F7-A9DC-C19C7C5AFC6A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q80471",
+      "name": "Мирослав Клозе",
+      "birthDate": "1978-06-09",
+      "birthYear": 1978,
+      "description": "немецкий футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%BE%D0%B7%D0%B5,_%D0%9C%D0%B8%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q80471#P569",
+      "verified": {
+        "revision": 2562680075,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-06-09",
+        "originalCalendar": "gregorian",
+        "claim": "q80471$1241E0BE-FF58-4F25-9FCB-D9AFCA3B2D4F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q18456",
+      "name": "Берта фон Зутнер",
+      "birthDate": "1843-06-09",
+      "birthYear": 1843,
+      "description": "австрийская пацифистка",
+      "category": "other",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%97%D1%83%D1%82%D0%BD%D0%B5%D1%80,_%D0%91%D0%B5%D1%80%D1%82%D0%B0_%D1%84%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q18456#P569",
+      "verified": {
+        "revision": 2563985665,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1843-06-09",
+        "originalCalendar": "gregorian",
+        "claim": "q18456$BBD4AD61-A6F5-4C14-8CD2-25A14F2A2827",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/bertha-von-suttner",
+          "https://www.wechanged.ugent.be/wechanged-database/"
+        ]
+      }
+    }
+  ]
+}

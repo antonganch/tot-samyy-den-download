@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "09-04",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q36153",
+      "name": "Бейонсе",
+      "birthDate": "1981-09-04",
+      "birthYear": 1981,
+      "description": "американская певица и актриса",
+      "category": "screen",
+      "sitelinks": 177,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D0%BE%D0%BD%D1%81%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q36153#P569",
+      "verified": {
+        "revision": 2563802735,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-09-04",
+        "originalCalendar": "gregorian",
+        "claim": "q36153$D3DDFE6B-DC38-4FC3-9D0F-ED9798EC9019",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/knowles-beyonce-giselle",
+          "https://hedendaagsesieraden.nl/2024/04/04/beyonce/"
+        ]
+      }
+    },
+    {
+      "id": "Q81752",
+      "name": "Антон Брукнер",
+      "birthDate": "1824-09-04",
+      "birthYear": 1824,
+      "description": "австрийский композитор, органист и музыкальный педагог",
+      "category": "music",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%83%D0%BA%D0%BD%D0%B5%D1%80,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q81752#P569",
+      "verified": {
+        "revision": 2564806610,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1824-09-04",
+        "originalCalendar": "gregorian",
+        "claim": "q81752$E740FDAD-986D-48FE-9385-D49949B3F87B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q49767",
+      "name": "Франсуа-Рене де Шатобриан",
+      "birthDate": "1768-09-04",
+      "birthYear": 1768,
+      "description": "французский писатель и дипломат",
+      "category": "literature",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%82%D0%BE%D0%B1%D1%80%D0%B8%D0%B0%D0%BD,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0_%D0%A0%D0%B5%D0%BD%D0%B5_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q49767#P569",
+      "verified": {
+        "revision": 2564809915,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1768-09-04",
+        "originalCalendar": "gregorian",
+        "claim": "q49767$9011EAB9-3461-4E0B-B61C-B7E5A0A86EA2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q187166",
+      "name": "Антонен Арто",
+      "birthDate": "1896-09-04",
+      "birthYear": 1896,
+      "description": "французский писатель, поэт, драматург, актёр театра и кино, художник, киносценарист, режиссёр и теоретик театра",
+      "category": "screen",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%82%D0%BE,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q187166#P569",
+      "verified": {
+        "revision": 2557782204,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1896-09-04",
+        "originalCalendar": "gregorian",
+        "claim": "q187166$A09FDA10-4FF4-4469-8C66-630BEE7E20E6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q4599",
+      "name": "Рауль Альбиоль",
+      "birthDate": "1985-09-04",
+      "birthYear": 1985,
+      "description": "испанский футболист",
+      "category": "sport",
+      "sitelinks": 68,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B8%D0%BE%D0%BB%D1%8C,_%D0%A0%D0%B0%D1%83%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q4599#P569",
+      "verified": {
+        "revision": 2546274440,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1985-09-04",
+        "originalCalendar": "gregorian",
+        "claim": "q4599$828B9DD4-CDF5-4133-A1EB-75FF266EC3A0",
+        "references": []
+      }
+    }
+  ]
+}

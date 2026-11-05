@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "12-15",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q11758",
+      "name": "Людвик Лазарь Заменгоф",
+      "birthDate": "1859-12-15",
+      "birthYear": 1859,
+      "description": "польский языковед, создатель языка эсперанто",
+      "category": "other",
+      "sitelinks": 141,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BC%D0%B5%D0%BD%D0%B3%D0%BE%D1%84,_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%BA_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q11758#P569",
+      "verified": {
+        "revision": 2557123111,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1859-12-15",
+        "originalCalendar": "gregorian",
+        "claim": "q11758$C1844B21-63D0-4B1A-AA55-EEB4914F767C",
+        "references": [
+          "https://tritius.kmol.cz/authority/865142"
+        ]
+      }
+    },
+    {
+      "id": "Q41269",
+      "name": "Антуан Анри Беккерель",
+      "birthDate": "1852-12-15",
+      "birthYear": 1852,
+      "description": "французский физик",
+      "category": "science",
+      "sitelinks": 111,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BA%D0%BA%D0%B5%D1%80%D0%B5%D0%BB%D1%8C,_%D0%90%D0%BD%D1%82%D1%83%D0%B0%D0%BD_%D0%90%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q41269#P569",
+      "verified": {
+        "revision": 2563200201,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1852-12-15",
+        "originalCalendar": "gregorian",
+        "claim": "q41269$60433B6B-DB31-4FA5-B03E-0200D5075002",
+        "references": []
+      }
+    },
+    {
+      "id": "Q20882",
+      "name": "Гюстав Эйфель",
+      "birthDate": "1832-12-15",
+      "birthYear": 1832,
+      "description": "французский инженер (1832-1923)",
+      "category": "science",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D1%84%D0%B5%D0%BB%D1%8C,_%D0%93%D1%8E%D1%81%D1%82%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q20882#P569",
+      "verified": {
+        "revision": 2557902825,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1832-12-15",
+        "originalCalendar": "gregorian",
+        "claim": "q20882$5B59D2CD-3EC9-45B7-BD41-DE2D466FAB18",
+        "references": [
+          "https://archives.cotedor.fr/v2/ark:/71137/gcd3a5c5cbb0f87ea7be751032d3f2a99/49d4dd440583a08bd8a8c25c616c82b1/249/ZnJhZDAyMV8yMzlfNW1pMDlyMTg2XzAyNDhfMDAxLmpwZw=="
+        ]
+      }
+    },
+    {
+      "id": "Q134165",
+      "name": "Оскар Нимейер",
+      "birthDate": "1907-12-15",
+      "birthYear": 1907,
+      "description": "бразильский архитектор",
+      "category": "art",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BC%D0%B5%D0%B9%D0%B5%D1%80,_%D0%9E%D1%81%D0%BA%D0%B0%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q134165#P569",
+      "verified": {
+        "revision": 2558201723,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-12-15",
+        "originalCalendar": "gregorian",
+        "claim": "q134165$7B989E5A-98E6-40B7-BBFD-4F46A3787E86",
+        "references": []
+      }
+    },
+    {
+      "id": "Q969423",
+      "name": "Кейлор Навас",
+      "birthDate": "1986-12-15",
+      "birthYear": 1986,
+      "description": "коста-риканский футболист",
+      "category": "sport",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%B0%D1%81,_%D0%9A%D0%B5%D0%B9%D0%BB%D0%BE%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q969423#P569",
+      "verified": {
+        "revision": 2563270924,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-12-15",
+        "originalCalendar": "gregorian",
+        "claim": "Q969423$C42D61D5-09CD-41B2-AC1E-D6EDF98266A1",
+        "references": []
+      }
+    }
+  ]
+}

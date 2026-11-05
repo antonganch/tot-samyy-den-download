@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "05-27",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q66107",
+      "name": "Генри Киссинджер",
+      "birthDate": "1923-05-27",
+      "birthYear": 1923,
+      "description": "американский государственный деятель, госсекретарь США (1973-1977)",
+      "category": "other",
+      "sitelinks": 144,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%81%D1%81%D0%B8%D0%BD%D0%B4%D0%B6%D0%B5%D1%80,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q66107#P569",
+      "verified": {
+        "revision": 2563196947,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1923-05-27",
+        "originalCalendar": "gregorian",
+        "claim": "q66107$ADDE5BB4-0988-4217-A27C-1AB00875E7B3",
+        "references": []
+      }
+    },
+    {
+      "id": "Q180338",
+      "name": "Кристофер Ли",
+      "birthDate": "1922-05-27",
+      "birthYear": 1922,
+      "description": "английский актёр, снявшийся в более чем 250 фильмах (1922–2015)",
+      "category": "screen",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q180338#P569",
+      "verified": {
+        "revision": 2563775004,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-05-27",
+        "originalCalendar": "gregorian",
+        "claim": "q180338$EA55574D-6E7F-4EC9-897A-2A306B94A988",
+        "references": []
+      }
+    },
+    {
+      "id": "Q100948",
+      "name": "Рэйчел Карсон",
+      "birthDate": "1907-05-27",
+      "birthYear": 1907,
+      "description": "американский морской биолог, защитник окружающей среды и писательница",
+      "category": "science",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%81%D0%BE%D0%BD,_%D0%A0%D0%B5%D0%B9%D1%87%D0%B5%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q100948#P569",
+      "verified": {
+        "revision": 2564487009,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-05-27",
+        "originalCalendar": "gregorian",
+        "claim": "q100948$C020819A-6F11-469B-B978-1B2381EBAEC1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q151820",
+      "name": "Луи-Фердинан Селин",
+      "birthDate": "1894-05-27",
+      "birthYear": 1894,
+      "description": "французский писатель и врач",
+      "category": "literature",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B8%D0%BD,_%D0%9B%D1%83%D0%B8-%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q151820#P569",
+      "verified": {
+        "revision": 2564418886,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1894-05-27",
+        "originalCalendar": "gregorian",
+        "claim": "q151820$18794F06-7289-4078-B45A-EECAB27B897A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q56855591",
+      "name": "Донна Стрикленд",
+      "birthDate": "1959-05-27",
+      "birthYear": 1959,
+      "description": "канадский физик, Нобелевский лауреат",
+      "category": "science",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B8%D0%BA%D0%BB%D0%B5%D0%BD%D0%B4,_%D0%94%D0%BE%D0%BD%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q56855591#P569",
+      "verified": {
+        "revision": 2563198475,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1959-05-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q56855591$c6208761-4320-4281-40b8-08daf83781cf",
+        "references": [
+          "https://www.lle.rochester.edu/media/publications/documents/theses/Strickland.pdf"
+        ]
+      }
+    }
+  ]
+}

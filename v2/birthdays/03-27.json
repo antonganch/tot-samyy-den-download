@@ -1,0 +1,116 @@
+{
+  "schema": 1,
+  "day": "03-27",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q35149",
+      "name": "Вильгельм Рентген",
+      "birthDate": "1845-03-27",
+      "birthYear": 1845,
+      "description": "немецкий физик",
+      "category": "science",
+      "sitelinks": 158,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D1%82%D0%B3%D0%B5%D0%BD,_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC_%D0%9A%D0%BE%D0%BD%D1%80%D0%B0%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q35149#P569",
+      "verified": {
+        "revision": 2564302068,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1845-03-27",
+        "originalCalendar": "gregorian",
+        "claim": "q35149$56D7037A-D931-4929-AD5E-89941F2DE5C8",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/röntgen-wilhelm-conrad"
+        ]
+      }
+    },
+    {
+      "id": "Q41076",
+      "name": "Мэрайя Кэри",
+      "birthDate": "1969-03-27",
+      "birthYear": 1969,
+      "description": "американская певица и актриса",
+      "category": "screen",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%80%D0%B8,_%D0%9C%D1%8D%D1%80%D0%B0%D0%B9%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q41076#P569",
+      "verified": {
+        "revision": 2562746765,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-03-27",
+        "originalCalendar": "gregorian",
+        "claim": "q41076$0C6691C0-C2DF-431F-A6D1-602FB9D98D12",
+        "references": [
+          "https://nyshistoricnewspapers.org/lccn/sn83031119/1969-04-10/ed-1/seq-15/"
+        ]
+      }
+    },
+    {
+      "id": "Q3772",
+      "name": "Квентин Тарантино",
+      "birthDate": "1963-03-27",
+      "birthYear": 1963,
+      "description": "американский кинорежиссёр, сценарист, актёр, кинопродюсер и кинооператор (род. 1963)",
+      "category": "screen",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE,_%D0%9A%D0%B2%D0%B5%D0%BD%D1%82%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q3772#P569",
+      "verified": {
+        "revision": 2564338747,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-03-27",
+        "originalCalendar": "gregorian",
+        "claim": "q3772$1897C608-8F69-4C79-8950-8E95886F7605",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/tarantino-quentin"
+        ]
+      }
+    },
+    {
+      "id": "Q10819",
+      "name": "Мариано Рахой",
+      "birthDate": "1955-03-27",
+      "birthYear": 1955,
+      "description": "Испанский политик, член Народной партии, премьер-министр Испании (2011-2018)",
+      "category": "public",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%85%D0%BE%D0%B9,_%D0%9C%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q10819#P569",
+      "verified": {
+        "revision": 2564703057,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-03-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q10819$B7A271A7-94F8-431F-97F2-7D6E2EAF9A8B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q107365",
+      "name": "Мануэль Нойер",
+      "birthDate": "1986-03-27",
+      "birthYear": 1986,
+      "description": "немецкий футболист",
+      "category": "sport",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B9%D0%B5%D1%80,_%D0%9C%D0%B0%D0%BD%D1%83%D1%8D%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q107365#P569",
+      "verified": {
+        "revision": 2562659646,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-03-27",
+        "originalCalendar": "gregorian",
+        "claim": "q107365$6BE06486-7DCB-4074-AC38-824089339AA6",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/neuer-manuel"
+        ]
+      }
+    }
+  ]
+}

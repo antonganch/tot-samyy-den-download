@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "12-12",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q43444",
+      "name": "Гюстав Флобер",
+      "birthDate": "1821-12-12",
+      "birthYear": 1821,
+      "description": "французский писатель",
+      "category": "literature",
+      "sitelinks": 160,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%BE%D0%B1%D0%B5%D1%80,_%D0%93%D1%8E%D1%81%D1%82%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q43444#P569",
+      "verified": {
+        "revision": 2560450254,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1821-12-12",
+        "originalCalendar": "gregorian",
+        "claim": "q43444$29C32980-54B6-45B2-B396-8DED9F07242F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q40912",
+      "name": "Фрэнк Синатра",
+      "birthDate": "1915-12-12",
+      "birthYear": 1915,
+      "description": "американский актёр, певец и шоумэн",
+      "category": "screen",
+      "sitelinks": 140,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B0%D1%82%D1%80%D0%B0,_%D0%A4%D1%80%D1%8D%D0%BD%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q40912#P569",
+      "verified": {
+        "revision": 2564235633,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1915-12-12",
+        "originalCalendar": "gregorian",
+        "claim": "q40912$587FF109-0B33-438C-8FCE-025D78B84117",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41406",
+      "name": "Эдвард Мунк",
+      "birthDate": "1863-12-12",
+      "birthYear": 1863,
+      "description": "норвежский живописец и график, театральный художник, теоретик искусства",
+      "category": "art",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%BD%D0%BA,_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q41406#P569",
+      "verified": {
+        "revision": 2563805745,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1863-12-12",
+        "originalCalendar": "gregorian",
+        "claim": "q41406$9FD79484-E43C-4801-92B7-E5D97FF48901",
+        "references": []
+      }
+    },
+    {
+      "id": "Q484292",
+      "name": "Чингиз Торекулович Айтматов",
+      "birthDate": "1928-12-12",
+      "birthYear": 1928,
+      "description": "советский и киргизский писатель (1928—2008)",
+      "category": "literature",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9%D1%82%D0%BC%D0%B0%D1%82%D0%BE%D0%B2,_%D0%A7%D0%B8%D0%BD%D0%B3%D0%B8%D0%B7_%D0%A2%D0%BE%D1%80%D0%B5%D0%BA%D1%83%D0%BB%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q484292#P569",
+      "verified": {
+        "revision": 2558265495,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-12-12",
+        "originalCalendar": "gregorian",
+        "claim": "q484292$8CF41A35-E691-4622-BC68-D3A3217EE986",
+        "references": []
+      }
+    },
+    {
+      "id": "Q103343",
+      "name": "Дженнифер Коннелли",
+      "birthDate": "1970-12-12",
+      "birthYear": 1970,
+      "description": "американская актриса (род. 1970)",
+      "category": "screen",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BD%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%94%D0%B6%D0%B5%D0%BD%D0%BD%D0%B8%D1%84%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q103343#P569",
+      "verified": {
+        "revision": 2561388490,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1970-12-12",
+        "originalCalendar": "gregorian",
+        "claim": "q103343$DF39E1F6-7940-4DDA-93AD-5E136AC62189",
+        "references": []
+      }
+    }
+  ]
+}

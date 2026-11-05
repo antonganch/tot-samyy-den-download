@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "09-23",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1225",
+      "name": "Брюс Спрингстин",
+      "birthDate": "1949-09-23",
+      "birthYear": 1949,
+      "description": "американский музыкант",
+      "category": "music",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D1%80%D0%B8%D0%BD%D0%B3%D1%81%D1%82%D0%B8%D0%BD,_%D0%91%D1%80%D1%8E%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q1225#P569",
+      "verified": {
+        "revision": 2562730203,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-09-23",
+        "originalCalendar": "gregorian",
+        "claim": "q1225$1CE2A5B1-D39C-492B-A1E7-EFE926220013",
+        "references": []
+      }
+    },
+    {
+      "id": "Q544387",
+      "name": "Рэй Чарлз",
+      "birthDate": "1930-09-23",
+      "birthYear": 1930,
+      "description": "американский исполнитель; музыкант, певец и автор песен (1930–2004)",
+      "category": "music",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%8D%D0%B9_%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q544387#P569",
+      "verified": {
+        "revision": 2564488218,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-09-23",
+        "originalCalendar": "gregorian",
+        "claim": "q544387$1EF4C5C6-02AC-4AFB-879C-C2F78B5FACC8",
+        "references": [
+          "https://www.familysearch.org/ark:/61903/1:1:QKD5-VKF1"
+        ]
+      }
+    },
+    {
+      "id": "Q102483",
+      "name": "Ярослав Сейферт",
+      "birthDate": "1901-09-23",
+      "birthYear": 1901,
+      "description": "Участник Бархатной Революции, писатель и журналист",
+      "category": "literature",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B9%D1%84%D0%B5%D1%80%D1%82,_%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q102483#P569",
+      "verified": {
+        "revision": 2563196532,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-09-23",
+        "originalCalendar": "gregorian",
+        "claim": "q102483$8590C885-EA04-4A94-ACCB-6AD7E6483A92",
+        "references": [
+          "https://aleph.vkol.cz/F/?func=find-c&ccl_term=sys=000001043&local_base=svk04"
+        ]
+      }
+    },
+    {
+      "id": "Q171834",
+      "name": "Альдо Моро",
+      "birthDate": "1916-09-23",
+      "birthYear": 1916,
+      "description": "председатель Совета министров Италии (1963—1968, 1974—1976)",
+      "category": "other",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%BE,_%D0%90%D0%BB%D1%8C%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q171834#P569",
+      "verified": {
+        "revision": 2562799915,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1916-09-23",
+        "originalCalendar": "gregorian",
+        "claim": "q171834$EAC7CB12-8C48-4CA5-B614-75BCA7910611",
+        "references": []
+      }
+    },
+    {
+      "id": "Q104081",
+      "name": "Микки Руни",
+      "birthDate": "1920-09-23",
+      "birthYear": 1920,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 70,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D0%BA%D0%B8_%D0%A0%D1%83%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q104081#P569",
+      "verified": {
+        "revision": 2563916897,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1920-09-23",
+        "originalCalendar": "gregorian",
+        "claim": "q104081$B8317645-6916-48EA-91AF-C1331CD7793D",
+        "references": []
+      }
+    }
+  ]
+}

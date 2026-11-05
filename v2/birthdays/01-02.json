@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "01-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q30693",
+      "name": "Рудольф Клаузиус",
+      "birthDate": "1822-01-02",
+      "birthYear": 1822,
+      "description": "немецкий физик, механик и математик",
+      "category": "science",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%83%D0%B7%D0%B8%D1%83%D1%81,_%D0%A0%D1%83%D0%B4%D0%BE%D0%BB%D1%8C%D1%84_%D0%AE%D0%BB%D0%B8%D1%83%D1%81_%D0%AD%D0%BC%D0%B0%D0%BD%D1%83%D1%8D%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q30693#P569",
+      "verified": {
+        "revision": 2563956724,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1822-01-02",
+        "originalCalendar": "gregorian",
+        "claim": "q30693$B7A368F1-46EC-453B-9CDB-2C7E3FB75613",
+        "references": []
+      }
+    },
+    {
+      "id": "Q136209",
+      "name": "Кьюба Гудинг-мл.",
+      "birthDate": "1968-01-02",
+      "birthYear": 1968,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 67,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B4%D0%B8%D0%BD%D0%B3,_%D0%9A%D1%8C%D1%8E%D0%B1%D0%B0_(%D0%BC%D0%BB%D0%B0%D0%B4%D1%88%D0%B8%D0%B9)",
+      "source": "https://www.wikidata.org/wiki/Q136209#P569",
+      "verified": {
+        "revision": 2553666268,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-01-02",
+        "originalCalendar": "gregorian",
+        "claim": "q136209$8FAACB45-FF96-4B40-90DD-6E401C558B16",
+        "references": []
+      }
+    },
+    {
+      "id": "Q185040",
+      "name": "Милий Алексеевич Балакирев",
+      "birthDate": "1837-01-02",
+      "birthYear": 1837,
+      "description": "русский композитор, пианист, дирижёр (1837—1910)",
+      "category": "music",
+      "sitelinks": 67,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%B0%D0%BA%D0%B8%D1%80%D0%B5%D0%B2,_%D0%9C%D0%B8%D0%BB%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q185040#P569",
+      "verified": {
+        "revision": 2559059738,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1836-12-21",
+        "originalCalendar": "julian",
+        "claim": "q185040$0B7FE1F6-B88D-4015-AFE5-5D11AC5BC63E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q236822",
+      "name": "Кейт Босуорт",
+      "birthDate": "1983-01-02",
+      "birthYear": 1983,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 58,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%81%D1%83%D0%BE%D1%80%D1%82,_%D0%9A%D0%B5%D0%B9%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q236822#P569",
+      "verified": {
+        "revision": 2563160012,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-01-02",
+        "originalCalendar": "gregorian",
+        "claim": "Q236822$DE1B744D-C460-4C72-B9AD-DBA2C8BB658D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q170514",
+      "name": "Мехмед IV",
+      "birthDate": "1642-01-02",
+      "birthYear": 1642,
+      "description": "девятнадцатый султан Османской империи (1648–1687)",
+      "category": "public",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%85%D0%BC%D0%B5%D0%B4_IV",
+      "source": "https://www.wikidata.org/wiki/Q170514#P569",
+      "verified": {
+        "revision": 2558165467,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1642-01-02",
+        "originalCalendar": "gregorian",
+        "claim": "q170514$7B2CA4F5-6D64-4307-931D-A896ECE5CF36",
+        "references": []
+      }
+    }
+  ]
+}

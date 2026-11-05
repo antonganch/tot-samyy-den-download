@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "12-19",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1631",
+      "name": "Эдит Пиаф",
+      "birthDate": "1915-12-19",
+      "birthYear": 1915,
+      "description": "французская певица",
+      "category": "music",
+      "sitelinks": 146,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%B0%D1%84,_%D0%AD%D0%B4%D0%B8%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q1631#P569",
+      "verified": {
+        "revision": 2563760988,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1915-12-19",
+        "originalCalendar": "gregorian",
+        "claim": "q1631$3B656537-2713-43D7-90E3-9846E49C6EE7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q765165",
+      "name": "Леонид Ильич Брежнев",
+      "birthDate": "1906-12-19",
+      "birthYear": 1906,
+      "description": "советский государственный и партийный деятель, Генеральный секретарь ЦК КПСС (1964—1982)",
+      "category": "other",
+      "sitelinks": 139,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%B6%D0%BD%D0%B5%D0%B2,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%98%D0%BB%D1%8C%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q765165#P569",
+      "verified": {
+        "revision": 2560403505,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1906-12-06",
+        "originalCalendar": "julian",
+        "claim": "Q765165$5b539a99-48c2-dcca-5b80-63ccff0fc156",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1912",
+      "name": "Карим Бензема",
+      "birthDate": "1987-12-19",
+      "birthYear": 1987,
+      "description": "французский футболист",
+      "category": "sport",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B7%D0%B5%D0%BC%D0%B0,_%D0%9A%D0%B0%D1%80%D0%B8%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q1912#P569",
+      "verified": {
+        "revision": 2564728506,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1987-12-19",
+        "originalCalendar": "gregorian",
+        "claim": "q1912$8F5DA215-783A-4FB5-9A33-AFD48FED45DA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q127234",
+      "name": "Альберт Майкельсон",
+      "birthDate": "1852-12-19",
+      "birthYear": 1852,
+      "description": "американский физик-экспериментатор",
+      "category": "science",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BA%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%BD,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82_%D0%90%D0%B1%D1%80%D0%B0%D1%85%D0%B0%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q127234#P569",
+      "verified": {
+        "revision": 2563201264,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1852-12-19",
+        "originalCalendar": "gregorian",
+        "claim": "q127234$2071DB13-D18F-43E8-811E-114A0BEA6157",
+        "references": []
+      }
+    },
+    {
+      "id": "Q133313",
+      "name": "Джейк Джилленхол",
+      "birthDate": "1980-12-19",
+      "birthYear": 1980,
+      "description": "американский актёр и продюсер",
+      "category": "screen",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B8%D0%BB%D0%BB%D0%B5%D0%BD%D1%85%D0%BE%D0%BB,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q133313#P569",
+      "verified": {
+        "revision": 2563485966,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1980-12-19",
+        "originalCalendar": "gregorian",
+        "claim": "q133313$d37f6c3b-4960-af35-8a65-f4c503f2f8f6",
+        "references": []
+      }
+    }
+  ]
+}

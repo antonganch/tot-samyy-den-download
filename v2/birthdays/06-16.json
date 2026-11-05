@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "06-16",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q6107",
+      "name": "Тупак Шакур",
+      "birthDate": "1971-06-16",
+      "birthYear": 1971,
+      "description": "американский рэпер (1971–1996)",
+      "category": "music",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BA%D1%83%D1%80,_%D0%A2%D1%83%D0%BF%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q6107#P569",
+      "verified": {
+        "revision": 2561110192,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-06-16",
+        "originalCalendar": "gregorian",
+        "claim": "q6107$FDEDD0E5-0D98-4309-820A-F747A4C55892",
+        "references": []
+      }
+    },
+    {
+      "id": "Q199654",
+      "name": "Барбара Мак-Клинток",
+      "birthDate": "1902-06-16",
+      "birthYear": 1902,
+      "description": "Американский ученый и синтогинетик",
+      "category": "science",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA-%D0%9A%D0%BB%D0%B8%D0%BD%D1%82%D0%BE%D0%BA,_%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q199654#P569",
+      "verified": {
+        "revision": 2563200379,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1902-06-16",
+        "originalCalendar": "gregorian",
+        "claim": "q199654$149CFD08-EEE6-4727-A9F2-A40B8BE54978",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83106",
+      "name": "Юрген Клопп",
+      "birthDate": "1967-06-16",
+      "birthYear": 1967,
+      "description": "немецкий футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%BE%D0%BF%D0%BF,_%D0%AE%D1%80%D0%B3%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q83106#P569",
+      "verified": {
+        "revision": 2563720524,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-06-16",
+        "originalCalendar": "gregorian",
+        "claim": "Q83106$989951CF-5DEE-4AF9-B4D7-9BF2BBA4FDC7",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/klopp-jurgen"
+        ]
+      }
+    },
+    {
+      "id": "Q152306",
+      "name": "Карл Густав Эмиль Маннергейм",
+      "birthDate": "1867-06-16",
+      "birthYear": 1867,
+      "description": "финский военный и государственный деятель, президент Финляндии (1944—1946), регент Финляндии (1918—1919); один из создателей финской армии",
+      "category": "public",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%BD%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%D0%BC,_%D0%9A%D0%B0%D1%80%D0%BB_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q152306#P569",
+      "verified": {
+        "revision": 2563067450,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1867-06-04",
+        "originalCalendar": "julian",
+        "claim": "q152306$9D4656AF-6C6D-420E-8ABD-536C32998534",
+        "references": [
+          "https://uppslagsverket.fi/sv/sok/view-103684-MannerheimGustaf"
+        ]
+      }
+    },
+    {
+      "id": "Q58592",
+      "name": "Даниэль Брюль",
+      "birthDate": "1978-06-16",
+      "birthYear": 1978,
+      "description": "немецко-испанский актёр (род. 1978)",
+      "category": "screen",
+      "sitelinks": 58,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%8E%D0%BB%D1%8C,_%D0%94%D0%B0%D0%BD%D0%B8%D1%8D%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q58592#P569",
+      "verified": {
+        "revision": 2558997384,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-06-16",
+        "originalCalendar": "gregorian",
+        "claim": "Q58592$3516399E-3690-4A73-80DB-A9290C0A70C0",
+        "references": []
+      }
+    }
+  ]
+}

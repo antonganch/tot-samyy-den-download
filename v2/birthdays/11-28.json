@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "day": "11-28",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q34787",
+      "name": "Фридрих Энгельс",
+      "birthDate": "1820-11-28",
+      "birthYear": 1820,
+      "description": "немецкий политический деятель, философ, историк и предприниматель. Один из основоположников марксизма, друг и единомышленник Карла Маркса",
+      "category": "public",
+      "sitelinks": 200,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D1%81,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q34787#P569",
+      "verified": {
+        "revision": 2563975498,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1820-11-28",
+        "originalCalendar": "gregorian",
+        "claim": "q34787$AD8EF420-A233-4FB7-8516-51857852F2FE",
+        "references": [
+          "https://cs.isabart.org/person/25886",
+          "https://tritius.kmol.cz/authority/776040"
+        ]
+      }
+    },
+    {
+      "id": "Q41513",
+      "name": "Уильям Блейк",
+      "birthDate": "1757-11-28",
+      "birthYear": 1757,
+      "description": "английский поэт и художник, мистик и визионер",
+      "category": "literature",
+      "sitelinks": 162,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B5%D0%B9%D0%BA,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q41513#P569",
+      "verified": {
+        "revision": 2558282023,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1757-11-28",
+        "originalCalendar": "gregorian",
+        "claim": "q41513$9100F882-2DA9-4455-AD7F-EE90C0A552E8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q78491",
+      "name": "Стефан Цвейг",
+      "birthDate": "1881-11-28",
+      "birthYear": 1881,
+      "description": "австрийский писатель",
+      "category": "literature",
+      "sitelinks": 127,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D0%B9%D0%B3,_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q78491#P569",
+      "verified": {
+        "revision": 2564780284,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1881-11-28",
+        "originalCalendar": "gregorian",
+        "claim": "q78491$3C68A1AA-58BC-4A36-AEB1-7E9EF4799F29",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/zweig-stefan"
+        ]
+      }
+    },
+    {
+      "id": "Q128126",
+      "name": "Клод Леви-Строс",
+      "birthDate": "1908-11-28",
+      "birthYear": 1908,
+      "description": "французский антрополог и этнолог (1908—2009)",
+      "category": "other",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2%D0%B8-%D0%A1%D1%82%D1%80%D0%BE%D1%81%D1%81,_%D0%9A%D0%BB%D0%BE%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q128126#P569",
+      "verified": {
+        "revision": 2557845262,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-11-28",
+        "originalCalendar": "gregorian",
+        "claim": "Q128126$57E585EF-E48F-4CEF-8522-14B935EF451C",
+        "references": [
+          "https://deces.matchid.io/id/y7wj08-KyZQO"
+        ]
+      }
+    },
+    {
+      "id": "Q104791",
+      "name": "Эд Харрис",
+      "birthDate": "1950-11-28",
+      "birthYear": 1950,
+      "description": "американский актёр и режиссёр",
+      "category": "screen",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D1%80%D0%B8%D1%81,_%D0%AD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q104791#P569",
+      "verified": {
+        "revision": 2563141220,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-11-28",
+        "originalCalendar": "gregorian",
+        "claim": "q104791$A1C3B894-5AEB-43F5-8961-927F62C12AE7",
+        "references": []
+      }
+    }
+  ]
+}

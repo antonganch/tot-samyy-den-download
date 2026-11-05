@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "09-25",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q38392",
+      "name": "Уильям Фолкнер",
+      "birthDate": "1897-09-25",
+      "birthYear": 1897,
+      "description": "американский писатель (1897—1962)",
+      "category": "literature",
+      "sitelinks": 149,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BB%D0%BA%D0%BD%D0%B5%D1%80,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q38392#P569",
+      "verified": {
+        "revision": 2563063376,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1897-09-25",
+        "originalCalendar": "gregorian",
+        "claim": "q38392$006AF27A-59CF-4E2E-8A43-5B14D472015F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q40096",
+      "name": "Уилл Смит",
+      "birthDate": "1968-09-25",
+      "birthYear": 1968,
+      "description": "американский актёр, продюсер и рэпер (р. 1968)",
+      "category": "screen",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B8%D1%82,_%D0%A3%D0%B8%D0%BB%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q40096#P569",
+      "verified": {
+        "revision": 2564301798,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-09-25",
+        "originalCalendar": "gregorian",
+        "claim": "q40096$70F3E79A-72B1-4153-AFA6-097CD5FAAE60",
+        "references": []
+      }
+    },
+    {
+      "id": "Q23114",
+      "name": "Лу Синь",
+      "birthDate": "1881-09-25",
+      "birthYear": 1881,
+      "description": "китайский писатель, преподаватель, публицист, переводчик, создатель нового литературного китайского языка (1881–1936)",
+      "category": "literature",
+      "sitelinks": 128,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83_%D0%A1%D0%B8%D0%BD%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q23114#P569",
+      "verified": {
+        "revision": 2562943943,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1881-09-25",
+        "originalCalendar": "gregorian",
+        "claim": "q23114$FCCA90AF-AB3E-43EF-B103-49207928B481",
+        "references": []
+      }
+    },
+    {
+      "id": "Q80135",
+      "name": "Дмитрий Шостакович",
+      "birthDate": "1906-09-25",
+      "birthYear": 1906,
+      "description": "советский композитор, пианист, педагог и общественный деятель",
+      "category": "music",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%D0%B8%D1%87,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q80135#P569",
+      "verified": {
+        "revision": 2563857402,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1906-09-25",
+        "originalCalendar": "gregorian",
+        "claim": "q80135$66472105-4905-47FE-8B01-E8BC065FEF14",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/schostakowitsch-dmitri-dmitrijewitsch",
+          "https://cs.isabart.org/person/15664"
+        ]
+      }
+    },
+    {
+      "id": "Q47664",
+      "name": "Кэтрин Зета-Джонс",
+      "birthDate": "1969-09-25",
+      "birthYear": 1969,
+      "description": "британская актриса",
+      "category": "screen",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D1%82%D0%B0-%D0%94%D0%B6%D0%BE%D0%BD%D1%81,_%D0%9A%D1%8D%D1%82%D1%80%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q47664#P569",
+      "verified": {
+        "revision": 2558022323,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-09-25",
+        "originalCalendar": "gregorian",
+        "claim": "q47664$86CEA49F-05A4-476E-AFD2-03B55069B476",
+        "references": []
+      }
+    }
+  ]
+}

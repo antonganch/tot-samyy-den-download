@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "09-09",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q23880",
+      "name": "Лила Даунс",
+      "birthDate": "1968-09-09",
+      "birthYear": 1968,
+      "description": "мексиканская певица и композитор",
+      "category": "music",
+      "sitelinks": 115,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D1%83%D0%BD%D1%81,_%D0%9B%D0%B8%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q23880#P569",
+      "verified": {
+        "revision": 2564007754,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-09-09",
+        "originalCalendar": "gregorian",
+        "claim": "Q23880$d52fdb13-4436-7835-d552-d8a164f1b062",
+        "references": [
+          "https://www.imer.mx/9-de-septiembre-de-1968-nace-lila-downs-2/"
+        ]
+      }
+    },
+    {
+      "id": "Q483837",
+      "name": "Лука Модрич",
+      "birthDate": "1985-09-09",
+      "birthYear": 1985,
+      "description": "хорватский футболист",
+      "category": "sport",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D1%80%D0%B8%D1%87,_%D0%9B%D1%83%D0%BA%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q483837#P569",
+      "verified": {
+        "revision": 2558141293,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1985-09-09",
+        "originalCalendar": "gregorian",
+        "claim": "Q483837$F89332C6-6540-4686-AB32-DD850DC0D716",
+        "references": []
+      }
+    },
+    {
+      "id": "Q132952",
+      "name": "Адам Сэндлер",
+      "birthDate": "1966-09-09",
+      "birthYear": 1966,
+      "description": "американский комик, актёр, музыкант, сценарист и кинопродюсер",
+      "category": "screen",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8D%D0%BD%D0%B4%D0%BB%D0%B5%D1%80,_%D0%90%D0%B4%D0%B0%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q132952#P569",
+      "verified": {
+        "revision": 2563757697,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1966-09-09",
+        "originalCalendar": "gregorian",
+        "claim": "q132952$F8322079-EE44-48BD-B4DD-8A5592749EEC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q26702",
+      "name": "кардинал Ришельё",
+      "birthDate": "1585-09-09",
+      "birthYear": 1585,
+      "description": "государственный деятель Франции",
+      "category": "other",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D1%88%D0%B5%D0%BB%D1%8C%D1%91,_%D0%90%D1%80%D0%BC%D0%B0%D0%BD_%D0%96%D0%B0%D0%BD_%D0%B4%D1%8E_%D0%9F%D0%BB%D0%B5%D1%81%D1%81%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q26702#P569",
+      "verified": {
+        "revision": 2564789382,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1585-09-09",
+        "originalCalendar": "gregorian",
+        "claim": "q26702$8EC64640-B898-4CCF-A0FC-7CC0EB1399D0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q163286",
+      "name": "Хью Грант",
+      "birthDate": "1960-09-09",
+      "birthYear": 1960,
+      "description": "британский актёр и кинопродюсер",
+      "category": "screen",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BD%D1%82,_%D0%A5%D1%8C%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q163286#P569",
+      "verified": {
+        "revision": 2563906666,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1960-09-09",
+        "originalCalendar": "gregorian",
+        "claim": "q163286$2C77226C-B30B-4D58-895B-F16B00855593",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "07-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q2185",
+      "name": "Жорж Помпиду",
+      "birthDate": "1911-07-05",
+      "birthYear": 1911,
+      "description": "французский государственный деятель, премьер-министр (1962—1968) и президент (1969—1974) Франции",
+      "category": "public",
+      "sitelinks": 142,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BC%D0%BF%D0%B8%D0%B4%D1%83,_%D0%96%D0%BE%D1%80%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q2185#P569",
+      "verified": {
+        "revision": 2564678340,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1911-07-05",
+        "originalCalendar": "gregorian",
+        "claim": "q2185$450D30FD-8A51-48A4-AC01-35E5113B9B89",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83158",
+      "name": "Жан Кокто",
+      "birthDate": "1889-07-05",
+      "birthYear": 1889,
+      "description": "французский писатель, поэт, драматург, художник и кинорежиссёр",
+      "category": "screen",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D1%82%D0%BE,_%D0%96%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q83158#P569",
+      "verified": {
+        "revision": 2561388984,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1889-07-05",
+        "originalCalendar": "gregorian",
+        "claim": "q83158$98DEA6D3-6E8E-4FC9-AC04-CB1EAA72C062",
+        "references": []
+      }
+    },
+    {
+      "id": "Q223766",
+      "name": "Финеас Тейлор Барнум",
+      "birthDate": "1810-07-05",
+      "birthYear": 1810,
+      "description": "американский шоумен и фокусник",
+      "category": "other",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%BD%D1%83%D0%BC,_%D0%A4%D0%B8%D0%BD%D0%B5%D0%B0%D1%81_%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q223766#P569",
+      "verified": {
+        "revision": 2558216324,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1810-07-05",
+        "originalCalendar": "gregorian",
+        "claim": "q223766$DFAF6F66-8016-4EA2-9479-178AFFBE78B9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q160206",
+      "name": "Эрнан Креспо",
+      "birthDate": "1975-07-05",
+      "birthYear": 1975,
+      "description": "аргентинский и итальянский футболист",
+      "category": "sport",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D1%81%D0%BF%D0%BE,_%D0%AD%D1%80%D0%BD%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q160206#P569",
+      "verified": {
+        "revision": 2552445555,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-07-05",
+        "originalCalendar": "gregorian",
+        "claim": "q160206$8C6B3F77-4343-40AB-882C-AD841B5DCDCF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q184592",
+      "name": "Герард ’т Хоофт",
+      "birthDate": "1946-07-05",
+      "birthYear": 1946,
+      "description": "Нидерландский физик",
+      "category": "science",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%84%D1%82,_%D0%93%D0%B5%D1%80%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q184592#P569",
+      "verified": {
+        "revision": 2563200332,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-07-05",
+        "originalCalendar": "gregorian",
+        "claim": "Q184592$4BB091D2-F2B1-4C90-B57F-6A8B1E62B417",
+        "references": [
+          "https://www.nobelprize.org/prizes/physics/1999/thooft/facts/"
+        ]
+      }
+    }
+  ]
+}

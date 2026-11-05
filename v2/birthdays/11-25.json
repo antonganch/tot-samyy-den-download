@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "11-25",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q23873",
+      "name": "Иоанн XXIII",
+      "birthDate": "1881-11-25",
+      "birthYear": 1881,
+      "description": "папа Римский (1958-1963)",
+      "category": "public",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD_XXIII",
+      "source": "https://www.wikidata.org/wiki/Q23873#P569",
+      "verified": {
+        "revision": 2564641567,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1881-11-25",
+        "originalCalendar": "gregorian",
+        "claim": "q23873$EB07C66B-5230-4DB3-9F18-90C53BD0DD32",
+        "references": []
+      }
+    },
+    {
+      "id": "Q484265",
+      "name": "Эндрю Карнеги",
+      "birthDate": "1835-11-25",
+      "birthYear": 1835,
+      "description": "американский предприниматель, крупный сталепромышленник, филантроп, мультимиллионер",
+      "category": "other",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BD%D0%B5%D0%B3%D0%B8,_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q484265#P569",
+      "verified": {
+        "revision": 2564810805,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1835-11-25",
+        "originalCalendar": "gregorian",
+        "claim": "q484265$FADCA97C-2911-48F4-9EF6-1EBCCBDF5E82",
+        "references": []
+      }
+    },
+    {
+      "id": "Q40224",
+      "name": "Карл Бенц",
+      "birthDate": "1844-11-25",
+      "birthYear": 1844,
+      "description": "немецкий пионер автомобилестроения",
+      "category": "other",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D1%86,_%D0%9A%D0%B0%D1%80%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q40224#P569",
+      "verified": {
+        "revision": 2564654776,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1844-11-25",
+        "originalCalendar": "gregorian",
+        "claim": "q40224$29D709AB-3549-4595-8672-26A4F752D288",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/benz-carl-friedrich"
+        ]
+      }
+    },
+    {
+      "id": "Q208104",
+      "name": "Хаби Алонсо",
+      "birthDate": "1981-11-25",
+      "birthYear": 1981,
+      "description": "испанский футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BE%D0%BD%D1%81%D0%BE,_%D0%A5%D0%B0%D0%B1%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q208104#P569",
+      "verified": {
+        "revision": 2562669523,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-11-25",
+        "originalCalendar": "gregorian",
+        "claim": "q208104$C554D61B-94CB-48AD-B4D5-C1E301002793",
+        "references": []
+      }
+    },
+    {
+      "id": "Q188280",
+      "name": "Кристина Эпплгейт",
+      "birthDate": "1971-11-25",
+      "birthYear": 1971,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 70,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D0%BF%D0%BB%D0%B3%D0%B5%D0%B9%D1%82,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q188280#P569",
+      "verified": {
+        "revision": 2559443521,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-11-25",
+        "originalCalendar": "gregorian",
+        "claim": "Q188280$28A1C50C-0D9D-44D1-82F8-23F3EA1F39DC",
+        "references": []
+      }
+    }
+  ]
+}

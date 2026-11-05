@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "05-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q11613",
+      "name": "Гарри Трумэн",
+      "birthDate": "1884-05-08",
+      "birthYear": 1884,
+      "description": "33-й Президент США и 34-й Вице-президент США",
+      "category": "public",
+      "sitelinks": 199,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%83%D0%BC%D1%8D%D0%BD,_%D0%93%D0%B0%D1%80%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q11613#P569",
+      "verified": {
+        "revision": 2563803684,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1884-05-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q11613$E6F6E8E9-23A6-4CA1-A3D0-045B44F16F0B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1325",
+      "name": "Фридрих Август фон Хайек",
+      "birthDate": "1899-05-08",
+      "birthYear": 1899,
+      "description": "австрийский экономист и философ",
+      "category": "science",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B9%D0%B5%D0%BA,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82_%D1%84%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q1325#P569",
+      "verified": {
+        "revision": 2564800634,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1899-05-08",
+        "originalCalendar": "gregorian",
+        "claim": "q1325$4C0338B3-361A-4681-87EC-BF8310F51D3B",
+        "references": [
+          "https://link.springer.com/chapter/10.1007/978-1-349-06912-5_8",
+          "https://www.nobelprize.org/prizes/economic-sciences/1974/hayek/facts/"
+        ]
+      }
+    },
+    {
+      "id": "Q47122",
+      "name": "Энрике Иглесиас",
+      "birthDate": "1975-05-08",
+      "birthYear": 1975,
+      "description": "испанский певец, автор песен, продюсер и актёр",
+      "category": "screen",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D0%BB%D0%B5%D1%81%D0%B8%D0%B0%D1%81,_%D0%AD%D0%BD%D1%80%D0%B8%D0%BA%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q47122#P569",
+      "verified": {
+        "revision": 2559872974,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-05-08",
+        "originalCalendar": "gregorian",
+        "claim": "q47122$B900D94A-9CAF-45C4-B8F8-22EEC469CD02",
+        "references": []
+      }
+    },
+    {
+      "id": "Q183337",
+      "name": "Дэвид Аттенборо",
+      "birthDate": "1926-05-08",
+      "birthYear": 1926,
+      "description": "британский телеведущий, натуралист",
+      "category": "screen",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D1%82%D0%B5%D0%BD%D0%B1%D0%BE%D1%80%D0%BE,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q183337#P569",
+      "verified": {
+        "revision": 2562966350,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-05-08",
+        "originalCalendar": "gregorian",
+        "claim": "q183337$46944FCE-8B90-4940-B093-22B1698278C8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q12091",
+      "name": "Анри Дюнан",
+      "birthDate": "1828-05-08",
+      "birthYear": 1828,
+      "description": "швейцарский предприниматель и общественный деятель",
+      "category": "other",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%8E%D0%BD%D0%B0%D0%BD,_%D0%90%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q12091#P569",
+      "verified": {
+        "revision": 2563196955,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1828-05-08",
+        "originalCalendar": "gregorian",
+        "claim": "q12091$B58A5E2B-06C2-4E79-B3C6-1A2B57D6B420",
+        "references": [
+          "https://roter-kreis.de/8._Mai",
+          "https://ge.ch/arvaegrefdoc/EC3/88215/00000069.JPG"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "12-29",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8612",
+      "name": "Эндрю Джонсон",
+      "birthDate": "1808-12-29",
+      "birthYear": 1808,
+      "description": "17-й президент США и 16-й вице-президент США",
+      "category": "public",
+      "sitelinks": 145,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81%D0%BE%D0%BD,_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q8612#P569",
+      "verified": {
+        "revision": 2564539195,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1808-12-29",
+        "originalCalendar": "gregorian",
+        "claim": "q8612$26472FDA-8C18-41F2-9C4E-DB01AF15F175",
+        "references": []
+      }
+    },
+    {
+      "id": "Q167520",
+      "name": "Джон Войт",
+      "birthDate": "1938-12-29",
+      "birthYear": 1938,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B9%D1%82,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q167520#P569",
+      "verified": {
+        "revision": 2563179989,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1938-12-29",
+        "originalCalendar": "gregorian",
+        "claim": "q167520$B9A16F6F-C596-41EE-BAE7-243EA47AC86C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q160432",
+      "name": "Джуд Лоу",
+      "birthDate": "1972-12-29",
+      "birthYear": 1972,
+      "description": "британский актёр (род. 1972)",
+      "category": "screen",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%83,_%D0%94%D0%B6%D1%83%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q160432#P569",
+      "verified": {
+        "revision": 2562764642,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-12-29",
+        "originalCalendar": "gregorian",
+        "claim": "q160432$641312B5-3B4D-4BF4-A3BC-C664121BD7E8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q130752",
+      "name": "Елизавета Петровна",
+      "birthDate": "1709-12-29",
+      "birthYear": 1709,
+      "description": "императрица Всероссийская (1741–1762)",
+      "category": "other",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q130752#P569",
+      "verified": {
+        "revision": 2557866003,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1709-12-29",
+        "originalCalendar": "gregorian",
+        "claim": "Q130752$7d88962f-4237-46de-7987-de42bad8c757",
+        "references": []
+      }
+    },
+    {
+      "id": "Q188113",
+      "name": "Рональд Коуз",
+      "birthDate": "1910-12-29",
+      "birthYear": 1910,
+      "description": "английский экономист, один из родоначальников нового институционализма",
+      "category": "science",
+      "sitelinks": 65,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%83%D0%B7,_%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q188113#P569",
+      "verified": {
+        "revision": 2563198390,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1910-12-29",
+        "originalCalendar": "gregorian",
+        "claim": "q188113$ECD2E174-6845-43FB-9463-85AF4C91CE1B",
+        "references": []
+      }
+    }
+  ]
+}

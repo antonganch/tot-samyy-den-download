@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "01-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q303",
+      "name": "Элвис Пресли",
+      "birthDate": "1935-01-08",
+      "birthYear": 1935,
+      "description": "американский певец и актёр (1935—1977)",
+      "category": "screen",
+      "sitelinks": 216,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D1%81%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B2%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q303#P569",
+      "verified": {
+        "revision": 2561888579,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1935-01-08",
+        "originalCalendar": "gregorian",
+        "claim": "q303$65D66171-F22D-4DEE-82A1-BFC945AD46A9",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/presley-elvis-aaron"
+        ]
+      }
+    },
+    {
+      "id": "Q17714",
+      "name": "Стивен Хокинг",
+      "birthDate": "1942-01-08",
+      "birthYear": 1942,
+      "description": "английский физик-теоретик и космолог, популяризатор науки (1942–2018)",
+      "category": "science",
+      "sitelinks": 202,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BA%D0%B8%D0%BD%D0%B3,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q17714#P569",
+      "verified": {
+        "revision": 2563856667,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-01-08",
+        "originalCalendar": "gregorian",
+        "claim": "q17714$20c936d4-4a1a-26bc-da9e-ab4be29ec667",
+        "references": []
+      }
+    },
+    {
+      "id": "Q56226",
+      "name": "Ким Чен Ын",
+      "birthDate": "1984-01-08",
+      "birthYear": 1984,
+      "description": "высший руководитель КНДР (с 2011), северокорейский государственный деятель",
+      "category": "other",
+      "sitelinks": 177,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC_%D0%A7%D0%B5%D0%BD_%D0%AB%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q56226#P569",
+      "verified": {
+        "revision": 2564360644,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1984-01-08",
+        "originalCalendar": "gregorian",
+        "claim": "q56226$a252b942-48ca-f089-30ea-ed7355153c06",
+        "references": []
+      }
+    },
+    {
+      "id": "Q5383",
+      "name": "Дэвид Боуи",
+      "birthDate": "1947-01-08",
+      "birthYear": 1947,
+      "description": "британский рок-музыкант, певец и автор песен, а также продюсер, звукорежиссёр, художник и актёр",
+      "category": "screen",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%83%D0%B8,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q5383#P569",
+      "verified": {
+        "revision": 2564648679,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-01-08",
+        "originalCalendar": "gregorian",
+        "claim": "q5383$01B88385-2D5A-4B7D-9851-CF7D6E21409B",
+        "references": [
+          "https://www.theguardian.com/music/2016/jan/11/obituary-david-bowie"
+        ]
+      }
+    },
+    {
+      "id": "Q160627",
+      "name": "Альфред Рассел Уоллес",
+      "birthDate": "1823-01-08",
+      "birthYear": 1823,
+      "description": "британский натуралист",
+      "category": "other",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BB%D0%BB%D0%B5%D1%81,_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4_%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q160627#P569",
+      "verified": {
+        "revision": 2563211687,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1823-01-08",
+        "originalCalendar": "gregorian",
+        "claim": "q160627$21BF6D9E-66D2-4B02-9259-9CD9009E5733",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "08-03",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q484302",
+      "name": "Джеймс Хэтфилд",
+      "birthDate": "1963-08-03",
+      "birthYear": 1963,
+      "description": "американский музыкант",
+      "category": "music",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D1%82%D1%84%D0%B8%D0%BB%D0%B4,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q484302#P569",
+      "verified": {
+        "revision": 2563879431,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-08-03",
+        "originalCalendar": "gregorian",
+        "claim": "q484302$7316b1ce-4808-abdd-e9e3-03ef9cb5df25",
+        "references": []
+      }
+    },
+    {
+      "id": "Q160392",
+      "name": "Эванджелин Лилли",
+      "birthDate": "1979-08-03",
+      "birthYear": 1979,
+      "description": "канадская актриса",
+      "category": "screen",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BB%D0%BB%D0%B8,_%D0%AD%D0%B2%D0%B0%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q160392#P569",
+      "verified": {
+        "revision": 2540251214,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1979-08-03",
+        "originalCalendar": "gregorian",
+        "claim": "Q160392$9CB8E91F-338F-4403-A71C-763EC5E3CFB6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q184572",
+      "name": "Мартин Шин",
+      "birthDate": "1940-08-03",
+      "birthYear": 1940,
+      "description": "Американский актёр",
+      "category": "screen",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%A8%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q184572#P569",
+      "verified": {
+        "revision": 2560437497,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-08-03",
+        "originalCalendar": "gregorian",
+        "claim": "q184572$4C2CFBBE-86B2-456E-95CE-08C247AC920B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q296729",
+      "name": "Тони Беннетт",
+      "birthDate": "1926-08-03",
+      "birthYear": 1926,
+      "description": "американский певец (1926–2023)",
+      "category": "music",
+      "sitelinks": 67,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%BD%D0%B5%D1%82%D1%82,_%D0%A2%D0%BE%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q296729#P569",
+      "verified": {
+        "revision": 2561650911,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-08-03",
+        "originalCalendar": "gregorian",
+        "claim": "q296729$A907ED10-5B81-4293-9851-E1F18AC71D9C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q166635",
+      "name": "Стэнли Болдуин",
+      "birthDate": "1867-08-03",
+      "birthYear": 1867,
+      "description": "британский политик, премьер-министр Великобритании (1923—1924, 1924—1929, 1935—1937)",
+      "category": "public",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%A1%D1%82%D1%8D%D0%BD%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q166635#P569",
+      "verified": {
+        "revision": 2562947419,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1867-08-03",
+        "originalCalendar": "gregorian",
+        "claim": "q166635$EFD70BE7-FC67-4C4C-8FB2-32378F8C24F0",
+        "references": []
+      }
+    }
+  ]
+}

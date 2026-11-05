@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "06-25",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q3335",
+      "name": "Джордж Оруэлл",
+      "birthDate": "1903-06-25",
+      "birthYear": 1903,
+      "description": "английский писатель и публицист (1903—1950)",
+      "category": "literature",
+      "sitelinks": 213,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D1%83%D1%8D%D0%BB%D0%BB,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q3335#P569",
+      "verified": {
+        "revision": 2563461832,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1903-06-25",
+        "originalCalendar": "gregorian",
+        "claim": "q3335$AC5AA88C-1851-4FFF-B2FC-51EA9B2C5BFB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q25328",
+      "name": "Антонио Гауди",
+      "birthDate": "1852-06-25",
+      "birthYear": 1852,
+      "description": "испанский и итальянский архитектор",
+      "category": "art",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%83%D0%B4%D0%B8,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q25328#P569",
+      "verified": {
+        "revision": 2561589736,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1852-06-25",
+        "originalCalendar": "gregorian",
+        "claim": "q25328$be0c556f-41d0-49b1-e332-60845739a4ab",
+        "references": [
+          "https://www.abc.es/cultura/arte/20130625/abci-antoni-gaudi-doodle-201306250014.html"
+        ]
+      }
+    },
+    {
+      "id": "Q130311",
+      "name": "Джордж Майкл",
+      "birthDate": "1963-06-25",
+      "birthYear": 1963,
+      "description": "британский певец, поэт и композитор",
+      "category": "music",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q130311#P569",
+      "verified": {
+        "revision": 2564773676,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-06-25",
+        "originalCalendar": "gregorian",
+        "claim": "q130311$78E27C49-16A0-4491-9F1B-2001F612DCB2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q426582",
+      "name": "Энтони Бурден",
+      "birthDate": "1956-06-25",
+      "birthYear": 1956,
+      "description": "американский шеф-повар, писатель и телеведущий",
+      "category": "screen",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%80%D0%B4%D0%B5%D0%BD,_%D0%AD%D0%BD%D1%82%D0%BE%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q426582#P569",
+      "verified": {
+        "revision": 2564772768,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1956-06-25",
+        "originalCalendar": "gregorian",
+        "claim": "Q426582$CAF251E9-FFB5-4BF9-844E-D6D7CCB0DA39",
+        "references": []
+      }
+    },
+    {
+      "id": "Q188128",
+      "name": "Алексей Алексеевич Абрикосов",
+      "birthDate": "1928-06-25",
+      "birthYear": 1928,
+      "description": "советский и американский физик-теоретик",
+      "category": "science",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%80%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q188128#P569",
+      "verified": {
+        "revision": 2564816112,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-06-25",
+        "originalCalendar": "gregorian",
+        "claim": "q188128$DE1795BF-0E50-43A0-A12B-2E0B5B0D62FE",
+        "references": []
+      }
+    }
+  ]
+}

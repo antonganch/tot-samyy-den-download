@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "10-06",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q4724",
+      "name": "Ле Корбюзье",
+      "birthDate": "1887-10-06",
+      "birthYear": 1887,
+      "description": "пионер архитектурного модернизма и функционализма",
+      "category": "other",
+      "sitelinks": 200,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5_%D0%9A%D0%BE%D1%80%D0%B1%D1%8E%D0%B7%D1%8C%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q4724#P569",
+      "verified": {
+        "revision": 2563545377,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1887-10-06",
+        "originalCalendar": "gregorian",
+        "claim": "q4724$197F7446-183C-444B-813C-42AE8F947D4C",
+        "references": [
+          "https://cs.isabart.org/person/13469",
+          "https://hdl.handle.net/21.12141/id/people.539770CF-0D25-4C6C-BEF9-B647450CB05F",
+          "https://collectie.nieuweinstituut.nl/detail/people/11397"
+        ]
+      }
+    },
+    {
+      "id": "Q133622",
+      "name": "Тур Хейердал",
+      "birthDate": "1914-10-06",
+      "birthYear": 1914,
+      "description": "норвежский археолог, путешественник и писатель (1914-2002)",
+      "category": "literature",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%B9%D0%B5%D1%80%D0%B4%D0%B0%D0%BB,_%D0%A2%D1%83%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q133622#P569",
+      "verified": {
+        "revision": 2562241924,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1914-10-06",
+        "originalCalendar": "gregorian",
+        "claim": "q133622$82B6EEE4-284D-4BBA-8721-43CCF20D3931",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/heyerdahl-thor"
+        ]
+      }
+    },
+    {
+      "id": "Q118725",
+      "name": "Хафез Асад",
+      "birthDate": "1930-10-06",
+      "birthYear": 1930,
+      "description": "президент Сирии (1971—2000), отец Башара Асада",
+      "category": "public",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D0%B0%D0%B4,_%D0%A5%D0%B0%D1%84%D0%B5%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q118725#P569",
+      "verified": {
+        "revision": 2563264883,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-10-06",
+        "originalCalendar": "gregorian",
+        "claim": "q118725$B9F3AFC5-E95E-4A1B-89E8-848C1C523F61",
+        "references": []
+      }
+    },
+    {
+      "id": "Q183631",
+      "name": "Эрнест Томас Синтон Уолтон",
+      "birthDate": "1903-10-06",
+      "birthYear": 1903,
+      "description": "Ирландский физик",
+      "category": "science",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BB%D1%82%D0%BE%D0%BD,_%D0%AD%D1%80%D0%BD%D0%B5%D1%81%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q183631#P569",
+      "verified": {
+        "revision": 2563197741,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1903-10-06",
+        "originalCalendar": "gregorian",
+        "claim": "Q183631$E88207FC-9EF2-45C7-846A-D7F7C9C3F98C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q182462",
+      "name": "Джанет Гейнор",
+      "birthDate": "1906-10-06",
+      "birthYear": 1906,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 68,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B9%D0%BD%D0%BE%D1%80,_%D0%94%D0%B6%D0%B0%D0%BD%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q182462#P569",
+      "verified": {
+        "revision": 2543183255,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1906-10-06",
+        "originalCalendar": "gregorian",
+        "claim": "q182462$9D39358A-DFFE-46F2-86AA-FBFEE55D4FA0",
+        "references": []
+      }
+    }
+  ]
+}

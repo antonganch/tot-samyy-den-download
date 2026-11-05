@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "03-03",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q34286",
+      "name": "Александр Грэм Белл",
+      "birthDate": "1847-03-03",
+      "birthYear": 1847,
+      "description": "Американский бизнесмен и учёный",
+      "category": "science",
+      "sitelinks": 161,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D0%BB,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%93%D1%80%D0%B5%D0%B9%D0%B0%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q34286#P569",
+      "verified": {
+        "revision": 2564032077,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1847-03-03",
+        "originalCalendar": "gregorian",
+        "claim": "q34286$CD6A233B-484A-411B-AA74-D88663464615",
+        "references": [
+          "https://www.biography.com/people/alexander-graham-bell-9205497"
+        ]
+      }
+    },
+    {
+      "id": "Q76420",
+      "name": "Георг Кантор",
+      "birthDate": "1845-03-03",
+      "birthYear": 1845,
+      "description": "немецкий математик",
+      "category": "science",
+      "sitelinks": 115,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%BE%D1%80,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3",
+      "source": "https://www.wikidata.org/wiki/Q76420#P569",
+      "verified": {
+        "revision": 2563974602,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1845-03-03",
+        "originalCalendar": "gregorian",
+        "claim": "Q76420$90CD1CD7-3B3C-47F7-B742-B4D1F6EC217F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q163249",
+      "name": "Джессика Бил",
+      "birthDate": "1982-03-03",
+      "birthYear": 1982,
+      "description": "американская актриса, модель и певица",
+      "category": "screen",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%BB,_%D0%94%D0%B6%D0%B5%D1%81%D1%81%D0%B8%D0%BA%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q163249#P569",
+      "verified": {
+        "revision": 2564970747,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1982-03-03",
+        "originalCalendar": "gregorian",
+        "claim": "Q163249$A0B81611-689B-4346-9DC6-B597A528186F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q18810940",
+      "name": "Камила Кабельо",
+      "birthDate": "1997-03-03",
+      "birthYear": 1997,
+      "description": "американская певица",
+      "category": "music",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C%D0%BE,_%D0%9A%D0%B0%D0%BC%D0%B8%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q18810940#P569",
+      "verified": {
+        "revision": 2561662240,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1997-03-03",
+        "originalCalendar": "gregorian",
+        "claim": "Q18810940$BA3DD7FA-C4EF-459E-A73A-63510AFE152D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q15055683",
+      "name": "Шраддха Капур",
+      "birthDate": "1987-03-03",
+      "birthYear": 1987,
+      "description": "индийская актриса",
+      "category": "screen",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%83%D1%80,_%D0%A8%D1%80%D0%B0%D0%B4%D0%B4%D1%85%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q15055683#P569",
+      "verified": {
+        "revision": 2563826351,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1987-03-03",
+        "originalCalendar": "gregorian",
+        "claim": "Q15055683$A590F813-EDE1-4683-847C-EA0600751B4E",
+        "references": []
+      }
+    }
+  ]
+}

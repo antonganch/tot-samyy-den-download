@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "08-18",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q51552",
+      "name": "Роман Полански",
+      "birthDate": "1933-08-18",
+      "birthYear": 1933,
+      "description": "кинорежиссёр, сценарист, кинопродюсер и киноактёр",
+      "category": "screen",
+      "sitelinks": 111,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%B8,_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q51552#P569",
+      "verified": {
+        "revision": 2562566847,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-08-18",
+        "originalCalendar": "gregorian",
+        "claim": "q51552$D432AADB-4AB9-48B3-83F8-2ABF81D1D414",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/polanski-roman"
+        ]
+      }
+    },
+    {
+      "id": "Q59215",
+      "name": "Роберт Редфорд",
+      "birthDate": "1936-08-18",
+      "birthYear": 1936,
+      "description": "американский актёр, кинорежиссёр и продюсер (1936—2025)",
+      "category": "screen",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B4%D1%84%D0%BE%D1%80%D0%B4,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q59215#P569",
+      "verified": {
+        "revision": 2560438387,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1936-08-18",
+        "originalCalendar": "gregorian",
+        "claim": "q59215$F719B744-B072-40C4-B866-1810455613F4",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/redford-charles-robert"
+        ]
+      }
+    },
+    {
+      "id": "Q51056",
+      "name": "Франц Иосиф I",
+      "birthDate": "1830-08-18",
+      "birthYear": 1830,
+      "description": "император Австрии (1848—1916)",
+      "category": "public",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86_%D0%98%D0%BE%D1%81%D0%B8%D1%84_I",
+      "source": "https://www.wikidata.org/wiki/Q51056#P569",
+      "verified": {
+        "revision": 2563975939,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1830-08-18",
+        "originalCalendar": "gregorian",
+        "claim": "q51056$03F7B977-8D5A-427D-A2F3-0C0894EBF0C3",
+        "references": [
+          "https://tritius.kmol.cz/authority/697442"
+        ]
+      }
+    },
+    {
+      "id": "Q51088",
+      "name": "Антонио Сальери",
+      "birthDate": "1750-08-18",
+      "birthYear": 1750,
+      "description": "итальянский и австрийский композитор, дирижёр и педагог",
+      "category": "music",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D1%8C%D0%B5%D1%80%D0%B8,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q51088#P569",
+      "verified": {
+        "revision": 2563992740,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1750-08-18",
+        "originalCalendar": "gregorian",
+        "claim": "q51088$167AC6EE-7674-4ECD-9671-7DC3AA85DDC5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q186329",
+      "name": "Мика",
+      "birthDate": "1983-08-18",
+      "birthYear": 1983,
+      "description": "британский певец, автор-исполнитель",
+      "category": "music",
+      "sitelinks": 60,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q186329#P569",
+      "verified": {
+        "revision": 2564229541,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-08-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q186329$DAF97B6B-B6B3-44B0-BEEF-CBA80335543B",
+        "references": []
+      }
+    }
+  ]
+}

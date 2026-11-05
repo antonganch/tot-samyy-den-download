@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "04-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q37621",
+      "name": "Томас Гоббс",
+      "birthDate": "1588-04-05",
+      "birthYear": 1588,
+      "description": "английский философ (1588—1679)",
+      "category": "literature",
+      "sitelinks": 161,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B1%D0%B1%D1%81,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q37621#P569",
+      "verified": {
+        "revision": 2564342638,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1588-04-05",
+        "originalCalendar": "gregorian",
+        "claim": "q37621$A23515E5-E4E8-41EF-85D0-249E6738F688",
+        "references": []
+      }
+    },
+    {
+      "id": "Q71206",
+      "name": "Бетт Дэвис",
+      "birthDate": "1908-04-05",
+      "birthYear": 1908,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B9%D0%B2%D0%B8%D1%81,_%D0%91%D0%B5%D1%82%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q71206#P569",
+      "verified": {
+        "revision": 2563001471,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-04-05",
+        "originalCalendar": "gregorian",
+        "claim": "q71206$C7973C3C-225C-476C-9D05-9EC7425CC063",
+        "references": []
+      }
+    },
+    {
+      "id": "Q108366",
+      "name": "Грегори Пек",
+      "birthDate": "1916-04-05",
+      "birthYear": 1916,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA,_%D0%93%D1%80%D0%B5%D0%B3%D0%BE%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q108366#P569",
+      "verified": {
+        "revision": 2562782103,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1916-04-05",
+        "originalCalendar": "gregorian",
+        "claim": "q108366$A6F9547F-2C51-4A34-ABE9-FBE84D3F4193",
+        "references": []
+      }
+    },
+    {
+      "id": "Q173144",
+      "name": "Агнета Фельтског",
+      "birthDate": "1950-04-05",
+      "birthYear": 1950,
+      "description": "шведская певица",
+      "category": "music",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BB%D1%8C%D1%82%D1%81%D0%BA%D0%BE%D0%B3,_%D0%90%D0%B3%D0%BD%D0%B5%D1%82%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q173144#P569",
+      "verified": {
+        "revision": 2553173107,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-04-05",
+        "originalCalendar": "gregorian",
+        "claim": "q173144$D80AF5BA-A051-4DC5-8938-AB6AD5B9A379",
+        "references": []
+      }
+    },
+    {
+      "id": "Q154895",
+      "name": "Герберт фон Караян",
+      "birthDate": "1908-04-05",
+      "birthYear": 1908,
+      "description": "австрийский дирижёр",
+      "category": "music",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%8F%D0%BD,_%D0%93%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D1%82_%D1%84%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q154895#P569",
+      "verified": {
+        "revision": 2557921929,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-04-05",
+        "originalCalendar": "gregorian",
+        "claim": "Q154895$C3B843D9-6228-4170-80F3-C0E59EF66E58",
+        "references": []
+      }
+    }
+  ]
+}

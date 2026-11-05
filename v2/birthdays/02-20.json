@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "02-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q36844",
+      "name": "Рианна",
+      "birthDate": "1988-02-20",
+      "birthYear": 1988,
+      "description": "барбадосская R&B- и поп-певица и актриса",
+      "category": "screen",
+      "sitelinks": 158,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B0%D0%BD%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q36844#P569",
+      "verified": {
+        "revision": 2564543718,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1988-02-20",
+        "originalCalendar": "gregorian",
+        "claim": "q36844$3168C8AA-2AB2-4C6C-9A28-CEFD79122B42",
+        "references": []
+      }
+    },
+    {
+      "id": "Q8446",
+      "name": "Курт Кобейн",
+      "birthDate": "1967-02-20",
+      "birthYear": 1967,
+      "description": "американский рок-музыкант",
+      "category": "music",
+      "sitelinks": 129,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B1%D0%B5%D0%B9%D0%BD,_%D0%9A%D1%83%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q8446#P569",
+      "verified": {
+        "revision": 2560614861,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-02-20",
+        "originalCalendar": "gregorian",
+        "claim": "q8446$C54B601A-A5D2-456A-8AFD-F32A1146D931",
+        "references": []
+      }
+    },
+    {
+      "id": "Q10648",
+      "name": "Гордон Браун",
+      "birthDate": "1951-02-20",
+      "birthYear": 1951,
+      "description": "Британский (шотландский) политик, 74-й премьер-министр Великобритании (2007-2010)",
+      "category": "public",
+      "sitelinks": 128,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q10648#P569",
+      "verified": {
+        "revision": 2564703847,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1951-02-20",
+        "originalCalendar": "gregorian",
+        "claim": "q10648$3EF0A933-CB2C-4C39-9EE0-A126B5FE7508",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/brown-james-gordon"
+        ]
+      }
+    },
+    {
+      "id": "Q104049",
+      "name": "Сидни Пуатье",
+      "birthDate": "1927-02-20",
+      "birthYear": 1927,
+      "description": "Багамско-американский актёр, дипломат, лауреат премии «Оскар»",
+      "category": "screen",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D0%B0%D1%82%D1%8C%D0%B5,_%D0%A1%D0%B8%D0%B4%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q104049#P569",
+      "verified": {
+        "revision": 2561666868,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1927-02-20",
+        "originalCalendar": "gregorian",
+        "claim": "q104049$EDFD7D6A-B53F-423E-862B-4DF3E86A0CF0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q84296",
+      "name": "Людвиг Больцман",
+      "birthDate": "1844-02-20",
+      "birthYear": 1844,
+      "description": "австрийский физик-теоретик, основатель статистической механики и молекулярно-кинетической теории",
+      "category": "science",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%86%D0%BC%D0%B0%D0%BD,_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3",
+      "source": "https://www.wikidata.org/wiki/Q84296#P569",
+      "verified": {
+        "revision": 2563974175,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1844-02-20",
+        "originalCalendar": "gregorian",
+        "claim": "q84296$05DC1C5B-C20E-4A61-A81D-255CE2A6EAFA",
+        "references": []
+      }
+    }
+  ]
+}

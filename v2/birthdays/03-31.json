@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "03-31",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1339",
+      "name": "Иоганн Себастьян Бах",
+      "birthDate": "1685-03-31",
+      "birthYear": 1685,
+      "description": "немецкий композитор (1685—1750)",
+      "category": "music",
+      "sitelinks": 259,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%85,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q1339#P569",
+      "verified": {
+        "revision": 2564779805,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1685-03-21",
+        "originalCalendar": "julian",
+        "claim": "Q1339$43200b64-4ebc-b97b-9b2c-b02e67f664a4",
+        "references": [
+          "https://cs.isabart.org/person/5322"
+        ]
+      }
+    },
+    {
+      "id": "Q19673",
+      "name": "Альберт Гор",
+      "birthDate": "1948-03-31",
+      "birthYear": 1948,
+      "description": "45-й вице-президент США, лауреат Нобелевской премии мира",
+      "category": "public",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q19673#P569",
+      "verified": {
+        "revision": 2563201291,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1948-03-31",
+        "originalCalendar": "gregorian",
+        "claim": "q19673$A920F40A-66F3-409B-AA3D-1FE9866F59F9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q165518",
+      "name": "Юэн Макгрегор",
+      "birthDate": "1971-03-31",
+      "birthYear": 1971,
+      "description": "шотландский кинорежиссёр и актёр театра, кино и телевидения",
+      "category": "screen",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B3%D1%80%D0%B5%D0%B3%D0%BE%D1%80,_%D0%AE%D1%8D%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q165518#P569",
+      "verified": {
+        "revision": 2563753898,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-03-31",
+        "originalCalendar": "gregorian",
+        "claim": "q165518$3D4A0EA1-29E4-4585-BC55-FC927E216786",
+        "references": []
+      }
+    },
+    {
+      "id": "Q185051",
+      "name": "Кристофер Уокен",
+      "birthDate": "1943-03-31",
+      "birthYear": 1943,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BA%D0%B5%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q185051#P569",
+      "verified": {
+        "revision": 2560436793,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1943-03-31",
+        "originalCalendar": "gregorian",
+        "claim": "q185051$D7B76A14-B28B-45A6-BD55-0175BE867171",
+        "references": []
+      }
+    },
+    {
+      "id": "Q43932",
+      "name": "Ангус Янг",
+      "birthDate": "1955-03-31",
+      "birthYear": 1955,
+      "description": "шотландско-австралийский музыкант",
+      "category": "music",
+      "sitelinks": 69,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B3,_%D0%90%D0%BD%D0%B3%D1%83%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q43932#P569",
+      "verified": {
+        "revision": 2560505746,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-03-31",
+        "originalCalendar": "gregorian",
+        "claim": "q43932$0BFCB345-E864-4FE3-B4BD-D9029A7E2458",
+        "references": []
+      }
+    }
+  ]
+}

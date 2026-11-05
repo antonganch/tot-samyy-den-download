@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "12-06",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q122465",
+      "name": "Ёсихидэ Суга",
+      "birthDate": "1948-12-06",
+      "birthYear": 1948,
+      "description": "64-й премьер-министр Японии (2020—2021)",
+      "category": "public",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B3%D0%B0,_%D0%81%D1%81%D0%B8%D1%85%D0%B8%D0%B4%D1%8D",
+      "source": "https://www.wikidata.org/wiki/Q122465#P569",
+      "verified": {
+        "revision": 2562946583,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1948-12-06",
+        "originalCalendar": "gregorian",
+        "claim": "Q122465$C816779B-CDD5-44F6-870D-8E5C3512C50B",
+        "references": [
+          "https://japan.kantei.go.jp/97_abe/meibo/daijin/suga_yoshihide.html"
+        ]
+      }
+    },
+    {
+      "id": "Q44107",
+      "name": "Петер Хандке",
+      "birthDate": "1942-12-06",
+      "birthYear": 1942,
+      "description": "австрийский писатель",
+      "category": "literature",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D0%B4%D0%BA%D0%B5,_%D0%9F%D0%B5%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q44107#P569",
+      "verified": {
+        "revision": 2562659740,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-12-06",
+        "originalCalendar": "gregorian",
+        "claim": "q44107$E565C5B1-75CE-4327-BAC6-DC9D91352621",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/handke-peter"
+        ]
+      }
+    },
+    {
+      "id": "Q153185",
+      "name": "Жозеф Луи Гей-Люссак",
+      "birthDate": "1778-12-06",
+      "birthYear": 1778,
+      "description": "французский физик и химик",
+      "category": "science",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B9-%D0%9B%D1%8E%D1%81%D1%81%D0%B0%D0%BA,_%D0%96%D0%BE%D0%B7%D0%B5%D1%84_%D0%9B%D1%83%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q153185#P569",
+      "verified": {
+        "revision": 2561393212,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1778-12-06",
+        "originalCalendar": "gregorian",
+        "claim": "q153185$F03C5A09-FB85-40F9-852A-DD079FFF4E62",
+        "references": []
+      }
+    },
+    {
+      "id": "Q152452",
+      "name": "Гуннар Мюрдаль",
+      "birthDate": "1898-12-06",
+      "birthYear": 1898,
+      "description": "шведский преподаватель университета",
+      "category": "other",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8E%D1%80%D0%B4%D0%B0%D0%BB%D1%8C,_%D0%93%D1%83%D0%BD%D0%BD%D0%B0%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q152452#P569",
+      "verified": {
+        "revision": 2562953669,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1898-12-06",
+        "originalCalendar": "gregorian",
+        "claim": "q152452$0EA211D7-B493-41D3-A48D-27930094D448",
+        "references": []
+      }
+    },
+    {
+      "id": "Q132738",
+      "name": "Альберто Контадор",
+      "birthDate": "1982-12-06",
+      "birthYear": 1982,
+      "description": "испанский велогонщик",
+      "category": "sport",
+      "sitelinks": 66,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%B4%D0%BE%D1%80,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q132738#P569",
+      "verified": {
+        "revision": 2557635271,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1982-12-06",
+        "originalCalendar": "gregorian",
+        "claim": "q132738$8b3c04e5-4302-e5e9-bf95-303d1c1a5b19",
+        "references": []
+      }
+    }
+  ]
+}

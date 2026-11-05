@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "12-23",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q37979",
+      "name": "Акихито",
+      "birthDate": "1933-12-23",
+      "birthYear": 1933,
+      "description": "125-й император Японии",
+      "category": "public",
+      "sitelinks": 130,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%B8%D1%85%D0%B8%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q37979#P569",
+      "verified": {
+        "revision": 2564703215,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-12-23",
+        "originalCalendar": "gregorian",
+        "claim": "q37979$c95f67a9-4e50-91bb-9ff4-ea071f29d09a",
+        "references": []
+      }
+    },
+    {
+      "id": "Q260",
+      "name": "Жан-Франсуа Шампольон",
+      "birthDate": "1790-12-23",
+      "birthYear": 1790,
+      "description": "французский историк и лингвист",
+      "category": "other",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BC%D0%BF%D0%BE%D0%BB%D1%8C%D0%BE%D0%BD,_%D0%96%D0%B0%D0%BD-%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q260#P569",
+      "verified": {
+        "revision": 2564378299,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1790-12-23",
+        "originalCalendar": "gregorian",
+        "claim": "q260$cd01b978-4f79-7d2e-c16f-04a3001bb7b5",
+        "references": [
+          "https://www.umass.edu/wsp/philology/gallery/champollion.html"
+        ]
+      }
+    },
+    {
+      "id": "Q143945",
+      "name": "Карла Бруни-Саркози",
+      "birthDate": "1967-12-23",
+      "birthYear": 1967,
+      "description": "Итальянская супермодель",
+      "category": "other",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%83%D0%BD%D0%B8-%D0%A1%D0%B0%D1%80%D0%BA%D0%BE%D0%B7%D0%B8,_%D0%9A%D0%B0%D1%80%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q143945#P569",
+      "verified": {
+        "revision": 2546351202,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-12-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q143945$22AD0042-8B2A-4C78-BDEB-AA951595CB1A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q26308335",
+      "name": "Финн Вулфхард",
+      "birthDate": "2002-12-23",
+      "birthYear": 2002,
+      "description": "канадский актер и музыкант",
+      "category": "screen",
+      "sitelinks": 59,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%BB%D1%84%D1%85%D0%B0%D1%80%D0%B4,_%D0%A4%D0%B8%D0%BD%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q26308335#P569",
+      "verified": {
+        "revision": 2563963167,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "2002-12-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q26308335$672dd9ae-46a6-0dc0-5ca6-000ef6682168",
+        "references": [
+          "https://www.youtube.com/watch?v=H-m10elC8po"
+        ]
+      }
+    },
+    {
+      "id": "Q221535",
+      "name": "Эдди Веддер",
+      "birthDate": "1964-12-23",
+      "birthYear": 1964,
+      "description": "Американский музыкант, наиболее известен как фронтмен группы pearl jam",
+      "category": "music",
+      "sitelinks": 57,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D0%B4%D0%B5%D1%80,_%D0%AD%D0%B4%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q221535#P569",
+      "verified": {
+        "revision": 2563771980,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-12-23",
+        "originalCalendar": "gregorian",
+        "claim": "q221535$7A1C95B7-7F5E-44CD-92EE-86113EB573E5",
+        "references": []
+      }
+    }
+  ]
+}

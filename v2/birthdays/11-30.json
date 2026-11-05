@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "11-30",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8016",
+      "name": "Уинстон Черчилль",
+      "birthDate": "1874-11-30",
+      "birthYear": 1874,
+      "description": "британский государственный и политический деятель, премьер-министр Великобритании (1940—1945, 1951—1955)",
+      "category": "public",
+      "sitelinks": 265,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D1%87%D0%B8%D0%BB%D0%BB%D1%8C,_%D0%A3%D0%B8%D0%BD%D1%81%D1%82%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q8016#P569",
+      "verified": {
+        "revision": 2564276252,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1874-11-30",
+        "originalCalendar": "gregorian",
+        "claim": "q8016$BA4319C1-A39B-42A2-B943-350834D026B2",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/churchill-winston-leonard"
+        ]
+      }
+    },
+    {
+      "id": "Q7245",
+      "name": "Марк Твен",
+      "birthDate": "1835-11-30",
+      "birthYear": 1835,
+      "description": "американский писатель, журналист и общественный деятель (1835–1910)",
+      "category": "literature",
+      "sitelinks": 252,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B2%D0%B5%D0%BD,_%D0%9C%D0%B0%D1%80%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q7245#P569",
+      "verified": {
+        "revision": 2562931724,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1835-11-30",
+        "originalCalendar": "gregorian",
+        "claim": "q7245$38223A51-449B-4396-854D-F16F75783487",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/twain-mark"
+        ]
+      }
+    },
+    {
+      "id": "Q25089",
+      "name": "Вуди Аллен",
+      "birthDate": "1935-11-30",
+      "birthYear": 1935,
+      "description": "американский кинорежиссёр, актёр-комик, продюсер (род. 1935)",
+      "category": "screen",
+      "sitelinks": 157,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BB%D0%B5%D0%BD,_%D0%92%D1%83%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q25089#P569",
+      "verified": {
+        "revision": 2564026450,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1935-11-30",
+        "originalCalendar": "gregorian",
+        "claim": "Q25089$768be4f8-4485-ba20-a11a-3607d34d4ba1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41166",
+      "name": "Джонатан Свифт",
+      "birthDate": "1667-11-30",
+      "birthYear": 1667,
+      "description": "англо-ирландский писатель-сатирик, публицист, философ, поэт и общественный деятель (1667—1745)",
+      "category": "literature",
+      "sitelinks": 162,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D1%84%D1%82,_%D0%94%D0%B6%D0%BE%D0%BD%D0%B0%D1%82%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q41166#P569",
+      "verified": {
+        "revision": 2564770520,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1667-11-30",
+        "originalCalendar": "gregorian",
+        "claim": "q41166$09AB13E1-5796-4640-8434-A6D163D5FE4D",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/swift-jonathan"
+        ]
+      }
+    },
+    {
+      "id": "Q188500",
+      "name": "Элиша Катберт",
+      "birthDate": "1982-11-30",
+      "birthYear": 1982,
+      "description": "канадская актриса и модель",
+      "category": "screen",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%B1%D0%B5%D1%80%D1%82,_%D0%AD%D0%BB%D0%B8%D1%88%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q188500#P569",
+      "verified": {
+        "revision": 2542558415,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1982-11-30",
+        "originalCalendar": "gregorian",
+        "claim": "Q188500$C67F8AA5-DF63-41A4-9CF6-6BD143ABDBE2",
+        "references": []
+      }
+    }
+  ]
+}

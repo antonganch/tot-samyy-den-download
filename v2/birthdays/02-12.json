@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "02-12",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q91",
+      "name": "Авраам Линкольн",
+      "birthDate": "1809-02-12",
+      "birthYear": 1809,
+      "description": "американский политик, президент США (1861—1865)",
+      "category": "public",
+      "sitelinks": 297,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD,_%D0%90%D0%B2%D1%80%D0%B0%D0%B0%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q91#P569",
+      "verified": {
+        "revision": 2563093693,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1809-02-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q91$BE53BDCA-BEA6-4020-8980-4E55B6CA9723",
+        "references": [
+          "https://www.smithsonianmag.com/history/how-lincoln-and-darwin-shaped-the-modern-world-45447280/"
+        ]
+      }
+    },
+    {
+      "id": "Q1035",
+      "name": "Чарльз Дарвин",
+      "birthDate": "1809-02-12",
+      "birthYear": 1809,
+      "description": "английский натуралист и путешественник",
+      "category": "exploration",
+      "sitelinks": 279,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D1%80%D0%B2%D0%B8%D0%BD,_%D0%A7%D0%B0%D1%80%D0%BB%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q1035#P569",
+      "verified": {
+        "revision": 2564770301,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1809-02-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q1035$F351BDE1-BA3F-4218-AE2A-3156CDED0F84",
+        "references": []
+      }
+    },
+    {
+      "id": "Q3111264",
+      "name": "Пран",
+      "birthDate": "1920-02-12",
+      "birthYear": 1920,
+      "description": "индийский киноактёр",
+      "category": "screen",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q3111264#P569",
+      "verified": {
+        "revision": 2563962070,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1920-02-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q3111264$B8E0F345-8BE3-41E7-A484-3E6613B468F3",
+        "references": []
+      }
+    },
+    {
+      "id": "Q184103",
+      "name": "Кристина Риччи",
+      "birthDate": "1980-02-12",
+      "birthYear": 1980,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D1%87%D1%87%D0%B8,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q184103#P569",
+      "verified": {
+        "revision": 2564077215,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1980-02-12",
+        "originalCalendar": "gregorian",
+        "claim": "q184103$680B18AD-A56A-4A33-B3B3-917BFCFB53BD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q151874",
+      "name": "Анна Павловна Павлова",
+      "birthDate": "1882-02-12",
+      "birthYear": 1882,
+      "description": "русская балерина",
+      "category": "other",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B0,_%D0%90%D0%BD%D0%BD%D0%B0_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q151874#P569",
+      "verified": {
+        "revision": 2564755336,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1882-02-12",
+        "originalCalendar": "gregorian",
+        "claim": "q151874$30EFEBFC-BA27-4234-A906-5BE31BE927D9",
+        "references": [
+          "https://www.wechanged.ugent.be/wechanged-database/"
+        ]
+      }
+    }
+  ]
+}

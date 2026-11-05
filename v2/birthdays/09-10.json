@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "09-10",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q162492",
+      "name": "Колин Ферт",
+      "birthDate": "1960-09-10",
+      "birthYear": 1960,
+      "description": "британский актёр, лауреат премии «Оскар».",
+      "category": "screen",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D1%82,_%D0%9A%D0%BE%D0%BB%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q162492#P569",
+      "verified": {
+        "revision": 2563903510,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1960-09-10",
+        "originalCalendar": "gregorian",
+        "claim": "q162492$3CF99DFC-B266-48E5-958A-336EE0D85166",
+        "references": []
+      }
+    },
+    {
+      "id": "Q127944",
+      "name": "Артур Холли Комптон",
+      "birthDate": "1892-09-10",
+      "birthYear": 1892,
+      "description": "американский физик",
+      "category": "science",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%82%D0%BE%D0%BD,_%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%A5%D0%BE%D0%BB%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q127944#P569",
+      "verified": {
+        "revision": 2563201126,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1892-09-10",
+        "originalCalendar": "gregorian",
+        "claim": "q127944$D39911A6-8682-417E-9B28-8DDA8CE63B7A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1137062",
+      "name": "Джек Ма",
+      "birthDate": "1964-09-10",
+      "birthYear": 1964,
+      "description": "китайский предприниматель",
+      "category": "other",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BA_%D0%9C%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q1137062#P569",
+      "verified": {
+        "revision": 2563296923,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-09-10",
+        "originalCalendar": "gregorian",
+        "claim": "Q1137062$6B060E8A-878E-4251-BFFD-6FE0CD0B4345",
+        "references": []
+      }
+    },
+    {
+      "id": "Q76716",
+      "name": "Карл Лагерфельд",
+      "birthDate": "1933-09-10",
+      "birthYear": 1933,
+      "description": "немецкий дизайнер",
+      "category": "art",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D1%84%D0%B5%D0%BB%D1%8C%D0%B4,_%D0%9A%D0%B0%D1%80%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q76716#P569",
+      "verified": {
+        "revision": 2563995169,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-09-10",
+        "originalCalendar": "gregorian",
+        "claim": "q76716$05DB61C0-96DC-4D1F-B601-D91EC3A6C808",
+        "references": []
+      }
+    },
+    {
+      "id": "Q9695",
+      "name": "Генри Пёрселл",
+      "birthDate": "1659-09-10",
+      "birthYear": 1659,
+      "description": "английский композитор",
+      "category": "music",
+      "sitelinks": 67,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%91%D1%80%D1%81%D0%B5%D0%BB%D0%BB,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q9695#P569",
+      "verified": {
+        "revision": 2563765677,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1659-09-10",
+        "originalCalendar": "gregorian",
+        "claim": "Q9695$6B64D84E-C43F-4360-B2B2-64D2550F32DD",
+        "references": []
+      }
+    }
+  ]
+}

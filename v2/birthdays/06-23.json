@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "06-23",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7251",
+      "name": "Алан Тьюринг",
+      "birthDate": "1912-06-23",
+      "birthYear": 1912,
+      "description": "английский математик, логик, криптограф",
+      "category": "science",
+      "sitelinks": 191,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%8C%D1%8E%D1%80%D0%B8%D0%BD%D0%B3,_%D0%90%D0%BB%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q7251#P569",
+      "verified": {
+        "revision": 2563801785,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-06-23",
+        "originalCalendar": "gregorian",
+        "claim": "q7251$C2006BC3-A3AD-43F5-AE20-E0923A18AEEF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1835",
+      "name": "Зинедин Зидан",
+      "birthDate": "1972-06-23",
+      "birthYear": 1972,
+      "description": "французский футболист и тренер",
+      "category": "sport",
+      "sitelinks": 147,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%97%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%97%D0%B8%D0%BD%D0%B5%D0%B4%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q1835#P569",
+      "verified": {
+        "revision": 2561378662,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-06-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q1835$587F15AF-25C0-4FD4-AF6C-FE45693F54B4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q80440",
+      "name": "Анна Андреевна Ахматова",
+      "birthDate": "1889-06-23",
+      "birthYear": 1889,
+      "description": "русская поэтесса, переводчица и литературовед",
+      "category": "literature",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%85%D0%BC%D0%B0%D1%82%D0%BE%D0%B2%D0%B0,_%D0%90%D0%BD%D0%BD%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q80440#P569",
+      "verified": {
+        "revision": 2559777877,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1889-06-11",
+        "originalCalendar": "julian",
+        "claim": "Q80440$c505cf19-427f-c190-c8bd-583bc9e47f1d",
+        "references": []
+      }
+    },
+    {
+      "id": "Q590227",
+      "name": "Эдуард VIII",
+      "birthDate": "1894-06-23",
+      "birthYear": 1894,
+      "description": "король Великобритании, Ирландии и Британских заморских доминионов, император Индии",
+      "category": "public",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4_VIII",
+      "source": "https://www.wikidata.org/wiki/Q590227#P569",
+      "verified": {
+        "revision": 2563822186,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1894-06-23",
+        "originalCalendar": "gregorian",
+        "claim": "q590227$E7DEAFC6-4440-4234-A113-F85DCC0B5554",
+        "references": [
+          "https://archives.paris.fr/arkotheque/visionneuse/visionneuse.php?arko=YTo2OntzOjQ6ImRhdGUiO3M6MTA6IjIwMjQtMDYtMTkiO3M6MTA6InR5cGVfZm9uZHMiO3M6MTE6ImFya29fc2VyaWVsIjtzOjQ6InJlZjEiO2k6NDtzOjQ6InJlZjIiO2k6Mjc0NTY3O3M6MTY6InZpc2lvbm5ldXNlX2h0bWwiO2I6MTtzOjIxOiJ2aXNpb25uZXVzZV9odG1sX21vZGUiO3M6NDoicHJvZCI7fQ==#uielem_move=-1167%2C-1017&uielem_islocked=0&uielem_zoom=144&uielem_brightness=0&uielem_contrast=0&uielem_isinverted=0&uielem_rotate=F"
+        ]
+      }
+    },
+    {
+      "id": "Q204299",
+      "name": "Фрэнсис Макдорманд",
+      "birthDate": "1957-06-23",
+      "birthYear": 1957,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B4%D0%BE%D1%80%D0%BC%D0%B0%D0%BD%D0%B4,_%D0%A4%D1%80%D1%8D%D0%BD%D1%81%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q204299#P569",
+      "verified": {
+        "revision": 2557881603,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1957-06-23",
+        "originalCalendar": "gregorian",
+        "claim": "q204299$AAA6A314-E8D1-41B1-BA52-B6721FF09FFA",
+        "references": []
+      }
+    }
+  ]
+}

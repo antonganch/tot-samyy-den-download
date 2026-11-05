@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "03-16",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q11813",
+      "name": "Джеймс Мэдисон",
+      "birthDate": "1751-03-16",
+      "birthYear": 1751,
+      "description": "четвёртый президент США (1809-1817)",
+      "category": "public",
+      "sitelinks": 177,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8D%D0%B4%D0%B8%D1%81%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q11813#P569",
+      "verified": {
+        "revision": 2563803875,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1751-03-16",
+        "originalCalendar": "gregorian",
+        "claim": "q11813$7AB34EE3-F862-4773-818F-EA321A8C0EB8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7439",
+      "name": "Ричард Столлман",
+      "birthDate": "1953-03-16",
+      "birthYear": 1953,
+      "description": "программист, основатель движения свободного ПО",
+      "category": "science",
+      "sitelinks": 140,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BB%D0%BB%D0%BC%D0%B0%D0%BD,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4_%D0%9C%D1%8D%D1%82%D1%82%D1%8C%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q7439#P569",
+      "verified": {
+        "revision": 2562969317,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-03-16",
+        "originalCalendar": "gregorian",
+        "claim": "q7439$307C8464-46E9-4711-826D-98A6D5EF58B7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q42247",
+      "name": "Сюлли-Прюдом",
+      "birthDate": "1839-03-16",
+      "birthYear": 1839,
+      "description": "французский поэт и эссеист",
+      "category": "literature",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8E%D0%BB%D0%BB%D0%B8-%D0%9F%D1%80%D1%8E%D0%B4%D0%BE%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q42247#P569",
+      "verified": {
+        "revision": 2563063899,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1839-03-16",
+        "originalCalendar": "gregorian",
+        "claim": "q42247$3C834A5F-CE69-440E-9766-AA5B7F007566",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1585",
+      "name": "Георг Симон Ом",
+      "birthDate": "1789-03-16",
+      "birthYear": 1789,
+      "description": "немецкий физик",
+      "category": "science",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BC,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q1585#P569",
+      "verified": {
+        "revision": 2563991484,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1789-03-16",
+        "originalCalendar": "gregorian",
+        "claim": "q1585$6000DA64-1CDF-4A3E-B3CF-9829F825D922",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/ohm-georg-simon"
+        ]
+      }
+    },
+    {
+      "id": "Q53009",
+      "name": "Бернардо Бертолуччи",
+      "birthDate": "1941-03-16",
+      "birthYear": 1941,
+      "description": "итальянский кинорежиссёр и сценарист",
+      "category": "screen",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%83%D1%87%D1%87%D0%B8,_%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q53009#P569",
+      "verified": {
+        "revision": 2563656126,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-03-16",
+        "originalCalendar": "gregorian",
+        "claim": "q53009$C1F9240B-BBD8-4FA3-8630-2F35AB7C4331",
+        "references": []
+      }
+    }
+  ]
+}

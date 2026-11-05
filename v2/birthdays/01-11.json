@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "01-11",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q125249",
+      "name": "Уильям Джеймс",
+      "birthDate": "1842-01-11",
+      "birthYear": 1842,
+      "description": "американский философ и психолог (1842–1910)",
+      "category": "science",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q125249#P569",
+      "verified": {
+        "revision": 2561420361,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1842-01-11",
+        "originalCalendar": "gregorian",
+        "claim": "q125249$ADA62458-6400-4E87-B8ED-6C2A45717C93",
+        "references": []
+      }
+    },
+    {
+      "id": "Q178903",
+      "name": "Александр Гамильтон",
+      "birthDate": "1757-01-11",
+      "birthYear": 1757,
+      "description": "американский государственный и политический деятель, юрист, экономист, банкир и военный",
+      "category": "public",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C%D1%82%D0%BE%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q178903#P569",
+      "verified": {
+        "revision": 2562714094,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1757-01-11",
+        "originalCalendar": "gregorian",
+        "claim": "q178903$6214491A-D45E-4830-87EA-669F26F9AE93",
+        "references": []
+      }
+    },
+    {
+      "id": "Q131332",
+      "name": "Аманда Пит",
+      "birthDate": "1972-01-11",
+      "birthYear": 1972,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%82,_%D0%90%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q131332#P569",
+      "verified": {
+        "revision": 2546397672,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-01-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q131332$A5DAB549-0C41-4656-8312-BED3EE4EFDC2",
+        "references": [
+          "https://archive.org/details/contemporarythea0000unse_d2j9/page/212/mode/2up"
+        ]
+      }
+    },
+    {
+      "id": "Q122338",
+      "name": "Альберт Хофман",
+      "birthDate": "1906-01-11",
+      "birthYear": 1906,
+      "description": "швейцарский химик и литератор",
+      "category": "science",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%84%D0%BC%D0%B0%D0%BD,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q122338#P569",
+      "verified": {
+        "revision": 2560191210,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1906-01-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q122338$20A02DBE-9B15-40A6-BD92-F8AB81D76E48",
+        "references": []
+      }
+    },
+    {
+      "id": "Q3442375",
+      "name": "Кайлаш Сатьяртхи",
+      "birthDate": "1954-01-11",
+      "birthYear": 1954,
+      "description": "индийский активист",
+      "category": "other",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%82%D1%8C%D1%8F%D1%80%D1%82%D1%85%D0%B8,_%D0%9A%D0%B0%D0%B9%D0%BB%D0%B0%D1%88",
+      "source": "https://www.wikidata.org/wiki/Q3442375#P569",
+      "verified": {
+        "revision": 2563051598,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1954-01-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q3442375$ABBFFBDB-170A-42F1-B550-413D45319C05",
+        "references": []
+      }
+    }
+  ]
+}

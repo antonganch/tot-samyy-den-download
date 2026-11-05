@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "12-17",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q450675",
+      "name": "Франциск",
+      "birthDate": "1936-12-17",
+      "birthYear": 1936,
+      "description": "папа римский (2013—2025)",
+      "category": "public",
+      "sitelinks": 238,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%81%D0%BA_(%D0%BF%D0%B0%D0%BF%D0%B0_%D1%80%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B9)",
+      "source": "https://www.wikidata.org/wiki/Q450675#P569",
+      "verified": {
+        "revision": 2564378467,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1936-12-17",
+        "originalCalendar": "gregorian",
+        "claim": "q450675$d5e56086-42c8-7ca4-ec8b-2e8701b33b69",
+        "references": []
+      }
+    },
+    {
+      "id": "Q170576",
+      "name": "Милла Йовович",
+      "birthDate": "1975-12-17",
+      "birthYear": 1975,
+      "description": "американская актриса (род. 1975)",
+      "category": "screen",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D0%B2%D0%BE%D0%B2%D0%B8%D1%87,_%D0%9C%D0%B8%D0%BB%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q170576#P569",
+      "verified": {
+        "revision": 2564809667,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-12-17",
+        "originalCalendar": "gregorian",
+        "claim": "q170576$ADEA7FE7-9D6B-4EBF-86AB-17832380947C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q190486",
+      "name": "Уиллард Франк Либби",
+      "birthDate": "1908-12-17",
+      "birthYear": 1908,
+      "description": "американский химик",
+      "category": "science",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%B1%D0%B1%D0%B8,_%D0%A3%D0%B8%D0%BB%D0%BB%D0%B0%D1%80%D0%B4_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q190486#P569",
+      "verified": {
+        "revision": 2563197955,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-12-17",
+        "originalCalendar": "gregorian",
+        "claim": "q190486$D8B43365-0F3D-411C-83B4-BB1F48BB86BE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q224081",
+      "name": "Джованни Рибизи",
+      "birthDate": "1974-12-17",
+      "birthYear": 1974,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 64,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B1%D0%B8%D0%B7%D0%B8,_%D0%94%D0%B6%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q224081#P569",
+      "verified": {
+        "revision": 2546522563,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-12-17",
+        "originalCalendar": "gregorian",
+        "claim": "Q224081$671A9D04-023F-4B3C-8D65-DE8342EE755F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q486359",
+      "name": "Мэнни Пакьяо",
+      "birthDate": "1978-12-17",
+      "birthYear": 1978,
+      "description": "филиппинский боксёр-профессионал",
+      "category": "sport",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BA%D1%8C%D1%8F%D0%BE,_%D0%9C%D1%8D%D0%BD%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q486359#P569",
+      "verified": {
+        "revision": 2561802599,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-12-17",
+        "originalCalendar": "gregorian",
+        "claim": "Q486359$CD389EC0-15E3-4BF2-A891-ACA79BA2DC53",
+        "references": []
+      }
+    }
+  ]
+}

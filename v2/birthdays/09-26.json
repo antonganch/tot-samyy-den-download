@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "09-26",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q37767",
+      "name": "Т. С. Элиот",
+      "birthDate": "1888-09-26",
+      "birthYear": 1888,
+      "description": "американо-английский поэт-модернист, драматург, литературный критик (1888—1965)",
+      "category": "literature",
+      "sitelinks": 160,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B8%D0%BE%D1%82,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%A1%D1%82%D0%B5%D1%80%D0%BD%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q37767#P569",
+      "verified": {
+        "revision": 2563063815,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1888-09-26",
+        "originalCalendar": "gregorian",
+        "claim": "q37767$AE910A5C-9A00-40CC-BB70-C98B35AAB375",
+        "references": []
+      }
+    },
+    {
+      "id": "Q48301",
+      "name": "Мартин Хайдеггер",
+      "birthDate": "1889-09-26",
+      "birthYear": 1889,
+      "description": "немецкий философ (1889—1976)",
+      "category": "literature",
+      "sitelinks": 149,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B9%D0%B4%D0%B5%D0%B3%D0%B3%D0%B5%D1%80,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q48301#P569",
+      "verified": {
+        "revision": 2560829951,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1889-09-26",
+        "originalCalendar": "gregorian",
+        "claim": "q48301$83763DC1-8490-42E1-B611-B1E19D8B1DEE",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/heidegger-martin"
+        ]
+      }
+    },
+    {
+      "id": "Q42985",
+      "name": "Иван Петрович Павлов",
+      "birthDate": "1849-09-26",
+      "birthYear": 1849,
+      "description": "русский учёный-физиолог",
+      "category": "science",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q42985#P569",
+      "verified": {
+        "revision": 2563196760,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1849-09-26",
+        "originalCalendar": "gregorian",
+        "claim": "Q42985$1B7C3B1D-1251-4502-B988-E3A250D28DF0",
+        "references": [
+          "https://tritius.kmol.cz/authority/865090"
+        ]
+      }
+    },
+    {
+      "id": "Q11459",
+      "name": "Серена Уильямс",
+      "birthDate": "1981-09-26",
+      "birthYear": 1981,
+      "description": "американская теннисистка",
+      "category": "sport",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%A1%D0%B5%D1%80%D0%B5%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q11459#P569",
+      "verified": {
+        "revision": 2563174676,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-09-26",
+        "originalCalendar": "gregorian",
+        "claim": "q11459$236b8f1a-4550-ae41-eb1d-2817cffb8e4f",
+        "references": []
+      }
+    },
+    {
+      "id": "Q16975",
+      "name": "Павел VI",
+      "birthDate": "1897-09-26",
+      "birthYear": 1897,
+      "description": "папа римский с 21 июня 1963 года по 6 августа 1978 года",
+      "category": "public",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_VI",
+      "source": "https://www.wikidata.org/wiki/Q16975#P569",
+      "verified": {
+        "revision": 2562747070,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1897-09-26",
+        "originalCalendar": "gregorian",
+        "claim": "q16975$7A4722D1-34E7-4763-813C-B7E78A965331",
+        "references": []
+      }
+    }
+  ]
+}

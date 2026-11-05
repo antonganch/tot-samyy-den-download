@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "02-06",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9960",
+      "name": "Рональд Рейган",
+      "birthDate": "1911-02-06",
+      "birthYear": 1911,
+      "description": "40-й президент США",
+      "category": "public",
+      "sitelinks": 306,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D0%B3%D0%B0%D0%BD,_%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q9960#P569",
+      "verified": {
+        "revision": 2564559761,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1911-02-06",
+        "originalCalendar": "gregorian",
+        "claim": "q9960$72102924-0AEE-44A8-840C-5CBC994D48F9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q409",
+      "name": "Боб Марли",
+      "birthDate": "1945-02-06",
+      "birthYear": 1945,
+      "description": "ямайский музыкант, гитарист, вокалист и композитор",
+      "category": "music",
+      "sitelinks": 165,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BB%D0%B8,_%D0%91%D0%BE%D0%B1",
+      "source": "https://www.wikidata.org/wiki/Q409#P569",
+      "verified": {
+        "revision": 2563786543,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1945-02-06",
+        "originalCalendar": "gregorian",
+        "claim": "Q409$7BCD9243-5299-43D9-8623-7D998B550E5C",
+        "references": [
+          "https://www.theguardian.com/music/2011/apr/24/bob-marley-funeral-richard-williams",
+          "https://www.theguardian.com/music/2005/feb/04/bobmarley60thanniversary.bobmarley",
+          "https://www.blackpast.org/global-african-history/marley-bob-1945-1981/"
+        ]
+      }
+    },
+    {
+      "id": "Q53002",
+      "name": "Франсуа Трюффо",
+      "birthDate": "1932-02-06",
+      "birthYear": 1932,
+      "description": "французский кинорежиссёр",
+      "category": "screen",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%8E%D1%84%D1%84%D0%BE,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q53002#P569",
+      "verified": {
+        "revision": 2561697817,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1932-02-06",
+        "originalCalendar": "gregorian",
+        "claim": "q53002$C302184A-0E65-4901-8978-C16F84485A0E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q207405",
+      "name": "Жа Жа Габор",
+      "birthDate": "1917-02-06",
+      "birthYear": 1917,
+      "description": "американская актриса и светская дама",
+      "category": "screen",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B1%D0%BE%D1%80,_%D0%96%D0%B0_%D0%96%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q207405#P569",
+      "verified": {
+        "revision": 2558287949,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1917-02-06",
+        "originalCalendar": "gregorian",
+        "claim": "Q207405$f3c831bb-40ba-aa24-937f-5754585ca3fc",
+        "references": [
+          "https://www.ibdb.com/broadway-cast-staff/80339"
+        ]
+      }
+    },
+    {
+      "id": "Q76433",
+      "name": "Ева Браун",
+      "birthDate": "1912-02-06",
+      "birthYear": 1912,
+      "description": "супруга Адольфа Гитлера",
+      "category": "other",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%95%D0%B2%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q76433#P569",
+      "verified": {
+        "revision": 2564115467,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-02-06",
+        "originalCalendar": "gregorian",
+        "claim": "q76433$98780449-7D14-48BF-B200-2C3242408C7D",
+        "references": []
+      }
+    }
+  ]
+}

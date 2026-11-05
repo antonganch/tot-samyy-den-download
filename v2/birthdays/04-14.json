@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "04-14",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q231690",
+      "name": "Бхимрао Рамджи Амбедкар",
+      "birthDate": "1891-04-14",
+      "birthYear": 1891,
+      "description": "индийский общественный и политический деятель",
+      "category": "public",
+      "sitelinks": 149,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B1%D0%B5%D0%B4%D0%BA%D0%B0%D1%80,_%D0%91%D1%85%D0%B8%D0%BC%D1%80%D0%B0%D0%BE_%D0%A0%D0%B0%D0%BC%D0%B4%D0%B6%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q231690#P569",
+      "verified": {
+        "revision": 2562968672,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1891-04-14",
+        "originalCalendar": "gregorian",
+        "claim": "q231690$A094B352-6FFD-4839-AD7C-47DA2A734DD9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q39599",
+      "name": "Христиан Гюйгенс",
+      "birthDate": "1629-04-14",
+      "birthYear": 1629,
+      "description": "нидерландский механик, физик, математик, астроном и изобретатель",
+      "category": "science",
+      "sitelinks": 121,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%8E%D0%B9%D0%B3%D0%B5%D0%BD%D1%81,_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q39599#P569",
+      "verified": {
+        "revision": 2564826113,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1629-04-14",
+        "originalCalendar": "gregorian",
+        "claim": "q39599$67402107-9B3C-4649-9475-A1876BD7FBF6",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/huygens-christiaan"
+        ]
+      }
+    },
+    {
+      "id": "Q104514",
+      "name": "Эдриен Броуди",
+      "birthDate": "1973-04-14",
+      "birthYear": 1973,
+      "description": "Американский актёр и продюсер",
+      "category": "screen",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D1%83%D0%B4%D0%B8,_%D0%AD%D0%B4%D1%80%D0%B8%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q104514#P569",
+      "verified": {
+        "revision": 2563214148,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1973-04-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q104514$DB5A27C4-5D38-4AB0-94E3-2648D8747BAC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q181413",
+      "name": "Джули Кристи",
+      "birthDate": "1940-04-14",
+      "birthYear": 1940,
+      "description": "британская актриса",
+      "category": "screen",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8,_%D0%94%D0%B6%D1%83%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q181413#P569",
+      "verified": {
+        "revision": 2560437353,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-04-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q181413$6f149561-472b-3fa0-67d7-eb6af5ff4f63",
+        "references": []
+      }
+    },
+    {
+      "id": "Q185381",
+      "name": "А. Дж. Тойнби",
+      "birthDate": "1889-04-14",
+      "birthYear": 1889,
+      "description": "английский историк, социолог и культуролог",
+      "category": "other",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%B9%D0%BD%D0%B1%D0%B8,_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q185381#P569",
+      "verified": {
+        "revision": 2562941309,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1889-04-14",
+        "originalCalendar": "gregorian",
+        "claim": "q185381$4145AF22-5A9E-4A29-8B40-4CC9023F25F4",
+        "references": []
+      }
+    }
+  ]
+}

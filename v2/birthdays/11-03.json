@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "11-03",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q132489",
+      "name": "Амартия Сен",
+      "birthDate": "1933-11-03",
+      "birthYear": 1933,
+      "description": "Индийский экономист",
+      "category": "science",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD,_%D0%90%D0%BC%D0%B0%D1%80%D1%82%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q132489#P569",
+      "verified": {
+        "revision": 2563503606,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-11-03",
+        "originalCalendar": "gregorian",
+        "claim": "q132489$CEB78D82-2556-48A4-9662-30FDBD65533E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q36105",
+      "name": "Чарльз Бронсон",
+      "birthDate": "1921-11-03",
+      "birthYear": 1921,
+      "description": "американский актёр кино и телевидения",
+      "category": "screen",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BD%D1%81%D0%BE%D0%BD,_%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q36105#P569",
+      "verified": {
+        "revision": 2548979038,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1921-11-03",
+        "originalCalendar": "gregorian",
+        "claim": "q36105$E9AFB25B-5397-4FA9-A251-B9BC0970B4DD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1375057",
+      "name": "Кендалл Дженнер",
+      "birthDate": "1995-11-03",
+      "birthYear": 1995,
+      "description": "американская супермодель и светская львица",
+      "category": "other",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BD%D0%BD%D0%B5%D1%80,_%D0%9A%D0%B5%D0%BD%D0%B4%D0%B0%D0%BB%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q1375057#P569",
+      "verified": {
+        "revision": 2564115527,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1995-11-03",
+        "originalCalendar": "gregorian",
+        "claim": "Q1375057$DE98D9AE-6817-4B3A-805D-A6E6F43F882E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q151164",
+      "name": "Андре Мальро",
+      "birthDate": "1901-11-03",
+      "birthYear": 1901,
+      "description": "французский писатель, культуролог, герой Французского Сопротивления, министр культуры Франции",
+      "category": "literature",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D1%80%D0%BE,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q151164#P569",
+      "verified": {
+        "revision": 2563192439,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-11-03",
+        "originalCalendar": "gregorian",
+        "claim": "q151164$EBC59037-46FF-4D28-8A04-12090B2809D6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q43744",
+      "name": "Герд Мюллер",
+      "birthDate": "1945-11-03",
+      "birthYear": 1945,
+      "description": "немецкий футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8E%D0%BB%D0%BB%D0%B5%D1%80,_%D0%93%D0%B5%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q43744#P569",
+      "verified": {
+        "revision": 2564038582,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1945-11-03",
+        "originalCalendar": "gregorian",
+        "claim": "q43744$2E14ADFC-D3A8-475E-ADD4-98E4F9B50BA9",
+        "references": []
+      }
+    }
+  ]
+}

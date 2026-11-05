@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "07-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q37970",
+      "name": "Грегор Иоганн Мендель",
+      "birthDate": "1822-07-20",
+      "birthYear": 1822,
+      "description": "австрийский биолог и ботаник, монах-августинец",
+      "category": "science",
+      "sitelinks": 134,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C,_%D0%93%D1%80%D0%B5%D0%B3%D0%BE%D1%80_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q37970#P569",
+      "verified": {
+        "revision": 2563979794,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1822-07-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q37970$e3251d77-4a1b-bee5-f687-6749d17245cd",
+        "references": [
+          "https://mendelmuseum.muni.cz/en/about-the-museum/gregor-johann-mendel",
+          "https://www.biography.com/people/gregor-mendel-39282",
+          "https://tritius.kmol.cz/authority/766809"
+        ]
+      }
+    },
+    {
+      "id": "Q33817",
+      "name": "Эдмунд Хиллари",
+      "birthDate": "1919-07-20",
+      "birthYear": 1919,
+      "description": "новозеландский альпинист, первый покоритель Эвереста",
+      "category": "other",
+      "sitelinks": 135,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BB%D0%BB%D0%B0%D1%80%D0%B8,_%D0%AD%D0%B4%D0%BC%D1%83%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q33817#P569",
+      "verified": {
+        "revision": 2559449648,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1919-07-20",
+        "originalCalendar": "gregorian",
+        "claim": "q33817$3EE1FEDC-04FC-44AF-A894-33B90BA56F00",
+        "references": []
+      }
+    },
+    {
+      "id": "Q134641",
+      "name": "Эрик Аксель Карлфельдт",
+      "birthDate": "1864-07-20",
+      "birthYear": 1864,
+      "description": "шведский поэт",
+      "category": "literature",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BB%D1%84%D0%B5%D0%BB%D1%8C%D0%B4%D1%82,_%D0%AD%D1%80%D0%B8%D0%BA_%D0%90%D0%BA%D1%81%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q134641#P569",
+      "verified": {
+        "revision": 2563197756,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1864-07-20",
+        "originalCalendar": "gregorian",
+        "claim": "q134641$E1AA6AE0-BF03-4FE5-AB11-D306FB35B5D9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q819016",
+      "name": "Карлос Сантана",
+      "birthDate": "1947-07-20",
+      "birthYear": 1947,
+      "description": "американский гитарист мексиканского происхождения, перкуссист, вокалист, композитор, автор текстов, продюсер",
+      "category": "music",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D1%82%D0%B0%D0%BD%D0%B0,_%D0%9A%D0%B0%D1%80%D0%BB%D0%BE%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q819016#P569",
+      "verified": {
+        "revision": 2564702614,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-07-20",
+        "originalCalendar": "gregorian",
+        "claim": "q819016$E2109656-9F99-4BB0-8523-698B3648A770",
+        "references": [
+          "https://www.franceinter.fr/personnes/carlos-santana"
+        ]
+      }
+    },
+    {
+      "id": "Q180919",
+      "name": "Натали Вуд",
+      "birthDate": "1938-07-20",
+      "birthYear": 1938,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%B4,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q180919#P569",
+      "verified": {
+        "revision": 2560248516,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1938-07-20",
+        "originalCalendar": "gregorian",
+        "claim": "q180919$96F2618A-5F88-4DEB-8BFD-8E0D323038F6",
+        "references": []
+      }
+    }
+  ]
+}

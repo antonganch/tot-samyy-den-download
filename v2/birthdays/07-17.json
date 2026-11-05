@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "07-17",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q567",
+      "name": "Ангела Меркель",
+      "birthDate": "1954-07-17",
+      "birthYear": 1954,
+      "description": "немецкий государственный и политический деятель, учёная-физхимик, федеральный канцлер ФРГ (2005–2021)",
+      "category": "public",
+      "sitelinks": 221,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D0%BA%D0%B5%D0%BB%D1%8C,_%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q567#P569",
+      "verified": {
+        "revision": 2563205476,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1954-07-17",
+        "originalCalendar": "gregorian",
+        "claim": "q567$df9396d5-48fa-ef78-80fa-e4a850c4c10c",
+        "references": [
+          "https://d-nb.info/gnd/119545373/about/lds",
+          "https://www.angela-merkel.de/leben.html",
+          "https://www.bundesstiftung-aufarbeitung.de/de/recherche/kataloge-datenbanken/biographische-datenbanken/angela-merkel"
+        ]
+      }
+    },
+    {
+      "id": "Q103784",
+      "name": "Дональд Сазерленд",
+      "birthDate": "1935-07-17",
+      "birthYear": 1935,
+      "description": "канадский актёр (1935–2024)",
+      "category": "screen",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B7%D0%B5%D1%80%D0%BB%D0%B5%D0%BD%D0%B4,_%D0%94%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q103784#P569",
+      "verified": {
+        "revision": 2563176393,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1935-07-17",
+        "originalCalendar": "gregorian",
+        "claim": "q103784$226F8E70-0846-489D-8248-ADFB1E5A68AD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q12998",
+      "name": "Жорж Леметр",
+      "birthDate": "1894-07-17",
+      "birthYear": 1894,
+      "description": "бельгийский священник, астрофизик, космолог и математик, автор теории Большого взрыва",
+      "category": "science",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BC%D0%B5%D1%82%D1%80,_%D0%96%D0%BE%D1%80%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q12998#P569",
+      "verified": {
+        "revision": 2564768504,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1894-07-17",
+        "originalCalendar": "gregorian",
+        "claim": "q12998$CAF8E42D-A883-47E0-A357-6729872B8FAF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q230512",
+      "name": "Филлис Диллер",
+      "birthDate": "1917-07-17",
+      "birthYear": 1917,
+      "description": "американская комедийная актриса (1917-2012)",
+      "category": "screen",
+      "sitelinks": 65,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BB%D0%BB%D0%B5%D1%80,_%D0%A4%D0%B8%D0%BB%D0%BB%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q230512#P569",
+      "verified": {
+        "revision": 2563288160,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1917-07-17",
+        "originalCalendar": "gregorian",
+        "claim": "q230512$572D1730-0375-405F-BA22-07F8151189C7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q295981",
+      "name": "Теренс Тао",
+      "birthDate": "1975-07-17",
+      "birthYear": 1975,
+      "description": "австралийский и американский математик",
+      "category": "science",
+      "sitelinks": 54,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BE,_%D0%A2%D0%B5%D1%80%D0%B5%D0%BD%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q295981#P569",
+      "verified": {
+        "revision": 2564435378,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-07-17",
+        "originalCalendar": "gregorian",
+        "claim": "Q295981$C4D7793C-E258-4EF9-836A-2CD720A86DF2",
+        "references": [
+          "https://www.math.ucla.edu/~tao/whoami.html"
+        ]
+      }
+    }
+  ]
+}

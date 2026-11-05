@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "02-28",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q48983",
+      "name": "Лайнус Карл Полинг",
+      "birthDate": "1901-02-28",
+      "birthYear": 1901,
+      "description": "американский химик, кристаллограф",
+      "category": "science",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B3,_%D0%9B%D0%B0%D0%B9%D0%BD%D1%83%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q48983#P569",
+      "verified": {
+        "revision": 2563199381,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-02-28",
+        "originalCalendar": "gregorian",
+        "claim": "q48983$21C79203-1123-412F-BB45-709A50BD0AF0",
+        "references": [
+          "https://www.biography.com/people/linus-pauling-9435195"
+        ]
+      }
+    },
+    {
+      "id": "Q221464",
+      "name": "Гилберт Готтфрид",
+      "birthDate": "1955-02-28",
+      "birthYear": 1955,
+      "description": "Актёр, американского происхождения, стендап-комик, актёр кино и телевидения, актёр озвучки",
+      "category": "screen",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%82%D1%82%D1%84%D1%80%D0%B8%D0%B4,_%D0%93%D0%B8%D0%BB%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q221464#P569",
+      "verified": {
+        "revision": 2541027957,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-02-28",
+        "originalCalendar": "gregorian",
+        "claim": "Q221464$FEDFC195-A36D-49D5-8620-44564DD5A140",
+        "references": []
+      }
+    },
+    {
+      "id": "Q131112",
+      "name": "Пол Кругман",
+      "birthDate": "1953-02-28",
+      "birthYear": 1953,
+      "description": "американский экономист",
+      "category": "science",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%83%D0%B3%D0%BC%D0%B0%D0%BD,_%D0%9F%D0%BE%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q131112#P569",
+      "verified": {
+        "revision": 2563065307,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-02-28",
+        "originalCalendar": "gregorian",
+        "claim": "q131112$56207E2C-E037-45F3-9F12-06DF5A584A14",
+        "references": []
+      }
+    },
+    {
+      "id": "Q180374",
+      "name": "Фрэнк Гери",
+      "birthDate": "1929-02-28",
+      "birthYear": 1929,
+      "description": "канадско-американский архитектор",
+      "category": "art",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D1%8D%D0%BD%D0%BA_%D0%93%D0%B5%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q180374#P569",
+      "verified": {
+        "revision": 2563166517,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1929-02-28",
+        "originalCalendar": "gregorian",
+        "claim": "q180374$9473AF8A-1243-4542-84BA-F08910B43562",
+        "references": [
+          "https://hdl.handle.net/21.12141/id/people.29736D32-D8F1-43D5-A58F-CA21F399E045"
+        ]
+      }
+    },
+    {
+      "id": "Q157155",
+      "name": "Эрнест Ренан",
+      "birthDate": "1823-02-28",
+      "birthYear": 1823,
+      "description": "французский писатель, историк и филолог",
+      "category": "literature",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD%D0%B0%D0%BD,_%D0%AD%D1%80%D0%BD%D0%B5%D1%81%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q157155#P569",
+      "verified": {
+        "revision": 2564802427,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1823-02-28",
+        "originalCalendar": "gregorian",
+        "claim": "q157155$E06D216F-A9A0-4EDE-8EAC-5A1BF854B1DF",
+        "references": [
+          "https://sallevirtuelle.cotesdarmor.fr/EC/ecx/consult.aspx?image=090025552497623"
+        ]
+      }
+    }
+  ]
+}

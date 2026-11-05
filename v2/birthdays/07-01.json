@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "day": "07-01",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9047",
+      "name": "Готфрид Вильгельм Лейбниц",
+      "birthDate": "1646-07-01",
+      "birthYear": 1646,
+      "description": "немецкий полимат (1646—1716)",
+      "category": "other",
+      "sitelinks": 207,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B9%D0%B1%D0%BD%D0%B8%D1%86,_%D0%93%D0%BE%D1%82%D1%84%D1%80%D0%B8%D0%B4_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q9047#P569",
+      "verified": {
+        "revision": 2564488432,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1646-06-21",
+        "originalCalendar": "julian",
+        "claim": "Q9047$5471E173-28F1-45AC-B420-0F4140DF3347",
+        "references": [
+          "https://cs.isabart.org/person/109974",
+          "https://www.astro.com/astro-databank/Leibniz,_Gottfried"
+        ]
+      }
+    },
+    {
+      "id": "Q1362169",
+      "name": "Агнес Моника",
+      "birthDate": "1986-07-01",
+      "birthYear": 1986,
+      "description": "индонезийская певица и актриса",
+      "category": "screen",
+      "sitelinks": 149,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D0%BD%D0%B5%D1%81_%D0%9C%D0%BE%D0%BD%D0%B8%D0%BA%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q1362169#P569",
+      "verified": {
+        "revision": 2563831028,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-07-01",
+        "originalCalendar": "gregorian",
+        "claim": "q1362169$26FCAD64-2939-427E-8F2B-131060C45F6C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q9685",
+      "name": "Диана, принцесса Уэльская",
+      "birthDate": "1961-07-01",
+      "birthYear": 1961,
+      "description": "принцесса Великобритании",
+      "category": "other",
+      "sitelinks": 152,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D0%BD%D0%B0,_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D1%81%D1%81%D0%B0_%D0%A3%D1%8D%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q9685#P569",
+      "verified": {
+        "revision": 2564276411,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1961-07-01",
+        "originalCalendar": "gregorian",
+        "claim": "q9685$bc44beb8-4003-1ff5-8023-83cb99476fd4",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/diana-lady-diana-frances",
+          "https://www.princeofwales.gov.uk/biographies/hrh-prince-wales",
+          "https://cs.isabart.org/person/78868"
+        ]
+      }
+    },
+    {
+      "id": "Q3816",
+      "name": "Жорж Санд",
+      "birthDate": "1804-07-01",
+      "birthYear": 1804,
+      "description": "французская писательница",
+      "category": "literature",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%96%D0%BE%D1%80%D0%B6_%D0%A1%D0%B0%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q3816#P569",
+      "verified": {
+        "revision": 2561513927,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1804-07-01",
+        "originalCalendar": "gregorian",
+        "claim": "q3816$F94B3066-0106-47C5-96A3-0E40E7224A21",
+        "references": [
+          "https://tritius.kmol.cz/authority/866234"
+        ]
+      }
+    },
+    {
+      "id": "Q83325",
+      "name": "Памела Андерсон",
+      "birthDate": "1967-07-01",
+      "birthYear": 1967,
+      "description": "канадская и американская актриса, фотомодель (род. 1967)",
+      "category": "screen",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%9F%D0%B0%D0%BC%D0%B5%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q83325#P569",
+      "verified": {
+        "revision": 2563826966,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-07-01",
+        "originalCalendar": "gregorian",
+        "claim": "q83325$83C42B92-8AB1-4824-BCB1-41B609FAE3F9",
+        "references": []
+      }
+    }
+  ]
+}

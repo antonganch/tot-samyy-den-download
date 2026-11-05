@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "10-13",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7416",
+      "name": "Маргарет Тэтчер",
+      "birthDate": "1925-10-13",
+      "birthYear": 1925,
+      "description": "британский политический деятель, премьер-министр Великобритании (1979—1990)",
+      "category": "public",
+      "sitelinks": 209,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%8D%D1%82%D1%87%D0%B5%D1%80,_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q7416#P569",
+      "verified": {
+        "revision": 2563856566,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-10-13",
+        "originalCalendar": "gregorian",
+        "claim": "q7416$95499418-4c89-9db2-3f74-b05e0ba2bba9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q29055",
+      "name": "Саша Барон Коэн",
+      "birthDate": "1971-10-13",
+      "birthYear": 1971,
+      "description": "британский комедийный актёр (род. 1971)",
+      "category": "screen",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%BE%D0%BD_%D0%9A%D0%BE%D1%8D%D0%BD,_%D0%A1%D0%B0%D1%88%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q29055#P569",
+      "verified": {
+        "revision": 2560811215,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-10-13",
+        "originalCalendar": "gregorian",
+        "claim": "q29055$27F2A8C7-89CC-4778-953A-D2C63C405A8E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q154662",
+      "name": "Нана Мускури",
+      "birthDate": "1934-10-13",
+      "birthYear": 1934,
+      "description": "греческая певица",
+      "category": "music",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%81%D0%BA%D1%83%D1%80%D0%B8,_%D0%9D%D0%B0%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q154662#P569",
+      "verified": {
+        "revision": 2561655678,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1934-10-13",
+        "originalCalendar": "gregorian",
+        "claim": "Q154662$912EB414-38F3-44CF-B162-1CA00D1E336C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q4028",
+      "name": "Пол Саймон",
+      "birthDate": "1941-10-13",
+      "birthYear": 1941,
+      "description": "американский музыкант",
+      "category": "music",
+      "sitelinks": 71,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B9%D0%BC%D0%BE%D0%BD,_%D0%9F%D0%BE%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q4028#P569",
+      "verified": {
+        "revision": 2561514349,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-10-13",
+        "originalCalendar": "gregorian",
+        "claim": "q4028$B6A3C939-5FDD-449B-9648-14714BC3CF6E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q76432",
+      "name": "Рудольф Вирхов",
+      "birthDate": "1821-10-13",
+      "birthYear": 1821,
+      "description": "немецкий медик и биолог",
+      "category": "science",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%80%D1%85%D0%BE%D0%B2,_%D0%A0%D1%83%D0%B4%D0%BE%D0%BB%D1%8C%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q76432#P569",
+      "verified": {
+        "revision": 2563986295,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1821-10-13",
+        "originalCalendar": "gregorian",
+        "claim": "q76432$53498FAA-0496-4CDA-9266-1A9BA0C3B815",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/virchow-rudolf"
+        ]
+      }
+    }
+  ]
+}

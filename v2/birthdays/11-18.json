@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "11-18",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q183492",
+      "name": "Маргарет Этвуд",
+      "birthDate": "1939-11-18",
+      "birthYear": 1939,
+      "description": "Канадский автор",
+      "category": "other",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D1%82%D0%B2%D1%83%D0%B4,_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q183492#P569",
+      "verified": {
+        "revision": 2562725584,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1939-11-18",
+        "originalCalendar": "gregorian",
+        "claim": "q183492$392E953D-6057-46A7-AD79-5FF2445A7E96",
+        "references": [
+          "https://www.theguardian.com/books/2003/apr/26/fiction.margaretatwood"
+        ]
+      }
+    },
+    {
+      "id": "Q161916",
+      "name": "Оуэн Уилсон",
+      "birthDate": "1968-11-18",
+      "birthYear": 1968,
+      "description": "американский актёр и сценарист (род. 1968)",
+      "category": "screen",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BB%D1%81%D0%BE%D0%BD,_%D0%9E%D1%83%D1%8D%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q161916#P569",
+      "verified": {
+        "revision": 2554023275,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-11-18",
+        "originalCalendar": "gregorian",
+        "claim": "q161916$D5B94E63-F758-4F0F-8342-F584555B7A7C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57331",
+      "name": "Кабус бен Саид",
+      "birthDate": "1940-11-18",
+      "birthYear": 1940,
+      "description": "султан Маската, Султан Омана, Премьер-министр Омана",
+      "category": "public",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D1%83%D1%81_%D0%B1%D0%B5%D0%BD_%D0%A1%D0%B0%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q57331#P569",
+      "verified": {
+        "revision": 2562898162,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-11-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q57331$890CF7A1-8F4A-4E0D-A5EC-183C98784416",
+        "references": []
+      }
+    },
+    {
+      "id": "Q205739",
+      "name": "Алан Мур",
+      "birthDate": "1953-11-18",
+      "birthYear": 1953,
+      "description": "английский писатель, сценарист и комиксист (род. 1953)",
+      "category": "screen",
+      "sitelinks": 69,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80,_%D0%90%D0%BB%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q205739#P569",
+      "verified": {
+        "revision": 2561707312,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-11-18",
+        "originalCalendar": "gregorian",
+        "claim": "q205739$ae7f4ea0-483d-845f-8c6b-7d615b315e27",
+        "references": []
+      }
+    },
+    {
+      "id": "Q184499",
+      "name": "Патрик Мейнард Стюарт Блэкетт",
+      "birthDate": "1897-11-18",
+      "birthYear": 1897,
+      "description": "английский физик",
+      "category": "science",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D1%8D%D0%BA%D0%B5%D1%82%D1%82,_%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA_%D0%9C%D0%B5%D0%B9%D0%BD%D0%B0%D1%80%D0%B4_%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q184499#P569",
+      "verified": {
+        "revision": 2563199009,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1897-11-18",
+        "originalCalendar": "gregorian",
+        "claim": "q184499$36B600BB-6001-4504-BD63-A47FB5C3964E",
+        "references": []
+      }
+    }
+  ]
+}

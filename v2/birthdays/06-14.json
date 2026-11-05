@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "06-14",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q22686",
+      "name": "Дональд Трамп",
+      "birthDate": "1946-06-14",
+      "birthYear": 1946,
+      "description": "президент США (2017–2021 и 2025–н.в.), миллиардер",
+      "category": "public",
+      "sitelinks": 336,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BC%D0%BF,_%D0%94%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q22686#P569",
+      "verified": {
+        "revision": 2564539016,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-06-14",
+        "originalCalendar": "gregorian",
+        "claim": "q22686$b5c12a2f-4ea0-a3bd-322a-3387da300d96",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/trump-donald-john"
+        ]
+      }
+    },
+    {
+      "id": "Q5809",
+      "name": "Эрнесто Че Гевара",
+      "birthDate": "1928-06-14",
+      "birthYear": 1928,
+      "description": "латиноамериканский революционер, команданте Кубинской революции 1959 года и кубинский государственный деятель",
+      "category": "other",
+      "sitelinks": 227,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5_%D0%93%D0%B5%D0%B2%D0%B0%D1%80%D0%B0,_%D0%AD%D1%80%D0%BD%D0%B5%D1%81%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q5809#P569",
+      "verified": {
+        "revision": 2562623221,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-06-14",
+        "originalCalendar": "gregorian",
+        "claim": "q5809$33b818dc-4366-ed96-6042-abbebf3cf37d",
+        "references": []
+      }
+    },
+    {
+      "id": "Q102513",
+      "name": "Гарриет Бичер-Стоу",
+      "birthDate": "1811-06-14",
+      "birthYear": 1811,
+      "description": "американская писательница",
+      "category": "literature",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%87%D0%B5%D1%80-%D0%A1%D1%82%D0%BE%D1%83,_%D0%93%D0%B0%D1%80%D1%80%D0%B8%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q102513#P569",
+      "verified": {
+        "revision": 2564773363,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1811-06-14",
+        "originalCalendar": "gregorian",
+        "claim": "q102513$4AA75055-731D-4570-83C0-6766248F8EBA",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/stowe-harriet-elizabeth-beecher"
+        ]
+      }
+    },
+    {
+      "id": "Q11662",
+      "name": "Штеффи Граф",
+      "birthDate": "1969-06-14",
+      "birthYear": 1969,
+      "description": "немецкая теннисистка",
+      "category": "sport",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%84,_%D0%A8%D1%82%D0%B5%D1%84%D1%84%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q11662#P569",
+      "verified": {
+        "revision": 2558244419,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-06-14",
+        "originalCalendar": "gregorian",
+        "claim": "q11662$480273bb-4a8a-9704-6d34-6e60ab952aca",
+        "references": []
+      }
+    },
+    {
+      "id": "Q84405",
+      "name": "Карл Ландштейнер",
+      "birthDate": "1868-06-14",
+      "birthYear": 1868,
+      "description": "австрийский и американский врач и химик",
+      "category": "science",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B4%D1%88%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80,_%D0%9A%D0%B0%D1%80%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q84405#P569",
+      "verified": {
+        "revision": 2563990833,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1868-06-14",
+        "originalCalendar": "gregorian",
+        "claim": "q84405$0CEB3024-6371-493A-B3B5-9D8CE62A1C68",
+        "references": []
+      }
+    }
+  ]
+}

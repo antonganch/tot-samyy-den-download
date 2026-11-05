@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "02-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q33977",
+      "name": "Жюль Верн",
+      "birthDate": "1828-02-08",
+      "birthYear": 1828,
+      "description": "французский писатель (1828—1905)",
+      "category": "literature",
+      "sitelinks": 190,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D0%BD,_%D0%96%D1%8E%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q33977#P569",
+      "verified": {
+        "revision": 2564774614,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1828-02-08",
+        "originalCalendar": "gregorian",
+        "claim": "q33977$46F82D3B-C1C9-428D-9E5D-430A0EE07AAE",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/verne-jules"
+        ]
+      }
+    },
+    {
+      "id": "Q9106",
+      "name": "Дмитрий Иванович Менделеев",
+      "birthDate": "1834-02-08",
+      "birthYear": 1834,
+      "description": "русский учёный-энциклопедист, физикохимик, педагог, приборостроитель, метеоролог",
+      "category": "science",
+      "sitelinks": 180,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D0%B5%D0%B5%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q9106#P569",
+      "verified": {
+        "revision": 2563722579,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1834-01-27",
+        "originalCalendar": "julian",
+        "claim": "q9106$C6204538-F481-47AE-91E0-1090067BD45F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83359",
+      "name": "Джеймс Дин",
+      "birthDate": "1931-02-08",
+      "birthYear": 1931,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q83359#P569",
+      "verified": {
+        "revision": 2557948999,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1931-02-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q83359$96AEBAB9-9F01-4F36-8970-853DC5C56D80",
+        "references": [
+          "https://www.ibdb.com/broadway-cast-staff/37665",
+          "https://brockhaus.de/ecs/julex/article/dean-james",
+          "https://cs.isabart.org/person/80935"
+        ]
+      }
+    },
+    {
+      "id": "Q179126",
+      "name": "Джон Рёскин",
+      "birthDate": "1819-02-08",
+      "birthYear": 1819,
+      "description": "английский писатель, художник, теоретик искусства, литературный критик и поэт (1819–1900)",
+      "category": "literature",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%91%D1%81%D0%BA%D0%B8%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q179126#P569",
+      "verified": {
+        "revision": 2564801042,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1819-02-08",
+        "originalCalendar": "gregorian",
+        "claim": "q179126$11A002DA-81D8-4970-ACD3-1184C4D48291",
+        "references": []
+      }
+    },
+    {
+      "id": "Q122366",
+      "name": "Даниил Бернулли",
+      "birthDate": "1700-02-08",
+      "birthYear": 1700,
+      "description": "швейцарский физик, механик и математик, один из создателей кинетической теории газов, гидродинамики и математической физики",
+      "category": "science",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%83%D0%BB%D0%BB%D0%B8,_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q122366#P569",
+      "verified": {
+        "revision": 2564271426,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1700-02-08",
+        "originalCalendar": "gregorian",
+        "claim": "q122366$29ADD159-1C46-4EFA-A3B6-ED39F33D88F5",
+        "references": []
+      }
+    }
+  ]
+}

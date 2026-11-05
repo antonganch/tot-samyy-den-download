@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "05-21",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q997",
+      "name": "Андрей Дмитриевич Сахаров",
+      "birthDate": "1921-05-21",
+      "birthYear": 1921,
+      "description": "советский физик-теоретик и общественный деятель (1921—1989)",
+      "category": "science",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q997#P569",
+      "verified": {
+        "revision": 2563201171,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1921-05-21",
+        "originalCalendar": "gregorian",
+        "claim": "q997$8DC0CA68-5C6B-4CF8-8873-A7A510D6A7F1",
+        "references": [
+          "https://tritius.kmol.cz/authority/865245"
+        ]
+      }
+    },
+    {
+      "id": "Q187171",
+      "name": "Марио Манджукич",
+      "birthDate": "1986-05-21",
+      "birthYear": 1986,
+      "description": "хорватский футболист",
+      "category": "sport",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D0%B6%D1%83%D0%BA%D0%B8%D1%87,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q187171#P569",
+      "verified": {
+        "revision": 2564943445,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-05-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q187171$7CB214B9-AF82-40EA-9150-AE3316ABF7CB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q32024",
+      "name": "Сергей Кужугетович Шойгу",
+      "birthDate": "1955-05-21",
+      "birthYear": 1955,
+      "description": "российский государственный и военный деятель, секретарь Совета Безопасности РФ",
+      "category": "public",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D0%B9%D0%B3%D1%83,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9A%D1%83%D0%B6%D1%83%D0%B3%D0%B5%D1%82%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q32024#P569",
+      "verified": {
+        "revision": 2563028555,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-05-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q32024$B5B82AA0-5243-406A-8A58-1BBBB6489A05",
+        "references": []
+      }
+    },
+    {
+      "id": "Q156386",
+      "name": "Анри Руссо",
+      "birthDate": "1844-05-21",
+      "birthYear": 1844,
+      "description": "французский художник",
+      "category": "art",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%81%D1%81%D0%BE,_%D0%90%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q156386#P569",
+      "verified": {
+        "revision": 2557917460,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1844-05-21",
+        "originalCalendar": "gregorian",
+        "claim": "q156386$6344B5F1-95D1-4047-91F5-04E6493885DF",
+        "references": [
+          "https://tritius.kmol.cz/authority/865062"
+        ]
+      }
+    },
+    {
+      "id": "Q193680",
+      "name": "Эмиль Верхарн",
+      "birthDate": "1855-05-21",
+      "birthYear": 1855,
+      "description": "бельгийский поэт-символист",
+      "category": "literature",
+      "sitelinks": 69,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%B0%D1%80%D0%BD,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q193680#P569",
+      "verified": {
+        "revision": 2558290013,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1855-05-21",
+        "originalCalendar": "gregorian",
+        "claim": "q193680$36ABDB0B-65B0-4078-89BE-187329F677EE",
+        "references": []
+      }
+    }
+  ]
+}

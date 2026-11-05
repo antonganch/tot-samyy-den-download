@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "04-16",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q882",
+      "name": "Чарли Чаплин",
+      "birthDate": "1889-04-16",
+      "birthYear": 1889,
+      "description": "американский и английский киноактёр (1889–1977)",
+      "category": "screen",
+      "sitelinks": 261,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BF%D0%BB%D0%B8%D0%BD,_%D0%A7%D0%B0%D1%80%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q882#P569",
+      "verified": {
+        "revision": 2564266477,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1889-04-16",
+        "originalCalendar": "gregorian",
+        "claim": "q882$af22e533-4031-3ddd-aac2-b98aa24f10ff",
+        "references": [
+          "https://tritius.kmol.cz/authority/864972"
+        ]
+      }
+    },
+    {
+      "id": "Q2494",
+      "name": "Бенедикт XVI",
+      "birthDate": "1927-04-16",
+      "birthYear": 1927,
+      "description": "265-й папа римский",
+      "category": "public",
+      "sitelinks": 200,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8%D0%BA%D1%82_XVI",
+      "source": "https://www.wikidata.org/wiki/Q2494#P569",
+      "verified": {
+        "revision": 2564378591,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1927-04-16",
+        "originalCalendar": "gregorian",
+        "claim": "q2494$63206946-4a83-9da6-1e57-c39ebae74603",
+        "references": []
+      }
+    },
+    {
+      "id": "Q23543",
+      "name": "Селена",
+      "birthDate": "1971-04-16",
+      "birthYear": 1971,
+      "description": "американская певица, автор песен, модель, актриса и дизайнер",
+      "category": "screen",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0_(%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D0%B0)",
+      "source": "https://www.wikidata.org/wiki/Q23543#P569",
+      "verified": {
+        "revision": 2560157962,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-04-16",
+        "originalCalendar": "gregorian",
+        "claim": "q23543$27315ACF-F35F-4DF2-804C-B06454A41266",
+        "references": []
+      }
+    },
+    {
+      "id": "Q179051",
+      "name": "Карим Абдул-Джаббар",
+      "birthDate": "1947-04-16",
+      "birthYear": 1947,
+      "description": "американский баскетболист",
+      "category": "sport",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B4%D1%83%D0%BB-%D0%94%D0%B6%D0%B0%D0%B1%D0%B1%D0%B0%D1%80,_%D0%9A%D0%B0%D1%80%D0%B8%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q179051#P569",
+      "verified": {
+        "revision": 2562737054,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-04-16",
+        "originalCalendar": "gregorian",
+        "claim": "q179051$975380E5-305E-49A9-915F-9F0A11A692D5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q16409",
+      "name": "Тристан Тцара",
+      "birthDate": "1896-04-16",
+      "birthYear": 1896,
+      "description": "румынский и французский поэт еврейского происхождения",
+      "category": "literature",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D1%81%D1%82%D0%B0%D0%BD_%D0%A2%D1%86%D0%B0%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q16409#P569",
+      "verified": {
+        "revision": 2562728416,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1896-04-16",
+        "originalCalendar": "gregorian",
+        "claim": "q16409$8D07D9F1-7DBC-4BEA-A82B-08C7FDCFFB2A",
+        "references": []
+      }
+    }
+  ]
+}

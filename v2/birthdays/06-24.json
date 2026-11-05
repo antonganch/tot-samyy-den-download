@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "06-24",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q615",
+      "name": "Лионель Месси",
+      "birthDate": "1987-06-24",
+      "birthYear": 1987,
+      "description": "аргентинский футболист",
+      "category": "sport",
+      "sitelinks": 226,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%81%D1%81%D0%B8,_%D0%9B%D0%B8%D0%BE%D0%BD%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q615#P569",
+      "verified": {
+        "revision": 2563644259,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1987-06-24",
+        "originalCalendar": "gregorian",
+        "claim": "Q615$39CFB962-D1F2-4013-882D-83B27DE64FA8",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/messi-lionel-andres"
+        ]
+      }
+    },
+    {
+      "id": "Q191050",
+      "name": "Амброз Гвиннет Бирс",
+      "birthDate": "1842-06-24",
+      "birthYear": 1842,
+      "description": "американский писатель, журналист (1842—1914)",
+      "category": "literature",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%80%D1%81,_%D0%90%D0%BC%D0%B1%D1%80%D0%BE%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q191050#P569",
+      "verified": {
+        "revision": 2564639997,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1842-06-24",
+        "originalCalendar": "gregorian",
+        "claim": "Q191050$EC517D53-5CA8-4982-800C-842B4639436C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q5771800",
+      "name": "Клаудия Шейнбаум",
+      "birthDate": "1962-06-24",
+      "birthYear": 1962,
+      "description": "мексиканский учёный и политик, президент Мексики, первая женщина-президент в истории страны",
+      "category": "public",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%B9%D0%BD%D0%B1%D0%B0%D1%83%D0%BC,_%D0%9A%D0%BB%D0%B0%D1%83%D0%B4%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q5771800#P569",
+      "verified": {
+        "revision": 2553431718,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1962-06-24",
+        "originalCalendar": "gregorian",
+        "claim": "Q5771800$4E393FCC-097E-4BE0-A7A4-D778E53AFDE7",
+        "references": [
+          "https://www.cidob.org/lider-politico/claudia-sheinbaum-pardo",
+          "https://www.reuters.com/article/factcheck-sheinbaum-bulgarianacimiento-idUSL1N3671IT/"
+        ]
+      }
+    },
+    {
+      "id": "Q78520",
+      "name": "Виктор Франц Гесс",
+      "birthDate": "1883-06-24",
+      "birthYear": 1883,
+      "description": "австрийский и американский физик, нобелевский лауреат",
+      "category": "science",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%81%D1%81,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%A4%D1%80%D0%B0%D0%BD%D1%86",
+      "source": "https://www.wikidata.org/wiki/Q78520#P569",
+      "verified": {
+        "revision": 2563989613,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1883-06-24",
+        "originalCalendar": "gregorian",
+        "claim": "q78520$CB7D2455-37B1-40E4-AF2B-8BB54C7247E6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q107416",
+      "name": "Мартин Льюис Перл",
+      "birthDate": "1927-06-24",
+      "birthYear": 1927,
+      "description": "американский физик",
+      "category": "science",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BB,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD_%D0%9B%D1%8C%D1%8E%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q107416#P569",
+      "verified": {
+        "revision": 2563199249,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1927-06-24",
+        "originalCalendar": "gregorian",
+        "claim": "q107416$FA87AB46-BF7E-4F7B-89D7-A6C79C46FC12",
+        "references": []
+      }
+    }
+  ]
+}

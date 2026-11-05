@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "07-06",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q207",
+      "name": "Джордж Буш — младший",
+      "birthDate": "1946-07-06",
+      "birthYear": 1946,
+      "description": "43-й президент США",
+      "category": "public",
+      "sitelinks": 282,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%88,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_(%D0%BC%D0%BB%D0%B0%D0%B4%D1%88%D0%B8%D0%B9)",
+      "source": "https://www.wikidata.org/wiki/Q207#P569",
+      "verified": {
+        "revision": 2561608261,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-07-06",
+        "originalCalendar": "gregorian",
+        "claim": "q207$17f45014-42d5-7724-8237-155f3d18c861",
+        "references": []
+      }
+    },
+    {
+      "id": "Q5588",
+      "name": "Фрида Кало",
+      "birthDate": "1907-07-06",
+      "birthYear": 1907,
+      "description": "мексиканская художница-экспрессионист",
+      "category": "other",
+      "sitelinks": 200,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%BE,_%D0%A4%D1%80%D0%B8%D0%B4%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q5588#P569",
+      "verified": {
+        "revision": 2557886527,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-07-06",
+        "originalCalendar": "gregorian",
+        "claim": "q5588$14F01C52-35F4-4E3B-AEB7-2A62092A1133",
+        "references": []
+      }
+    },
+    {
+      "id": "Q17293",
+      "name": "Далай-лама XIV",
+      "birthDate": "1935-07-06",
+      "birthYear": 1935,
+      "description": "духовный лидер тибетского буддизма",
+      "category": "other",
+      "sitelinks": 170,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BB%D0%B0%D0%B9-%D0%BB%D0%B0%D0%BC%D0%B0_XIV",
+      "source": "https://www.wikidata.org/wiki/Q17293#P569",
+      "verified": {
+        "revision": 2563063772,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1935-07-06",
+        "originalCalendar": "gregorian",
+        "claim": "Q17293$24E0A36F-14F9-43E6-8982-A73268F0E0C9",
+        "references": [
+          "https://www.dalailama.com/the-dalai-lama/biography-and-daily-life/brief-biography"
+        ]
+      }
+    },
+    {
+      "id": "Q40026",
+      "name": "Сильвестр Сталлоне",
+      "birthDate": "1946-07-06",
+      "birthYear": 1946,
+      "description": "американский актёр, режиссёр, сценарист и продюсер (род. 1946)",
+      "category": "screen",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BB%D0%BB%D0%BE%D0%BD%D0%B5,_%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B5%D1%81%D1%82%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q40026#P569",
+      "verified": {
+        "revision": 2563895840,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-07-06",
+        "originalCalendar": "gregorian",
+        "claim": "q40026$12DC917D-0DCA-4937-A76A-6981737838AA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q93284",
+      "name": "Марк Захарович Шагал",
+      "birthDate": "1887-07-06",
+      "birthYear": 1887,
+      "description": "русский и французский художник, график, живописец, сценограф и поэт",
+      "category": "literature",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B3%D0%B0%D0%BB,_%D0%9C%D0%B0%D1%80%D0%BA_%D0%97%D0%B0%D1%85%D0%B0%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q93284#P569",
+      "verified": {
+        "revision": 2562888824,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1887-06-24",
+        "originalCalendar": "julian",
+        "claim": "Q93284$87fbf924-418c-976b-672f-da5a9c86b70c",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "05-31",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q81438",
+      "name": "Уолт Уитмен",
+      "birthDate": "1819-05-31",
+      "birthYear": 1819,
+      "description": "американский поэт, публицист (1819-1892)",
+      "category": "literature",
+      "sitelinks": 149,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D1%82%D0%BC%D0%B5%D0%BD,_%D0%A3%D0%BE%D0%BB%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q81438#P569",
+      "verified": {
+        "revision": 2562715074,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1819-05-31",
+        "originalCalendar": "gregorian",
+        "claim": "q81438$880E272F-948F-4324-A694-B04E41BC75D2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q43203",
+      "name": "Клинт Иствуд",
+      "birthDate": "1930-05-31",
+      "birthYear": 1930,
+      "description": "американский актёр и кинорежиссёр",
+      "category": "screen",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%B2%D1%83%D0%B4,_%D0%9A%D0%BB%D0%B8%D0%BD%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q43203#P569",
+      "verified": {
+        "revision": 2563902764,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-05-31",
+        "originalCalendar": "gregorian",
+        "claim": "q43203$AE40D019-237F-4FC5-A5D6-F0F9A5624AE6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q164047",
+      "name": "Александр Поуп",
+      "birthDate": "1688-05-31",
+      "birthYear": 1688,
+      "description": "английский поэт",
+      "category": "literature",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%83%D0%BF,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q164047#P569",
+      "verified": {
+        "revision": 2564768352,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1688-05-21",
+        "originalCalendar": "julian",
+        "claim": "q164047$1B931DD1-7D4A-4C61-8ABF-D32E8CDDDD7B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q42323",
+      "name": "Пий XI",
+      "birthDate": "1857-05-31",
+      "birthYear": 1857,
+      "description": "Папа римский",
+      "category": "public",
+      "sitelinks": 121,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%B9_XI",
+      "source": "https://www.wikidata.org/wiki/Q42323#P569",
+      "verified": {
+        "revision": 2558217796,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1857-05-31",
+        "originalCalendar": "gregorian",
+        "claim": "q42323$1B445C90-3919-4248-87EC-22AEFEAC8825",
+        "references": [
+          "https://cs.isabart.org/person/151702"
+        ]
+      }
+    },
+    {
+      "id": "Q172035",
+      "name": "Колин Фаррелл",
+      "birthDate": "1976-05-31",
+      "birthYear": 1976,
+      "description": "ирландский актёр (род. 1976)",
+      "category": "screen",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D1%80%D1%80%D0%B5%D0%BB%D0%BB,_%D0%9A%D0%BE%D0%BB%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q172035#P569",
+      "verified": {
+        "revision": 2561672292,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1976-05-31",
+        "originalCalendar": "gregorian",
+        "claim": "q172035$F6B76128-A3FB-4196-9A29-E865AD3CFE65",
+        "references": []
+      }
+    }
+  ]
+}

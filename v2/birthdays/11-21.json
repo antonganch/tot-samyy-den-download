@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "day": "11-21",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9068",
+      "name": "Вольтер",
+      "birthDate": "1694-11-21",
+      "birthYear": 1694,
+      "description": "французский философ-просветитель XVIII века, поэт, прозаик, сатирик, трагик, историк, публицист и правозащитник (1694—1778)",
+      "category": "literature",
+      "sitelinks": 257,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BB%D1%8C%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q9068#P569",
+      "verified": {
+        "revision": 2564815795,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1694-11-21",
+        "originalCalendar": "gregorian",
+        "claim": "q9068$63066EB3-DFF8-4547-878E-800CCB1C3F47",
+        "references": [
+          "https://cs.isabart.org/person/35933"
+        ]
+      }
+    },
+    {
+      "id": "Q42455",
+      "name": "Бьорк",
+      "birthDate": "1965-11-21",
+      "birthYear": 1965,
+      "description": "исландская певица и актриса",
+      "category": "screen",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%8C%D0%BE%D1%80%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q42455#P569",
+      "verified": {
+        "revision": 2563000542,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1965-11-21",
+        "originalCalendar": "gregorian",
+        "claim": "q42455$fcba4318-4329-2519-b25d-029c8adcec8d",
+        "references": [
+          "https://www.ismus.is/i/person/uid-a2d7dc1c-4698-448b-bc78-cd1842440107"
+        ]
+      }
+    },
+    {
+      "id": "Q4448",
+      "name": "Бенедикт XV",
+      "birthDate": "1854-11-21",
+      "birthYear": 1854,
+      "description": "258-й Папа Римский (1914-1922)",
+      "category": "public",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8%D0%BA%D1%82_XV",
+      "source": "https://www.wikidata.org/wiki/Q4448#P569",
+      "verified": {
+        "revision": 2564498071,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1854-11-21",
+        "originalCalendar": "gregorian",
+        "claim": "q4448$4F286074-0954-4105-9F17-A14B39582296",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7836",
+      "name": "Рене Магритт",
+      "birthDate": "1898-11-21",
+      "birthYear": 1898,
+      "description": "бельгийский художник-сюрреалист",
+      "category": "art",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D1%80%D0%B8%D1%82%D1%82,_%D0%A0%D0%B5%D0%BD%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q7836#P569",
+      "verified": {
+        "revision": 2564755669,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1898-11-21",
+        "originalCalendar": "gregorian",
+        "claim": "q7836$54D8477F-8918-4720-B64F-E63ED0E0B716",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/magritte-rene-francois-ghislain",
+          "https://www.museabrugge.be/collection/work/id/0000_GRO1631_I"
+        ]
+      }
+    },
+    {
+      "id": "Q188459",
+      "name": "Голди Хоун",
+      "birthDate": "1945-11-21",
+      "birthYear": 1945,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%83%D0%BD,_%D0%93%D0%BE%D0%BB%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q188459#P569",
+      "verified": {
+        "revision": 2563864125,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1945-11-21",
+        "originalCalendar": "gregorian",
+        "claim": "q188459$0D10024F-D4BE-4973-9D22-06C10BA3C748",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "02-13",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q47875",
+      "name": "Робби Уильямс",
+      "birthDate": "1974-02-13",
+      "birthYear": 1974,
+      "description": "британский певец",
+      "category": "music",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%A0%D0%BE%D0%B1%D0%B1%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q47875#P569",
+      "verified": {
+        "revision": 2558225275,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-02-13",
+        "originalCalendar": "gregorian",
+        "claim": "q47875$1452855A-CA4C-4AD3-A928-617572700A27",
+        "references": []
+      }
+    },
+    {
+      "id": "Q163415",
+      "name": "Уильям Брэдфорд Шокли",
+      "birthDate": "1910-02-13",
+      "birthYear": 1910,
+      "description": "Американский физик и изобретатель, один из создателей биполярного транзистора",
+      "category": "science",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D0%BA%D0%BB%D0%B8,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%91%D1%80%D1%8D%D0%B4%D1%84%D0%BE%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q163415#P569",
+      "verified": {
+        "revision": 2563197936,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1910-02-13",
+        "originalCalendar": "gregorian",
+        "claim": "q163415$587165E5-289F-410D-833D-589A66D85BA5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q191480",
+      "name": "Иван Андреевич Крылов",
+      "birthDate": "1769-02-13",
+      "birthYear": 1769,
+      "description": "русский писатель, поэт, баснописец (1769—1844)",
+      "category": "literature",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%8B%D0%BB%D0%BE%D0%B2,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q191480#P569",
+      "verified": {
+        "revision": 2561123927,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1769-02-02",
+        "originalCalendar": "julian",
+        "claim": "q191480$A2D16ED2-A0F4-45E2-893A-469A34BB5B12",
+        "references": []
+      }
+    },
+    {
+      "id": "Q128790",
+      "name": "Жорж Сименон",
+      "birthDate": "1903-02-13",
+      "birthYear": 1903,
+      "description": "бельгийский писатель (1903—1986)",
+      "category": "literature",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%BD,_%D0%96%D0%BE%D1%80%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q128790#P569",
+      "verified": {
+        "revision": 2561840933,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1903-02-13",
+        "originalCalendar": "gregorian",
+        "claim": "q128790$CB85C338-DDA6-46D0-BA7A-6C41A4B64FE5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q175195",
+      "name": "Питер Гэбриел",
+      "birthDate": "1950-02-13",
+      "birthYear": 1950,
+      "description": "британский музыкант",
+      "category": "music",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%8D%D0%B1%D1%80%D0%B8%D0%B5%D0%BB,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q175195#P569",
+      "verified": {
+        "revision": 2562870793,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-02-13",
+        "originalCalendar": "gregorian",
+        "claim": "q175195$C1BD6F11-8A3F-4CA5-AC73-B7907DFE8D88",
+        "references": [
+          "https://www.britannica.com/biography/Peter-Gabriel"
+        ]
+      }
+    }
+  ]
+}

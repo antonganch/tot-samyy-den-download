@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "05-01",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q150526",
+      "name": "Сантьяго Рамон-и-Кахаль",
+      "birthDate": "1852-05-01",
+      "birthYear": 1852,
+      "description": "испанский врач и гистолог, один из основоположников современной нейробиологии; лауреат Нобелевской премии по физиологии и медицине (1906)",
+      "category": "science",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%BE%D0%BD-%D0%B8-%D0%9A%D0%B0%D1%85%D0%B0%D0%BB%D1%8C,_%D0%A1%D0%B0%D0%BD%D1%82%D1%8C%D1%8F%D0%B3%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q150526#P569",
+      "verified": {
+        "revision": 2564819199,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1852-05-01",
+        "originalCalendar": "gregorian",
+        "claim": "q150526$1418CC27-5B9B-4F73-9D29-D7D67BA32811",
+        "references": []
+      }
+    },
+    {
+      "id": "Q131691",
+      "name": "Артур Уэлсли Веллингтон",
+      "birthDate": "1769-05-01",
+      "birthYear": 1769,
+      "description": "британский полководец и государственный деятель, премьер-министр Великобритании (1828-1830, 1834)",
+      "category": "public",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD,_%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%A3%D1%8D%D0%BB%D1%81%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q131691#P569",
+      "verified": {
+        "revision": 2564782387,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1769-05-01",
+        "originalCalendar": "gregorian",
+        "claim": "q131691$3CDEC43E-02F9-4790-85C7-9AFBB4528441",
+        "references": []
+      }
+    },
+    {
+      "id": "Q465815",
+      "name": "Анушка Шарма",
+      "birthDate": "1988-05-01",
+      "birthYear": 1988,
+      "description": "индийская актриса",
+      "category": "screen",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%80%D0%BC%D0%B0,_%D0%90%D0%BD%D1%83%D1%88%D0%BA%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q465815#P569",
+      "verified": {
+        "revision": 2556901550,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1988-05-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q465815$2FE43E31-6F83-44A9-9363-007149ABD8F1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q189564",
+      "name": "Пьер Тейяр де Шарден",
+      "birthDate": "1881-05-01",
+      "birthYear": 1881,
+      "description": "французский католический философ и теолог, биолог, геолог, палеонтолог, археолог, антрополог",
+      "category": "science",
+      "sitelinks": 71,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B9%D1%8F%D1%80_%D0%B4%D0%B5_%D0%A8%D0%B0%D1%80%D0%B4%D0%B5%D0%BD,_%D0%9F%D1%8C%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q189564#P569",
+      "verified": {
+        "revision": 2558217196,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1881-05-01",
+        "originalCalendar": "gregorian",
+        "claim": "q189564$DCC80AD1-89C2-453F-9FD5-B687F84341D2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q223687",
+      "name": "Уэс Андерсон",
+      "birthDate": "1969-05-01",
+      "birthYear": 1969,
+      "description": "американский кинорежиссёр, сценарист, актёр и продюсер",
+      "category": "screen",
+      "sitelinks": 62,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A3%D1%8D%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q223687#P569",
+      "verified": {
+        "revision": 2558278483,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-05-01",
+        "originalCalendar": "gregorian",
+        "claim": "q223687$3222DFC1-25F3-49FE-B04B-31F61EA5A6BB",
+        "references": []
+      }
+    }
+  ]
+}

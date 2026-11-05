@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "10-22",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q41309",
+      "name": "Ференц Лист",
+      "birthDate": "1811-10-22",
+      "birthYear": 1811,
+      "description": "венгро-немецкий композитор, пианист-виртуоз, педагог, дирижёр, публицист",
+      "category": "music",
+      "sitelinks": 127,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D1%81%D1%82,_%D0%A4%D0%B5%D1%80%D0%B5%D0%BD%D1%86",
+      "source": "https://www.wikidata.org/wiki/Q41309#P569",
+      "verified": {
+        "revision": 2564793587,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1811-10-22",
+        "originalCalendar": "gregorian",
+        "claim": "Q41309$5B606E93-ABB5-41E0-88C2-CDDEA422FDCD",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/liszt-franz-20"
+        ]
+      }
+    },
+    {
+      "id": "Q46602",
+      "name": "Иван Алексеевич Бунин",
+      "birthDate": "1870-10-22",
+      "birthYear": 1870,
+      "description": "русский писатель, поэт и переводчик (1870—1953)",
+      "category": "literature",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BD%D0%B8%D0%BD,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q46602#P569",
+      "verified": {
+        "revision": 2563196767,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1870-10-22",
+        "originalCalendar": "gregorian",
+        "claim": "Q46602$e3ad4f0e-415c-1634-dbc7-7d97b47e78c2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q106418",
+      "name": "Катрин Денёв",
+      "birthDate": "1943-10-22",
+      "birthYear": 1943,
+      "description": "французская актриса",
+      "category": "screen",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%91%D0%B2,_%D0%9A%D0%B0%D1%82%D1%80%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q106418#P569",
+      "verified": {
+        "revision": 2563868382,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1943-10-22",
+        "originalCalendar": "gregorian",
+        "claim": "q106418$F523B2F9-CA8E-485D-A64E-EEB76470027D",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/deneuve-catherine"
+        ]
+      }
+    },
+    {
+      "id": "Q47576",
+      "name": "Арсен Венгер",
+      "birthDate": "1949-10-22",
+      "birthYear": 1949,
+      "description": "французский футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%BD%D0%B3%D0%B5%D1%80,_%D0%90%D1%80%D1%81%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q47576#P569",
+      "verified": {
+        "revision": 2564951959,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-10-22",
+        "originalCalendar": "gregorian",
+        "claim": "Q47576$5BFF304D-136F-425E-8BE7-1462992892B2",
+        "references": [
+          "https://www.transfermarkt.es/arsene-wenger/profil/trainer/280"
+        ]
+      }
+    },
+    {
+      "id": "Q167828",
+      "name": "Яшин, Лев Иванович",
+      "birthDate": "1929-10-22",
+      "birthYear": 1929,
+      "description": "советский футболист, лучший вратарь (1929–1990)",
+      "category": "sport",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AF%D1%88%D0%B8%D0%BD,_%D0%9B%D0%B5%D0%B2_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q167828#P569",
+      "verified": {
+        "revision": 2558118400,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1929-10-22",
+        "originalCalendar": "gregorian",
+        "claim": "Q167828$6ACDB79B-538A-4137-BC58-731891A290F1",
+        "references": []
+      }
+    }
+  ]
+}

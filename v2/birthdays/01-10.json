@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "01-10",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q17457",
+      "name": "Дональд Эрвин Кнут",
+      "birthDate": "1938-01-10",
+      "birthYear": 1938,
+      "description": "американский учёный в области информатики",
+      "category": "science",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BD%D1%83%D1%82,_%D0%94%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4_%D0%AD%D1%80%D0%B2%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q17457#P569",
+      "verified": {
+        "revision": 2557856763,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1938-01-10",
+        "originalCalendar": "gregorian",
+        "claim": "q17457$616B26A4-A21D-4FCE-A620-32ADFF237938",
+        "references": []
+      }
+    },
+    {
+      "id": "Q182655",
+      "name": "Род Стюарт",
+      "birthDate": "1945-01-10",
+      "birthYear": 1945,
+      "description": "Британский певец",
+      "category": "music",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D1%82,_%D0%A0%D0%BE%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q182655#P569",
+      "verified": {
+        "revision": 2558227812,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1945-01-10",
+        "originalCalendar": "gregorian",
+        "claim": "q182655$0B1FD6A1-87CC-4406-8824-0BF8D43A7AB7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q171034",
+      "name": "Роберт Вудро Вильсон",
+      "birthDate": "1936-01-10",
+      "birthYear": 1936,
+      "description": "американский астроном",
+      "category": "science",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D1%81%D0%BE%D0%BD,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82_%D0%92%D1%83%D0%B4%D1%80%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q171034#P569",
+      "verified": {
+        "revision": 2563198656,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1936-01-10",
+        "originalCalendar": "gregorian",
+        "claim": "q171034$DE585F6E-785E-4C83-B7A0-C22FABDCF9F5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q233619",
+      "name": "Ритик Рошан",
+      "birthDate": "1974-01-10",
+      "birthYear": 1974,
+      "description": "индийский актёр",
+      "category": "screen",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%88%D0%B0%D0%BD,_%D0%A0%D0%B8%D1%82%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q233619#P569",
+      "verified": {
+        "revision": 2563962939,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-01-10",
+        "originalCalendar": "gregorian",
+        "claim": "Q233619$D8759F89-9F51-4D1A-99B5-D5F20EED2111",
+        "references": []
+      }
+    },
+    {
+      "id": "Q192279",
+      "name": "Алексей Николаевич Толстой",
+      "birthDate": "1883-01-10",
+      "birthYear": 1883,
+      "description": "русский и советский писатель, общественный деятель",
+      "category": "literature",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q192279#P569",
+      "verified": {
+        "revision": 2559063443,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1882-12-29",
+        "originalCalendar": "julian",
+        "claim": "Q192279$E7C20F4E-DAF3-4636-BF65-D42A73ADFBEF",
+        "references": []
+      }
+    }
+  ]
+}

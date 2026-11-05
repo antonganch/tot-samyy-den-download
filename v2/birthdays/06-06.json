@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "06-06",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7200",
+      "name": "Александр Сергеевич Пушкин",
+      "birthDate": "1799-06-06",
+      "birthYear": 1799,
+      "description": "русский поэт, драматург и прозаик (1799–1837)",
+      "category": "literature",
+      "sitelinks": 245,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q7200#P569",
+      "verified": {
+        "revision": 2562746280,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1799-05-26",
+        "originalCalendar": "julian",
+        "claim": "q7200$0ad5b2e3-47f5-9b42-cad5-a0a5a1bccb80",
+        "references": []
+      }
+    },
+    {
+      "id": "Q37030",
+      "name": "Томас Манн",
+      "birthDate": "1875-06-06",
+      "birthYear": 1875,
+      "description": "немецкий писатель, эссеист, лауреат Нобелевской премии",
+      "category": "literature",
+      "sitelinks": 167,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%BD,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q37030#P569",
+      "verified": {
+        "revision": 2563979460,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1875-06-06",
+        "originalCalendar": "gregorian",
+        "claim": "q37030$B40DC59D-687E-4B96-9F13-B86AC9F3515D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q76127",
+      "name": "Сукарно",
+      "birthDate": "1901-06-06",
+      "birthYear": 1901,
+      "description": "индонезийский государственный деятель, президент Индонезии (1945—1967); с 1965 года фактически не имел власти",
+      "category": "public",
+      "sitelinks": 128,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BA%D0%B0%D1%80%D0%BD%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q76127#P569",
+      "verified": {
+        "revision": 2564317235,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-06-06",
+        "originalCalendar": "gregorian",
+        "claim": "q76127$7EB1E86C-9CB9-4F5C-9EEF-2747E5AEB8EE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57077",
+      "name": "Карл Фердинанд Браун",
+      "birthDate": "1850-06-06",
+      "birthYear": 1850,
+      "description": "немецкий физик, лауреат Нобелевской премии по физике в 1909 году",
+      "category": "science",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%9A%D0%B0%D1%80%D0%BB_%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q57077#P569",
+      "verified": {
+        "revision": 2563988229,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1850-06-06",
+        "originalCalendar": "gregorian",
+        "claim": "q57077$13BC33B1-08C6-4BA8-8D52-EEBC01AD12EF",
+        "references": [
+          "https://www.britannica.com/biography/Ferdinand-Braun"
+        ]
+      }
+    },
+    {
+      "id": "Q152293",
+      "name": "Арам Хачатурян",
+      "birthDate": "1903-06-06",
+      "birthYear": 1903,
+      "description": "советский композитор, дирижёр",
+      "category": "music",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%87%D0%B0%D1%82%D1%83%D1%80%D1%8F%D0%BD,_%D0%90%D1%80%D0%B0%D0%BC_%D0%98%D0%BB%D1%8C%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q152293#P569",
+      "verified": {
+        "revision": 2563752876,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1903-05-24",
+        "originalCalendar": "julian",
+        "claim": "q152293$F0FAD258-1FC0-4DE8-BAB6-6C5B4BB548EB",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "02-26",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q535",
+      "name": "Виктор Гюго",
+      "birthDate": "1802-02-26",
+      "birthYear": 1802,
+      "description": "французский писатель, поэт, драматург и политик (1802—1885)",
+      "category": "public",
+      "sitelinks": 269,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%8E%D0%B3%D0%BE,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q535#P569",
+      "verified": {
+        "revision": 2564815082,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1802-02-26",
+        "originalCalendar": "gregorian",
+        "claim": "q535$97bf6c89-4b29-5acf-0c87-8cd215a100c4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q42775",
+      "name": "Джонни Кэш",
+      "birthDate": "1932-02-26",
+      "birthYear": 1932,
+      "description": "американский музыкант и актёр",
+      "category": "screen",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%88,_%D0%94%D0%B6%D0%BE%D0%BD%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q42775#P569",
+      "verified": {
+        "revision": 2558016725,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1932-02-26",
+        "originalCalendar": "gregorian",
+        "claim": "q42775$8E11858B-13FA-447D-8B48-935E83D89394",
+        "references": []
+      }
+    },
+    {
+      "id": "Q103114",
+      "name": "Мишель Уэльбек",
+      "birthDate": "1956-02-26",
+      "birthYear": 1956,
+      "description": "французский писатель и поэт",
+      "category": "literature",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D1%8D%D0%BB%D1%8C%D0%B1%D0%B5%D0%BA,_%D0%9C%D0%B8%D1%88%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q103114#P569",
+      "verified": {
+        "revision": 2563872871,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1956-02-26",
+        "originalCalendar": "gregorian",
+        "claim": "q103114$15DDCDCC-0372-4A0A-BF2B-87003B680288",
+        "references": []
+      }
+    },
+    {
+      "id": "Q106624",
+      "name": "Ахмед Зевейл",
+      "birthDate": "1946-02-26",
+      "birthYear": 1946,
+      "description": "египетский химик",
+      "category": "science",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%B2%D0%B5%D0%B9%D0%BB,_%D0%90%D1%85%D0%BC%D0%B5%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q106624#P569",
+      "verified": {
+        "revision": 2563201460,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-02-26",
+        "originalCalendar": "gregorian",
+        "claim": "q106624$F73EFCA4-3792-4AF3-81DE-F1796075A1A1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q485697",
+      "name": "Пепе",
+      "birthDate": "1984-02-26",
+      "birthYear": 1984,
+      "description": "португальский футболист",
+      "category": "sport",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BF%D0%B5_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82,_1983)",
+      "source": "https://www.wikidata.org/wiki/Q485697#P569",
+      "verified": {
+        "revision": 2558210003,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1984-02-26",
+        "originalCalendar": "gregorian",
+        "claim": "Q485697$CB41A38F-A4C9-4F47-A7F0-8DF8EDF2AC78",
+        "references": []
+      }
+    }
+  ]
+}

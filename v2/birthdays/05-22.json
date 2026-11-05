@@ -1,0 +1,118 @@
+{
+  "schema": 1,
+  "day": "05-22",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1511",
+      "name": "Рихард Вагнер",
+      "birthDate": "1813-05-22",
+      "birthYear": 1813,
+      "description": "немецкий композитор и теоретик искусства (1813—1883)",
+      "category": "music",
+      "sitelinks": 206,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B3%D0%BD%D0%B5%D1%80,_%D0%A0%D0%B8%D1%85%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q1511#P569",
+      "verified": {
+        "revision": 2564812832,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1813-05-22",
+        "originalCalendar": "gregorian",
+        "claim": "q1511$8FFB88F6-11B2-4399-9F43-8F21E4C7F206",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/wagner-richard-20"
+        ]
+      }
+    },
+    {
+      "id": "Q35610",
+      "name": "Артур Конан Дойл",
+      "birthDate": "1859-05-22",
+      "birthYear": 1859,
+      "description": "английский писатель (1859—1930)",
+      "category": "literature",
+      "sitelinks": 183,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%B9%D0%BB,_%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%9A%D0%BE%D0%BD%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q35610#P569",
+      "verified": {
+        "revision": 2562810332,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1859-05-22",
+        "originalCalendar": "gregorian",
+        "claim": "q35610$B13109A0-D50C-4058-A194-02F024F9821B",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/doyle-arthur-conan"
+        ]
+      }
+    },
+    {
+      "id": "Q5812",
+      "name": "Новак Джокович",
+      "birthDate": "1987-05-22",
+      "birthYear": 1987,
+      "description": "сербский теннисист",
+      "category": "sport",
+      "sitelinks": 155,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BA%D0%BE%D0%B2%D0%B8%D1%87,_%D0%9D%D0%BE%D0%B2%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q5812#P569",
+      "verified": {
+        "revision": 2564397733,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1987-05-22",
+        "originalCalendar": "gregorian",
+        "claim": "q5812$3EF622F6-C6FD-4CFE-84BE-7D8F2F85FDEB",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/djokovic-novak",
+          "https://www.fedcourt.gov.au/__data/assets/pdf_file/0004/95053/Parties-jointly-agreed-Transcript-of-Interviews-conducted-by-the-ABF.pdf"
+        ]
+      }
+    },
+    {
+      "id": "Q1785",
+      "name": "Шарль Азнавур",
+      "birthDate": "1924-05-22",
+      "birthYear": 1924,
+      "description": "французский певец и актёр армянского происхождения",
+      "category": "screen",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B7%D0%BD%D0%B0%D0%B2%D1%83%D1%80,_%D0%A8%D0%B0%D1%80%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q1785#P569",
+      "verified": {
+        "revision": 2563761488,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-05-22",
+        "originalCalendar": "gregorian",
+        "claim": "q1785$E77183C2-F758-4EB9-B039-604C17635FA1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q55245",
+      "name": "Лоренс Оливье",
+      "birthDate": "1907-05-22",
+      "birthYear": 1907,
+      "description": "английский актёр и режиссёр (1907–1989)",
+      "category": "screen",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B8%D0%B2%D1%8C%D0%B5,_%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q55245#P569",
+      "verified": {
+        "revision": 2562399356,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-05-22",
+        "originalCalendar": "gregorian",
+        "claim": "q55245$BEC53BB3-9D3D-4257-BDE1-E42E22F10960",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/olivier-laurence-kerr",
+          "https://cs.isabart.org/person/149495"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "03-12",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q82049",
+      "name": "Джордж Беркли",
+      "birthDate": "1685-03-12",
+      "birthYear": 1685,
+      "description": "английский и ирландский философ",
+      "category": "literature",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BA%D0%BB%D0%B8,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q82049#P569",
+      "verified": {
+        "revision": 2564375372,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1685-03-12",
+        "originalCalendar": "gregorian",
+        "claim": "q82049$E5AC742C-F88E-42D2-9A1D-215AE6D76E15",
+        "references": []
+      }
+    },
+    {
+      "id": "Q14441",
+      "name": "Лайза Миннелли",
+      "birthDate": "1946-03-12",
+      "birthYear": 1946,
+      "description": "американская актриса и певица",
+      "category": "screen",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D0%BD%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%9B%D0%B0%D0%B9%D0%B7%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q14441#P569",
+      "verified": {
+        "revision": 2563810638,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-03-12",
+        "originalCalendar": "gregorian",
+        "claim": "q14441$9C4BC939-35AF-496E-96CB-7B10AEB2C77C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q160534",
+      "name": "Джек Керуак",
+      "birthDate": "1922-03-12",
+      "birthYear": 1922,
+      "description": "американский писатель",
+      "category": "literature",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%83%D0%B0%D0%BA,_%D0%94%D0%B6%D0%B5%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q160534#P569",
+      "verified": {
+        "revision": 2563862281,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-03-12",
+        "originalCalendar": "gregorian",
+        "claim": "q160534$3C4D870D-0472-49E2-B7FF-E806085B4C20",
+        "references": []
+      }
+    },
+    {
+      "id": "Q193236",
+      "name": "Габриэле Д’Аннунцио",
+      "birthDate": "1863-03-12",
+      "birthYear": 1863,
+      "description": "Итальянский писатель и политический деятель",
+      "category": "public",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%E2%80%99%D0%90%D0%BD%D0%BD%D1%83%D0%BD%D1%86%D0%B8%D0%BE,_%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D0%B5%D0%BB%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q193236#P569",
+      "verified": {
+        "revision": 2558421614,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1863-03-12",
+        "originalCalendar": "gregorian",
+        "claim": "q193236$4FF93BC6-2B93-41A7-A069-608CF5CB45AD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q60052",
+      "name": "Густав Роберт Кирхгоф",
+      "birthDate": "1824-03-12",
+      "birthYear": 1824,
+      "description": "немецкий физик",
+      "category": "science",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%80%D1%85%D0%B3%D0%BE%D1%84,_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q60052#P569",
+      "verified": {
+        "revision": 2563990634,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1824-03-12",
+        "originalCalendar": "gregorian",
+        "claim": "q60052$AD6FC6C0-2BC4-4694-A24F-C130EBBADE94",
+        "references": []
+      }
+    }
+  ]
+}

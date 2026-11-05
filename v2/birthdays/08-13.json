@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "08-13",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7374",
+      "name": "Альфред Хичкок",
+      "birthDate": "1899-08-13",
+      "birthYear": 1899,
+      "description": "британский и американский кинорежиссёр, продюсер и сценарист (1899—1980)",
+      "category": "screen",
+      "sitelinks": 189,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D1%87%D0%BA%D0%BE%D0%BA,_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q7374#P569",
+      "verified": {
+        "revision": 2563768481,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1899-08-13",
+        "originalCalendar": "gregorian",
+        "claim": "q7374$AE6AF70B-8F97-41B1-B6C8-DCFD5F886B7B",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/hitchcock-alfred",
+          "https://encyklopedia.pwn.pl/haslo/Hitchcock-Alfred;3912058.html"
+        ]
+      }
+    },
+    {
+      "id": "Q11256",
+      "name": "Фидель Кастро",
+      "birthDate": "1926-08-13",
+      "birthYear": 1926,
+      "description": "лидер кубинской социалистической революции, многолетний лидер Кубы",
+      "category": "other",
+      "sitelinks": 206,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%81%D1%82%D1%80%D0%BE,_%D0%A4%D0%B8%D0%B4%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q11256#P569",
+      "verified": {
+        "revision": 2562765011,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-08-13",
+        "originalCalendar": "gregorian",
+        "claim": "q11256$D95B129D-2CE6-4DCE-BD8D-653AACE75807",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/castro-ruz-fidel"
+        ]
+      }
+    },
+    {
+      "id": "Q270691",
+      "name": "Шридеви",
+      "birthDate": "1963-08-13",
+      "birthYear": 1963,
+      "description": "индийская актриса",
+      "category": "screen",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D0%B8%D0%B4%D0%B5%D0%B2%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q270691#P569",
+      "verified": {
+        "revision": 2563915453,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-08-13",
+        "originalCalendar": "gregorian",
+        "claim": "Q270691$4708B8EA-4878-41F2-81ED-C13494F91646",
+        "references": []
+      }
+    },
+    {
+      "id": "Q133544",
+      "name": "Джон Лоуги Бэрд",
+      "birthDate": "1888-08-13",
+      "birthYear": 1888,
+      "description": "шотландский изобретатель и инженер, имя которого прочно вошло в историю как одного из первопроходцев телевидения",
+      "category": "science",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%8D%D1%80%D0%B4,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%9B%D0%BE%D1%83%D0%B3%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q133544#P569",
+      "verified": {
+        "revision": 2557990949,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1888-08-13",
+        "originalCalendar": "gregorian",
+        "claim": "q133544$C2E25F7B-BD38-4989-8612-D3CDA506447A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q483583",
+      "name": "Алан Ширер",
+      "birthDate": "1970-08-13",
+      "birthYear": 1970,
+      "description": "английский футболист",
+      "category": "sport",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%80%D0%B5%D1%80,_%D0%90%D0%BB%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q483583#P569",
+      "verified": {
+        "revision": 2557621553,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1970-08-13",
+        "originalCalendar": "gregorian",
+        "claim": "q483583$ACFA05B2-1620-4F1B-BC91-4E07D0F765F3",
+        "references": []
+      }
+    }
+  ]
+}

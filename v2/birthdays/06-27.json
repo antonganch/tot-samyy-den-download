@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "06-27",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q38203",
+      "name": "Хелен Келлер",
+      "birthDate": "1880-06-27",
+      "birthYear": 1880,
+      "description": "американская писательница, преподавательница и общественная деятельница",
+      "category": "literature",
+      "sitelinks": 169,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BB%D0%BB%D0%B5%D1%80,_%D0%A5%D0%B5%D0%BB%D0%B5%D0%BD_%D0%90%D0%B4%D0%B0%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q38203#P569",
+      "verified": {
+        "revision": 2556966604,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1880-06-27",
+        "originalCalendar": "gregorian",
+        "claim": "q38203$FCD142A1-A4F8-4203-B150-B3F63D8FF063",
+        "references": []
+      }
+    },
+    {
+      "id": "Q79969",
+      "name": "Эмма Гольдман",
+      "birthDate": "1869-06-27",
+      "birthYear": 1869,
+      "description": "американская анархистка и феминистка",
+      "category": "other",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8C%D0%B4%D0%BC%D0%B0%D0%BD,_%D0%AD%D0%BC%D0%BC%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q79969#P569",
+      "verified": {
+        "revision": 2564669622,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1869-06-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q79969$59624c58-10c6-4a25-a09c-34c65090bd70",
+        "references": []
+      }
+    },
+    {
+      "id": "Q106383",
+      "name": "Изабель Аджани",
+      "birthDate": "1955-06-27",
+      "birthYear": 1955,
+      "description": "французская актриса",
+      "category": "screen",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B6%D0%B0%D0%BD%D0%B8,_%D0%98%D0%B7%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q106383#P569",
+      "verified": {
+        "revision": 2564964780,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-06-27",
+        "originalCalendar": "gregorian",
+        "claim": "q106383$82AADA77-7783-4E6E-8358-28A4F0D6385A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q165524",
+      "name": "Тоби Магуайр",
+      "birthDate": "1975-06-27",
+      "birthYear": 1975,
+      "description": "Американский актер",
+      "category": "screen",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D1%83%D0%B0%D0%B9%D1%80,_%D0%A2%D0%BE%D0%B1%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q165524#P569",
+      "verified": {
+        "revision": 2563821348,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-06-27",
+        "originalCalendar": "gregorian",
+        "claim": "q165524$70246373-8ED9-4BB3-BA02-4C1A8F7FC4EA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q11576",
+      "name": "Рауль Гонсалес",
+      "birthDate": "1977-06-27",
+      "birthYear": 1977,
+      "description": "испанский футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BD%D1%81%D0%B0%D0%BB%D0%B5%D1%81,_%D0%A0%D0%B0%D1%83%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q11576#P569",
+      "verified": {
+        "revision": 2562661146,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1977-06-27",
+        "originalCalendar": "gregorian",
+        "claim": "q11576$F541F247-12B2-4301-94FC-2E1C5CC71CFB",
+        "references": []
+      }
+    }
+  ]
+}

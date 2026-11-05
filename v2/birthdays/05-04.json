@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "05-04",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q42786",
+      "name": "Одри Хепбёрн",
+      "birthDate": "1929-05-04",
+      "birthYear": 1929,
+      "description": "британская и американская актриса, фотомодель и гуманитарный деятель",
+      "category": "screen",
+      "sitelinks": 152,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BF%D0%B1%D1%91%D1%80%D0%BD,_%D0%9E%D0%B4%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q42786#P569",
+      "verified": {
+        "revision": 2564052333,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1929-05-04",
+        "originalCalendar": "gregorian",
+        "claim": "q42786$960BE3FC-DA2E-40A9-95E2-1DCC23BEF1FF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q34105",
+      "name": "Хосни Мубарак",
+      "birthDate": "1928-05-04",
+      "birthYear": 1928,
+      "description": "президент Египта (1981—2011)",
+      "category": "public",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B1%D0%B0%D1%80%D0%B0%D0%BA,_%D0%A5%D0%BE%D1%81%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q34105#P569",
+      "verified": {
+        "revision": 2563040260,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-05-04",
+        "originalCalendar": "gregorian",
+        "claim": "q34105$B5308B37-4D1C-4E07-99DD-CC6F4FD4E8E1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q184366",
+      "name": "Томас Генри Гексли",
+      "birthDate": "1825-05-04",
+      "birthYear": 1825,
+      "description": "английский зоолог, популяризатор науки и защитник эволюционной теории Чарлза Дарвина",
+      "category": "other",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BA%D1%81%D0%BB%D0%B8,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81_%D0%93%D0%B5%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q184366#P569",
+      "verified": {
+        "revision": 2558256369,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1825-05-04",
+        "originalCalendar": "gregorian",
+        "claim": "q184366$A812D107-72A3-48C6-BAF7-8057A3965BD8",
+        "references": [
+          "https://runeberg.org/nfbk/0718.html"
+        ]
+      }
+    },
+    {
+      "id": "Q17499",
+      "name": "Сеск Фабрегас",
+      "birthDate": "1987-05-04",
+      "birthYear": 1987,
+      "description": "испанский футболист",
+      "category": "sport",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B1%D1%80%D0%B5%D0%B3%D0%B0%D1%81,_%D0%A1%D0%B5%D1%81%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q17499#P569",
+      "verified": {
+        "revision": 2564524398,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1987-05-04",
+        "originalCalendar": "gregorian",
+        "claim": "Q17499$57B1B3EC-14E8-4187-9828-6BF68206F341",
+        "references": []
+      }
+    },
+    {
+      "id": "Q151872",
+      "name": "Амос Оз",
+      "birthDate": "1939-05-04",
+      "birthYear": 1939,
+      "description": "израильский писатель (1939—2028)",
+      "category": "literature",
+      "sitelinks": 65,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B7,_%D0%90%D0%BC%D0%BE%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q151872#P569",
+      "verified": {
+        "revision": 2557732243,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1939-05-04",
+        "originalCalendar": "gregorian",
+        "claim": "q151872$F48D0438-952F-4DC5-8E39-F6071C7C6301",
+        "references": []
+      }
+    }
+  ]
+}

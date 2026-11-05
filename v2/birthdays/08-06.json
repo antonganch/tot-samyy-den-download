@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "08-06",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5603",
+      "name": "Энди Уорхол",
+      "birthDate": "1928-08-06",
+      "birthYear": 1928,
+      "description": "американский художник украинского происхождения, продюсер, дизайнер, писатель, коллекционер, издатель журналов и кинорежиссёр",
+      "category": "screen",
+      "sitelinks": 179,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D1%80%D1%85%D0%BE%D0%BB,_%D0%AD%D0%BD%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q5603#P569",
+      "verified": {
+        "revision": 2557763898,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-08-06",
+        "originalCalendar": "gregorian",
+        "claim": "q5603$E72CB571-F7C5-4672-9E23-609498F14906",
+        "references": [
+          "https://www.museabrugge.be/collection/work/id/2014_GRO0927_III"
+        ]
+      }
+    },
+    {
+      "id": "Q37064",
+      "name": "Александр Флеминг",
+      "birthDate": "1881-08-06",
+      "birthYear": 1881,
+      "description": "Британский бактериолог",
+      "category": "screen",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B5%D0%BC%D0%B8%D0%BD%D0%B3,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q37064#P569",
+      "verified": {
+        "revision": 2564099651,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1881-08-06",
+        "originalCalendar": "gregorian",
+        "claim": "q37064$E47B6157-9046-4E74-8034-346CB5C18F40",
+        "references": []
+      }
+    },
+    {
+      "id": "Q173869",
+      "name": "Альфред Теннисон",
+      "birthDate": "1809-08-06",
+      "birthYear": 1809,
+      "description": "английский поэт",
+      "category": "literature",
+      "sitelinks": 118,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B8%D1%81%D0%BE%D0%BD,_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q173869#P569",
+      "verified": {
+        "revision": 2559449257,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1809-08-06",
+        "originalCalendar": "gregorian",
+        "claim": "q173869$3F22001D-CC3B-4810-BC43-3B766545B892",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2339",
+      "name": "Робин Ван Перси",
+      "birthDate": "1983-08-06",
+      "birthYear": 1983,
+      "description": "нидерландский футболист",
+      "category": "sport",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD_%D0%9F%D0%B5%D1%80%D1%81%D0%B8,_%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q2339#P569",
+      "verified": {
+        "revision": 2561102853,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-08-06",
+        "originalCalendar": "gregorian",
+        "claim": "Q2339$8E38F60F-9EF2-426E-A679-1B68CF4C7B32",
+        "references": []
+      }
+    },
+    {
+      "id": "Q227897",
+      "name": "Иоганн Бернулли",
+      "birthDate": "1667-08-06",
+      "birthYear": 1667,
+      "description": "швейцарский математик",
+      "category": "science",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%83%D0%BB%D0%BB%D0%B8,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q227897#P569",
+      "verified": {
+        "revision": 2564320439,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1667-07-27",
+        "originalCalendar": "julian",
+        "claim": "q227897$FBD2B427-7625-4335-803F-824BC0C5D000",
+        "references": []
+      }
+    }
+  ]
+}

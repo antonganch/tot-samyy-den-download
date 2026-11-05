@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "07-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q25973",
+      "name": "Герман Гессе",
+      "birthDate": "1877-07-02",
+      "birthYear": 1877,
+      "description": "немецкий писатель и художник (1877—1962)",
+      "category": "literature",
+      "sitelinks": 164,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%81%D1%81%D0%B5,_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q25973#P569",
+      "verified": {
+        "revision": 2563977261,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1877-07-02",
+        "originalCalendar": "gregorian",
+        "claim": "q25973$BB769FBD-C236-4C8F-92F0-A4A2B610B74E",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/hesse-hermann"
+        ]
+      }
+    },
+    {
+      "id": "Q42552",
+      "name": "Вислава Шимборская",
+      "birthDate": "1923-07-02",
+      "birthYear": 1923,
+      "description": "польская поэтесса; лауреат Нобелевской премии по литературе",
+      "category": "literature",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BC%D0%B1%D0%BE%D1%80%D1%81%D0%BA%D0%B0%D1%8F,_%D0%92%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q42552#P569",
+      "verified": {
+        "revision": 2564881349,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1923-07-02",
+        "originalCalendar": "gregorian",
+        "claim": "q42552$CBFD3E75-B036-4FD9-AFFA-8796CEB8EE85",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44903",
+      "name": "Линдси Лохан",
+      "birthDate": "1986-07-02",
+      "birthYear": 1986,
+      "description": "американская актриса и певица (род. 1986)",
+      "category": "screen",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%85%D0%B0%D0%BD,_%D0%9B%D0%B8%D0%BD%D0%B4%D1%81%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q44903#P569",
+      "verified": {
+        "revision": 2563769882,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-07-02",
+        "originalCalendar": "gregorian",
+        "claim": "Q44903$81F6467B-CA6F-4502-B470-2582E5791578",
+        "references": []
+      }
+    },
+    {
+      "id": "Q161672",
+      "name": "Патрис Лумумба",
+      "birthDate": "1925-07-02",
+      "birthYear": 1925,
+      "description": "конголезский политик, 1-й премьер-министр Демократической Республики Конго",
+      "category": "public",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%83%D0%BC%D1%83%D0%BC%D0%B1%D0%B0,_%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q161672#P569",
+      "verified": {
+        "revision": 2562763900,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-07-02",
+        "originalCalendar": "gregorian",
+        "claim": "q161672$8CBEEA31-E1FF-4842-A367-7531428A0395",
+        "references": []
+      }
+    },
+    {
+      "id": "Q133747",
+      "name": "Уильям Генри Брэгг",
+      "birthDate": "1862-07-02",
+      "birthYear": 1862,
+      "description": "Английский физик, Лауреат Нобелевской премии",
+      "category": "science",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%8D%D0%B3%D0%B3,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%93%D0%B5%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q133747#P569",
+      "verified": {
+        "revision": 2563197932,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1862-07-02",
+        "originalCalendar": "gregorian",
+        "claim": "q133747$300F0F34-05A7-4269-889D-8E4C800671FC",
+        "references": []
+      }
+    }
+  ]
+}

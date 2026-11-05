@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "10-17",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5608",
+      "name": "Эминем",
+      "birthDate": "1972-10-17",
+      "birthYear": 1972,
+      "description": "американский рэпер, автор песен и актёр",
+      "category": "screen",
+      "sitelinks": 174,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B8%D0%BD%D0%B5%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q5608#P569",
+      "verified": {
+        "revision": 2563647154,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-10-17",
+        "originalCalendar": "gregorian",
+        "claim": "q5608$8D5BC576-F1E8-40CF-8947-1BB668824ADF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q37278",
+      "name": "Иоанн Павел I",
+      "birthDate": "1912-10-17",
+      "birthYear": 1912,
+      "description": "папа римский с 26 августа по 28 сентября 1978 года",
+      "category": "public",
+      "sitelinks": 127,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%B0%D0%BD%D0%BD_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_I",
+      "source": "https://www.wikidata.org/wiki/Q37278#P569",
+      "verified": {
+        "revision": 2557976999,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-10-17",
+        "originalCalendar": "gregorian",
+        "claim": "q37278$EF05D075-23D3-4C87-A495-3A107DF59CFB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q42745",
+      "name": "Рита Хейворт",
+      "birthDate": "1918-10-17",
+      "birthYear": 1918,
+      "description": "американская актриса, танцорка, модель и режиссёр",
+      "category": "screen",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%B9%D0%B2%D0%BE%D1%80%D1%82,_%D0%A0%D0%B8%D1%82%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q42745#P569",
+      "verified": {
+        "revision": 2562962638,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1918-10-17",
+        "originalCalendar": "gregorian",
+        "claim": "q42745$A07380BA-3785-4D10-A384-B3B22B9B8BD0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q80596",
+      "name": "Артур Миллер",
+      "birthDate": "1915-10-17",
+      "birthYear": 1915,
+      "description": "американский драматург и прозаик",
+      "category": "literature",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5%D1%80,_%D0%90%D1%80%D1%82%D1%83%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q80596#P569",
+      "verified": {
+        "revision": 2557798445,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1915-10-17",
+        "originalCalendar": "gregorian",
+        "claim": "q80596$A91073F2-BF43-48D0-8B3E-343F07DAF414",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/miller-arthur"
+        ]
+      }
+    },
+    {
+      "id": "Q11192",
+      "name": "Кими Райкконен",
+      "birthDate": "1979-10-17",
+      "birthYear": 1979,
+      "description": "финский автогонщик",
+      "category": "sport",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B9%D0%BA%D0%BA%D0%BE%D0%BD%D0%B5%D0%BD,_%D0%9A%D0%B8%D0%BC%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q11192#P569",
+      "verified": {
+        "revision": 2558450437,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1979-10-17",
+        "originalCalendar": "gregorian",
+        "claim": "q11192$AA2AA37F-92F4-4605-BB69-C7B19B298D99",
+        "references": []
+      }
+    }
+  ]
+}

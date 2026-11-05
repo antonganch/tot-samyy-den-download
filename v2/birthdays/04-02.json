@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "day": "04-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5673",
+      "name": "Ханс Кристиан Андерсен",
+      "birthDate": "1805-04-02",
+      "birthYear": 1805,
+      "description": "датский писатель и поэт (1805—1875)",
+      "category": "literature",
+      "sitelinks": 244,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%B5%D0%BD,_%D0%A5%D0%B0%D0%BD%D1%81_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q5673#P569",
+      "verified": {
+        "revision": 2564784390,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1805-04-02",
+        "originalCalendar": "gregorian",
+        "claim": "q5673$82FAC5BB-2B13-46E7-8D06-44C3A76931AA",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/andersen-hans-christian"
+        ]
+      }
+    },
+    {
+      "id": "Q504",
+      "name": "Эмиль Золя",
+      "birthDate": "1840-04-02",
+      "birthYear": 1840,
+      "description": "французский писатель, публицист и политический деятель. (1840–1902)",
+      "category": "public",
+      "sitelinks": 167,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%97%D0%BE%D0%BB%D1%8F,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q504#P569",
+      "verified": {
+        "revision": 2564804310,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1840-04-02",
+        "originalCalendar": "gregorian",
+        "claim": "q504$1F2B75B2-A313-4E60-9CA1-18105583BB5C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83321",
+      "name": "Джакомо Казанова",
+      "birthDate": "1725-04-02",
+      "birthYear": 1725,
+      "description": "итальянский авантюрист, путешественник и писатель",
+      "category": "literature",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0,_%D0%94%D0%B6%D0%B0%D0%BA%D0%BE%D0%BC%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q83321#P569",
+      "verified": {
+        "revision": 2563110342,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1725-04-02",
+        "originalCalendar": "gregorian",
+        "claim": "q83321$B3651F78-850A-4370-ADAC-C66AA0DBFCE3",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/casanova-giacomo-girolamo",
+          "https://cs.isabart.org/person/101373"
+        ]
+      }
+    },
+    {
+      "id": "Q103894",
+      "name": "Алек Гиннесс",
+      "birthDate": "1914-04-02",
+      "birthYear": 1914,
+      "description": "британский актёр (1914–2000)",
+      "category": "screen",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BD%D0%BD%D0%B5%D1%81%D1%81,_%D0%90%D0%BB%D0%B5%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q103894#P569",
+      "verified": {
+        "revision": 2563297182,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1914-04-02",
+        "originalCalendar": "gregorian",
+        "claim": "Q103894$161F075D-45DC-4F30-9AEA-AF844D13E814",
+        "references": [
+          "https://tritius.kmol.cz/authority/866195"
+        ]
+      }
+    },
+    {
+      "id": "Q189758",
+      "name": "Марвин Гэй",
+      "birthDate": "1939-04-02",
+      "birthYear": 1939,
+      "description": "американский музыкант, автор-исполнитель",
+      "category": "music",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%8D%D0%B9,_%D0%9C%D0%B0%D1%80%D0%B2%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q189758#P569",
+      "verified": {
+        "revision": 2561736044,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1939-04-02",
+        "originalCalendar": "gregorian",
+        "claim": "q189758$9FBA620F-A366-438E-8307-47E6DAE126C0",
+        "references": []
+      }
+    }
+  ]
+}

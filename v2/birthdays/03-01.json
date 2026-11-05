@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "03-01",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1268",
+      "name": "Фредерик Шопен",
+      "birthDate": "1810-03-01",
+      "birthYear": 1810,
+      "description": "польский композитор и пианист-виртуоз, педагог",
+      "category": "music",
+      "sitelinks": 200,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D0%BF%D0%B5%D0%BD,_%D0%A4%D1%80%D0%B8%D0%B4%D0%B5%D1%80%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q1268#P569",
+      "verified": {
+        "revision": 2564779483,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1810-03-01",
+        "originalCalendar": "gregorian",
+        "claim": "q1268$086d4447-419b-5458-4472-1edccffb2b43",
+        "references": [
+          "https://www.chopin-society.org.uk/articles/chopin-birthday.htm"
+        ]
+      }
+    },
+    {
+      "id": "Q34086",
+      "name": "Джастин Бибер",
+      "birthDate": "1994-03-01",
+      "birthYear": 1994,
+      "description": "канадский поп-R&B-певец, автор песен, музыкант, актёр (род. 1994)",
+      "category": "screen",
+      "sitelinks": 181,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%B5%D1%80,_%D0%94%D0%B6%D0%B0%D1%81%D1%82%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q34086#P569",
+      "verified": {
+        "revision": 2563280951,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1994-03-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q34086$05811989-8BA7-46BD-9608-2363B7BF42B8",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/bieber-justin"
+        ]
+      }
+    },
+    {
+      "id": "Q34060",
+      "name": "Ицхак Рабин",
+      "birthDate": "1922-03-01",
+      "birthYear": 1922,
+      "description": "израильский политический и военный деятель, 6-й и 11-й Премьер-министр Израиля",
+      "category": "public",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B1%D0%B8%D0%BD,_%D0%98%D1%86%D1%85%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q34060#P569",
+      "verified": {
+        "revision": 2564824007,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-03-01",
+        "originalCalendar": "gregorian",
+        "claim": "q34060$8B5426EE-8BB5-45EC-9B03-B030AF2CC0AA",
+        "references": [
+          "https://www.britannica.com/biography/Yitzhak-Rabin"
+        ]
+      }
+    },
+    {
+      "id": "Q186326",
+      "name": "Рюноскэ Акутагава",
+      "birthDate": "1892-03-01",
+      "birthYear": 1892,
+      "description": "японский писатель (1892—1927)",
+      "category": "literature",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D1%83%D1%82%D0%B0%D0%B3%D0%B0%D0%B2%D0%B0,_%D0%A0%D1%8E%D0%BD%D0%BE%D1%81%D0%BA%D1%8D",
+      "source": "https://www.wikidata.org/wiki/Q186326#P569",
+      "verified": {
+        "revision": 2558231964,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1892-03-01",
+        "originalCalendar": "gregorian",
+        "claim": "q186326$F1747518-95D0-4556-BD06-03F62F6A1A78",
+        "references": []
+      }
+    },
+    {
+      "id": "Q134895",
+      "name": "Хавьер Бардем",
+      "birthDate": "1969-03-01",
+      "birthYear": 1969,
+      "description": "испанский актёр (род. 1969)",
+      "category": "screen",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B4%D0%B5%D0%BC,_%D0%A5%D0%B0%D0%B2%D1%8C%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q134895#P569",
+      "verified": {
+        "revision": 2563977382,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-03-01",
+        "originalCalendar": "gregorian",
+        "claim": "q134895$74078FD1-AB5B-4E28-B973-733D8535E890",
+        "references": []
+      }
+    }
+  ]
+}

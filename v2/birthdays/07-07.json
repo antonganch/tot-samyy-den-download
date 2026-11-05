@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "07-07",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7304",
+      "name": "Густав Малер",
+      "birthDate": "1860-07-07",
+      "birthYear": 1860,
+      "description": "австрийский композитор и дирижёр",
+      "category": "music",
+      "sitelinks": 153,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D0%B5%D1%80,_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q7304#P569",
+      "verified": {
+        "revision": 2564822893,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1860-07-07",
+        "originalCalendar": "gregorian",
+        "claim": "q7304$703F1A0F-BE93-4AFB-A302-22DF0E132AC3",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/mahler-gustav",
+          "https://aleph.vkol.cz/F/?func=find-c&ccl_term=sys=000003059&local_base=svk04",
+          "https://tritius.kkvysociny.cz/authority/901897"
+        ]
+      }
+    },
+    {
+      "id": "Q2632",
+      "name": "Ринго Старр",
+      "birthDate": "1940-07-07",
+      "birthYear": 1940,
+      "description": "британский музыкант, барабанщик группы The Beatles",
+      "category": "music",
+      "sitelinks": 116,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BD%D0%B3%D0%BE_%D0%A1%D1%82%D0%B0%D1%80%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q2632#P569",
+      "verified": {
+        "revision": 2563642718,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-07-07",
+        "originalCalendar": "gregorian",
+        "claim": "q2632$3AEE1C2B-8482-4F86-8B8C-39CEA0CF3B5E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q123078",
+      "name": "Роберт Хайнлайн",
+      "birthDate": "1907-07-07",
+      "birthYear": 1907,
+      "description": "американский писатель-фантаст (1907—1988)",
+      "category": "literature",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B9%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q123078#P569",
+      "verified": {
+        "revision": 2559300796,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-07-07",
+        "originalCalendar": "gregorian",
+        "claim": "q123078$F896CB33-2934-43A9-9BB7-74BFFBB7D5DC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q377",
+      "name": "Янка Купала",
+      "birthDate": "1882-07-07",
+      "birthYear": 1882,
+      "description": "белорусский поэт, драматург, публицист",
+      "category": "literature",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D0%B0,_%D0%AF%D0%BD%D0%BA%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q377#P569",
+      "verified": {
+        "revision": 2563681929,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1882-07-07",
+        "originalCalendar": "gregorian",
+        "claim": "Q377$7CFBC38B-7DEF-47DC-AEC9-9CB9E0E38871",
+        "references": []
+      }
+    },
+    {
+      "id": "Q235478",
+      "name": "Шелли Дюваль",
+      "birthDate": "1949-07-07",
+      "birthYear": 1949,
+      "description": "американская актриса (1949–2024)",
+      "category": "screen",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%8E%D0%B2%D0%B0%D0%BB%D1%8C,_%D0%A8%D0%B5%D0%BB%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q235478#P569",
+      "verified": {
+        "revision": 2550117242,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-07-07",
+        "originalCalendar": "gregorian",
+        "claim": "Q235478$80181D6C-9FEC-4AFD-9E7D-9BB4E3462235",
+        "references": []
+      }
+    }
+  ]
+}

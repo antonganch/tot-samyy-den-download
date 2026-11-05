@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "04-18",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q193105",
+      "name": "Джеймс Вудс",
+      "birthDate": "1947-04-18",
+      "birthYear": 1947,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%B4%D1%81,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q193105#P569",
+      "verified": {
+        "revision": 2563199746,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-04-18",
+        "originalCalendar": "gregorian",
+        "claim": "q193105$6C804068-C8E5-4516-95DA-500902C2C184",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57276",
+      "name": "Майкл Хиггинс",
+      "birthDate": "1941-04-18",
+      "birthYear": 1941,
+      "description": "ирландский политик, поэт, писатель, социолог и телеведущий, президент Ирландии (с 2011)",
+      "category": "public",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%B3%D0%B3%D0%B8%D0%BD%D1%81,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q57276#P569",
+      "verified": {
+        "revision": 2558162184,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-04-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q57276$2DC38359-CEA1-43C5-B6FF-B1C02FCB783B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q188997",
+      "name": "Войцех Щенсный",
+      "birthDate": "1990-04-18",
+      "birthYear": 1990,
+      "description": "польский футболист",
+      "category": "sport",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A9%D0%B5%D0%BD%D1%81%D0%BD%D1%8B%D0%B9,_%D0%92%D0%BE%D0%B9%D1%86%D0%B5%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q188997#P569",
+      "verified": {
+        "revision": 2552649243,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1990-04-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q188997$FFB3F1D5-60C8-4E39-B552-3B40DA9942A8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q214601",
+      "name": "Дэвид Теннант",
+      "birthDate": "1971-04-18",
+      "birthYear": 1971,
+      "description": "шотландский актёр",
+      "category": "screen",
+      "sitelinks": 62,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BD%D0%BD%D0%B0%D0%BD%D1%82,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q214601#P569",
+      "verified": {
+        "revision": 2560966905,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-04-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q214601$20AF0F15-4F97-4FA8-B044-A47A53E7BF1B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q19074",
+      "name": "Сэмюэл Филлипс Хантингтон",
+      "birthDate": "1927-04-18",
+      "birthYear": 1927,
+      "description": "американский социолог и политолог",
+      "category": "other",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD,_%D0%A1%D1%8D%D0%BC%D1%8E%D1%8D%D0%BB_%D0%A4%D0%B8%D0%BB%D0%BB%D0%B8%D0%BF%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q19074#P569",
+      "verified": {
+        "revision": 2564016775,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1927-04-18",
+        "originalCalendar": "gregorian",
+        "claim": "q19074$E575B626-35CB-44EB-8D36-F14B5229C4DD",
+        "references": []
+      }
+    }
+  ]
+}

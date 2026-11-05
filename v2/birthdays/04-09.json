@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "04-09",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q501",
+      "name": "Шарль Бодлер",
+      "birthDate": "1821-04-09",
+      "birthYear": 1821,
+      "description": "французский поэт (1821—1867)",
+      "category": "literature",
+      "sitelinks": 179,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B4%D0%BB%D0%B5%D1%80,_%D0%A8%D0%B0%D1%80%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q501#P569",
+      "verified": {
+        "revision": 2562946284,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1821-04-09",
+        "originalCalendar": "gregorian",
+        "claim": "q501$68E42D8A-E204-4C16-A239-858F14359E94",
+        "references": []
+      }
+    },
+    {
+      "id": "Q106255",
+      "name": "Жан-Поль Бельмондо",
+      "birthDate": "1933-04-09",
+      "birthYear": 1933,
+      "description": "французский актёр",
+      "category": "screen",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D0%B4%D0%BE,_%D0%96%D0%B0%D0%BD-%D0%9F%D0%BE%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q106255#P569",
+      "verified": {
+        "revision": 2561495134,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-04-09",
+        "originalCalendar": "gregorian",
+        "claim": "q106255$98B95A9B-5723-495C-9981-1E68821A0C8D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q126599",
+      "name": "Кристен Стюарт",
+      "birthDate": "1990-04-09",
+      "birthYear": 1990,
+      "description": "американская актриса (род. 1990)",
+      "category": "screen",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%8E%D0%B0%D1%80%D1%82,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q126599#P569",
+      "verified": {
+        "revision": 2563810758,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1990-04-09",
+        "originalCalendar": "gregorian",
+        "claim": "Q126599$8EFA19C1-7DCE-4134-AD63-F57FF54FCB48",
+        "references": []
+      }
+    },
+    {
+      "id": "Q12967",
+      "name": "Леопольд II",
+      "birthDate": "1835-04-09",
+      "birthYear": 1835,
+      "description": "второй король Бельгии",
+      "category": "public",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D0%B4_II_(%D0%BA%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D0%B8)",
+      "source": "https://www.wikidata.org/wiki/Q12967#P569",
+      "verified": {
+        "revision": 2559035241,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1835-04-09",
+        "originalCalendar": "gregorian",
+        "claim": "q12967$110E1806-6605-4F0E-832E-9D1C00FDE37F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q194280",
+      "name": "Хью Хефнер",
+      "birthDate": "1926-04-09",
+      "birthYear": 1926,
+      "description": "американский издатель, основатель и шеф-редактор журнала «Playboy»",
+      "category": "other",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D1%84%D0%BD%D0%B5%D1%80,_%D0%A5%D1%8C%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q194280#P569",
+      "verified": {
+        "revision": 2540390394,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-04-09",
+        "originalCalendar": "gregorian",
+        "claim": "q194280$DE456DCC-1E0F-4801-B0AF-5506A3071FC5",
+        "references": [
+          "https://www.lemonde.fr/disparitions/article/2017/09/28/le-fondateur-de-playboy-hugh-hefner-meurt-a-l-age-de-91-ans_5192580_3382.html"
+        ]
+      }
+    }
+  ]
+}

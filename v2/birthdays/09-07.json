@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "09-07",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q229264",
+      "name": "Жорж-Луи Леклерк де Бюффон",
+      "birthDate": "1707-09-07",
+      "birthYear": 1707,
+      "description": "французский натуралист, биолог, математик, естествоиспытатель, разрабатывавший теорию геологического развития Земли (1707–1788)",
+      "category": "science",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%8E%D1%84%D1%84%D0%BE%D0%BD,_%D0%96%D0%BE%D1%80%D0%B6-%D0%9B%D1%83%D0%B8_%D0%9B%D0%B5%D0%BA%D0%BB%D0%B5%D1%80%D0%BA_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q229264#P569",
+      "verified": {
+        "revision": 2564826620,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1707-09-07",
+        "originalCalendar": "gregorian",
+        "claim": "q229264$114B3908-5179-4B3A-A8F6-53B04167CAE2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q72717",
+      "name": "Элиа Казан",
+      "birthDate": "1909-09-07",
+      "birthYear": 1909,
+      "description": "кинорежиссёр США",
+      "category": "screen",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD,_%D0%AD%D0%BB%D0%B8%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q72717#P569",
+      "verified": {
+        "revision": 2557865526,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1909-09-07",
+        "originalCalendar": "gregorian",
+        "claim": "q72717$8C00980A-2200-46F6-A6DD-400DEDD90C74",
+        "references": []
+      }
+    },
+    {
+      "id": "Q5977",
+      "name": "Бадди Холли",
+      "birthDate": "1936-09-07",
+      "birthYear": 1936,
+      "description": "американский певец и автор песен",
+      "category": "music",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%BB%D0%B8,_%D0%91%D0%B0%D0%B4%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q5977#P569",
+      "verified": {
+        "revision": 2561656733,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1936-09-07",
+        "originalCalendar": "gregorian",
+        "claim": "q5977$333DD5C6-499D-408E-9758-7915E312D157",
+        "references": []
+      }
+    },
+    {
+      "id": "Q228893",
+      "name": "Джулия Кавнер",
+      "birthDate": "1950-09-07",
+      "birthYear": 1950,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 64,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B2%D0%BD%D0%B5%D1%80,_%D0%94%D0%B6%D1%83%D0%BB%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q228893#P569",
+      "verified": {
+        "revision": 2562732736,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-09-07",
+        "originalCalendar": "gregorian",
+        "claim": "q228893$CA9E637E-15D2-4E03-967A-C0166806DB7B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q76784",
+      "name": "Фридрих Август Кекуле",
+      "birthDate": "1829-09-07",
+      "birthYear": 1829,
+      "description": "немецкий химик-органик",
+      "category": "science",
+      "sitelinks": 71,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BA%D1%83%D0%BB%D0%B5,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85_%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q76784#P569",
+      "verified": {
+        "revision": 2563978136,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1829-09-07",
+        "originalCalendar": "gregorian",
+        "claim": "q76784$00C125E9-A06B-43D3-BA22-64D723D788A2",
+        "references": []
+      }
+    }
+  ]
+}

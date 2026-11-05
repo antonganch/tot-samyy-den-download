@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "10-10",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7317",
+      "name": "Джузеппе Верди",
+      "birthDate": "1813-10-10",
+      "birthYear": 1813,
+      "description": "итальянский композитор (1813–1901)",
+      "category": "music",
+      "sitelinks": 179,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D0%B4%D0%B8,_%D0%94%D0%B6%D1%83%D0%B7%D0%B5%D0%BF%D0%BF%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q7317#P569",
+      "verified": {
+        "revision": 2564787043,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1813-10-10",
+        "originalCalendar": "gregorian",
+        "claim": "q7317$6C3ABE6A-B335-47B3-B949-BD918386A20A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41042",
+      "name": "Гарольд Пинтер",
+      "birthDate": "1930-10-10",
+      "birthYear": 1930,
+      "description": "английский драматург, поэт, режиссёр, актёр, общественный деятель",
+      "category": "screen",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BD%D1%82%D0%B5%D1%80,_%D0%93%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q41042#P569",
+      "verified": {
+        "revision": 2564756090,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-10-10",
+        "originalCalendar": "gregorian",
+        "claim": "q41042$5E7E5596-75C5-4BF5-8CD4-0EA5096CFD6F",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/pinter-harold"
+        ]
+      }
+    },
+    {
+      "id": "Q47561",
+      "name": "Иво Андрич",
+      "birthDate": "1892-10-10",
+      "birthYear": 1892,
+      "description": "югославский писатель и дипломат",
+      "category": "literature",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B8%D1%87,_%D0%98%D0%B2%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q47561#P569",
+      "verified": {
+        "revision": 2563196744,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1892-10-10",
+        "originalCalendar": "gregorian",
+        "claim": "Q47561$4a48bfb5-4d8e-ca98-8902-4010d3bf7496",
+        "references": []
+      }
+    },
+    {
+      "id": "Q72292",
+      "name": "Фритьоф Нансен",
+      "birthDate": "1861-10-10",
+      "birthYear": 1861,
+      "description": "норвежский полярный исследователь, океанограф, зоолог",
+      "category": "exploration",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BD%D1%81%D0%B5%D0%BD,_%D0%A4%D1%80%D0%B8%D1%82%D1%8C%D0%BE%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q72292#P569",
+      "verified": {
+        "revision": 2563197523,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1861-10-10",
+        "originalCalendar": "gregorian",
+        "claim": "q72292$CC3AD29C-C63D-4BF8-A309-995795E02E33",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/nansen-fridtjof"
+        ]
+      }
+    },
+    {
+      "id": "Q131733",
+      "name": "Генри Кавендиш",
+      "birthDate": "1731-10-10",
+      "birthYear": 1731,
+      "description": "британский физик и химик",
+      "category": "science",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD%D0%B4%D0%B8%D1%88,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q131733#P569",
+      "verified": {
+        "revision": 2564273572,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1731-10-10",
+        "originalCalendar": "gregorian",
+        "claim": "q131733$BAB745F2-0285-4501-9D4D-572D4B923B74",
+        "references": []
+      }
+    }
+  ]
+}

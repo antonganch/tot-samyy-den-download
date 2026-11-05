@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "10-26",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q6294",
+      "name": "Хиллари Клинтон",
+      "birthDate": "1947-10-26",
+      "birthYear": 1947,
+      "description": "американский политик, супруга Билла Клинтона, первая леди США в 1993—2001 годах, бывший сенатор США и государственный секретарь США",
+      "category": "public",
+      "sitelinks": 197,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D1%82%D0%BE%D0%BD,_%D0%A5%D0%B8%D0%BB%D0%BB%D0%B0%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q6294#P569",
+      "verified": {
+        "revision": 2563943636,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-10-26",
+        "originalCalendar": "gregorian",
+        "claim": "q6294$ea6bee7b-424d-a998-188e-7408671f44b9",
+        "references": [
+          "https://history.state.gov/departmenthistory/people/clinton-hillary-rodham",
+          "https://brockhaus.de/ecs/julex/article/clinton-hillary"
+        ]
+      }
+    },
+    {
+      "id": "Q128245",
+      "name": "Мохаммед Реза Пехлеви",
+      "birthDate": "1919-10-26",
+      "birthYear": 1919,
+      "description": "последний шах Ирана (1941-1979)",
+      "category": "other",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4_%D0%A0%D0%B5%D0%B7%D0%B0_%D0%9F%D0%B5%D1%85%D0%BB%D0%B5%D0%B2%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q128245#P569",
+      "verified": {
+        "revision": 2558176317,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1919-10-26",
+        "originalCalendar": "gregorian",
+        "claim": "q128245$6B060D73-CC69-4B6F-9B0C-479E1551F5EE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q211283",
+      "name": "Боб Хоскинс",
+      "birthDate": "1942-10-26",
+      "birthYear": 1942,
+      "description": "Британский актёр",
+      "category": "screen",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%81%D0%BA%D0%B8%D0%BD%D1%81,_%D0%91%D0%BE%D0%B1",
+      "source": "https://www.wikidata.org/wiki/Q211283#P569",
+      "verified": {
+        "revision": 2557820487,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-10-26",
+        "originalCalendar": "gregorian",
+        "claim": "q211283$dcf34134-40cb-6333-8e1b-ce34b3ed83db",
+        "references": []
+      }
+    },
+    {
+      "id": "Q188492",
+      "name": "Сет Макфарлейн",
+      "birthDate": "1973-10-26",
+      "birthYear": 1973,
+      "description": "американский актёр и певец (р. 1973)",
+      "category": "screen",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%84%D0%B0%D1%80%D0%BB%D0%B5%D0%B9%D0%BD,_%D0%A1%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q188492#P569",
+      "verified": {
+        "revision": 2561687132,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1973-10-26",
+        "originalCalendar": "gregorian",
+        "claim": "Q188492$D9935297-7BE0-4F11-B396-F7D99CB06D14",
+        "references": []
+      }
+    },
+    {
+      "id": "Q184623",
+      "name": "Жорж Жак Дантон",
+      "birthDate": "1759-10-26",
+      "birthYear": 1759,
+      "description": "французский революционер, один из отцов-основателей Первой французской республики",
+      "category": "other",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D1%82%D0%BE%D0%BD,_%D0%96%D0%BE%D1%80%D0%B6_%D0%96%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q184623#P569",
+      "verified": {
+        "revision": 2562747904,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1759-10-26",
+        "originalCalendar": "gregorian",
+        "claim": "q184623$A40B496C-8704-4C05-837A-B58E8E30F511",
+        "references": []
+      }
+    }
+  ]
+}

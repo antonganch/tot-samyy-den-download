@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "01-06",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q47737",
+      "name": "Джебран Халиль Джебран",
+      "birthDate": "1883-01-06",
+      "birthYear": 1883,
+      "description": "ливанский и американский философ, художник, поэт и писатель",
+      "category": "literature",
+      "sitelinks": 158,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%B1%D1%80%D0%B0%D0%BD_%D0%A5%D0%B0%D0%BB%D0%B8%D0%BB%D1%8C_%D0%94%D0%B6%D0%B5%D0%B1%D1%80%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q47737#P569",
+      "verified": {
+        "revision": 2558083001,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1883-01-06",
+        "originalCalendar": "gregorian",
+        "claim": "q47737$808B002A-F3A1-4B94-BE78-359DB3D311A4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q23760",
+      "name": "Роуэн Аткинсон",
+      "birthDate": "1955-01-06",
+      "birthYear": 1955,
+      "description": "британский актёр",
+      "category": "screen",
+      "sitelinks": 121,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%82%D0%BA%D0%B8%D0%BD%D1%81%D0%BE%D0%BD,_%D0%A0%D0%BE%D1%83%D1%8D%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q23760#P569",
+      "verified": {
+        "revision": 2563769390,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-01-06",
+        "originalCalendar": "gregorian",
+        "claim": "q23760$D52B9261-A6B5-4B91-8BF6-1753C9CD95B8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q199943",
+      "name": "Адриано Челентано",
+      "birthDate": "1938-01-06",
+      "birthYear": 1938,
+      "description": "итальянский эстрадный певец, киноактёр",
+      "category": "screen",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BB%D0%B5%D0%BD%D1%82%D0%B0%D0%BD%D0%BE,_%D0%90%D0%B4%D1%80%D0%B8%D0%B0%D0%BD%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q199943#P569",
+      "verified": {
+        "revision": 2563857693,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1938-01-06",
+        "originalCalendar": "gregorian",
+        "claim": "q199943$A1B229D3-A05E-4F4B-ABB1-760C1BC15E07",
+        "references": []
+      }
+    },
+    {
+      "id": "Q185647",
+      "name": "Александр Скрябин",
+      "birthDate": "1872-01-06",
+      "birthYear": 1872,
+      "description": "русский композитор и пианист",
+      "category": "music",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D1%8F%D0%B1%D0%B8%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q185647#P569",
+      "verified": {
+        "revision": 2564818124,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1871-12-25",
+        "originalCalendar": "julian",
+        "claim": "Q185647$7da91d58-44b8-97a3-995a-7423d1c05d1b",
+        "references": []
+      }
+    },
+    {
+      "id": "Q193608",
+      "name": "Карл Сэндберг",
+      "birthDate": "1878-01-06",
+      "birthYear": 1878,
+      "description": "американский поэт, историк, романист и фольклорист",
+      "category": "literature",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8D%D0%BD%D0%B4%D0%B1%D0%B5%D1%80%D0%B3,_%D0%9A%D0%B0%D1%80%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q193608#P569",
+      "verified": {
+        "revision": 2563768012,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1878-01-06",
+        "originalCalendar": "gregorian",
+        "claim": "q193608$4FE500BA-D424-441B-91CD-B9B3D951DB75",
+        "references": []
+      }
+    }
+  ]
+}

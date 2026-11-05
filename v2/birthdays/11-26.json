@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "11-26",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q131814",
+      "name": "Тина Тёрнер",
+      "birthDate": "1939-11-26",
+      "birthYear": 1939,
+      "description": "американская певица, автор песен, актриса и танцовщица",
+      "category": "screen",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%91%D1%80%D0%BD%D0%B5%D1%80,_%D0%A2%D0%B8%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q131814#P569",
+      "verified": {
+        "revision": 2560551432,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1939-11-26",
+        "originalCalendar": "gregorian",
+        "claim": "q131814$4EA15867-D675-41CE-B599-1486B170A460",
+        "references": [
+          "https://www.blackpast.org/african-american-history/turner-tina-1939/"
+        ]
+      }
+    },
+    {
+      "id": "Q46706",
+      "name": "Эжен Ионеско",
+      "birthDate": "1909-11-26",
+      "birthYear": 1909,
+      "description": "французский драматург",
+      "category": "literature",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%BE%D0%BD%D0%B5%D1%81%D0%BA%D0%BE,_%D0%AD%D0%B6%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q46706#P569",
+      "verified": {
+        "revision": 2557875667,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1909-11-26",
+        "originalCalendar": "gregorian",
+        "claim": "q46706$381EBB5D-5728-4514-BD8E-65A35A55BC3C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q13230",
+      "name": "Фердинанд де Соссюр",
+      "birthDate": "1857-11-26",
+      "birthYear": 1857,
+      "description": "швейцарский лингвист, заложивший основы семиологии и структурной лингвистики",
+      "category": "other",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%81%D1%81%D1%8E%D1%80,_%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q13230#P569",
+      "verified": {
+        "revision": 2560173341,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1857-11-26",
+        "originalCalendar": "gregorian",
+        "claim": "q13230$04216786-DD57-43B5-8DF9-CA32B43F1E4C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q229760",
+      "name": "Рита Ора",
+      "birthDate": "1990-11-26",
+      "birthYear": 1990,
+      "description": "британская певица",
+      "category": "music",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B0,_%D0%A0%D0%B8%D1%82%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q229760#P569",
+      "verified": {
+        "revision": 2564545500,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1990-11-26",
+        "originalCalendar": "gregorian",
+        "claim": "Q229760$634D3E42-56B0-47EB-91E7-FC3FAC97D10E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q26321",
+      "name": "Элизабет Блэкбёрн",
+      "birthDate": "1948-11-26",
+      "birthYear": 1948,
+      "description": "американский учёный-цитогенетик",
+      "category": "science",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D1%8D%D0%BA%D0%B1%D0%B5%D1%80%D0%BD,_%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q26321#P569",
+      "verified": {
+        "revision": 2563197899,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1948-11-26",
+        "originalCalendar": "gregorian",
+        "claim": "q26321$83409597-35E1-4389-AB65-DF38E7C1A853",
+        "references": []
+      }
+    }
+  ]
+}

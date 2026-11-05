@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "02-21",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q4617",
+      "name": "Корбин Блю",
+      "birthDate": "1989-02-21",
+      "birthYear": 1989,
+      "description": "американский актёр, певец, продюсер",
+      "category": "screen",
+      "sitelinks": 225,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D1%8E,_%D0%9A%D0%BE%D1%80%D0%B1%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q4617#P569",
+      "verified": {
+        "revision": 2562575227,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1989-02-21",
+        "originalCalendar": "gregorian",
+        "claim": "q4617$0A29C325-AE47-4FFF-AE61-8AA1E96DC374",
+        "references": []
+      }
+    },
+    {
+      "id": "Q10707",
+      "name": "Роберт Мугабе",
+      "birthDate": "1924-02-21",
+      "birthYear": 1924,
+      "description": "зимбабвийский политик, президент Зимбабве (1987–2017), премьер-министр Зимбабве (1980–1987)",
+      "category": "public",
+      "sitelinks": 139,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B3%D0%B0%D0%B1%D0%B5,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q10707#P569",
+      "verified": {
+        "revision": 2562806655,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-02-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q10707$3D6FA9EF-C145-4D2F-84EB-460AA30E5162",
+        "references": []
+      }
+    },
+    {
+      "id": "Q106481",
+      "name": "Алан Рикман",
+      "birthDate": "1946-02-21",
+      "birthYear": 1946,
+      "description": "британский актёр, режиссёр, сценарист, кинопродюсер",
+      "category": "screen",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BA%D0%BC%D0%B0%D0%BD,_%D0%90%D0%BB%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q106481#P569",
+      "verified": {
+        "revision": 2561707384,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-02-21",
+        "originalCalendar": "gregorian",
+        "claim": "q106481$2C69EA8D-5F5E-4482-8FAC-FD0E39224501",
+        "references": []
+      }
+    },
+    {
+      "id": "Q178698",
+      "name": "Уистен Хью Оден",
+      "birthDate": "1907-02-21",
+      "birthYear": 1907,
+      "description": "англо-американский поэт",
+      "category": "literature",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B5%D0%BD,_%D0%A3%D0%B8%D1%81%D1%82%D0%B5%D0%BD_%D0%A5%D1%8C%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q178698#P569",
+      "verified": {
+        "revision": 2564229785,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-02-21",
+        "originalCalendar": "gregorian",
+        "claim": "q178698$7AFF28CC-E27D-4169-9942-E73DC9F8998E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q174957",
+      "name": "Нина Симон",
+      "birthDate": "1933-02-21",
+      "birthYear": 1933,
+      "description": "американская певица",
+      "category": "music",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q174957#P569",
+      "verified": {
+        "revision": 2563642292,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-02-21",
+        "originalCalendar": "gregorian",
+        "claim": "q174957$52663EE0-8D97-4FA8-8E55-43A311832F93",
+        "references": []
+      }
+    }
+  ]
+}

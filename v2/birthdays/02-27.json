@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "02-27",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q34851",
+      "name": "Элизабет Тейлор",
+      "birthDate": "1932-02-27",
+      "birthYear": 1932,
+      "description": "англо-американская актриса",
+      "category": "screen",
+      "sitelinks": 147,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80,_%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q34851#P569",
+      "verified": {
+        "revision": 2563302985,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1932-02-27",
+        "originalCalendar": "gregorian",
+        "claim": "q34851$66D8E67A-26A2-4149-BE55-2A09F376A25B",
+        "references": [
+          "https://familysearch.org/ark:/61903/1:1:JTLS-BM4",
+          "https://familysearch.org/ark:/61903/1:1:QVQ4-G815",
+          "https://brockhaus.de/ecs/julex/article/taylor-elizabeth-liz-rosemond"
+        ]
+      }
+    },
+    {
+      "id": "Q39212",
+      "name": "Джон Стейнбек",
+      "birthDate": "1902-02-27",
+      "birthYear": 1902,
+      "description": "американский писатель",
+      "category": "literature",
+      "sitelinks": 149,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%B9%D0%BD%D0%B1%D0%B5%D0%BA,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q39212#P569",
+      "verified": {
+        "revision": 2563196247,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1902-02-27",
+        "originalCalendar": "gregorian",
+        "claim": "q39212$934F8ACA-42E9-46B5-BB8A-2DBC1CD7436F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q152513",
+      "name": "Генри Уодсворт Лонгфелло",
+      "birthDate": "1807-02-27",
+      "birthYear": 1807,
+      "description": "американский поэт и переводчик",
+      "category": "literature",
+      "sitelinks": 116,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BD%D0%B3%D1%84%D0%B5%D0%BB%D0%BB%D0%BE,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8_%D0%A3%D0%BE%D0%B4%D1%81%D0%B2%D0%BE%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q152513#P569",
+      "verified": {
+        "revision": 2561239603,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1807-02-27",
+        "originalCalendar": "gregorian",
+        "claim": "q152513$F99F7928-CAAD-4597-BD0D-F1222F962637",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1111542",
+      "name": "Джоан Вудвард",
+      "birthDate": "1930-02-27",
+      "birthYear": 1930,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 70,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%B4%D0%B2%D0%BE%D1%80%D0%B4,_%D0%94%D0%B6%D0%BE%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q1111542#P569",
+      "verified": {
+        "revision": 2557965916,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-02-27",
+        "originalCalendar": "gregorian",
+        "claim": "q1111542$F236A6A1-C076-44DC-A19B-834E577DD21D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q202140",
+      "name": "Роберт Граббс",
+      "birthDate": "1942-02-27",
+      "birthYear": 1942,
+      "description": "американский химик",
+      "category": "science",
+      "sitelinks": 61,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B1%D0%B1%D1%81,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q202140#P569",
+      "verified": {
+        "revision": 2563198557,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-02-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q202140$8B262EBD-F4B6-4E48-BE2F-58402089165A",
+        "references": []
+      }
+    }
+  ]
+}

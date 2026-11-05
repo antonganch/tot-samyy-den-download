@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "05-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8873",
+      "name": "Сатьяджит Рай",
+      "birthDate": "1921-05-02",
+      "birthYear": 1921,
+      "description": "индийский кинорежиссёр",
+      "category": "screen",
+      "sitelinks": 144,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B9,_%D0%A1%D0%B0%D1%82%D1%8C%D1%8F%D0%B4%D0%B6%D0%B8%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q8873#P569",
+      "verified": {
+        "revision": 2564050265,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1921-05-02",
+        "originalCalendar": "gregorian",
+        "claim": "Q8873$B933E346-3A56-4474-8088-0B3DF0CD562E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q36450",
+      "name": "Екатерина II",
+      "birthDate": "1729-05-02",
+      "birthYear": 1729,
+      "description": "императрица Всероссийская (1762–1796)",
+      "category": "other",
+      "sitelinks": 154,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0_II",
+      "source": "https://www.wikidata.org/wiki/Q36450#P569",
+      "verified": {
+        "revision": 2564391995,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1729-05-02",
+        "originalCalendar": "gregorian",
+        "claim": "Q36450$C50E5824-4CD5-4D1A-9ABA-307645BACC47",
+        "references": []
+      }
+    },
+    {
+      "id": "Q10520",
+      "name": "Дэвид Бекхэм",
+      "birthDate": "1975-05-02",
+      "birthYear": 1975,
+      "description": "английский футболист",
+      "category": "sport",
+      "sitelinks": 140,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BA%D1%85%D1%8D%D0%BC,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q10520#P569",
+      "verified": {
+        "revision": 2563385680,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-05-02",
+        "originalCalendar": "gregorian",
+        "claim": "q10520$CF1407A8-4446-419F-B6B8-0186CAC677AF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q10738",
+      "name": "Дуэйн Джонсон",
+      "birthDate": "1972-05-02",
+      "birthYear": 1972,
+      "description": "американский киноактёр и рестлер (род. 1972)",
+      "category": "screen",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81%D0%BE%D0%BD,_%D0%94%D1%83%D1%8D%D0%B9%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q10738#P569",
+      "verified": {
+        "revision": 2562902363,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-05-02",
+        "originalCalendar": "gregorian",
+        "claim": "q10738$4014CC87-7F05-43BE-BDD9-90D7A8F8BD43",
+        "references": []
+      }
+    },
+    {
+      "id": "Q60684",
+      "name": "Новалис",
+      "birthDate": "1772-05-02",
+      "birthYear": 1772,
+      "description": "немецкий писатель, поэт, мистик",
+      "category": "literature",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q60684#P569",
+      "verified": {
+        "revision": 2563980746,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1772-05-02",
+        "originalCalendar": "gregorian",
+        "claim": "q60684$C58882FC-C671-4493-9B4F-DD1CA05607F4",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/novalis"
+        ]
+      }
+    }
+  ]
+}

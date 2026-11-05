@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "12-04",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q76483",
+      "name": "Райнер Мария Рильке",
+      "birthDate": "1875-12-04",
+      "birthYear": 1875,
+      "description": "австрийский поэт (1875–1926)",
+      "category": "literature",
+      "sitelinks": 135,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BB%D1%8C%D0%BA%D0%B5,_%D0%A0%D0%B0%D0%B9%D0%BD%D0%B5%D1%80_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q76483#P569",
+      "verified": {
+        "revision": 2563981946,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1875-12-04",
+        "originalCalendar": "gregorian",
+        "claim": "q76483$7D354F17-7807-4C06-9E1E-441304D4D621",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/rilke-rainer-maria"
+        ]
+      }
+    },
+    {
+      "id": "Q29179",
+      "name": "Франсиско Франко",
+      "birthDate": "1892-12-04",
+      "birthYear": 1892,
+      "description": "испанский военный и государственный деятель, правитель Испанского государства в 1939—1975 годах",
+      "category": "public",
+      "sitelinks": 134,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D1%81%D0%BA%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q29179#P569",
+      "verified": {
+        "revision": 2564906696,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1892-12-04",
+        "originalCalendar": "gregorian",
+        "claim": "q29179$26CCED40-AEC6-4258-8346-6472285085C2",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/franco-bahamonde-francisco"
+        ]
+      }
+    },
+    {
+      "id": "Q151403",
+      "name": "Томас Карлейль",
+      "birthDate": "1795-12-04",
+      "birthYear": 1795,
+      "description": "британский писатель, публицист, историк и философ",
+      "category": "literature",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BB%D0%B5%D0%B9%D0%BB%D1%8C,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q151403#P569",
+      "verified": {
+        "revision": 2558255879,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1795-12-04",
+        "originalCalendar": "gregorian",
+        "claim": "q151403$745276D3-F244-4000-BEEA-D49A1166153F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q61064",
+      "name": "Василий Васильевич Кандинский",
+      "birthDate": "1866-12-04",
+      "birthYear": 1866,
+      "description": "художник русского зарубежья",
+      "category": "art",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q61064#P569",
+      "verified": {
+        "revision": 2563977984,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1866-11-22",
+        "originalCalendar": "julian",
+        "claim": "Q61064$941025ba-4fd2-ae21-56d9-4a07eec3e477",
+        "references": [
+          "https://yandex.ru/archive/catalog/730e386f-5da7-43bf-bc44-8f8e3561df32/183"
+        ]
+      }
+    },
+    {
+      "id": "Q174843",
+      "name": "Джефф Бриджес",
+      "birthDate": "1949-12-04",
+      "birthYear": 1949,
+      "description": "Американский актёр, лауреат премий «Оскар» и «Золотой глобус».",
+      "category": "screen",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D0%B4%D0%B6%D0%B5%D1%81,_%D0%94%D0%B6%D0%B5%D1%84%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q174843#P569",
+      "verified": {
+        "revision": 2563894108,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-12-04",
+        "originalCalendar": "gregorian",
+        "claim": "q174843$228D7D76-8850-4B3E-8A5C-9ECEC391CE9A",
+        "references": []
+      }
+    }
+  ]
+}

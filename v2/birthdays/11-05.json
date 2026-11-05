@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "11-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q129429",
+      "name": "Вивьен Ли",
+      "birthDate": "1913-11-05",
+      "birthYear": 1913,
+      "description": "английская актриса (1913–1967)",
+      "category": "screen",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B2%D1%8C%D0%B5%D0%BD_%D0%9B%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q129429#P569",
+      "verified": {
+        "revision": 2563084082,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1913-11-05",
+        "originalCalendar": "gregorian",
+        "claim": "q129429$2013EE2C-B61B-4E2D-96D7-633B51F8689A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q482907",
+      "name": "Брайан Адамс",
+      "birthDate": "1959-11-05",
+      "birthYear": 1959,
+      "description": "канадский рок-музыкант, фотограф, гитарист, автор и исполнитель песен",
+      "category": "music",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC%D1%81,_%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q482907#P569",
+      "verified": {
+        "revision": 2562998520,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1959-11-05",
+        "originalCalendar": "gregorian",
+        "claim": "q482907$4D98EF84-A6FB-4913-9C07-207D5AB57726",
+        "references": []
+      }
+    },
+    {
+      "id": "Q190794",
+      "name": "Фамке Янссен",
+      "birthDate": "1964-11-05",
+      "birthYear": 1964,
+      "description": "нидерландская актриса, фотомодель и режиссёр",
+      "category": "screen",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D1%81%D1%81%D0%B5%D0%BD,_%D0%A4%D0%B0%D0%BC%D0%BA%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q190794#P569",
+      "verified": {
+        "revision": 2563979360,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-11-05",
+        "originalCalendar": "gregorian",
+        "claim": "Q190794$5FCD6C98-3C82-4BFC-9F81-711EF9D9E391",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1396120",
+      "name": "Яир Лапид",
+      "birthDate": "1963-11-05",
+      "birthYear": 1963,
+      "description": "израильский журналист, писатель, драматург и государственный деятель",
+      "category": "literature",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BF%D0%B8%D0%B4,_%D0%AF%D0%B8%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q1396120#P569",
+      "verified": {
+        "revision": 2564635385,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-11-05",
+        "originalCalendar": "gregorian",
+        "claim": "Q1396120$D16CBB76-5FC8-4939-8B64-1D039E39523A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q104575",
+      "name": "Поль Сабатье",
+      "birthDate": "1854-11-05",
+      "birthYear": 1854,
+      "description": "французский химик",
+      "category": "science",
+      "sitelinks": 71,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B1%D0%B0%D1%82%D1%8C%D0%B5,_%D0%9F%D0%BE%D0%BB%D1%8C_(%D1%85%D0%B8%D0%BC%D0%B8%D0%BA)",
+      "source": "https://www.wikidata.org/wiki/Q104575#P569",
+      "verified": {
+        "revision": 2563198919,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1854-11-05",
+        "originalCalendar": "gregorian",
+        "claim": "q104575$40823E6F-8F6B-480F-A695-AE1FD6D7DC10",
+        "references": []
+      }
+    }
+  ]
+}

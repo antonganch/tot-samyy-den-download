@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "04-26",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9391",
+      "name": "Людвиг Витгенштейн",
+      "birthDate": "1889-04-26",
+      "birthYear": 1889,
+      "description": "австрийский философ и логик (1889—1951)",
+      "category": "literature",
+      "sitelinks": 174,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%82%D0%B3%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%9B%D1%8E%D0%B4%D0%B2%D0%B8%D0%B3",
+      "source": "https://www.wikidata.org/wiki/Q9391#P569",
+      "verified": {
+        "revision": 2563986906,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1889-04-26",
+        "originalCalendar": "gregorian",
+        "claim": "q9391$7841BEC8-10F3-4401-9E8E-E5B657457402",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/wittgenstein-ludwig-josef-johann"
+        ]
+      }
+    },
+    {
+      "id": "Q159577",
+      "name": "Джет Ли",
+      "birthDate": "1963-04-26",
+      "birthYear": 1963,
+      "description": "китайский и сингапурский киноактёр, мастер ушу",
+      "category": "screen",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8,_%D0%94%D0%B6%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q159577#P569",
+      "verified": {
+        "revision": 2553830516,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-04-26",
+        "originalCalendar": "gregorian",
+        "claim": "q159577$4E6B767C-E283-44B3-802F-7A5E7B6D80F9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q33477",
+      "name": "Эжен Делакруа",
+      "birthDate": "1798-04-26",
+      "birthYear": 1798,
+      "description": "французский живописец и график",
+      "category": "art",
+      "sitelinks": 123,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D0%B0%D0%BA%D1%80%D1%83%D0%B0,_%D0%AD%D0%B6%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q33477#P569",
+      "verified": {
+        "revision": 2564770639,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1798-04-26",
+        "originalCalendar": "gregorian",
+        "claim": "q33477$254EDCEC-82C8-4325-91DC-64F89766ABAC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q432473",
+      "name": "Мелания Трамп",
+      "birthDate": "1970-04-26",
+      "birthYear": 1970,
+      "description": "фотомодель, супруга Дональда Трампа",
+      "category": "other",
+      "sitelinks": 121,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BC%D0%BF,_%D0%9C%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q432473#P569",
+      "verified": {
+        "revision": 2564636675,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1970-04-26",
+        "originalCalendar": "gregorian",
+        "claim": "Q432473$CB0CCA6B-9A54-4724-8D6C-28BAB49AA336",
+        "references": [
+          "https://www.whitehouse.gov/administration/first-lady-melania-trump"
+        ]
+      }
+    },
+    {
+      "id": "Q46868",
+      "name": "Бэй Юймин",
+      "birthDate": "1917-04-26",
+      "birthYear": 1917,
+      "description": "американский архитектор",
+      "category": "art",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%8D%D0%B9_%D0%AE%D0%B9%D0%BC%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q46868#P569",
+      "verified": {
+        "revision": 2564427773,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1917-04-26",
+        "originalCalendar": "gregorian",
+        "claim": "q46868$270D5A69-CC30-4808-A56E-54612B6881A1",
+        "references": []
+      }
+    }
+  ]
+}

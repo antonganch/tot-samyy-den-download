@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "10-23",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q4605",
+      "name": "Сара Бернар",
+      "birthDate": "1844-10-23",
+      "birthYear": 1844,
+      "description": "французская актриса",
+      "category": "screen",
+      "sitelinks": 195,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80,_%D0%A1%D0%B0%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q4605#P569",
+      "verified": {
+        "revision": 2563462716,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1844-10-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q4605$E7130295-ECC8-4FAA-8018-AD7AA26AC7DD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q12897",
+      "name": "Пеле",
+      "birthDate": "1940-10-23",
+      "birthYear": 1940,
+      "description": "бразильский футболист (1940–2022)",
+      "category": "sport",
+      "sitelinks": 185,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BB%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q12897#P569",
+      "verified": {
+        "revision": 2563544641,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-10-23",
+        "originalCalendar": "gregorian",
+        "claim": "q12897$89AC00BC-5307-490E-82E2-2E402143CC72",
+        "references": []
+      }
+    },
+    {
+      "id": "Q235132",
+      "name": "Эмилия Кларк",
+      "birthDate": "1986-10-23",
+      "birthYear": 1986,
+      "description": "британская актриса (род. 1986)",
+      "category": "screen",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B0%D1%80%D0%BA,_%D0%AD%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q235132#P569",
+      "verified": {
+        "revision": 2560167939,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-10-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q235132$68171FE9-7D93-4331-AF4C-2C610CF8535A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q8349",
+      "name": "«Странный Эл» Янкович",
+      "birthDate": "1959-10-23",
+      "birthYear": 1959,
+      "description": "американский музыкант-пародист",
+      "category": "music",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D0%AD%D0%BB_%D0%AF%D0%BD%D0%BA%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q8349#P569",
+      "verified": {
+        "revision": 2560197983,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1959-10-23",
+        "originalCalendar": "gregorian",
+        "claim": "q8349$2E539ACF-10DA-4264-847C-03D018BB7D91",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1231345",
+      "name": "Поль Кагаме",
+      "birthDate": "1957-10-23",
+      "birthYear": 1957,
+      "description": "руандийский политик, президент Руанды (с 2000)",
+      "category": "public",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B3%D0%B0%D0%BC%D0%B5,_%D0%9F%D0%BE%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q1231345#P569",
+      "verified": {
+        "revision": 2563039874,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1957-10-23",
+        "originalCalendar": "gregorian",
+        "claim": "q1231345$B7C400D6-949B-4A88-9ABE-75305A4B1C0C",
+        "references": []
+      }
+    }
+  ]
+}

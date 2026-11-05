@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "08-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1426",
+      "name": "Роджер Федерер",
+      "birthDate": "1981-08-08",
+      "birthYear": 1981,
+      "description": "швейцарский теннисист",
+      "category": "sport",
+      "sitelinks": 162,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B5%D1%80,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q1426#P569",
+      "verified": {
+        "revision": 2564556043,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-08-08",
+        "originalCalendar": "gregorian",
+        "claim": "q1426$907c705e-452c-52f4-cfd8-74678c789a1b",
+        "references": []
+      }
+    },
+    {
+      "id": "Q47480",
+      "name": "Поль Дирак",
+      "birthDate": "1902-08-08",
+      "birthYear": 1902,
+      "description": "швейцарский и британский физик-теоретик",
+      "category": "science",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%80%D0%B0%D0%BA,_%D0%9F%D0%BE%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q47480#P569",
+      "verified": {
+        "revision": 2563065396,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1902-08-08",
+        "originalCalendar": "gregorian",
+        "claim": "q47480$C7AC2D0B-159D-4D43-8F5E-2F1812F6A1E8",
+        "references": [
+          "https://www.biography.com/people/pam-dirac-21370403"
+        ]
+      }
+    },
+    {
+      "id": "Q42930",
+      "name": "Дастин Хоффман",
+      "birthDate": "1937-08-08",
+      "birthYear": 1937,
+      "description": "американский актёр, режиссёр и продюсер (род. 1937)",
+      "category": "screen",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%84%D1%84%D0%BC%D0%B0%D0%BD,_%D0%94%D0%B0%D1%81%D1%82%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q42930#P569",
+      "verified": {
+        "revision": 2557857997,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1937-08-08",
+        "originalCalendar": "gregorian",
+        "claim": "q42930$BFBF74F8-137F-4EDA-BD14-43E456327937",
+        "references": []
+      }
+    },
+    {
+      "id": "Q133042",
+      "name": "Шмуэль Йосеф Агнон",
+      "birthDate": "1887-08-08",
+      "birthYear": 1887,
+      "description": "израильский писатель",
+      "category": "literature",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D0%BD%D0%BE%D0%BD,_%D0%A8%D0%BC%D1%83%D1%8D%D0%BB%D1%8C_%D0%99%D0%BE%D1%81%D0%B5%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q133042#P569",
+      "verified": {
+        "revision": 2564834326,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1887-08-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q133042$b3ecf5b2-480c-4db1-3290-c6d6631ad3e1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q169577",
+      "name": "Эрнест Орландо Лоуренс",
+      "birthDate": "1901-08-08",
+      "birthYear": 1901,
+      "description": "американский физик, создатель первого циклотрона",
+      "category": "science",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81,_%D0%AD%D1%80%D0%BD%D0%B5%D1%81%D1%82_%D0%9E%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q169577#P569",
+      "verified": {
+        "revision": 2563200693,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-08-08",
+        "originalCalendar": "gregorian",
+        "claim": "q169577$952A90BC-3487-400E-9D3C-31558B755D56",
+        "references": []
+      }
+    }
+  ]
+}

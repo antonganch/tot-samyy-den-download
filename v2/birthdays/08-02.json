@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "08-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q57410",
+      "name": "Шимон Перес",
+      "birthDate": "1923-08-02",
+      "birthYear": 1923,
+      "description": "израильский политик и государственный деятель, премьер-министр Израиля (1984-1986, 1995-1996), президент Израиля (2007-2014)",
+      "category": "public",
+      "sitelinks": 128,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D1%81,_%D0%A8%D0%B8%D0%BC%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q57410#P569",
+      "verified": {
+        "revision": 2563185276,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1923-08-02",
+        "originalCalendar": "gregorian",
+        "claim": "Q57410$75b7b6b3-49ad-c0bc-cba1-a43a6ca175c7",
+        "references": [
+          "https://www.lemonde.fr/proche-orient/article/2016/09/28/shimon-peres-l-ancien-president-et-premier-ministre-israelien-est-mort_5004495_3218.html"
+        ]
+      }
+    },
+    {
+      "id": "Q103876",
+      "name": "Питер О’Тул",
+      "birthDate": "1932-08-02",
+      "birthYear": 1932,
+      "description": "британский актёр ирландского происхождения",
+      "category": "screen",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%E2%80%99%D0%A2%D1%83%D0%BB,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q103876#P569",
+      "verified": {
+        "revision": 2564407878,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1932-08-02",
+        "originalCalendar": "gregorian",
+        "claim": "q103876$8B8A312F-B746-4078-9B95-D0FBAC2282B5",
+        "references": [
+          "https://cs.isabart.org/person/98429"
+        ]
+      }
+    },
+    {
+      "id": "Q83566",
+      "name": "Исабель Альенде",
+      "birthDate": "1942-08-02",
+      "birthYear": 1942,
+      "description": "чилийская писательница, племянница Сальвадора Альенде",
+      "category": "literature",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B5%D0%BD%D0%B4%D0%B5_%D0%9B%D1%8C%D0%BE%D0%BD%D0%B0,_%D0%98%D1%81%D0%B0%D0%B1%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q83566#P569",
+      "verified": {
+        "revision": 2562492126,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-08-02",
+        "originalCalendar": "gregorian",
+        "claim": "q83566$3AF291D5-638C-4DF7-B141-C0A5696D53CE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q82085",
+      "name": "Сэм Уортингтон",
+      "birthDate": "1976-08-02",
+      "birthYear": 1976,
+      "description": "австралийский актёр (род. 1976)",
+      "category": "screen",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D1%80%D1%82%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD,_%D0%A1%D1%8D%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q82085#P569",
+      "verified": {
+        "revision": 2553213066,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1976-08-02",
+        "originalCalendar": "gregorian",
+        "claim": "q82085$C12D7068-6329-4378-9959-4E116F422337",
+        "references": []
+      }
+    },
+    {
+      "id": "Q273210",
+      "name": "Джеймс Болдуин",
+      "birthDate": "1924-08-02",
+      "birthYear": 1924,
+      "description": "американский романист, публицист, драматург, активный борец за права человека",
+      "category": "literature",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B4%D1%83%D0%B8%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q273210#P569",
+      "verified": {
+        "revision": 2561504513,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-08-02",
+        "originalCalendar": "gregorian",
+        "claim": "q273210$E2EA0B15-799B-44DE-B78E-F499EEC84BE8",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "03-24",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q765",
+      "name": "Дарио Фо",
+      "birthDate": "1926-03-24",
+      "birthYear": 1926,
+      "description": "итальянский драматург, режиссёр, теоретик сценического мастерства, живописец",
+      "category": "screen",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE,_%D0%94%D0%B0%D1%80%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q765#P569",
+      "verified": {
+        "revision": 2564293605,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-03-24",
+        "originalCalendar": "gregorian",
+        "claim": "q765$13A53D7F-CA1D-4993-BD6C-E69E8346239D",
+        "references": [
+          "https://theaterencyclopedie.nl/wiki/index.php?curid=4271",
+          "https://tritius.kmol.cz/authority/865217"
+        ]
+      }
+    },
+    {
+      "id": "Q131545",
+      "name": "Гарри Гудини",
+      "birthDate": "1874-03-24",
+      "birthYear": 1874,
+      "description": "американский иллюзионист, фокусник, филантроп и актёр (1874–1926)",
+      "category": "screen",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%80%D0%B8_%D0%93%D1%83%D0%B4%D0%B8%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q131545#P569",
+      "verified": {
+        "revision": 2560306026,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1874-03-24",
+        "originalCalendar": "gregorian",
+        "claim": "q131545$7E165916-E184-4B06-9665-4205373705BF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q159636",
+      "name": "Джозеф Пристли",
+      "birthDate": "1733-03-24",
+      "birthYear": 1733,
+      "description": "британский священник-диссентер, естествоиспытатель, философ, общественный деятель",
+      "category": "science",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D1%81%D1%82%D0%BB%D0%B8,_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q159636#P569",
+      "verified": {
+        "revision": 2564816851,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1733-03-13",
+        "originalCalendar": "julian",
+        "claim": "Q159636$A5A84F42-3FA9-4DAB-BB80-D946DBD5961A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q75854",
+      "name": "Георг Филипп Телеман",
+      "birthDate": "1681-03-24",
+      "birthYear": 1681,
+      "description": "немецкий композитор, капельмейстер",
+      "category": "music",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BC%D0%B0%D0%BD,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF",
+      "source": "https://www.wikidata.org/wiki/Q75854#P569",
+      "verified": {
+        "revision": 2564780506,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1681-03-14",
+        "originalCalendar": "julian",
+        "claim": "q75854$A5F22F82-EDC5-4200-9B9B-FDBA91AEC81C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q103835",
+      "name": "Петер Йозеф Вильгельм Дебай",
+      "birthDate": "1884-03-24",
+      "birthYear": 1884,
+      "description": "голландско-американский физик и физикохимик",
+      "category": "science",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B1%D0%B0%D0%B9,_%D0%9F%D0%B5%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q103835#P569",
+      "verified": {
+        "revision": 2564471761,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1884-03-24",
+        "originalCalendar": "gregorian",
+        "claim": "q103835$9090AC2F-2535-4C28-9159-221A99FA130A",
+        "references": []
+      }
+    }
+  ]
+}

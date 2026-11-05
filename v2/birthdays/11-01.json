@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "11-01",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q47059",
+      "name": "Айшвария Рай",
+      "birthDate": "1973-11-01",
+      "birthYear": 1973,
+      "description": "индийская фотомодель и актриса",
+      "category": "screen",
+      "sitelinks": 116,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B9,_%D0%90%D0%B9%D1%88%D0%B2%D0%B0%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q47059#P569",
+      "verified": {
+        "revision": 2552622430,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1973-11-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q47059$FDAF35A8-DB23-4233-B6F8-22EFDCFA6A95",
+        "references": []
+      }
+    },
+    {
+      "id": "Q76323",
+      "name": "Альфред Вегенер",
+      "birthDate": "1880-11-01",
+      "birthYear": 1880,
+      "description": "немецкий метеоролог и геофизик, разработавший гипотезу дрейфа материков (1880–1930)",
+      "category": "science",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B3%D0%B5%D0%BD%D0%B5%D1%80,_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q76323#P569",
+      "verified": {
+        "revision": 2563986552,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1880-11-01",
+        "originalCalendar": "gregorian",
+        "claim": "q76323$025518C6-E84A-4765-B7FA-2C23CDAE7141",
+        "references": [
+          "https://frankfurter-personenlexikon.de/node/4607"
+        ]
+      }
+    },
+    {
+      "id": "Q188857",
+      "name": "Никола Буало",
+      "birthDate": "1636-11-01",
+      "birthYear": 1636,
+      "description": "французский поэт, критик, теоретик классицизма",
+      "category": "literature",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%B0%D0%BB%D0%BE,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q188857#P569",
+      "verified": {
+        "revision": 2564770627,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1636-11-01",
+        "originalCalendar": "gregorian",
+        "claim": "q188857$CDECB6B1-03CB-4A88-9C67-6AA3A9D31D18",
+        "references": []
+      }
+    },
+    {
+      "id": "Q151729",
+      "name": "Сулейман Демирель",
+      "birthDate": "1924-11-01",
+      "birthYear": 1924,
+      "description": "турецкий политик, президент Турции (1993-2000), премьер-министр Турции (1965-1971, 1975-1977, 1977-1978, 1979-1980, 1991-1993)",
+      "category": "public",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BC%D0%B8%D1%80%D0%B5%D0%BB%D1%8C,_%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q151729#P569",
+      "verified": {
+        "revision": 2563041229,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-11-01",
+        "originalCalendar": "gregorian",
+        "claim": "q151729$46201DD3-2FD1-4B9D-8ACD-FF18222D7458",
+        "references": []
+      }
+    },
+    {
+      "id": "Q189997",
+      "name": "Роберт Лафлин",
+      "birthDate": "1950-11-01",
+      "birthYear": 1950,
+      "description": "американский физик",
+      "category": "science",
+      "sitelinks": 71,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%84%D0%BB%D0%B8%D0%BD,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q189997#P569",
+      "verified": {
+        "revision": 2563198663,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-11-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q189997$9D935A5D-9E57-4CC2-8D3D-6B0C4D992261",
+        "references": []
+      }
+    }
+  ]
+}

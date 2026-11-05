@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "08-15",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q517",
+      "name": "Наполеон I",
+      "birthDate": "1769-08-15",
+      "birthYear": 1769,
+      "description": "император французов, полководец и государственный деятель",
+      "category": "public",
+      "sitelinks": 288,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BF%D0%BE%D0%BB%D0%B5%D0%BE%D0%BD_I",
+      "source": "https://www.wikidata.org/wiki/Q517#P569",
+      "verified": {
+        "revision": 2564775703,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1769-08-15",
+        "originalCalendar": "gregorian",
+        "claim": "q517$7776F14B-A43E-418D-8046-B4E0617757D6",
+        "references": [
+          "https://cs.isabart.org/person/16142"
+        ]
+      }
+    },
+    {
+      "id": "Q79025",
+      "name": "Вальтер Скотт",
+      "birthDate": "1771-08-15",
+      "birthYear": 1771,
+      "description": "британский писатель, поэт и драматург (1771–1832)",
+      "category": "literature",
+      "sitelinks": 139,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%82%D1%82,_%D0%92%D0%B0%D0%BB%D1%8C%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q79025#P569",
+      "verified": {
+        "revision": 2564779348,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1771-08-15",
+        "originalCalendar": "gregorian",
+        "claim": "q79025$6F1AFE00-728D-4B18-9705-F74172271635",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/scott-walter"
+        ]
+      }
+    },
+    {
+      "id": "Q189490",
+      "name": "Дженнифер Лоуренс",
+      "birthDate": "1990-08-15",
+      "birthYear": 1990,
+      "description": "американская актриса и продюсер (род. 1990)",
+      "category": "screen",
+      "sitelinks": 121,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%83%D1%80%D0%B5%D0%BD%D1%81,_%D0%94%D0%B6%D0%B5%D0%BD%D0%BD%D0%B8%D1%84%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q189490#P569",
+      "verified": {
+        "revision": 2563977993,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1990-08-15",
+        "originalCalendar": "gregorian",
+        "claim": "Q189490$A3549F30-4067-4D47-96BA-05F2B0B75B68",
+        "references": []
+      }
+    },
+    {
+      "id": "Q483118",
+      "name": "Бен Аффлек",
+      "birthDate": "1972-08-15",
+      "birthYear": 1972,
+      "description": "американский актёр, сценарист и кинорежиссёр (род. 1972)",
+      "category": "screen",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%84%D1%84%D0%BB%D0%B5%D0%BA,_%D0%91%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q483118#P569",
+      "verified": {
+        "revision": 2563018919,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-08-15",
+        "originalCalendar": "gregorian",
+        "claim": "q483118$28716EFB-8368-42DD-B074-0CB986DBC0F2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83331",
+      "name": "Луи де Бройль",
+      "birthDate": "1892-08-15",
+      "birthYear": 1892,
+      "description": "французский физик",
+      "category": "science",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5_%D0%91%D1%80%D0%BE%D0%B9%D0%BB%D1%8C,_%D0%9B%D1%83%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q83331#P569",
+      "verified": {
+        "revision": 2563199340,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1892-08-15",
+        "originalCalendar": "gregorian",
+        "claim": "q83331$CEF563F0-943D-4C71-ADDA-B32DA1406449",
+        "references": [
+          "https://deces.matchid.io/id/Ruc_9uKDeqDh"
+        ]
+      }
+    }
+  ]
+}

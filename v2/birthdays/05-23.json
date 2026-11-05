@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "05-23",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1043",
+      "name": "Карл Линней",
+      "birthDate": "1707-05-23",
+      "birthYear": 1707,
+      "description": "шведский ботаник, врач и зоолог (1707–1778); разработал основы современной таксономии",
+      "category": "other",
+      "sitelinks": 215,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D0%BD%D0%B5%D0%B9,_%D0%9A%D0%B0%D1%80%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q1043#P569",
+      "verified": {
+        "revision": 2564775767,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1707-05-23",
+        "originalCalendar": "gregorian",
+        "claim": "q1043$A8F905E8-EAEF-43C6-BA46-0032A21E7CA2",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/linne-carl"
+        ]
+      }
+    },
+    {
+      "id": "Q949",
+      "name": "Джон Бардин",
+      "birthDate": "1908-05-23",
+      "birthYear": 1908,
+      "description": "Американский физик, один из создателей биполярного транзистора",
+      "category": "science",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B4%D0%B8%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q949#P569",
+      "verified": {
+        "revision": 2563199745,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-05-23",
+        "originalCalendar": "gregorian",
+        "claim": "q949$306B8725-A360-4CA9-90A9-51D33B046BC3",
+        "references": []
+      }
+    },
+    {
+      "id": "Q93137",
+      "name": "Пер Лагерквист",
+      "birthDate": "1891-05-23",
+      "birthYear": 1891,
+      "description": "шведский писатель, лауреат Нобелевской премии по литературе",
+      "category": "literature",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D0%BA%D0%B2%D0%B8%D1%81%D1%82,_%D0%9F%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q93137#P569",
+      "verified": {
+        "revision": 2563065444,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1891-05-23",
+        "originalCalendar": "gregorian",
+        "claim": "q93137$5FBD22D7-D520-49EC-9C1C-3A12F5DFE003",
+        "references": [
+          "https://www.britannica.com/biography/Par-Lagerkvist"
+        ]
+      }
+    },
+    {
+      "id": "Q7013",
+      "name": "Лена Майер-Ландрут",
+      "birthDate": "1991-05-23",
+      "birthYear": 1991,
+      "description": "немецкая певица",
+      "category": "music",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%B5%D1%80-%D0%9B%D0%B0%D0%BD%D0%B4%D1%80%D1%83%D1%82,_%D0%9B%D0%B5%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q7013#P569",
+      "verified": {
+        "revision": 2561203939,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1991-05-23",
+        "originalCalendar": "gregorian",
+        "claim": "q7013$46CA07F7-236E-4043-826C-BAAAD22A7E29",
+        "references": []
+      }
+    },
+    {
+      "id": "Q131674",
+      "name": "Анатолий Евгеньевич Карпов",
+      "birthDate": "1951-05-23",
+      "birthYear": 1951,
+      "description": "12-й чемпион мира по шахматам (1975—1985), международный гроссмейстер",
+      "category": "other",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q131674#P569",
+      "verified": {
+        "revision": 2561649862,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1951-05-23",
+        "originalCalendar": "gregorian",
+        "claim": "q131674$0037C924-816C-4F2D-82CD-12FFF6A4EDF8",
+        "references": []
+      }
+    }
+  ]
+}

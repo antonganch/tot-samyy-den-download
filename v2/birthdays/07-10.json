@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "07-10",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9036",
+      "name": "Никола Тесла",
+      "birthDate": "1856-07-10",
+      "birthYear": 1856,
+      "description": "сербский физик, инженер, изобретатель",
+      "category": "science",
+      "sitelinks": 221,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%81%D0%BB%D0%B0,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q9036#P569",
+      "verified": {
+        "revision": 2562122792,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1856-07-10",
+        "originalCalendar": "gregorian",
+        "claim": "q9036$D222EBEF-09F9-45D8-9282-0605F47F0574",
+        "references": [
+          "https://www.biography.com/people/nikola-tesla-9504443"
+        ]
+      }
+    },
+    {
+      "id": "Q7199",
+      "name": "Марсель Пруст",
+      "birthDate": "1871-07-10",
+      "birthYear": 1871,
+      "description": "французский писатель, новеллист и критик",
+      "category": "literature",
+      "sitelinks": 191,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D1%83%D1%81%D1%82,_%D0%9C%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q7199#P569",
+      "verified": {
+        "revision": 2564790670,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1871-07-10",
+        "originalCalendar": "gregorian",
+        "claim": "q7199$A2C80DE2-CF68-4AC8-A712-330BB53FDD00",
+        "references": []
+      }
+    },
+    {
+      "id": "Q181383",
+      "name": "Махатхир Мохамад",
+      "birthDate": "1925-07-10",
+      "birthYear": 1925,
+      "description": "4-й (1981—2003) и 7-й (2018—2020) премьер-министр Малайзии",
+      "category": "public",
+      "sitelinks": 162,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%85%D0%B0%D1%82%D1%85%D0%B8%D1%80_%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%B0%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q181383#P569",
+      "verified": {
+        "revision": 2564646523,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-07-10",
+        "originalCalendar": "gregorian",
+        "claim": "q181383$D4D94B4F-A3C3-4EFC-8782-BC6E8441A9D2",
+        "references": [
+          "https://www.straitstimes.com/asia/se-asia/early-birthday-wishes-for-dr-m-who-turns-94-on-july-10",
+          "https://www.freemalaysiatoday.com/category/nation/2026/07/10/malaysias-longest-serving-pm-dr-m-turns-101",
+          "https://www.perdana.org.my/blog/2026/07/10/happy-101st-birthday-tun-dr-mahathir-bin-mohamad/"
+        ]
+      }
+    },
+    {
+      "id": "Q234819",
+      "name": "Элис Манро",
+      "birthDate": "1931-07-10",
+      "birthYear": 1931,
+      "description": "канадская писательница",
+      "category": "literature",
+      "sitelinks": 128,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%80%D0%BE,_%D0%AD%D0%BB%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q234819#P569",
+      "verified": {
+        "revision": 2564435212,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1931-07-10",
+        "originalCalendar": "gregorian",
+        "claim": "q234819$8257F0B1-D0B6-4622-8BCD-8A7B33D8CC2D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q134741",
+      "name": "Камиль Жакоб Писсарро",
+      "birthDate": "1830-07-10",
+      "birthYear": 1830,
+      "description": "французский художник-импрессионист",
+      "category": "art",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%81%D1%81%D0%B0%D1%80%D1%80%D0%BE,_%D0%9A%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q134741#P569",
+      "verified": {
+        "revision": 2562296531,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1830-07-10",
+        "originalCalendar": "gregorian",
+        "claim": "q134741$028D8697-4F0B-4DB3-BB7D-98CC95E968C8",
+        "references": []
+      }
+    }
+  ]
+}

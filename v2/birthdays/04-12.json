@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "04-12",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q151435",
+      "name": "Монсерат Кабалье",
+      "birthDate": "1933-04-12",
+      "birthYear": 1933,
+      "description": "испанская оперная певица (1933—2018)",
+      "category": "music",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B1%D0%B0%D0%BB%D1%8C%D0%B5,_%D0%9C%D0%BE%D0%BD%D1%81%D0%B5%D1%80%D1%80%D0%B0%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q151435#P569",
+      "verified": {
+        "revision": 2563773812,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-04-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q151435$499CD7C5-02DE-4B88-8845-72D0ACA66C00",
+        "references": [
+          "https://mundoclasico.cienradios.com/12-de-abril-de-1933/"
+        ]
+      }
+    },
+    {
+      "id": "Q57282",
+      "name": "Джейкоб Зума",
+      "birthDate": "1942-04-12",
+      "birthYear": 1942,
+      "description": "южноафриканский политик, президент ЮАР (2009—2018), вице-президент ЮАР (1999—2005), председатель АНК (2007—2017)",
+      "category": "public",
+      "sitelinks": 104,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%97%D1%83%D0%BC%D0%B0,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BA%D0%BE%D0%B1",
+      "source": "https://www.wikidata.org/wiki/Q57282#P569",
+      "verified": {
+        "revision": 2557943263,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-04-12",
+        "originalCalendar": "gregorian",
+        "claim": "q57282$6E44DEFF-497C-4FC4-98C7-7965908850C0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q40580",
+      "name": "Лиза Джеррард",
+      "birthDate": "1961-04-12",
+      "birthYear": 1961,
+      "description": "австралийская музыкантка, вокалистка и композитор",
+      "category": "music",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D1%80%D1%80%D0%B0%D1%80%D0%B4,_%D0%9B%D0%B8%D0%B7%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q40580#P569",
+      "verified": {
+        "revision": 2558764526,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1961-04-12",
+        "originalCalendar": "gregorian",
+        "claim": "q40580$9D7B36BE-55BC-489D-9938-FE0EF25341B6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q105167",
+      "name": "Том Клэнси",
+      "birthDate": "1947-04-12",
+      "birthYear": 1947,
+      "description": "американский писатель и сценарист компьютерных игр",
+      "category": "screen",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%8D%D0%BD%D1%81%D0%B8,_%D0%A2%D0%BE%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q105167#P569",
+      "verified": {
+        "revision": 2558259892,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-04-12",
+        "originalCalendar": "gregorian",
+        "claim": "q105167$F81E1F80-C927-4EC3-AA59-D4648A44E7CA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q217298",
+      "name": "Дэвид Леттерман",
+      "birthDate": "1947-04-12",
+      "birthYear": 1947,
+      "description": "американский комик, телеведущий и продюсер",
+      "category": "screen",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D1%82%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BD,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q217298#P569",
+      "verified": {
+        "revision": 2546593615,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-04-12",
+        "originalCalendar": "gregorian",
+        "claim": "q217298$F479AE1E-8E1E-4CD9-B9D2-66E7F96CF8DB",
+        "references": []
+      }
+    }
+  ]
+}

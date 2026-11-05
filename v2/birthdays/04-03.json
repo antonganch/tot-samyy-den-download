@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "04-03",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q34012",
+      "name": "Марлон Брандо",
+      "birthDate": "1924-04-03",
+      "birthYear": 1924,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 159,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%BD%D0%B4%D0%BE,_%D0%9C%D0%B0%D1%80%D0%BB%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q34012#P569",
+      "verified": {
+        "revision": 2563152468,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-04-03",
+        "originalCalendar": "gregorian",
+        "claim": "q34012$E497AFE6-A9E0-4D92-94D1-18CF6B8D3C32",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/brando-marlon"
+        ]
+      }
+    },
+    {
+      "id": "Q43874",
+      "name": "Эдди Мёрфи",
+      "birthDate": "1961-04-03",
+      "birthYear": 1961,
+      "description": "американский стенд-ап комик, актёр и певец",
+      "category": "screen",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D1%84%D0%B8,_%D0%AD%D0%B4%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q43874#P569",
+      "verified": {
+        "revision": 2564768774,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1961-04-03",
+        "originalCalendar": "gregorian",
+        "claim": "q43874$59C39C87-98BD-45BD-A18D-4CC8A86BFB78",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2518",
+      "name": "Гельмут Коль",
+      "birthDate": "1930-04-03",
+      "birthYear": 1930,
+      "description": "немецкий политик и государственный деятель, федеральный канцлер Германии (1982—1998)",
+      "category": "public",
+      "sitelinks": 129,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C,_%D0%93%D0%B5%D0%BB%D1%8C%D0%BC%D1%83%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q2518#P569",
+      "verified": {
+        "revision": 2564038069,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-04-03",
+        "originalCalendar": "gregorian",
+        "claim": "q2518$BFBCCB5A-DF32-4676-926A-8E3D68967642",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/kohl-helmut"
+        ]
+      }
+    },
+    {
+      "id": "Q184746",
+      "name": "Джейн Гудолл",
+      "birthDate": "1934-04-03",
+      "birthYear": 1934,
+      "description": "британский приматолог и антрополог (1934—2025)",
+      "category": "other",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B4%D0%BE%D0%BB%D0%BB,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q184746#P569",
+      "verified": {
+        "revision": 2560450529,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1934-04-03",
+        "originalCalendar": "gregorian",
+        "claim": "q184746$7814880A-A6EF-40EC-885E-F46DD58C8DC5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q181667",
+      "name": "Вашингтон Ирвинг",
+      "birthDate": "1783-04-03",
+      "birthYear": 1783,
+      "description": "американский писатель-романтик",
+      "category": "literature",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D1%80%D0%B2%D0%B8%D0%BD%D0%B3,_%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q181667#P569",
+      "verified": {
+        "revision": 2564775372,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1783-04-03",
+        "originalCalendar": "gregorian",
+        "claim": "q181667$C766A694-B9F6-4B84-B6E5-97A3EA9A4BA9",
+        "references": [
+          "https://www.geographicus.com/P/RareMaps/irvingwashington"
+        ]
+      }
+    }
+  ]
+}

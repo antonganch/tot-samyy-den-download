@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "10-16",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q30875",
+      "name": "Оскар Уайльд",
+      "birthDate": "1854-10-16",
+      "birthYear": 1854,
+      "description": "ирландский поэт, драматург, писатель, эссеист (1854—1900)",
+      "category": "literature",
+      "sitelinks": 224,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B0%D0%B9%D0%BB%D1%8C%D0%B4,_%D0%9E%D1%81%D0%BA%D0%B0%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q30875#P569",
+      "verified": {
+        "revision": 2564818781,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1854-10-16",
+        "originalCalendar": "gregorian",
+        "claim": "q30875$98A58231-7BEB-40A9-A3B4-F4E20B96CF67",
+        "references": [
+          "https://www.ibdb.com/broadway-cast-staff/69467",
+          "https://brockhaus.de/ecs/julex/article/wilde-oscar-fingal-o-flahertie-wills"
+        ]
+      }
+    },
+    {
+      "id": "Q6538",
+      "name": "Гюнтер Грасс",
+      "birthDate": "1927-10-16",
+      "birthYear": 1927,
+      "description": "немецкий писатель",
+      "category": "literature",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D1%81%D1%81,_%D0%93%D1%8E%D0%BD%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q6538#P569",
+      "verified": {
+        "revision": 2564037933,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1927-10-16",
+        "originalCalendar": "gregorian",
+        "claim": "q6538$7A755307-7A85-49A6-A7EA-E330E3200055",
+        "references": []
+      }
+    },
+    {
+      "id": "Q37610",
+      "name": "Давид Бен-Гурион",
+      "birthDate": "1886-10-16",
+      "birthYear": 1886,
+      "description": "израильский государственный деятель (1886-1973)",
+      "category": "other",
+      "sitelinks": 134,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD-%D0%93%D1%83%D1%80%D0%B8%D0%BE%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q37610#P569",
+      "verified": {
+        "revision": 2564056957,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1886-10-16",
+        "originalCalendar": "gregorian",
+        "claim": "q37610$E49780F8-ED84-4255-AF0D-0769199C4B89",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/ben-gurion-david"
+        ]
+      }
+    },
+    {
+      "id": "Q53783",
+      "name": "Энвер Ходжа",
+      "birthDate": "1908-10-16",
+      "birthYear": 1908,
+      "description": "албанский политический деятель, генеральный секретарь ЦК Албанской партии труда (1944—1985), председатель Совета министров Албании (1946—1954)",
+      "category": "public",
+      "sitelinks": 104,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B4%D0%B6%D0%B0,_%D0%AD%D0%BD%D0%B2%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q53783#P569",
+      "verified": {
+        "revision": 2562961715,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-10-16",
+        "originalCalendar": "gregorian",
+        "claim": "q53783$4A9C8D79-D315-4883-8CC6-374F07CE3206",
+        "references": []
+      }
+    },
+    {
+      "id": "Q483376",
+      "name": "Лорин",
+      "birthDate": "1983-10-16",
+      "birthYear": 1983,
+      "description": "шведская певица",
+      "category": "music",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%80%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q483376#P569",
+      "verified": {
+        "revision": 2561734309,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-10-16",
+        "originalCalendar": "gregorian",
+        "claim": "Q483376$5E805E25-7021-499D-AC35-13BF0B3C716E",
+        "references": []
+      }
+    }
+  ]
+}

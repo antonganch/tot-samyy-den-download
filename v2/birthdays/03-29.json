@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "03-29",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q11881",
+      "name": "Джон Тайлер",
+      "birthDate": "1790-03-29",
+      "birthYear": 1790,
+      "description": "американский политик, 10-й президент США (1841—1845), 10-й вице-президент США (1841)",
+      "category": "public",
+      "sitelinks": 143,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B9%D0%BB%D0%B5%D1%80,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q11881#P569",
+      "verified": {
+        "revision": 2563063145,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1790-03-29",
+        "originalCalendar": "gregorian",
+        "claim": "q11881$53DC7334-CEF9-4F3F-AD16-84F9AF9B68B0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q153172",
+      "name": "Вангелис",
+      "birthDate": "1943-03-29",
+      "birthYear": 1943,
+      "description": "греческий композитор, один из первых исполнителей электронной музыки, автор саундтреков ко многим известным фильмам",
+      "category": "music",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q153172#P569",
+      "verified": {
+        "revision": 2560436845,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1943-03-29",
+        "originalCalendar": "gregorian",
+        "claim": "q153172$ECC1474E-45C9-42C4-BA2F-5BEA60FB0456",
+        "references": [
+          "https://musee.sacem.fr/index.php/Detail/objects/14761"
+        ]
+      }
+    },
+    {
+      "id": "Q133112",
+      "name": "Люси Лоулесс",
+      "birthDate": "1968-03-29",
+      "birthYear": 1968,
+      "description": "новозеландская певица и актриса",
+      "category": "screen",
+      "sitelinks": 68,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%83%D0%BB%D0%B5%D1%81%D1%81,_%D0%9B%D1%8E%D1%81%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q133112#P569",
+      "verified": {
+        "revision": 2558023503,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-03-29",
+        "originalCalendar": "gregorian",
+        "claim": "q133112$0AC29156-9DAB-4BEB-9728-76ECFA95EBE6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q16665941",
+      "name": "Н’Голо Канте",
+      "birthDate": "1991-03-29",
+      "birthYear": 1991,
+      "description": "французский футболист",
+      "category": "sport",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D0%B5,_%D0%9D%E2%80%99%D0%93%D0%BE%D0%BB%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q16665941#P569",
+      "verified": {
+        "revision": 2556661913,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1991-03-29",
+        "originalCalendar": "gregorian",
+        "claim": "Q16665941$35135146-F24D-49DA-8289-F3D4EB2AD459",
+        "references": [
+          "https://www.fff.fr/equipes-de-france/tous-les-joueurs/fiche-joueur/2318055281-n-039-golo-kante"
+        ]
+      }
+    },
+    {
+      "id": "Q76727",
+      "name": "Эрнст Юнгер",
+      "birthDate": "1895-03-29",
+      "birthYear": 1895,
+      "description": "Немецкий писатель, мыслитель и офицер",
+      "category": "literature",
+      "sitelinks": 71,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D0%B3%D0%B5%D1%80,_%D0%AD%D1%80%D0%BD%D1%81%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q76727#P569",
+      "verified": {
+        "revision": 2564038044,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1895-03-29",
+        "originalCalendar": "gregorian",
+        "claim": "q76727$CE2383EE-4082-48B2-A746-E73A823BBF50",
+        "references": []
+      }
+    }
+  ]
+}

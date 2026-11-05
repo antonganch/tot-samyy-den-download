@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "01-30",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8007",
+      "name": "Франклин Делано Рузвельт",
+      "birthDate": "1882-01-30",
+      "birthYear": 1882,
+      "description": "американский политик, 32-й президент США (1933-1945), губернатор Нью-Йорка (1929-1932)",
+      "category": "public",
+      "sitelinks": 247,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B7%D0%B2%D0%B5%D0%BB%D1%8C%D1%82,_%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BB%D0%B8%D0%BD_%D0%94%D0%B5%D0%BB%D0%B0%D0%BD%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q8007#P569",
+      "verified": {
+        "revision": 2563803381,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1882-01-30",
+        "originalCalendar": "gregorian",
+        "claim": "q8007$71678673-49F5-483A-8A9B-C7141D28509C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q45772",
+      "name": "Кристиан Бейл",
+      "birthDate": "1974-01-30",
+      "birthYear": 1974,
+      "description": "британский киноактёр (род. 1974)",
+      "category": "screen",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D0%BB,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q45772#P569",
+      "verified": {
+        "revision": 2563863860,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-01-30",
+        "originalCalendar": "gregorian",
+        "claim": "q45772$9E971B4E-B0FB-415A-8ADF-C767298AC107",
+        "references": []
+      }
+    },
+    {
+      "id": "Q144622",
+      "name": "Фил Коллинз",
+      "birthDate": "1951-01-30",
+      "birthYear": 1951,
+      "description": "британский барабанщик, певец и автор песен (1951 г.р.)",
+      "category": "music",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D0%BB%D0%B8%D0%BD%D0%B7,_%D0%A4%D0%B8%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q144622#P569",
+      "verified": {
+        "revision": 2558215754,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1951-01-30",
+        "originalCalendar": "gregorian",
+        "claim": "q144622$74A7B2BA-F620-484B-8EB6-F225AA04ED72",
+        "references": []
+      }
+    },
+    {
+      "id": "Q150943",
+      "name": "Джин Хэкмен",
+      "birthDate": "1930-01-30",
+      "birthYear": 1930,
+      "description": "американский актёр и романист (1930—2025)",
+      "category": "screen",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D1%8D%D0%BA%D0%BC%D0%B5%D0%BD,_%D0%94%D0%B6%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q150943#P569",
+      "verified": {
+        "revision": 2562908214,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-01-30",
+        "originalCalendar": "gregorian",
+        "claim": "q150943$B08F9E01-0351-4EFF-90E1-2AD5750022B9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q92614",
+      "name": "Дуглас Энгельбарт",
+      "birthDate": "1925-01-30",
+      "birthYear": 1925,
+      "description": "американский изобретатель",
+      "category": "science",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D0%B1%D0%B0%D1%80%D1%82,_%D0%94%D1%83%D0%B3%D0%BB%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q92614#P569",
+      "verified": {
+        "revision": 2545165655,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-01-30",
+        "originalCalendar": "gregorian",
+        "claim": "q92614$33DD9433-3ADA-4435-A581-A867A93C9E61",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "11-04",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q188955",
+      "name": "Мэттью Макконахи",
+      "birthDate": "1969-11-04",
+      "birthYear": 1969,
+      "description": "американский актёр (род. 1969)",
+      "category": "screen",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%BE%D0%BD%D0%B0%D1%85%D0%B8,_%D0%9C%D1%8D%D1%82%D1%82%D1%8C%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q188955#P569",
+      "verified": {
+        "revision": 2563932362,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-11-04",
+        "originalCalendar": "gregorian",
+        "claim": "Q188955$CF767B13-C5DF-46ED-A3F0-60A00A5FBC45",
+        "references": []
+      }
+    },
+    {
+      "id": "Q152019",
+      "name": "Лора Буш",
+      "birthDate": "1946-11-04",
+      "birthYear": 1946,
+      "description": "Супруга 43-го Президента США Джорджа Буша, Первая леди США (2001 — 2009)",
+      "category": "public",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%88,_%D0%9B%D0%BE%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q152019#P569",
+      "verified": {
+        "revision": 2549563039,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-11-04",
+        "originalCalendar": "gregorian",
+        "claim": "q152019$8371C082-9AFD-4B58-8CCE-62F6379D7A59",
+        "references": []
+      }
+    },
+    {
+      "id": "Q216936",
+      "name": "Шон Комбс",
+      "birthDate": "1969-11-04",
+      "birthYear": 1969,
+      "description": "американский рэпер, певец, автор песен, музыкальный продюсер",
+      "category": "music",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D1%81,_%D0%A8%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q216936#P569",
+      "verified": {
+        "revision": 2564920992,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-11-04",
+        "originalCalendar": "gregorian",
+        "claim": "q216936$CED762B6-9DC6-4496-84AF-2AB6B243C443",
+        "references": [
+          "https://hedendaagsesieraden.nl/2024/04/05/sean-combs/"
+        ]
+      }
+    },
+    {
+      "id": "Q483145",
+      "name": "Луиш Фигу",
+      "birthDate": "1972-11-04",
+      "birthYear": 1972,
+      "description": "португальский футболист",
+      "category": "sport",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B3%D1%83,_%D0%9B%D1%83%D0%B8%D1%88",
+      "source": "https://www.wikidata.org/wiki/Q483145#P569",
+      "verified": {
+        "revision": 2558137249,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-11-04",
+        "originalCalendar": "gregorian",
+        "claim": "q483145$C1E67777-B820-4C0D-AFFE-33BCE80DE3CA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q16389",
+      "name": "Чарльз Као",
+      "birthDate": "1933-11-04",
+      "birthYear": 1933,
+      "description": "китайский, британский и американский инженер-физик",
+      "category": "science",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BE,_%D0%A7%D0%B0%D1%80%D0%BB%D1%8C%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q16389#P569",
+      "verified": {
+        "revision": 2563199506,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-11-04",
+        "originalCalendar": "gregorian",
+        "claim": "q16389$d6715a73-4def-a8df-7629-73075bee4c2e",
+        "references": []
+      }
+    }
+  ]
+}

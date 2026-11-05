@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "06-01",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q4616",
+      "name": "Мэрилин Монро",
+      "birthDate": "1926-06-01",
+      "birthYear": 1926,
+      "description": "американская киноактриса, певица, модель и секс-символ 1950-х годов",
+      "category": "screen",
+      "sitelinks": 243,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D1%80%D0%BE,_%D0%9C%D1%8D%D1%80%D0%B8%D0%BB%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q4616#P569",
+      "verified": {
+        "revision": 2564944777,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-06-01",
+        "originalCalendar": "gregorian",
+        "claim": "q4616$A856615F-A75B-4209-B9DF-80BE0A9642D0",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/monroe-marilyn"
+        ]
+      }
+    },
+    {
+      "id": "Q48337",
+      "name": "Морган Фримен",
+      "birthDate": "1937-06-01",
+      "birthYear": 1937,
+      "description": "американский актёр, режиссёр",
+      "category": "screen",
+      "sitelinks": 129,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B8%D0%BC%D0%B5%D0%BD,_%D0%9C%D0%BE%D1%80%D0%B3%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q48337#P569",
+      "verified": {
+        "revision": 2564232314,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1937-06-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q48337$C99838DC-BB2D-4E07-A52C-6B8363D1EA5E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q181885",
+      "name": "Михаил Иванович Глинка",
+      "birthDate": "1804-06-01",
+      "birthYear": 1804,
+      "description": "русский композитор (1804—1857)",
+      "category": "music",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%BD%D0%BA%D0%B0,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q181885#P569",
+      "verified": {
+        "revision": 2564791938,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1804-05-20",
+        "originalCalendar": "julian",
+        "claim": "Q181885$21B1E925-A72C-4B06-BFC3-F25B74084271",
+        "references": []
+      }
+    },
+    {
+      "id": "Q181685",
+      "name": "Сади Карно",
+      "birthDate": "1796-06-01",
+      "birthYear": 1796,
+      "description": "французский физик и математик, один из основателей термодинамики",
+      "category": "science",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BD%D0%BE,_%D0%A1%D0%B0%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q181685#P569",
+      "verified": {
+        "revision": 2561125738,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1796-06-01",
+        "originalCalendar": "gregorian",
+        "claim": "q181685$FBBE9D27-2A8A-40B5-A8F0-F770269150DD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q20850503",
+      "name": "Евгений Викторович Пригожин",
+      "birthDate": "1961-06-01",
+      "birthYear": 1961,
+      "description": "российский военный деятель, предприниматель, создатель ЧВК «Вагнер» (1961—2023)",
+      "category": "public",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B6%D0%B8%D0%BD,_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q20850503#P569",
+      "verified": {
+        "revision": 2562608357,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1961-06-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q20850503$7BDC3136-789D-4CBC-B08D-BBC91B90A86A",
+        "references": [
+          "https://myrotvorets.center/criminal/prigozhin-evgenij-viktorovich/"
+        ]
+      }
+    }
+  ]
+}

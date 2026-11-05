@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "09-01",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q189489",
+      "name": "Зендея",
+      "birthDate": "1996-09-01",
+      "birthYear": 1996,
+      "description": "американская актриса, певица, танцовщица и модель (род. 1996)",
+      "category": "screen",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%97%D0%B5%D0%BD%D0%B4%D0%B5%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q189489#P569",
+      "verified": {
+        "revision": 2564344391,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1996-09-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q189489$E69FC836-F1B3-434E-8D8B-EF091F51237B",
+        "references": [
+          "https://www.biography.com/actors/zendaya"
+        ]
+      }
+    },
+    {
+      "id": "Q1153825",
+      "name": "Анни Эрно",
+      "birthDate": "1940-09-01",
+      "birthYear": 1940,
+      "description": "французская писательница (род. 1940)",
+      "category": "literature",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D0%BD%D0%BE,_%D0%90%D0%BD%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q1153825#P569",
+      "verified": {
+        "revision": 2563201343,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-09-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q1153825$BB34F2A8-E5B4-4D74-B511-C1EBD564F744",
+        "references": []
+      }
+    },
+    {
+      "id": "Q148234",
+      "name": "Эдгар Райс Берроуз",
+      "birthDate": "1875-09-01",
+      "birthYear": 1875,
+      "description": "американский писатель (1875—1950)",
+      "category": "literature",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D1%80%D0%BE%D1%83%D0%B7,_%D0%AD%D0%B4%D0%B3%D0%B0%D1%80_%D0%A0%D0%B0%D0%B9%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q148234#P569",
+      "verified": {
+        "revision": 2557859189,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1875-09-01",
+        "originalCalendar": "gregorian",
+        "claim": "q148234$F17BAA0B-51F8-4A32-B91E-FF7D7D80E225",
+        "references": []
+      }
+    },
+    {
+      "id": "Q184697",
+      "name": "Глория Эстефан",
+      "birthDate": "1957-09-01",
+      "birthYear": 1957,
+      "description": "американская певица и автор песен кубинского происхождения",
+      "category": "music",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D1%82%D0%B5%D1%84%D0%B0%D0%BD,_%D0%93%D0%BB%D0%BE%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q184697#P569",
+      "verified": {
+        "revision": 2557897885,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1957-09-01",
+        "originalCalendar": "gregorian",
+        "claim": "q184697$71144A04-1FAB-4366-B6D0-5D4EF726A790",
+        "references": []
+      }
+    },
+    {
+      "id": "Q22338877",
+      "name": "Чонгук",
+      "birthDate": "1997-09-01",
+      "birthYear": 1997,
+      "description": "южнокорейский певец, автор песен и музыкальный продюсер, участник и вокалист бой-бэнда BTS",
+      "category": "music",
+      "sitelinks": 69,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D0%BD%D0%B3%D1%83%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q22338877#P569",
+      "verified": {
+        "revision": 2564641148,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1997-09-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q22338877$332171df-4301-dc4a-38a4-84fff7541dc5",
+        "references": [
+          "https://pantheon.world/profile/person/Jungkook"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "12-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8704",
+      "name": "Уолт Дисней",
+      "birthDate": "1901-12-05",
+      "birthYear": 1901,
+      "description": "американский художник-мультипликатор, кинорежиссёр, актёр, сценарист и продюсер (1901—1966)",
+      "category": "screen",
+      "sitelinks": 218,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BD%D0%B5%D0%B9,_%D0%A3%D0%BE%D0%BB%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q8704#P569",
+      "verified": {
+        "revision": 2559467133,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-12-05",
+        "originalCalendar": "gregorian",
+        "claim": "q8704$990747F7-3698-47C6-9B34-553BE320B01B",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/disney-walt"
+        ]
+      }
+    },
+    {
+      "id": "Q40904",
+      "name": "Вернер Гейзенберг",
+      "birthDate": "1901-12-05",
+      "birthYear": 1901,
+      "description": "немецкий физик-теоретик, один из создателей квантовой механики",
+      "category": "science",
+      "sitelinks": 141,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B9%D0%B7%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%92%D0%B5%D1%80%D0%BD%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q40904#P569",
+      "verified": {
+        "revision": 2564037981,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-12-05",
+        "originalCalendar": "gregorian",
+        "claim": "q40904$4332EF3F-9830-416E-98EC-BA74F3E08E00",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/heisenberg-werner-karl"
+        ]
+      }
+    },
+    {
+      "id": "Q11820",
+      "name": "Мартин Ван Бюрен",
+      "birthDate": "1782-12-05",
+      "birthYear": 1782,
+      "description": "8-й Президент США",
+      "category": "public",
+      "sitelinks": 146,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD_%D0%91%D1%8E%D1%80%D0%B5%D0%BD,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q11820#P569",
+      "verified": {
+        "revision": 2563063154,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1782-12-05",
+        "originalCalendar": "gregorian",
+        "claim": "q11820$4BA2B072-B0E1-490F-9AAB-93537EA6BBBD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q19504",
+      "name": "Фриц Ланг",
+      "birthDate": "1890-12-05",
+      "birthYear": 1890,
+      "description": "немецкий кинорежиссёр (1890-1976)",
+      "category": "screen",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%B3,_%D0%A4%D1%80%D0%B8%D1%86",
+      "source": "https://www.wikidata.org/wiki/Q19504#P569",
+      "verified": {
+        "revision": 2563978719,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1890-12-05",
+        "originalCalendar": "gregorian",
+        "claim": "q19504$F1B194F1-134F-496A-AFEE-F2995261045D",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/lang-fritz"
+        ]
+      }
+    },
+    {
+      "id": "Q37217",
+      "name": "Фёдор Иванович Тютчев",
+      "birthDate": "1803-12-05",
+      "birthYear": 1803,
+      "description": "русский поэт, публицист, дипломат (1803—1873)",
+      "category": "literature",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%8E%D1%82%D1%87%D0%B5%D0%B2,_%D0%A4%D1%91%D0%B4%D0%BE%D1%80_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q37217#P569",
+      "verified": {
+        "revision": 2563646102,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1803-11-23",
+        "originalCalendar": "julian",
+        "claim": "Q37217$49714C3D-A78F-4765-AD40-6A3F5B05A9EB",
+        "references": []
+      }
+    }
+  ]
+}

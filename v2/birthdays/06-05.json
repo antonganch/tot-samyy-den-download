@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "06-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9317",
+      "name": "Джон Мейнард Кейнс",
+      "birthDate": "1883-06-05",
+      "birthYear": 1883,
+      "description": "английский экономист, основатель кейнсианского направления в экономической теории",
+      "category": "science",
+      "sitelinks": 187,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B9%D0%BD%D1%81,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%9C%D0%B5%D0%B9%D0%BD%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q9317#P569",
+      "verified": {
+        "revision": 2563098586,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1883-06-05",
+        "originalCalendar": "gregorian",
+        "claim": "q9317$5B76E177-3C1A-47FB-BE1A-440D1B5F5A40",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41408",
+      "name": "Федерико Гарсиа Лорка",
+      "birthDate": "1898-06-05",
+      "birthYear": 1898,
+      "description": "испанский поэт, драматург, музыкант и художник-график",
+      "category": "music",
+      "sitelinks": 143,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%81%D0%B8%D0%B0_%D0%9B%D0%BE%D1%80%D0%BA%D0%B0,_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q41408#P569",
+      "verified": {
+        "revision": 2564794152,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1898-06-05",
+        "originalCalendar": "gregorian",
+        "claim": "q41408$9BA2A87D-C3CC-437C-B264-AB91F029F9F4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q164119",
+      "name": "Марк Уолберг",
+      "birthDate": "1971-06-05",
+      "birthYear": 1971,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D0%BB%D0%B1%D0%B5%D1%80%D0%B3,_%D0%9C%D0%B0%D1%80%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q164119#P569",
+      "verified": {
+        "revision": 2558115442,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-06-05",
+        "originalCalendar": "gregorian",
+        "claim": "Q164119$89DC17B6-D589-418B-A5CB-5B0BAEC0012A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q20015",
+      "name": "Джон Куч Адамс",
+      "birthDate": "1819-06-05",
+      "birthYear": 1819,
+      "description": "британский математик и астроном",
+      "category": "science",
+      "sitelinks": 70,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC%D1%81,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%9A%D1%83%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q20015#P569",
+      "verified": {
+        "revision": 2562781938,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1819-06-05",
+        "originalCalendar": "gregorian",
+        "claim": "q20015$49CA4D46-5D93-4DA9-9B78-1ACEC776E9DF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q192278",
+      "name": "Панчо Вилья (генерал)",
+      "birthDate": "1878-06-05",
+      "birthYear": 1878,
+      "description": "революционер",
+      "category": "other",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D1%8F,_%D0%9F%D0%B0%D0%BD%D1%87%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q192278#P569",
+      "verified": {
+        "revision": 2557882435,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1878-06-05",
+        "originalCalendar": "gregorian",
+        "claim": "q192278$FA6637B3-26D3-4B17-98BE-2507608AC194",
+        "references": []
+      }
+    }
+  ]
+}

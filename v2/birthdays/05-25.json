@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "05-25",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q48226",
+      "name": "Ральф Уолдо Эмерсон",
+      "birthDate": "1803-05-25",
+      "birthYear": 1803,
+      "description": "американский эссеист, поэт, философ, пастор, общественный деятель (1803-1882)",
+      "category": "literature",
+      "sitelinks": 156,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BC%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%A0%D0%B0%D0%BB%D1%8C%D1%84_%D0%A3%D0%BE%D0%BB%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q48226#P569",
+      "verified": {
+        "revision": 2564253081,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1803-05-25",
+        "originalCalendar": "gregorian",
+        "claim": "q48226$6F3E00B2-3989-499E-993D-4407E474CC99",
+        "references": []
+      }
+    },
+    {
+      "id": "Q170510",
+      "name": "Иэн Маккеллен",
+      "birthDate": "1939-05-25",
+      "birthYear": 1939,
+      "description": "английский актёр",
+      "category": "screen",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD,_%D0%98%D1%8D%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q170510#P569",
+      "verified": {
+        "revision": 2563810609,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1939-05-25",
+        "originalCalendar": "gregorian",
+        "claim": "q170510$89519584-B38E-4EEA-8877-6075A1024148",
+        "references": []
+      }
+    },
+    {
+      "id": "Q202589",
+      "name": "Киллиан Мерфи",
+      "birthDate": "1976-05-25",
+      "birthYear": 1976,
+      "description": "ирландский актёр театра и кино, музыкант (род. 1976)",
+      "category": "screen",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D1%84%D0%B8,_%D0%9A%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q202589#P569",
+      "verified": {
+        "revision": 2561671497,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1976-05-25",
+        "originalCalendar": "gregorian",
+        "claim": "Q202589$0A19D399-502B-4814-B24E-1736301BE294",
+        "references": []
+      }
+    },
+    {
+      "id": "Q318462",
+      "name": "Эдвард Бульвер-Литтон",
+      "birthDate": "1803-05-25",
+      "birthYear": 1803,
+      "description": "британский писатель, драматург и поэт (1803—1873)",
+      "category": "literature",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B2%D0%B5%D1%80-%D0%9B%D0%B8%D1%82%D1%82%D0%BE%D0%BD,_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q318462#P569",
+      "verified": {
+        "revision": 2562748976,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1803-05-25",
+        "originalCalendar": "gregorian",
+        "claim": "q318462$7B24361A-CF9D-4F8E-B9E2-8B6B0594D385",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57356",
+      "name": "Яйя Джамме",
+      "birthDate": "1965-05-25",
+      "birthYear": 1965,
+      "description": "гамбийский военный и политический деятель, президент Гамбии (1996-2017), председатель Временного правящего совета Гамбии (1994-1996)",
+      "category": "public",
+      "sitelinks": 69,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B0%D0%BC%D0%BC%D0%B5,_%D0%AF%D0%B9%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q57356#P569",
+      "verified": {
+        "revision": 2558286206,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1965-05-25",
+        "originalCalendar": "gregorian",
+        "claim": "q57356$8FBD6261-D4A4-4220-897C-463510BB9662",
+        "references": []
+      }
+    }
+  ]
+}

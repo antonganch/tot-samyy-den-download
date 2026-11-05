@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "01-14",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q49325",
+      "name": "Альберт Швейцер",
+      "birthDate": "1875-01-14",
+      "birthYear": 1875,
+      "description": "немецкий теолог, философ, музыкант и врач",
+      "category": "music",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B5%D1%80,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q49325#P569",
+      "verified": {
+        "revision": 2563983912,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1875-01-14",
+        "originalCalendar": "gregorian",
+        "claim": "q49325$849B3845-A8A7-4D3C-85D0-3A5A55E0B486",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/schweitzer-albert",
+          "https://archives.haut-rhin.fr/ark:/naan/a011455803217rtLw7a/ca76902d35"
+        ]
+      }
+    },
+    {
+      "id": "Q284636",
+      "name": "Джейсон Бейтман",
+      "birthDate": "1969-01-14",
+      "birthYear": 1969,
+      "description": "Американский актёр",
+      "category": "screen",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D1%82%D0%BC%D0%B0%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D1%81%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q284636#P569",
+      "verified": {
+        "revision": 2546581639,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-01-14",
+        "originalCalendar": "gregorian",
+        "claim": "q284636$050D8AEB-DA49-4C16-8A61-68BB244B4550",
+        "references": []
+      }
+    },
+    {
+      "id": "Q134456",
+      "name": "Юкио Мисима",
+      "birthDate": "1925-01-14",
+      "birthYear": 1925,
+      "description": "японский писатель",
+      "category": "literature",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AE%D0%BA%D0%B8%D0%BE_%D0%9C%D0%B8%D1%81%D0%B8%D0%BC%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q134456#P569",
+      "verified": {
+        "revision": 2564941630,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-01-14",
+        "originalCalendar": "gregorian",
+        "claim": "q134456$9C341FDD-7205-4868-9B02-1188C2C0EEC4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q103917",
+      "name": "Стивен Содерберг",
+      "birthDate": "1963-01-14",
+      "birthYear": 1963,
+      "description": "американский кинорежиссёр, продюсер, сценарист, оператор и монтажёр",
+      "category": "screen",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D0%B3,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q103917#P569",
+      "verified": {
+        "revision": 2560670178,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-01-14",
+        "originalCalendar": "gregorian",
+        "claim": "q103917$B6477131-1BF7-4EFE-B3EE-9D639C331D58",
+        "references": []
+      }
+    },
+    {
+      "id": "Q12006",
+      "name": "Дэйв Грол",
+      "birthDate": "1969-01-14",
+      "birthYear": 1969,
+      "description": "американский рок-музыкант",
+      "category": "music",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D0%BB,_%D0%94%D1%8D%D0%B9%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q12006#P569",
+      "verified": {
+        "revision": 2554010758,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-01-14",
+        "originalCalendar": "gregorian",
+        "claim": "q12006$F3152521-511B-4D92-B425-582E51917CA0",
+        "references": []
+      }
+    }
+  ]
+}

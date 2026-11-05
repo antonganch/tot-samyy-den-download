@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "07-25",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q80064",
+      "name": "Элиас Канетти",
+      "birthDate": "1905-07-25",
+      "birthYear": 1905,
+      "description": "австрийский, болгарский, британский писатель, драматург, культуролог, социальный мыслитель",
+      "category": "literature",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B5%D1%82%D1%82%D0%B8,_%D0%AD%D0%BB%D0%B8%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q80064#P569",
+      "verified": {
+        "revision": 2563197990,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1905-07-25",
+        "originalCalendar": "gregorian",
+        "claim": "q80064$A39315EA-47B6-4204-8795-8EC7DCFD2271",
+        "references": []
+      }
+    },
+    {
+      "id": "Q80492",
+      "name": "Гаврило Принцип",
+      "birthDate": "1894-07-25",
+      "birthYear": 1894,
+      "description": "сербско-боснийский террорист, убийца Франца Фердинанда",
+      "category": "other",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF,_%D0%93%D0%B0%D0%B2%D1%80%D0%B8%D0%BB%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q80492#P569",
+      "verified": {
+        "revision": 2558259214,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1894-07-13",
+        "originalCalendar": "julian",
+        "claim": "Q80492$b0fe6276-4d97-a445-45c0-6c82637dda23",
+        "references": []
+      }
+    },
+    {
+      "id": "Q186896",
+      "name": "Мэтт Леблан",
+      "birthDate": "1967-07-25",
+      "birthYear": 1967,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B1%D0%BB%D0%B0%D0%BD,_%D0%9C%D1%8D%D1%82%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q186896#P569",
+      "verified": {
+        "revision": 2560770424,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-07-25",
+        "originalCalendar": "gregorian",
+        "claim": "q186896$5FEE3872-21B5-42CA-92B2-7203CBFB3945",
+        "references": []
+      }
+    },
+    {
+      "id": "Q19008",
+      "name": "Артур Джеймс Бальфур, 1-й граф Бальфур",
+      "birthDate": "1848-07-25",
+      "birthYear": 1848,
+      "description": "британский государственный деятель, 50-й Премьер-министр Великобритании",
+      "category": "public",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D1%8C%D1%84%D1%83%D1%80,_%D0%90%D1%80%D1%82%D1%83%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q19008#P569",
+      "verified": {
+        "revision": 2563035840,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1848-07-25",
+        "originalCalendar": "gregorian",
+        "claim": "q19008$B9BE3D37-75BB-4C36-AEAD-6C8786E876AB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q62786",
+      "name": "Халк",
+      "birthDate": "1986-07-25",
+      "birthYear": 1986,
+      "description": "бразильский футболист",
+      "category": "sport",
+      "sitelinks": 67,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D0%BA_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82)",
+      "source": "https://www.wikidata.org/wiki/Q62786#P569",
+      "verified": {
+        "revision": 2546423478,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-07-25",
+        "originalCalendar": "gregorian",
+        "claim": "q62786$72E02BA7-5683-4C15-8134-0136A34B3BD8",
+        "references": [
+          "https://sportbuzz.uol.com.br/personalidades/hulk-jogador-de-futebol.html"
+        ]
+      }
+    }
+  ]
+}

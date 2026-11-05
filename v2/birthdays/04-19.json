@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "04-19",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q57336",
+      "name": "Али Хаменеи",
+      "birthDate": "1939-04-19",
+      "birthYear": 1939,
+      "description": "иранский религиозный и политический деятель, Высший руководитель Ирана (1989—2026), президент Ирана (1981—1989)",
+      "category": "public",
+      "sitelinks": 161,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BC%D0%B5%D0%BD%D0%B5%D0%B8,_%D0%90%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q57336#P569",
+      "verified": {
+        "revision": 2562263179,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1939-04-19",
+        "originalCalendar": "gregorian",
+        "claim": "q57336$24FA2F08-61E3-46A1-857B-02C5135C26D0",
+        "references": [
+          "https://www.lalibre.be/actualite/personne/ali-khamenei/",
+          "https://farsi.khamenei.ir/memory-content?id=26142#600"
+        ]
+      }
+    },
+    {
+      "id": "Q11666",
+      "name": "Мария Юрьевна Шарапова",
+      "birthDate": "1987-04-19",
+      "birthYear": 1987,
+      "description": "российская теннисистка",
+      "category": "sport",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D1%80%D0%B0%D0%BF%D0%BE%D0%B2%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q11666#P569",
+      "verified": {
+        "revision": 2558154839,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1987-04-19",
+        "originalCalendar": "gregorian",
+        "claim": "q11666$d58d63c2-41a2-036c-16e6-48ccd5995f4d",
+        "references": []
+      }
+    },
+    {
+      "id": "Q169946",
+      "name": "Кейт Хадсон",
+      "birthDate": "1979-04-19",
+      "birthYear": 1979,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B4%D1%81%D0%BE%D0%BD,_%D0%9A%D0%B5%D0%B9%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q169946#P569",
+      "verified": {
+        "revision": 2563921204,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1979-04-19",
+        "originalCalendar": "gregorian",
+        "claim": "q169946$DF0D032C-A621-40EE-8229-5BF2231E780F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q306403",
+      "name": "Джеймс Франко",
+      "birthDate": "1978-04-19",
+      "birthYear": 1978,
+      "description": "американский актёр, кинорежиссёр, сценарист и продюсер (род. 1978)",
+      "category": "screen",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q306403#P569",
+      "verified": {
+        "revision": 2553057383,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-04-19",
+        "originalCalendar": "gregorian",
+        "claim": "Q306403$A06693B3-338E-4A31-BA18-5C4D1F0F51FD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q127349",
+      "name": "Хосе Эчегерай-и-Эйсагирре",
+      "birthDate": "1832-04-19",
+      "birthYear": 1832,
+      "description": "испанский драматург (1832-1916)",
+      "category": "literature",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D1%87%D0%B5%D0%B3%D0%B0%D1%80%D0%B0%D0%B9-%D0%B8-%D0%AD%D0%B9%D1%81%D0%B0%D0%B3%D0%B8%D1%80%D1%80%D0%B5,_%D0%A5%D0%BE%D1%81%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q127349#P569",
+      "verified": {
+        "revision": 2564816159,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1832-04-19",
+        "originalCalendar": "gregorian",
+        "claim": "q127349$906AEC82-BE34-4591-BE24-30DAEE07931B",
+        "references": []
+      }
+    }
+  ]
+}

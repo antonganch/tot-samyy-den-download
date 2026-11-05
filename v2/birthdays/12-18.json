@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "12-18",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8877",
+      "name": "Стивен Спилберг",
+      "birthDate": "1946-12-18",
+      "birthYear": 1946,
+      "description": "американский режиссёр, продюсер и сценарист (род. 1946)",
+      "category": "screen",
+      "sitelinks": 171,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D0%BB%D0%B1%D0%B5%D1%80%D0%B3,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q8877#P569",
+      "verified": {
+        "revision": 2558246098,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-12-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q8877$947C027F-0D57-4B93-861E-113E38458992",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/spielberg-steven"
+        ]
+      }
+    },
+    {
+      "id": "Q35332",
+      "name": "Брэд Питт",
+      "birthDate": "1963-12-18",
+      "birthYear": 1963,
+      "description": "американский актёр и кинопродюсер (род. 1963)",
+      "category": "screen",
+      "sitelinks": 147,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%82%D1%82,_%D0%91%D1%80%D1%8D%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q35332#P569",
+      "verified": {
+        "revision": 2561658216,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-12-18",
+        "originalCalendar": "gregorian",
+        "claim": "q35332$50AC0E0F-7516-41F6-AB17-AC2C50567E2B",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/pitt-brad"
+        ]
+      }
+    },
+    {
+      "id": "Q29564107",
+      "name": "Билли Айлиш",
+      "birthDate": "2001-12-18",
+      "birthYear": 2001,
+      "description": "американская певица и автор песен (2001—)",
+      "category": "music",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9%D0%BB%D0%B8%D1%88,_%D0%91%D0%B8%D0%BB%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q29564107#P569",
+      "verified": {
+        "revision": 2563001032,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "2001-12-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q29564107$95328a95-4a10-2322-5211-529da526ba48",
+        "references": [
+          "https://en.geneastar.org/genealogy/oconnellbil/billie-eilish"
+        ]
+      }
+    },
+    {
+      "id": "Q47285",
+      "name": "Джозеф Джон Томсон",
+      "birthDate": "1856-12-18",
+      "birthYear": 1856,
+      "description": "британский физик",
+      "category": "science",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D1%81%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q47285#P569",
+      "verified": {
+        "revision": 2563199987,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1856-12-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q47285$f19c5f7d-4fe2-4562-4d3e-ef9dc225fcb5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2514",
+      "name": "Вилли Брандт",
+      "birthDate": "1913-12-18",
+      "birthYear": 1913,
+      "description": "немецкий политик, социал-демократ, федеральный канцлер ФРГ (1969—1974)",
+      "category": "public",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%BD%D0%B4%D1%82,_%D0%92%D0%B8%D0%BB%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q2514#P569",
+      "verified": {
+        "revision": 2564115285,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1913-12-18",
+        "originalCalendar": "gregorian",
+        "claim": "q2514$6031343B-D602-433B-9D8F-860042EDDC57",
+        "references": []
+      }
+    }
+  ]
+}

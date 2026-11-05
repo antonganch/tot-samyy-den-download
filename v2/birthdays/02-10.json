@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "02-10",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q38757",
+      "name": "Бертольт Брехт",
+      "birthDate": "1898-02-10",
+      "birthYear": 1898,
+      "description": "немецкий драматург и теоретик театрального искусства",
+      "category": "literature",
+      "sitelinks": 156,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D1%85%D1%82,_%D0%91%D0%B5%D1%80%D1%82%D0%BE%D0%BB%D1%8C%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q38757#P569",
+      "verified": {
+        "revision": 2564700376,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1898-02-10",
+        "originalCalendar": "gregorian",
+        "claim": "q38757$0f2c7876-434c-ab3a-8bde-1d2bd9eb9c1b",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/brecht-bertolt-bert"
+        ]
+      }
+    },
+    {
+      "id": "Q41223",
+      "name": "Борис Леонидович Пастернак",
+      "birthDate": "1890-02-10",
+      "birthYear": 1890,
+      "description": "русский писатель",
+      "category": "literature",
+      "sitelinks": 142,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA,_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q41223#P569",
+      "verified": {
+        "revision": 2563199980,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1890-01-29",
+        "originalCalendar": "julian",
+        "claim": "Q41223$41cf8e64-4dce-26b7-7ec2-a50357cc3a4a",
+        "references": []
+      }
+    },
+    {
+      "id": "Q18735049",
+      "name": "Миа Халифа",
+      "birthDate": "1993-02-10",
+      "birthYear": 1993,
+      "description": "американская порноактриса ливанского происхождения",
+      "category": "screen",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BB%D0%B8%D1%84%D0%B0,_%D0%9C%D0%B8%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q18735049#P569",
+      "verified": {
+        "revision": 2564229875,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1993-02-10",
+        "originalCalendar": "gregorian",
+        "claim": "Q18735049$B7F7FDD8-6303-451D-83D4-C48293B7821C",
+        "references": [
+          "https://www.mirror.co.uk/3am/celebrity-news/who-mia-khalifa-everything-you-4921882",
+          "https://adultfilmindex.com/actor/10943/mia-khalifa"
+        ]
+      }
+    },
+    {
+      "id": "Q128985",
+      "name": "Гарольд Макмиллан",
+      "birthDate": "1894-02-10",
+      "birthYear": 1894,
+      "description": "британский политический деятель, аристократ, 65-й Премьер-министр Великобритании",
+      "category": "public",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%BC%D0%B8%D0%BB%D0%BB%D0%B0%D0%BD,_%D0%93%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q128985#P569",
+      "verified": {
+        "revision": 2562991860,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1894-02-10",
+        "originalCalendar": "gregorian",
+        "claim": "q128985$0034E174-28BF-4C1D-8340-B5B7D02057AC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q228598",
+      "name": "Эмма Робертс",
+      "birthDate": "1991-02-10",
+      "birthYear": 1991,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82%D1%81,_%D0%AD%D0%BC%D0%BC%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q228598#P569",
+      "verified": {
+        "revision": 2563975117,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1991-02-10",
+        "originalCalendar": "gregorian",
+        "claim": "Q228598$431223F6-611E-450D-951B-AEBDF8B8E501",
+        "references": []
+      }
+    }
+  ]
+}

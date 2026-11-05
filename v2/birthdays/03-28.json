@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "03-28",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q19848",
+      "name": "Леди Гага",
+      "birthDate": "1986-03-28",
+      "birthYear": 1986,
+      "description": "американская певица, автор песен, актриса и активистка (род. 1986)",
+      "category": "screen",
+      "sitelinks": 198,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B4%D0%B8_%D0%93%D0%B0%D0%B3%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q19848#P569",
+      "verified": {
+        "revision": 2563804371,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-03-28",
+        "originalCalendar": "gregorian",
+        "claim": "Q19848$50C6F246-9D32-409B-AEF7-2147FB79D67D",
+        "references": [
+          "https://books.google.com/books?id=i_AIO-T8TY4C&printsec=frontcover&dq=isbn:1440801096&hl=en&sa=X&ved=0ahUKEwiHrO6olazTAhVDzIMKHZ_fBc0Q6AEIJTAA#v=onepage&q&f=false",
+          "https://brockhaus.de/ecs/julex/article/lady-gaga"
+        ]
+      }
+    },
+    {
+      "id": "Q12706",
+      "name": "Максим Горький",
+      "birthDate": "1868-03-28",
+      "birthYear": 1868,
+      "description": "русский писатель, прозаик, драматург (1868–1936)",
+      "category": "literature",
+      "sitelinks": 182,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%B8%D0%B9,_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q12706#P569",
+      "verified": {
+        "revision": 2564394189,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1868-03-16",
+        "originalCalendar": "julian",
+        "claim": "Q12706$d9867328-4542-a5db-ede6-270606e385f4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q39803",
+      "name": "Марио Варгас Льоса",
+      "birthDate": "1936-03-28",
+      "birthYear": 1936,
+      "description": "перуанский автор (1936—2025)",
+      "category": "other",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D0%B3%D0%B0%D1%81_%D0%9B%D1%8C%D0%BE%D1%81%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q39803#P569",
+      "verified": {
+        "revision": 2563195683,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1936-03-28",
+        "originalCalendar": "gregorian",
+        "claim": "q39803$82A12364-499E-49EF-9B84-1DF213BEEE51",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/vargas-llosa-mario"
+        ]
+      }
+    },
+    {
+      "id": "Q457786",
+      "name": "Родриго Роа Дутерте",
+      "birthDate": "1945-03-28",
+      "birthYear": 1945,
+      "description": "президент Филиппин (2016—2022), политик",
+      "category": "public",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D1%82%D0%B5%D1%80%D1%82%D0%B5,_%D0%A0%D0%BE%D0%B4%D1%80%D0%B8%D0%B3%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q457786#P569",
+      "verified": {
+        "revision": 2564787544,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1945-03-28",
+        "originalCalendar": "gregorian",
+        "claim": "Q457786$38C021CF-5965-4BDF-A7B1-B5D3D8BF2900",
+        "references": []
+      }
+    },
+    {
+      "id": "Q229430",
+      "name": "Риба Макинтайр",
+      "birthDate": "1955-03-28",
+      "birthYear": 1955,
+      "description": "американская певица в стиле кантри",
+      "category": "music",
+      "sitelinks": 65,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B8%D0%BD%D1%82%D0%B0%D0%B9%D1%80,_%D0%A0%D0%B8%D0%B1%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q229430#P569",
+      "verified": {
+        "revision": 2563744654,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-03-28",
+        "originalCalendar": "gregorian",
+        "claim": "q229430$CCCC548A-CDDD-4FD9-BD82-0AB718BE18D7",
+        "references": []
+      }
+    }
+  ]
+}

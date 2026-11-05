@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "08-19",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1124",
+      "name": "Билл Клинтон",
+      "birthDate": "1946-08-19",
+      "birthYear": 1946,
+      "description": "американский политик-демократ, 42-й президент США (1993—2001)",
+      "category": "public",
+      "sitelinks": 223,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D1%82%D0%BE%D0%BD,_%D0%91%D0%B8%D0%BB%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q1124#P569",
+      "verified": {
+        "revision": 2563457090,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-08-19",
+        "originalCalendar": "gregorian",
+        "claim": "q1124$CD6037A8-09CD-4A3A-9565-D890C3BBD327",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/bill-clinton"
+        ]
+      }
+    },
+    {
+      "id": "Q45661",
+      "name": "Коко Шанель",
+      "birthDate": "1883-08-19",
+      "birthYear": 1883,
+      "description": "французский модельер",
+      "category": "other",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%BD%D0%B5%D0%BB%D1%8C,_%D0%9A%D0%BE%D0%BA%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q45661#P569",
+      "verified": {
+        "revision": 2562969218,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1883-08-19",
+        "originalCalendar": "gregorian",
+        "claim": "q45661$106F0F2F-704E-4F42-99A8-D1E02C8EAFE4",
+        "references": [
+          "https://recherche-archives.maine-et-loire.fr/v2/ark:/71821/7021f30cc410b83f388721b5d8034474"
+        ]
+      }
+    },
+    {
+      "id": "Q171758",
+      "name": "Мэттью Перри",
+      "birthDate": "1969-08-19",
+      "birthYear": 1969,
+      "description": "американо-канадский актёр",
+      "category": "screen",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%80%D0%B8,_%D0%9C%D1%8D%D1%82%D1%82%D1%8C%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q171758#P569",
+      "verified": {
+        "revision": 2561630867,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-08-19",
+        "originalCalendar": "gregorian",
+        "claim": "q171758$A3A74A33-2574-43AC-BB7A-2F91B2702CC8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q213355",
+      "name": "Джон Драйден",
+      "birthDate": "1631-08-19",
+      "birthYear": 1631,
+      "description": "английский поэт, драматург, критик, баснописец",
+      "category": "literature",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B0%D0%B9%D0%B4%D0%B5%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q213355#P569",
+      "verified": {
+        "revision": 2564770600,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1631-08-09",
+        "originalCalendar": "julian",
+        "claim": "q213355$9D11D1AD-54E8-4CC5-985F-6170F9DD6103",
+        "references": []
+      }
+    },
+    {
+      "id": "Q191716",
+      "name": "Джин Родденберри",
+      "birthDate": "1921-08-19",
+      "birthYear": 1921,
+      "description": "американский сценарист и продюсер, наиболее известный, как создатель научно-фантастического телесериала «Звёздный путь» (1921–1991)",
+      "category": "screen",
+      "sitelinks": 61,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%B4%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D1%80%D0%B8,_%D0%94%D0%B6%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q191716#P569",
+      "verified": {
+        "revision": 2563771507,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1921-08-19",
+        "originalCalendar": "gregorian",
+        "claim": "q191716$C007D0A6-F15B-4A4C-BDBD-C9496610C897",
+        "references": [
+          "https://www.britannica.com/biography/Gene-Roddenberry"
+        ]
+      }
+    }
+  ]
+}

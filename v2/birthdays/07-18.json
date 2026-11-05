@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "07-18",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8023",
+      "name": "Нельсон Мандела",
+      "birthDate": "1918-07-18",
+      "birthYear": 1918,
+      "description": "южноафриканский политик, борец против апартеида, президент ЮАР (1994-1999)",
+      "category": "public",
+      "sitelinks": 296,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D0%B5%D0%BB%D0%B0,_%D0%9D%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q8023#P569",
+      "verified": {
+        "revision": 2564815264,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1918-07-18",
+        "originalCalendar": "gregorian",
+        "claim": "q8023$a1361a06-4365-7259-78a6-002fadb33198",
+        "references": []
+      }
+    },
+    {
+      "id": "Q158957",
+      "name": "Приянка Чопра",
+      "birthDate": "1982-07-18",
+      "birthYear": 1982,
+      "description": "индийская актриса, модель и певица (р. 1982)",
+      "category": "screen",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%BE%D0%BF%D1%80%D0%B0,_%D0%9F%D1%80%D0%B8%D1%8F%D0%BD%D0%BA%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q158957#P569",
+      "verified": {
+        "revision": 2563901273,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1982-07-18",
+        "originalCalendar": "gregorian",
+        "claim": "Q158957$280D999A-1B68-4C29-B703-C4927F3A41AC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41688",
+      "name": "Хендрик Антон Лоренц",
+      "birthDate": "1853-07-18",
+      "birthYear": 1853,
+      "description": "голландский физик",
+      "category": "science",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%80%D0%B5%D0%BD%D1%86,_%D0%A5%D0%B5%D0%BD%D0%B4%D1%80%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q41688#P569",
+      "verified": {
+        "revision": 2563197003,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1853-07-18",
+        "originalCalendar": "gregorian",
+        "claim": "q41688$C06134F9-A379-4813-93B8-41731F973987",
+        "references": []
+      }
+    },
+    {
+      "id": "Q178166",
+      "name": "Вин Дизель",
+      "birthDate": "1967-07-18",
+      "birthYear": 1967,
+      "description": "американский актёр, продюсер, режиссёр и сценарист (род. 1967)",
+      "category": "screen",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD_%D0%94%D0%B8%D0%B7%D0%B5%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q178166#P569",
+      "verified": {
+        "revision": 2547788967,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-07-18",
+        "originalCalendar": "gregorian",
+        "claim": "q178166$CC42D949-1E3F-4A00-8017-8BE4D4BAB045",
+        "references": []
+      }
+    },
+    {
+      "id": "Q167768",
+      "name": "Уильям Мейкпис Теккерей",
+      "birthDate": "1811-07-18",
+      "birthYear": 1811,
+      "description": "английский писатель и драматург (1811—1863)",
+      "category": "literature",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BA%D0%BA%D0%B5%D1%80%D0%B5%D0%B9,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%9C%D0%B5%D0%B9%D0%BA%D0%BF%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q167768#P569",
+      "verified": {
+        "revision": 2562743999,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1811-07-18",
+        "originalCalendar": "gregorian",
+        "claim": "q167768$D3C31E13-D088-4D38-AC98-C44A85818DB6",
+        "references": []
+      }
+    }
+  ]
+}

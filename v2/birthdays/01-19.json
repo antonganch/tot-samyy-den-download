@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "01-19",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q16867",
+      "name": "Эдгар Аллан По",
+      "birthDate": "1809-01-19",
+      "birthYear": 1809,
+      "description": "американский писатель, поэт, литературный критик и редактор (1809—1849)",
+      "category": "literature",
+      "sitelinks": 225,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE,_%D0%AD%D0%B4%D0%B3%D0%B0%D1%80_%D0%90%D0%BB%D0%BB%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q16867#P569",
+      "verified": {
+        "revision": 2564768211,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1809-01-19",
+        "originalCalendar": "gregorian",
+        "claim": "q16867$DDD86B3A-CEED-494F-8111-B981927B3613",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/poe-edgar-allan",
+          "https://cs.isabart.org/person/13400"
+        ]
+      }
+    },
+    {
+      "id": "Q9041",
+      "name": "Джеймс Уатт",
+      "birthDate": "1736-01-19",
+      "birthYear": 1736,
+      "description": "шотландский изобретатель и инженер",
+      "category": "science",
+      "sitelinks": 160,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B0%D1%82%D1%82,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q9041#P569",
+      "verified": {
+        "revision": 2564377121,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1736-01-19",
+        "originalCalendar": "gregorian",
+        "claim": "q9041$7018FC8B-AE76-41AB-91DA-4739B2F936C3",
+        "references": []
+      }
+    },
+    {
+      "id": "Q35548",
+      "name": "Поль Сезанн",
+      "birthDate": "1839-01-19",
+      "birthYear": 1839,
+      "description": "французский художник-живописец, яркий представитель постимпрессионизма",
+      "category": "art",
+      "sitelinks": 141,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B7%D0%B0%D0%BD%D0%BD,_%D0%9F%D0%BE%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q35548#P569",
+      "verified": {
+        "revision": 2564850484,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1839-01-19",
+        "originalCalendar": "gregorian",
+        "claim": "q35548$646A9DEA-E61C-4500-82F7-719EFF4B92B7",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/cezanne-paul"
+        ]
+      }
+    },
+    {
+      "id": "Q180453",
+      "name": "Долли Партон",
+      "birthDate": "1946-01-19",
+      "birthYear": 1946,
+      "description": "американская кантри-певица и киноактриса",
+      "category": "screen",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D1%82%D0%BE%D0%BD,_%D0%94%D0%BE%D0%BB%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q180453#P569",
+      "verified": {
+        "revision": 2564107625,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-01-19",
+        "originalCalendar": "gregorian",
+        "claim": "q180453$DCE2FA05-7335-4796-88C4-B58C10B11503",
+        "references": []
+      }
+    },
+    {
+      "id": "Q12718",
+      "name": "Огюст Конт",
+      "birthDate": "1798-01-19",
+      "birthYear": 1798,
+      "description": "французский философ",
+      "category": "literature",
+      "sitelinks": 133,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82,_%D0%9E%D0%B3%D1%8E%D1%81%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q12718#P569",
+      "verified": {
+        "revision": 2557805068,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1798-01-19",
+        "originalCalendar": "gregorian",
+        "claim": "q12718$5EE2D867-2E3D-47E9-86F3-D7D5F117D442",
+        "references": []
+      }
+    }
+  ]
+}

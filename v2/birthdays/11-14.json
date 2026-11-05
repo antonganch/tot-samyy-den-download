@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "11-14",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1047",
+      "name": "Джавахарлал Неру",
+      "birthDate": "1889-11-14",
+      "birthYear": 1889,
+      "description": "индийский политический деятель, премьер-министр Индии",
+      "category": "public",
+      "sitelinks": 193,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%80%D1%83,_%D0%94%D0%B6%D0%B0%D0%B2%D0%B0%D1%85%D0%B0%D1%80%D0%BB%D0%B0%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q1047#P569",
+      "verified": {
+        "revision": 2563828968,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1889-11-14",
+        "originalCalendar": "gregorian",
+        "claim": "q1047$81508983-0AFA-400C-90E0-138C71F18B70",
+        "references": [
+          "https://www.culturalindia.net/leaders/jawaharlal-nehru.html"
+        ]
+      }
+    },
+    {
+      "id": "Q296",
+      "name": "Клод Моне",
+      "birthDate": "1840-11-14",
+      "birthYear": 1840,
+      "description": "французский художник",
+      "category": "art",
+      "sitelinks": 159,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B5,_%D0%9A%D0%BB%D0%BE%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q296#P569",
+      "verified": {
+        "revision": 2562946916,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1840-11-14",
+        "originalCalendar": "gregorian",
+        "claim": "q296$0E86533C-BE55-4BF7-B073-90370856589B",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/monet-claude"
+        ]
+      }
+    },
+    {
+      "id": "Q19794",
+      "name": "Джош Дюамель",
+      "birthDate": "1972-11-14",
+      "birthYear": 1972,
+      "description": "американский актёр и бывшая фотомодель",
+      "category": "screen",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%8E%D0%B0%D0%BC%D0%B5%D0%BB%D1%8C,_%D0%94%D0%B6%D0%BE%D1%88",
+      "source": "https://www.wikidata.org/wiki/Q19794#P569",
+      "verified": {
+        "revision": 2546589686,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-11-14",
+        "originalCalendar": "gregorian",
+        "claim": "q19794$b46a6b4c-48a6-2eb4-8f44-589154abdd94",
+        "references": []
+      }
+    },
+    {
+      "id": "Q55767",
+      "name": "Астрид Линдгрен",
+      "birthDate": "1907-11-14",
+      "birthYear": 1907,
+      "description": "шведская писательница (1907—2002)",
+      "category": "literature",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D0%B4%D0%B3%D1%80%D0%B5%D0%BD,_%D0%90%D1%81%D1%82%D1%80%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q55767#P569",
+      "verified": {
+        "revision": 2563884132,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-11-14",
+        "originalCalendar": "gregorian",
+        "claim": "q55767$D171E094-6027-4B0F-9A28-4A7B084D5CF8",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/lindgren-astrid"
+        ]
+      }
+    },
+    {
+      "id": "Q1257",
+      "name": "Бутрос Бутрос-Гали",
+      "birthDate": "1922-11-14",
+      "birthYear": 1922,
+      "description": "египетский дипломат генеральный секретарь ООН (1992-1996), министр иностранных дел Египта (1977-1991)",
+      "category": "other",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%82%D1%80%D0%BE%D1%81-%D0%93%D0%B0%D0%BB%D0%B8,_%D0%91%D1%83%D1%82%D1%80%D0%BE%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q1257#P569",
+      "verified": {
+        "revision": 2563457474,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-11-14",
+        "originalCalendar": "gregorian",
+        "claim": "q1257$5310F738-F8BB-4C49-A9EC-DF1D0D79B592",
+        "references": []
+      }
+    }
+  ]
+}

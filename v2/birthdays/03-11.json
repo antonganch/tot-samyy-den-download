@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "day": "03-11",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q42",
+      "name": "Дуглас Адамс",
+      "birthDate": "1952-03-11",
+      "birthYear": 1952,
+      "description": "английский писатель, драматург и сценарист и юморист (1952—2001)",
+      "category": "screen",
+      "sitelinks": 133,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%BC%D1%81,_%D0%94%D1%83%D0%B3%D0%BB%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q42#P569",
+      "verified": {
+        "revision": 2563066692,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1952-03-11",
+        "originalCalendar": "gregorian",
+        "claim": "q42$D8404CDA-25E4-4334-AF13-A3290BCD9C0F",
+        "references": [
+          "https://www.wired.com/2012/03/i-miss-douglas-adams/"
+        ]
+      }
+    },
+    {
+      "id": "Q48892",
+      "name": "Дидье Дрогба",
+      "birthDate": "1978-03-11",
+      "birthYear": 1978,
+      "description": "ивуарийский футболист",
+      "category": "sport",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%BE%D0%B3%D0%B1%D0%B0,_%D0%94%D0%B8%D0%B4%D1%8C%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q48892#P569",
+      "verified": {
+        "revision": 2551813544,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-03-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q48892$54595508-4918-4A21-8D8E-8F723FB3EC3C",
+        "references": [
+          "https://www.uslchampionship.com/didier-drogba"
+        ]
+      }
+    },
+    {
+      "id": "Q128956",
+      "name": "Гарольд Вильсон",
+      "birthDate": "1916-03-11",
+      "birthYear": 1916,
+      "description": "британский политик, 67-й и 69-й Премьер-министр Великобритании",
+      "category": "public",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D1%81%D0%BE%D0%BD,_%D0%93%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q128956#P569",
+      "verified": {
+        "revision": 2562947473,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1916-03-11",
+        "originalCalendar": "gregorian",
+        "claim": "q128956$48183138-4F2C-4BB1-A258-061FC253C1BF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q53944",
+      "name": "Руперт Мёрдок",
+      "birthDate": "1931-03-11",
+      "birthYear": 1931,
+      "description": "австралийский бизнесмен, медиамагнат",
+      "category": "other",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%91%D1%80%D0%B4%D0%BE%D0%BA,_%D0%A0%D1%83%D0%BF%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q53944#P569",
+      "verified": {
+        "revision": 2545924080,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1931-03-11",
+        "originalCalendar": "gregorian",
+        "claim": "q53944$7718C59E-0575-48A4-97DE-098988A903B3",
+        "references": [
+          "https://nymag.com/intelligencer/2008/04/rupert_murdoch_and_robert_thom.html",
+          "https://www.britannica.com/biography/Rupert-Murdoch"
+        ]
+      }
+    },
+    {
+      "id": "Q189987",
+      "name": "Николас Бломберген",
+      "birthDate": "1920-03-11",
+      "birthYear": 1920,
+      "description": "американский физик нидерландского происхождения",
+      "category": "science",
+      "sitelinks": 77,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%BE%D0%BC%D0%B1%D0%B5%D1%80%D0%B3%D0%B5%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q189987#P569",
+      "verified": {
+        "revision": 2563199131,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1920-03-11",
+        "originalCalendar": "gregorian",
+        "claim": "q189987$D4F87019-3F50-4241-9151-933121D2D1A5",
+        "references": []
+      }
+    }
+  ]
+}

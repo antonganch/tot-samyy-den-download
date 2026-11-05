@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "07-21",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q23434",
+      "name": "Эрнест Хемингуэй",
+      "birthDate": "1899-07-21",
+      "birthYear": 1899,
+      "description": "американский писатель и журналист (1899–1961)",
+      "category": "literature",
+      "sitelinks": 209,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BC%D0%B8%D0%BD%D0%B3%D1%83%D1%8D%D0%B9,_%D0%AD%D1%80%D0%BD%D0%B5%D1%81%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q23434#P569",
+      "verified": {
+        "revision": 2563197752,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1899-07-21",
+        "originalCalendar": "gregorian",
+        "claim": "q23434$E38C2A40-125E-4EB6-B404-AB7962D8C3AE",
+        "references": [
+          "https://www.loc.gov/item/today-in-history/july-21/",
+          "https://brockhaus.de/ecs/julex/article/hemingway-ernest-miller"
+        ]
+      }
+    },
+    {
+      "id": "Q83338",
+      "name": "Робин Уильямс",
+      "birthDate": "1951-07-21",
+      "birthYear": 1951,
+      "description": "американский актёр и комик (1951–2014)",
+      "category": "screen",
+      "sitelinks": 163,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q83338#P569",
+      "verified": {
+        "revision": 2564549494,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1951-07-21",
+        "originalCalendar": "gregorian",
+        "claim": "q83338$773AA619-2301-4A06-A5CF-42BCDEA80E19",
+        "references": []
+      }
+    },
+    {
+      "id": "Q28967995",
+      "name": "Эрлинг Холанн",
+      "birthDate": "2000-07-21",
+      "birthYear": 2000,
+      "description": "норвежский футболист",
+      "category": "sport",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%B0%D0%BD%D0%BD,_%D0%AD%D1%80%D0%BB%D0%B8%D0%BD%D0%B3",
+      "source": "https://www.wikidata.org/wiki/Q28967995#P569",
+      "verified": {
+        "revision": 2562951634,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "2000-07-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q28967995$7FFA2D17-FBFC-44BB-BF4F-4A8ADFE6A20C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q193871",
+      "name": "Маршалл Маклюэн",
+      "birthDate": "1911-07-21",
+      "birthYear": 1911,
+      "description": "канадский философ, филолог, литературный критик",
+      "category": "literature",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%BB%D1%8E%D1%8D%D0%BD,_%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q193871#P569",
+      "verified": {
+        "revision": 2558157630,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1911-07-21",
+        "originalCalendar": "gregorian",
+        "claim": "q193871$043BD659-5960-4B74-8AE5-D49C31191926",
+        "references": []
+      }
+    },
+    {
+      "id": "Q154216",
+      "name": "Кэт Стивенс",
+      "birthDate": "1948-07-21",
+      "birthYear": 1948,
+      "description": "британский музыкант",
+      "category": "music",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%82_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q154216#P569",
+      "verified": {
+        "revision": 2561669796,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1948-07-21",
+        "originalCalendar": "gregorian",
+        "claim": "q154216$4C186109-B646-4A3E-A505-D02BF026FE96",
+        "references": []
+      }
+    }
+  ]
+}

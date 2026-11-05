@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "11-09",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q42831",
+      "name": "Иван Сергеевич Тургенев",
+      "birthDate": "1818-11-09",
+      "birthYear": 1818,
+      "description": "русский писатель, поэт, публицист, драматург и переводчик (1818—1883)",
+      "category": "literature",
+      "sitelinks": 153,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2,_%D0%98%D0%B2%D0%B0%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q42831#P569",
+      "verified": {
+        "revision": 2557939154,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1818-10-28",
+        "originalCalendar": "julian",
+        "claim": "q42831$d786ed3f-4221-0e7c-5be8-51852eb5dfd3",
+        "references": [
+          "https://bigenc.ru/literature/text/4209835"
+        ]
+      }
+    },
+    {
+      "id": "Q410",
+      "name": "Карл Эдвард Саган",
+      "birthDate": "1934-11-09",
+      "birthYear": 1934,
+      "description": "американский астроном, астрофизик и популяризатор науки (1934–1996)",
+      "category": "science",
+      "sitelinks": 144,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B3%D0%B0%D0%BD,_%D0%9A%D0%B0%D1%80%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q410#P569",
+      "verified": {
+        "revision": 2563352718,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1934-11-09",
+        "originalCalendar": "gregorian",
+        "claim": "q410$144DA533-3A18-473E-8C80-4D9862623479",
+        "references": []
+      }
+    },
+    {
+      "id": "Q49034",
+      "name": "Хэди Ламарр",
+      "birthDate": "1914-11-09",
+      "birthYear": 1914,
+      "description": "популярная в 1930—1940-е годы австрийская, а затем американская актриса кино, а также изобретательница",
+      "category": "screen",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%B4%D0%B8_%D0%9B%D0%B0%D0%BC%D0%B0%D1%80%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q49034#P569",
+      "verified": {
+        "revision": 2564037211,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1914-11-09",
+        "originalCalendar": "gregorian",
+        "claim": "q49034$05DADD89-682C-4B17-BB04-2F58E92C6245",
+        "references": [
+          "https://www.worldcat.org/title/beautiful-the-life-of-hedy-lamarr/oclc/862734034/viewport"
+        ]
+      }
+    },
+    {
+      "id": "Q47755",
+      "name": "Имре Кертес",
+      "birthDate": "1929-11-09",
+      "birthYear": 1929,
+      "description": "венгерский писатель (1929-2016)",
+      "category": "literature",
+      "sitelinks": 104,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D1%80%D1%82%D0%B5%D1%81,_%D0%98%D0%BC%D1%80%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q47755#P569",
+      "verified": {
+        "revision": 2564765402,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1929-11-09",
+        "originalCalendar": "gregorian",
+        "claim": "q47755$BB1A1C3E-D3F3-4C60-A24D-FB3D442310A1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q484141",
+      "name": "Мухаммад Икбал",
+      "birthDate": "1877-11-09",
+      "birthYear": 1877,
+      "description": "поэт, политик и общественный деятель Британской Индии, учёный, адвокат",
+      "category": "public",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%BA%D0%B1%D0%B0%D0%BB,_%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q484141#P569",
+      "verified": {
+        "revision": 2563017627,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1877-11-09",
+        "originalCalendar": "gregorian",
+        "claim": "q484141$05a0f563-4b22-221e-d29a-f960752277e1",
+        "references": [
+          "https://www.proquest.com/openview/7f255e11fabfd86e8f5d5ec6fb8df0d8/1?cbl=1817606&pq-origsite=gscholar"
+        ]
+      }
+    }
+  ]
+}

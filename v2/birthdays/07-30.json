@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "07-30",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8768",
+      "name": "Генри Форд",
+      "birthDate": "1863-07-30",
+      "birthYear": 1863,
+      "description": "американский промышленник, основатель корпорации Ford",
+      "category": "other",
+      "sitelinks": 204,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%B4,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q8768#P569",
+      "verified": {
+        "revision": 2562815694,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1863-07-30",
+        "originalCalendar": "gregorian",
+        "claim": "q8768$081BD322-5348-47AD-B5CA-B65E9ADC9C3F",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/ford-henry"
+        ]
+      }
+    },
+    {
+      "id": "Q2685",
+      "name": "Арнольд Шварцнеггер",
+      "birthDate": "1947-07-30",
+      "birthYear": 1947,
+      "description": "американский культурист, бизнесмен и актёр австрийского происхождения, губернатор Калифорнии (2003—2011)",
+      "category": "screen",
+      "sitelinks": 155,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D1%80%D1%86%D0%B5%D0%BD%D0%B5%D0%B3%D0%B3%D0%B5%D1%80,_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q2685#P569",
+      "verified": {
+        "revision": 2563915868,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-07-30",
+        "originalCalendar": "gregorian",
+        "claim": "q2685$36B0182B-969A-42B7-9ACC-46CD77733E28",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/schwarzenegger-arnold"
+        ]
+      }
+    },
+    {
+      "id": "Q80137",
+      "name": "Эмили Бронте",
+      "birthDate": "1818-07-30",
+      "birthYear": 1818,
+      "description": "английская писательница и поэтесса (1818–1848)",
+      "category": "literature",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BD%D1%82%D0%B5,_%D0%AD%D0%BC%D0%B8%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q80137#P569",
+      "verified": {
+        "revision": 2559098110,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1818-07-30",
+        "originalCalendar": "gregorian",
+        "claim": "q80137$21D64C91-1EDE-4644-9E1D-9D73763DF59E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q93187",
+      "name": "Хилари Суонк",
+      "birthDate": "1974-07-30",
+      "birthYear": 1974,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%8D%D0%BD%D0%BA,_%D0%A5%D0%B8%D0%BB%D0%B0%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q93187#P569",
+      "verified": {
+        "revision": 2561296376,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-07-30",
+        "originalCalendar": "gregorian",
+        "claim": "q93187$259529AB-9188-40A9-9153-69D71F33B20A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q222944",
+      "name": "Патрик Модиано",
+      "birthDate": "1945-07-30",
+      "birthYear": 1945,
+      "description": "французский писатель",
+      "category": "literature",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%B8%D0%B0%D0%BD%D0%BE,_%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q222944#P569",
+      "verified": {
+        "revision": 2563065428,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1945-07-30",
+        "originalCalendar": "gregorian",
+        "claim": "Q222944$1C6502B3-C5A3-4D0E-B6AB-FBE1170F4FC3",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/modiano-patrick"
+        ]
+      }
+    }
+  ]
+}

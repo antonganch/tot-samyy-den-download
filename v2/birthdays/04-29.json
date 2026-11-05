@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "04-29",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q221310",
+      "name": "Анггун",
+      "birthDate": "1974-04-29",
+      "birthYear": 1974,
+      "description": "индонезийская поп-певица и автор песен в стиле RnB",
+      "category": "music",
+      "sitelinks": 151,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%B3%D1%83%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q221310#P569",
+      "verified": {
+        "revision": 2564266803,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-04-29",
+        "originalCalendar": "gregorian",
+        "claim": "Q221310$28498AA1-E94D-40CC-ADBD-53A854775A21",
+        "references": [
+          "https://www.imdb.com/name/nm1163076/bio"
+        ]
+      }
+    },
+    {
+      "id": "Q34479",
+      "name": "Император Сёва",
+      "birthDate": "1901-04-29",
+      "birthYear": 1901,
+      "description": "124-й Император Японии",
+      "category": "public",
+      "sitelinks": 157,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D1%80%D0%BE%D1%85%D0%B8%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q34479#P569",
+      "verified": {
+        "revision": 2560452167,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-04-29",
+        "originalCalendar": "gregorian",
+        "claim": "q34479$AF9E9644-FD70-4F64-B7E5-72E129370890",
+        "references": []
+      }
+    },
+    {
+      "id": "Q81082",
+      "name": "Анри Пуанкаре",
+      "birthDate": "1854-04-29",
+      "birthYear": 1854,
+      "description": "французский математик, физик, астроном и философ",
+      "category": "science",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D0%B0%D0%BD%D0%BA%D0%B0%D1%80%D0%B5,_%D0%90%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q81082#P569",
+      "verified": {
+        "revision": 2559623536,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1854-04-29",
+        "originalCalendar": "gregorian",
+        "claim": "Q81082$34ADA538-9DBB-4603-862B-D406C4054D34",
+        "references": []
+      }
+    },
+    {
+      "id": "Q166389",
+      "name": "Дэниел Дэй-Льюис",
+      "birthDate": "1957-04-29",
+      "birthYear": 1957,
+      "description": "британско актёр",
+      "category": "screen",
+      "sitelinks": 104,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%8D%D0%B9-%D0%9B%D1%8C%D1%8E%D0%B8%D1%81,_%D0%94%D1%8D%D0%BD%D0%B8%D0%B5%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q166389#P569",
+      "verified": {
+        "revision": 2562911489,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1957-04-29",
+        "originalCalendar": "gregorian",
+        "claim": "q166389$C8C60E45-77DC-4D7B-BA27-441D53366A15",
+        "references": []
+      }
+    },
+    {
+      "id": "Q125017",
+      "name": "Ума Турман",
+      "birthDate": "1970-04-29",
+      "birthYear": 1970,
+      "description": "американская актриса (род. 1970)",
+      "category": "screen",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%BC%D0%B0%D0%BD,_%D0%A3%D0%BC%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q125017#P569",
+      "verified": {
+        "revision": 2563999398,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1970-04-29",
+        "originalCalendar": "gregorian",
+        "claim": "q125017$F5A9B2F5-7190-4302-987D-540C5E3B247A",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "03-30",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5582",
+      "name": "Винсент Ван Гог",
+      "birthDate": "1853-03-30",
+      "birthYear": 1853,
+      "description": "нидерландский художник-постимпрессионист",
+      "category": "art",
+      "sitelinks": 268,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD_%D0%93%D0%BE%D0%B3,_%D0%92%D0%B8%D0%BD%D1%81%D0%B5%D0%BD%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q5582#P569",
+      "verified": {
+        "revision": 2564802191,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1853-03-30",
+        "originalCalendar": "gregorian",
+        "claim": "q5582$9c6446cb-4e57-d8bc-5849-be09830515c3",
+        "references": [
+          "https://westbrabantsarchief.nl/collectie/voorouders/deeds/8759da72-f8d9-11df-a690-cd95c1e286e2?person=c5de19da-f8dd-11df-a690-cd95c1e286e2"
+        ]
+      }
+    },
+    {
+      "id": "Q5432",
+      "name": "Франсиско Гойя",
+      "birthDate": "1746-03-30",
+      "birthYear": 1746,
+      "description": "испанский художник",
+      "category": "art",
+      "sitelinks": 188,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B9%D1%8F,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D1%81%D0%BA%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q5432#P569",
+      "verified": {
+        "revision": 2564818026,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1746-03-30",
+        "originalCalendar": "gregorian",
+        "claim": "q5432$A215CB09-77C8-47BE-8441-8ED371A08BED",
+        "references": []
+      }
+    },
+    {
+      "id": "Q5105",
+      "name": "Селин Дион",
+      "birthDate": "1968-03-30",
+      "birthYear": 1968,
+      "description": "канадская певица",
+      "category": "music",
+      "sitelinks": 162,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BE%D0%BD,_%D0%A1%D0%B5%D0%BB%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q5105#P569",
+      "verified": {
+        "revision": 2564360544,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-03-30",
+        "originalCalendar": "gregorian",
+        "claim": "q5105$623cc379-4aa5-e3aa-de34-4801930c9cbe",
+        "references": []
+      }
+    },
+    {
+      "id": "Q755",
+      "name": "Поль Верлен",
+      "birthDate": "1844-03-30",
+      "birthYear": 1844,
+      "description": "французский поэт XIX века",
+      "category": "literature",
+      "sitelinks": 118,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%80%D0%BB%D0%B5%D0%BD,_%D0%9F%D0%BE%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q755#P569",
+      "verified": {
+        "revision": 2564775677,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1844-03-30",
+        "originalCalendar": "gregorian",
+        "claim": "q755$AAE41842-6A06-4CCE-B2B0-4100091EEBCC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q48187",
+      "name": "Эрик Клэптон",
+      "birthDate": "1945-03-30",
+      "birthYear": 1945,
+      "description": "британский рок-музыкант, вокалист и гитарист, композитор, участник групп Cream и The Yardbirds",
+      "category": "music",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%8D%D0%BF%D1%82%D0%BE%D0%BD,_%D0%AD%D1%80%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q48187#P569",
+      "verified": {
+        "revision": 2557870506,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1945-03-30",
+        "originalCalendar": "gregorian",
+        "claim": "q48187$B14BA09D-77A9-4070-9611-1D5AE889AAFA",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "01-21",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q43989",
+      "name": "Григорий Ефимович Распутин",
+      "birthDate": "1869-01-21",
+      "birthYear": 1869,
+      "description": "российский крестьянин, фаворит семьи последнего императора России Николая II (1869—1916)",
+      "category": "public",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BF%D1%83%D1%82%D0%B8%D0%BD,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%95%D1%84%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q43989#P569",
+      "verified": {
+        "revision": 2560377611,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1869-01-09",
+        "originalCalendar": "julian",
+        "claim": "Q43989$02E2FC1A-3D16-4E28-A220-18400746C734",
+        "references": []
+      }
+    },
+    {
+      "id": "Q130853",
+      "name": "Пласидо Доминго",
+      "birthDate": "1941-01-21",
+      "birthYear": 1941,
+      "description": "испанский оперный певец и дирижёр",
+      "category": "music",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BC%D0%B8%D0%BD%D0%B3%D0%BE,_%D0%9F%D0%BB%D0%B0%D1%81%D0%B8%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q130853#P569",
+      "verified": {
+        "revision": 2563858451,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-01-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q130853$1BF50C8A-7B06-4098-9C06-65070F80F0C8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q162005",
+      "name": "Пол Аллен",
+      "birthDate": "1953-01-21",
+      "birthYear": 1953,
+      "description": "американский предприниматель",
+      "category": "other",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BB%D0%B5%D0%BD,_%D0%9F%D0%BE%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q162005#P569",
+      "verified": {
+        "revision": 2558206229,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-01-21",
+        "originalCalendar": "gregorian",
+        "claim": "q162005$EDAFFEE0-8D70-44C2-A9F4-C73371BF125B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q196219",
+      "name": "Генрих Мхитарян",
+      "birthDate": "1989-01-21",
+      "birthYear": 1989,
+      "description": "армянский футболист",
+      "category": "sport",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%85%D0%B8%D1%82%D0%B0%D1%80%D1%8F%D0%BD,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_%D0%93%D0%B0%D0%BC%D0%BB%D0%B5%D1%82%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q196219#P569",
+      "verified": {
+        "revision": 2563081193,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1989-01-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q196219$6F58FD5F-67C7-492E-972D-E976A40AAA1E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q159694",
+      "name": "Кристиан Диор",
+      "birthDate": "1905-01-21",
+      "birthYear": 1905,
+      "description": "французский модельер",
+      "category": "other",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BE%D1%80,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q159694#P569",
+      "verified": {
+        "revision": 2557841767,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1905-01-21",
+        "originalCalendar": "gregorian",
+        "claim": "q159694$0D5F9DF9-1F81-48D9-86CE-24EBE7E5D0FF",
+        "references": []
+      }
+    }
+  ]
+}

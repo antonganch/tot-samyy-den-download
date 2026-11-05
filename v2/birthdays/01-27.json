@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "day": "01-27",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q254",
+      "name": "Вольфганг Амадей Моцарт",
+      "birthDate": "1756-01-27",
+      "birthYear": 1756,
+      "description": "австрийский композитор, скрипач, пианист, органист-виртуоз (1756—1791)",
+      "category": "music",
+      "sitelinks": 274,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%86%D0%B0%D1%80%D1%82,_%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D0%B3%D0%B0%D0%BD%D0%B3_%D0%90%D0%BC%D0%B0%D0%B4%D0%B5%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q254#P569",
+      "verified": {
+        "revision": 2564809046,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1756-01-27",
+        "originalCalendar": "gregorian",
+        "claim": "q254$A901B3B6-DC53-438F-A8D6-7A10BA65E53A",
+        "references": [
+          "https://books.google.ca/books?id=K-eNo06Zz48C&pg=PA75"
+        ]
+      }
+    },
+    {
+      "id": "Q38082",
+      "name": "Льюис Кэрролл",
+      "birthDate": "1832-01-27",
+      "birthYear": 1832,
+      "description": "английский писатель, математик, логик, философ и фотограф (1832–1898)",
+      "category": "science",
+      "sitelinks": 157,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8C%D1%8E%D0%B8%D1%81_%D0%9A%D1%8D%D1%80%D1%80%D0%BE%D0%BB%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q38082#P569",
+      "verified": {
+        "revision": 2564786107,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1832-01-27",
+        "originalCalendar": "gregorian",
+        "claim": "q38082$368ffb13-492b-420b-37ca-e2bbce0780df",
+        "references": [
+          "https://www.ibdb.com/broadway-cast-staff/85251",
+          "https://brockhaus.de/ecs/julex/article/carroll-lewis"
+        ]
+      }
+    },
+    {
+      "id": "Q2677",
+      "name": "Вильгельм II",
+      "birthDate": "1859-01-27",
+      "birthYear": 1859,
+      "description": "последний германский император и король Пруссии",
+      "category": "public",
+      "sitelinks": 130,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC_II_(%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8)",
+      "source": "https://www.wikidata.org/wiki/Q2677#P569",
+      "verified": {
+        "revision": 2563986822,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1859-01-27",
+        "originalCalendar": "gregorian",
+        "claim": "q2677$6AF18E6E-395F-486E-9B61-E6B286949184",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/wilhelm-wilhelm-ii"
+        ]
+      }
+    },
+    {
+      "id": "Q60070",
+      "name": "Фридрих Вильгельм Йозеф фон Шеллинг",
+      "birthDate": "1775-01-27",
+      "birthYear": 1775,
+      "description": "немецкий философ",
+      "category": "literature",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC_%D0%99%D0%BE%D0%B7%D0%B5%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q60070#P569",
+      "verified": {
+        "revision": 2564562262,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1775-01-27",
+        "originalCalendar": "gregorian",
+        "claim": "q60070$E13211E8-8892-4C8E-BD29-80311A291FAF",
+        "references": [
+          "https://tritius.kmol.cz/authority/866236"
+        ]
+      }
+    },
+    {
+      "id": "Q230004",
+      "name": "Розамунд Пайк",
+      "birthDate": "1979-01-27",
+      "birthYear": 1979,
+      "description": "английская актриса (род. 1979)",
+      "category": "screen",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B9%D0%BA,_%D0%A0%D0%BE%D0%B7%D0%B0%D0%BC%D1%83%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q230004#P569",
+      "verified": {
+        "revision": 2558024257,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1979-01-27",
+        "originalCalendar": "gregorian",
+        "claim": "q230004$0AF20CFD-6E81-452B-82E8-7A95B93166C2",
+        "references": []
+      }
+    }
+  ]
+}

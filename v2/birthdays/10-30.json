@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "10-30",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q17515",
+      "name": "Диего Марадона",
+      "birthDate": "1960-10-30",
+      "birthYear": 1960,
+      "description": "аргентинский футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 176,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%B0%D0%B4%D0%BE%D0%BD%D0%B0,_%D0%94%D0%B8%D0%B5%D0%B3%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q17515#P569",
+      "verified": {
+        "revision": 2563863807,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1960-10-30",
+        "originalCalendar": "gregorian",
+        "claim": "q17515$3523AC79-D3A7-43E5-A235-5CB0357C4CBD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q163366",
+      "name": "Эзра Паунд",
+      "birthDate": "1885-10-30",
+      "birthYear": 1885,
+      "description": "американский поэт (1885—1972)",
+      "category": "literature",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%BD%D0%B4,_%D0%AD%D0%B7%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q163366#P569",
+      "verified": {
+        "revision": 2559050954,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1885-10-30",
+        "originalCalendar": "gregorian",
+        "claim": "q163366$0E70271D-EB8A-481B-949A-C5831CA74498",
+        "references": []
+      }
+    },
+    {
+      "id": "Q200639",
+      "name": "Поль Валери",
+      "birthDate": "1871-10-30",
+      "birthYear": 1871,
+      "description": "французский поэт, эссеист, философ",
+      "category": "literature",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8,_%D0%9F%D0%BE%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q200639#P569",
+      "verified": {
+        "revision": 2563162820,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1871-10-30",
+        "originalCalendar": "gregorian",
+        "claim": "q200639$F13556BA-3C0B-4016-8629-0FFFA7F66FF7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q170373",
+      "name": "Кристофер Рен",
+      "birthDate": "1632-10-30",
+      "birthYear": 1632,
+      "description": "английский архитектор",
+      "category": "art",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BD,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%84%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q170373#P569",
+      "verified": {
+        "revision": 2564304906,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1632-10-20",
+        "originalCalendar": "julian",
+        "claim": "q170373$69CECB2A-780D-423B-A4F8-E044843C7361",
+        "references": []
+      }
+    },
+    {
+      "id": "Q175130",
+      "name": "Альфред Сислей",
+      "birthDate": "1839-10-30",
+      "birthYear": 1839,
+      "description": "французский живописец-пейзажист английского происхождения",
+      "category": "art",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D0%BB%D0%B5%D0%B9,_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q175130#P569",
+      "verified": {
+        "revision": 2564211522,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1839-10-30",
+        "originalCalendar": "gregorian",
+        "claim": "q175130$C2769BE2-5616-494C-8153-851CCCD80E5E",
+        "references": []
+      }
+    }
+  ]
+}

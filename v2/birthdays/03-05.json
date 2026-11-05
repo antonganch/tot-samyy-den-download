@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "03-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7231",
+      "name": "Роза Люксембург",
+      "birthDate": "1871-03-05",
+      "birthYear": 1871,
+      "description": "немецкий теоретик марксизма, философ, экономист и публицист",
+      "category": "science",
+      "sitelinks": 191,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3,_%D0%A0%D0%BE%D0%B7%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q7231#P569",
+      "verified": {
+        "revision": 2563979336,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1871-03-05",
+        "originalCalendar": "gregorian",
+        "claim": "q7231$3C61B487-4514-4610-B552-61D3A2897199",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7302",
+      "name": "Георг Фридрих Гендель",
+      "birthDate": "1685-03-05",
+      "birthYear": 1685,
+      "description": "немецкий и английский композитор эпохи барокко (1685—1759)",
+      "category": "music",
+      "sitelinks": 161,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BD%D0%B4%D0%B5%D0%BB%D1%8C,_%D0%93%D0%B5%D0%BE%D1%80%D0%B3_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q7302#P569",
+      "verified": {
+        "revision": 2564783619,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1685-02-23",
+        "originalCalendar": "julian",
+        "claim": "Q7302$39cdd4d8-42fe-0746-62ab-571071a96e62",
+        "references": []
+      }
+    },
+    {
+      "id": "Q25120",
+      "name": "Пьер Паоло Пазолини",
+      "birthDate": "1922-03-05",
+      "birthYear": 1922,
+      "description": "кинорежиссёр, прозаик и поэт (1922—1975)",
+      "category": "screen",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B7%D0%BE%D0%BB%D0%B8%D0%BD%D0%B8,_%D0%9F%D1%8C%D0%B5%D1%80_%D0%9F%D0%B0%D0%BE%D0%BB%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q25120#P569",
+      "verified": {
+        "revision": 2563923975,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-03-05",
+        "originalCalendar": "gregorian",
+        "claim": "q25120$51E223D1-77E5-4E4E-851F-514F649F51B7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q17410",
+      "name": "Чжоу Эньлай",
+      "birthDate": "1898-03-05",
+      "birthYear": 1898,
+      "description": "политический деятель Китая, первый глава Госсовета КНР (1898–1976)",
+      "category": "public",
+      "sitelinks": 102,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B6%D0%BE%D1%83_%D0%AD%D0%BD%D1%8C%D0%BB%D0%B0%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q17410#P569",
+      "verified": {
+        "revision": 2564229438,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1898-03-05",
+        "originalCalendar": "gregorian",
+        "claim": "q17410$cf0676ef-4d66-acc7-2ea3-10f0e444a4aa",
+        "references": []
+      }
+    },
+    {
+      "id": "Q170606",
+      "name": "Ева Мендес",
+      "birthDate": "1974-03-05",
+      "birthYear": 1974,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%BD%D0%B4%D0%B5%D1%81,_%D0%95%D0%B2%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q170606#P569",
+      "verified": {
+        "revision": 2564906301,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-03-05",
+        "originalCalendar": "gregorian",
+        "claim": "Q170606$486206FA-B103-4D57-A87D-E352D740228D",
+        "references": []
+      }
+    }
+  ]
+}

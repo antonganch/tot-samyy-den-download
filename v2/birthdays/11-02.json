@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "11-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9535",
+      "name": "Шахрух Хан",
+      "birthDate": "1965-11-02",
+      "birthYear": 1965,
+      "description": "индийский актёр, продюсер и телеведущий",
+      "category": "screen",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD,_%D0%A8%D0%B0%D1%85%D1%80%D1%83%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q9535#P569",
+      "verified": {
+        "revision": 2562017020,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1965-11-02",
+        "originalCalendar": "gregorian",
+        "claim": "q9535$447B0B59-74F6-424C-9F8C-3E4B2F038330",
+        "references": []
+      }
+    },
+    {
+      "id": "Q11891",
+      "name": "Джеймс Нокс Полк",
+      "birthDate": "1795-11-02",
+      "birthYear": 1795,
+      "description": "американский политик, 11-й президент США (1845-1849)",
+      "category": "public",
+      "sitelinks": 145,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BA,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81_%D0%9D%D0%BE%D0%BA%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q11891#P569",
+      "verified": {
+        "revision": 2563803841,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1795-11-02",
+        "originalCalendar": "gregorian",
+        "claim": "q11891$776D9B3A-5C46-425B-8C5D-6A4201B61C68",
+        "references": []
+      }
+    },
+    {
+      "id": "Q134661",
+      "name": "Джордж Буль",
+      "birthDate": "1815-11-02",
+      "birthYear": 1815,
+      "description": "английский математик и логик",
+      "category": "science",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D1%8C,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q134661#P569",
+      "verified": {
+        "revision": 2557891677,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1815-11-02",
+        "originalCalendar": "gregorian",
+        "claim": "q134661$FF839FB8-4396-4BEC-B418-D46B833E6DE6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q160528",
+      "name": "Берт Ланкастер",
+      "birthDate": "1913-11-02",
+      "birthYear": 1913,
+      "description": "американский актёр и продюсер",
+      "category": "screen",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BD%D0%BA%D0%B0%D1%81%D1%82%D0%B5%D1%80,_%D0%91%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q160528#P569",
+      "verified": {
+        "revision": 2563154251,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1913-11-02",
+        "originalCalendar": "gregorian",
+        "claim": "q160528$D7372DA6-5E6D-4C0A-B75D-2A6BE9575CE8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q160478",
+      "name": "Одисеас Элитис",
+      "birthDate": "1911-11-02",
+      "birthYear": 1911,
+      "description": "греческий поэт, XX век",
+      "category": "literature",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B8%D1%82%D0%B8%D1%81,_%D0%9E%D0%B4%D0%B8%D1%81%D0%B5%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q160478#P569",
+      "verified": {
+        "revision": 2563050732,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1911-11-02",
+        "originalCalendar": "gregorian",
+        "claim": "q160478$A39C07A9-554D-4A30-86CF-6D4FCB27A719",
+        "references": []
+      }
+    }
+  ]
+}

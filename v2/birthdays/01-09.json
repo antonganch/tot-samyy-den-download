@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "day": "01-09",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7197",
+      "name": "Симона де Бовуар",
+      "birthDate": "1908-01-09",
+      "birthYear": 1908,
+      "description": "французская писательница, философ, идеологистка феминистского движения",
+      "category": "literature",
+      "sitelinks": 189,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B2%D1%83%D0%B0%D1%80,_%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD%D0%B0_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q7197#P569",
+      "verified": {
+        "revision": 2563814287,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-01-09",
+        "originalCalendar": "gregorian",
+        "claim": "q7197$47D16C24-70CC-454B-91EE-8F20EE111179",
+        "references": [
+          "https://deces.matchid.io/id/buuOd9vybISA"
+        ]
+      }
+    },
+    {
+      "id": "Q9588",
+      "name": "Ричард Никсон",
+      "birthDate": "1913-01-09",
+      "birthYear": 1913,
+      "description": "37-й президент США (1969–1974)",
+      "category": "public",
+      "sitelinks": 192,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BA%D1%81%D0%BE%D0%BD,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q9588#P569",
+      "verified": {
+        "revision": 2564538048,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1913-01-09",
+        "originalCalendar": "gregorian",
+        "claim": "q9588$AEEF2F57-BAA0-413D-B45C-559F71700DC4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q131725",
+      "name": "Джоан Баэз",
+      "birthDate": "1941-01-09",
+      "birthYear": 1941,
+      "description": "американская певица и автор песен",
+      "category": "music",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%8D%D0%B7,_%D0%94%D0%B6%D0%BE%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q131725#P569",
+      "verified": {
+        "revision": 2558490191,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-01-09",
+        "originalCalendar": "gregorian",
+        "claim": "q131725$F41ABDC1-6219-440C-AE80-7C10EEFC1F8F",
+        "references": [
+          "https://www.biography.com/people/joan-baez-9195061",
+          "https://cs.isabart.org/person/78708"
+        ]
+      }
+    },
+    {
+      "id": "Q155855",
+      "name": "Карел Чапек",
+      "birthDate": "1890-01-09",
+      "birthYear": 1890,
+      "description": "чешский писатель, прозаик и драматург, фантаст (1890—1938)",
+      "category": "literature",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BF%D0%B5%D0%BA,_%D0%9A%D0%B0%D1%80%D0%B5%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q155855#P569",
+      "verified": {
+        "revision": 2559047355,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1890-01-09",
+        "originalCalendar": "gregorian",
+        "claim": "q155855$BA6A2F12-422D-4617-BFD5-92D07C4726A4",
+        "references": [
+          "https://encyklopedie.idu.cz/index.php?option=com_content&view=article&id=163:capek-karel",
+          "https://www.svkhk.cz/tools/vyroci.asp?zobr=fulllist",
+          "https://kmhk.tritius.cz/authority/2355709"
+        ]
+      }
+    },
+    {
+      "id": "Q10479",
+      "name": "Кэтрин, принцесса Уэльская",
+      "birthDate": "1982-01-09",
+      "birthYear": 1982,
+      "description": "супруга Уильяма, принца Уэльского",
+      "category": "other",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%82%D1%80%D0%B8%D0%BD,_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D1%81%D1%81%D0%B0_%D0%A3%D1%8D%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q10479#P569",
+      "verified": {
+        "revision": 2559539150,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1982-01-09",
+        "originalCalendar": "gregorian",
+        "claim": "q10479$d3053f2e-4bde-bad6-2796-cdf03087e9e4",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "08-31",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q131117",
+      "name": "Мария Монтессори",
+      "birthDate": "1870-08-31",
+      "birthYear": 1870,
+      "description": "итальянский врач, педагог, учёный, философ, гуманистка",
+      "category": "science",
+      "sitelinks": 109,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D1%82%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%B8,_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q131117#P569",
+      "verified": {
+        "revision": 2563197224,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1870-08-31",
+        "originalCalendar": "gregorian",
+        "claim": "Q131117$54EE9CBE-187A-4754-BA27-16A229A1CBD0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q233984",
+      "name": "Цай Инвэнь",
+      "birthDate": "1956-08-31",
+      "birthYear": 1956,
+      "description": "тайваньский политик, Президент Китайской Республики",
+      "category": "public",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D0%B9_%D0%98%D0%BD%D0%B2%D1%8D%D0%BD%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q233984#P569",
+      "verified": {
+        "revision": 2562696278,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1956-08-31",
+        "originalCalendar": "gregorian",
+        "claim": "Q233984$83B7C743-FF13-44AC-842B-E85597778964",
+        "references": []
+      }
+    },
+    {
+      "id": "Q48410",
+      "name": "Ричард Гир",
+      "birthDate": "1949-08-31",
+      "birthYear": 1949,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D1%80,_%D0%A0%D0%B8%D1%87%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q48410#P569",
+      "verified": {
+        "revision": 2558223920,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-08-31",
+        "originalCalendar": "gregorian",
+        "claim": "q48410$B931C2B0-6596-470D-8426-3FEBB266ECB2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q23893984",
+      "name": "Анжелик Рокас",
+      "birthDate": "1951-08-31",
+      "birthYear": 1951,
+      "description": "греческая южноафриканская актриса",
+      "category": "screen",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BA%D0%B0%D1%81,_%D0%90%D0%BD%D0%B6%D0%B5%D0%BB%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q23893984#P569",
+      "verified": {
+        "revision": 2559905267,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1951-08-31",
+        "originalCalendar": "gregorian",
+        "claim": "Q23893984$55e07e8f-4972-5cb0-7903-d12e15574b27",
+        "references": []
+      }
+    },
+    {
+      "id": "Q163666",
+      "name": "Пепе Рейна",
+      "birthDate": "1982-08-31",
+      "birthYear": 1982,
+      "description": "испанский футболист",
+      "category": "sport",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D0%BD%D0%B0,_%D0%9F%D0%B5%D0%BF%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q163666#P569",
+      "verified": {
+        "revision": 2562666059,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1982-08-31",
+        "originalCalendar": "gregorian",
+        "claim": "Q163666$A34C91AA-2D1D-4AB3-B114-E87620B3B9C5",
+        "references": []
+      }
+    }
+  ]
+}

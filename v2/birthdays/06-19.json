@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "06-19",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1290",
+      "name": "Блез Паскаль",
+      "birthDate": "1623-06-19",
+      "birthYear": 1623,
+      "description": "французский математик, физик, литератор и философ (1623–1662)",
+      "category": "science",
+      "sitelinks": 196,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D0%BA%D0%B0%D0%BB%D1%8C,_%D0%91%D0%BB%D0%B5%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q1290#P569",
+      "verified": {
+        "revision": 2564273087,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1623-06-19",
+        "originalCalendar": "gregorian",
+        "claim": "q1290$2A467274-CD69-4741-A63A-E33FBF847D7C",
+        "references": [
+          "https://www.biography.com/people/blaise-pascal-9434176",
+          "https://brockhaus.de/ecs/julex/article/pascal-blaise",
+          "https://www.archivesdepartementales.puy-de-dome.fr/ark:/72847/vta3ab949b4267c0522/daogrp/0#id:81977296?gallery=true&center=1463.385,-577.414&zoom=9&rotation=0.000&brightness=100.00&contrast=100.00"
+        ]
+      }
+    },
+    {
+      "id": "Q36740",
+      "name": "Аун Сан Су Чжи",
+      "birthDate": "1945-06-19",
+      "birthYear": 1945,
+      "description": "мьянманский политический деятель, государственный советник Мьянмы (2016—2021)",
+      "category": "public",
+      "sitelinks": 171,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D1%83%D0%BD_%D0%A1%D0%B0%D0%BD_%D0%A1%D1%83_%D0%A7%D0%B6%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q36740#P569",
+      "verified": {
+        "revision": 2564703803,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1945-06-19",
+        "originalCalendar": "gregorian",
+        "claim": "q36740$ED93B67D-15AE-40BD-9806-E25929DFD1EF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44306",
+      "name": "Салман Рушди",
+      "birthDate": "1947-06-19",
+      "birthYear": 1947,
+      "description": "британский писатель индийского происхождения",
+      "category": "literature",
+      "sitelinks": 130,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D1%88%D0%B4%D0%B8,_%D0%A1%D0%B0%D0%BB%D0%BC%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q44306#P569",
+      "verified": {
+        "revision": 2563961468,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-06-19",
+        "originalCalendar": "gregorian",
+        "claim": "q44306$13B5223E-0FE0-4C88-9494-D9C77F9129C5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1500",
+      "name": "Хосе Рисаль",
+      "birthDate": "1861-06-19",
+      "birthYear": 1861,
+      "description": "филиппинский ученый, поэт, писатель, художник и скульптор",
+      "category": "science",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D1%81%D0%B0%D0%BB%D1%8C,_%D0%A5%D0%BE%D1%81%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q1500#P569",
+      "verified": {
+        "revision": 2563459851,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1861-06-19",
+        "originalCalendar": "gregorian",
+        "claim": "q1500$abf03bbb-4200-d6c2-0b60-c0302fd5a400",
+        "references": []
+      }
+    },
+    {
+      "id": "Q190162",
+      "name": "Зои Салдана",
+      "birthDate": "1978-06-19",
+      "birthYear": 1978,
+      "description": "американская и доминиканская актриса и танцовщица (р. 1978)",
+      "category": "screen",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BB%D0%B4%D0%B0%D0%BD%D0%B0,_%D0%97%D0%BE%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q190162#P569",
+      "verified": {
+        "revision": 2563837347,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-06-19",
+        "originalCalendar": "gregorian",
+        "claim": "Q190162$0178828A-915B-4BF6-AABE-AEAA4946E380",
+        "references": []
+      }
+    }
+  ]
+}

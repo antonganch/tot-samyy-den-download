@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "02-17",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q41421",
+      "name": "Майкл Джордан",
+      "birthDate": "1963-02-17",
+      "birthYear": 1963,
+      "description": "американский баскетболист",
+      "category": "sport",
+      "sitelinks": 141,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B0%D0%BD,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q41421#P569",
+      "verified": {
+        "revision": 2564934050,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-02-17",
+        "originalCalendar": "gregorian",
+        "claim": "q41421$F20688D7-3802-499F-BD32-9BD735CBC294",
+        "references": []
+      }
+    },
+    {
+      "id": "Q47899",
+      "name": "Пэрис Хилтон",
+      "birthDate": "1981-02-17",
+      "birthYear": 1981,
+      "description": "американская актриса, певица, автор песен, фотомодель и дизайнер (род. 1981)",
+      "category": "screen",
+      "sitelinks": 111,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BB%D1%82%D0%BE%D0%BD,_%D0%9F%D1%8D%D1%80%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q47899#P569",
+      "verified": {
+        "revision": 2563659729,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-02-17",
+        "originalCalendar": "gregorian",
+        "claim": "q47899$958DE06C-3413-40AA-B993-52963DDA87F4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q8998",
+      "name": "Мо Янь",
+      "birthDate": "1955-02-17",
+      "birthYear": 1955,
+      "description": "китайский писатель",
+      "category": "literature",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE_%D0%AF%D0%BD%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q8998#P569",
+      "verified": {
+        "revision": 2563661171,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-02-17",
+        "originalCalendar": "gregorian",
+        "claim": "Q8998$C1441FA5-9275-4320-8E80-E9FB8EA70472",
+        "references": []
+      }
+    },
+    {
+      "id": "Q314801",
+      "name": "Хэл Холбрук",
+      "birthDate": "1925-02-17",
+      "birthYear": 1925,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%B1%D1%80%D1%83%D0%BA,_%D0%A5%D1%8D%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q314801#P569",
+      "verified": {
+        "revision": 2548430406,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-02-17",
+        "originalCalendar": "gregorian",
+        "claim": "Q314801$E35E398C-C416-4DB7-A88E-5FBF82DDFADF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57072",
+      "name": "Отто Штерн",
+      "birthDate": "1888-02-17",
+      "birthYear": 1888,
+      "description": "немецкий и американский физик",
+      "category": "science",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D0%B5%D1%80%D0%BD,_%D0%9E%D1%82%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q57072#P569",
+      "verified": {
+        "revision": 2564005221,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1888-02-17",
+        "originalCalendar": "gregorian",
+        "claim": "q57072$C8510BAB-7C38-4E09-8A9A-075C51677138",
+        "references": []
+      }
+    }
+  ]
+}

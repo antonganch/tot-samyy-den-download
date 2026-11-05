@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "06-26",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q151892",
+      "name": "Ариана Гранде",
+      "birthDate": "1993-06-26",
+      "birthYear": 1993,
+      "description": "американская певица и актриса",
+      "category": "screen",
+      "sitelinks": 142,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BD%D0%B4%D0%B5,_%D0%90%D1%80%D0%B8%D0%B0%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q151892#P569",
+      "verified": {
+        "revision": 2563926704,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1993-06-26",
+        "originalCalendar": "gregorian",
+        "claim": "Q151892$DEB0492C-6B07-417B-BCBC-58E4B62135BD",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/grande-ariana-20"
+        ]
+      }
+    },
+    {
+      "id": "Q80900",
+      "name": "Перл Бак",
+      "birthDate": "1892-06-26",
+      "birthYear": 1892,
+      "description": "американская писательница",
+      "category": "literature",
+      "sitelinks": 144,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA,_%D0%9F%D0%B5%D1%80%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q80900#P569",
+      "verified": {
+        "revision": 2563065246,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1892-06-26",
+        "originalCalendar": "gregorian",
+        "claim": "q80900$ACAE5C32-2E2F-4A17-B174-01535D36D80B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q440",
+      "name": "Сальвадор Альенде",
+      "birthDate": "1908-06-26",
+      "birthYear": 1908,
+      "description": "чилийский государственный и политический деятель, президент Чили (1970-1973), председатель Сената Чили (1966-1969)",
+      "category": "public",
+      "sitelinks": 123,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B5%D0%BD%D0%B4%D0%B5,_%D0%A1%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0%D0%B4%D0%BE%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q440#P569",
+      "verified": {
+        "revision": 2563532725,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-06-26",
+        "originalCalendar": "gregorian",
+        "claim": "q440$61D664E5-5276-411F-B093-004C431A1C81",
+        "references": []
+      }
+    },
+    {
+      "id": "Q122701",
+      "name": "Уильям Томсон, 1-й барон Кельвин",
+      "birthDate": "1825-06-26",
+      "birthYear": 1825,
+      "description": "британский физик и инженер",
+      "category": "science",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D1%81%D0%BE%D0%BD,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_(%D0%BB%D0%BE%D1%80%D0%B4_%D0%9A%D0%B5%D0%BB%D1%8C%D0%B2%D0%B8%D0%BD)",
+      "source": "https://www.wikidata.org/wiki/Q122701#P569",
+      "verified": {
+        "revision": 2558284469,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1825-06-26",
+        "originalCalendar": "gregorian",
+        "claim": "q122701$0EE07BEC-DE74-4A2E-A425-4911061200C7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q483027",
+      "name": "Паоло Мальдини",
+      "birthDate": "1968-06-26",
+      "birthYear": 1968,
+      "description": "итальянский футболист",
+      "category": "sport",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D0%B4%D0%B8%D0%BD%D0%B8,_%D0%9F%D0%B0%D0%BE%D0%BB%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q483027#P569",
+      "verified": {
+        "revision": 2558205060,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-06-26",
+        "originalCalendar": "gregorian",
+        "claim": "q483027$E7D3BA44-DFD5-484D-852D-9D5F667C6C66",
+        "references": []
+      }
+    }
+  ]
+}

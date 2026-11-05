@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "03-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q36661",
+      "name": "Генрик Ибсен",
+      "birthDate": "1828-03-20",
+      "birthYear": 1828,
+      "description": "норвежский драматург, поэт и публицист",
+      "category": "literature",
+      "sitelinks": 172,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%B1%D1%81%D0%B5%D0%BD,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q36661#P569",
+      "verified": {
+        "revision": 2564006867,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1828-03-20",
+        "originalCalendar": "gregorian",
+        "claim": "q36661$4F3FF691-6A00-4AB1-BBFC-0286C96A3369",
+        "references": [
+          "https://www.ibsen.uio.no/tidstavle.xhtml"
+        ]
+      }
+    },
+    {
+      "id": "Q19198",
+      "name": "Честер Беннингтон",
+      "birthDate": "1976-03-20",
+      "birthYear": 1976,
+      "description": "американский музыкант, автор песен и актёр, получивший наибольшую известность как вокалист рок-группы Linkin Park.",
+      "category": "screen",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%BD%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD,_%D0%A7%D0%B5%D1%81%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q19198#P569",
+      "verified": {
+        "revision": 2557995225,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1976-03-20",
+        "originalCalendar": "gregorian",
+        "claim": "q19198$101882D5-3623-488B-A042-D9EF7433E8AF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q550778",
+      "name": "Джон де Ланси",
+      "birthDate": "1948-03-20",
+      "birthYear": 1948,
+      "description": "американский стендап комедиант, актёр",
+      "category": "screen",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5_%D0%9B%D0%B0%D0%BD%D1%81%D0%B8,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q550778#P569",
+      "verified": {
+        "revision": 2564485097,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1948-03-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q550778$2ba0db13-4902-58f3-6ea0-57f8c70be540",
+        "references": []
+      }
+    },
+    {
+      "id": "Q75889",
+      "name": "Иоганн Христиан Фридрих Гёльдерлин",
+      "birthDate": "1770-03-20",
+      "birthYear": 1770,
+      "description": "немецкий поэт",
+      "category": "literature",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%91%D0%BB%D1%8C%D0%B4%D0%B5%D1%80%D0%BB%D0%B8%D0%BD,_%D0%A4%D1%80%D0%B8%D0%B4%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q75889#P569",
+      "verified": {
+        "revision": 2563977395,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1770-03-20",
+        "originalCalendar": "gregorian",
+        "claim": "q75889$F90ACE57-69B7-421A-8015-2B51485B341C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q42731",
+      "name": "Фернандо Торрес",
+      "birthDate": "1984-03-20",
+      "birthYear": 1984,
+      "description": "испанский футболист",
+      "category": "sport",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D1%81,_%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q42731#P569",
+      "verified": {
+        "revision": 2563303159,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1984-03-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q42731$2158C98A-7F44-4AFE-B4FB-A289FF5C3A13",
+        "references": []
+      }
+    }
+  ]
+}

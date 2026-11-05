@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "10-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q202765",
+      "name": "Кейт Уинслет",
+      "birthDate": "1975-10-05",
+      "birthYear": 1975,
+      "description": "английская актриса и певица",
+      "category": "screen",
+      "sitelinks": 134,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BD%D1%81%D0%BB%D0%B5%D1%82,_%D0%9A%D0%B5%D0%B9%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q202765#P569",
+      "verified": {
+        "revision": 2564497932,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-10-05",
+        "originalCalendar": "gregorian",
+        "claim": "q202765$7F9B6FC2-29E5-4040-AAAC-82F6B8CACE66",
+        "references": []
+      }
+    },
+    {
+      "id": "Q36233",
+      "name": "Вацлав Гавел",
+      "birthDate": "1936-10-05",
+      "birthYear": 1936,
+      "description": "чешский писатель, драматург, диссидент, правозащитник и государственный деятель, президент Чехословакии (1989—1992), президент Чехии (1993—2003)",
+      "category": "public",
+      "sitelinks": 145,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B2%D0%B5%D0%BB,_%D0%92%D0%B0%D1%86%D0%BB%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q36233#P569",
+      "verified": {
+        "revision": 2564307797,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1936-10-05",
+        "originalCalendar": "gregorian",
+        "claim": "q36233$10dcce81-40c7-22ba-96aa-d3288e00767c",
+        "references": [
+          "https://www.svkhk.cz/tools/vyroci.asp?zobr=fulllist"
+        ]
+      }
+    },
+    {
+      "id": "Q155164",
+      "name": "Имран Хан",
+      "birthDate": "1952-10-05",
+      "birthYear": 1952,
+      "description": "пакистанский государственный деятель и игрок в крикет",
+      "category": "other",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD,_%D0%98%D0%BC%D1%80%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q155164#P569",
+      "verified": {
+        "revision": 2562798143,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1952-10-05",
+        "originalCalendar": "gregorian",
+        "claim": "q155164$01719C67-5A83-4561-90F4-20DEF3D7CF84",
+        "references": [
+          "https://www.dawn.com/news/1136414/happybirthdayik-pti-chairman-imran-khan-turns-62"
+        ]
+      }
+    },
+    {
+      "id": "Q314914",
+      "name": "Дональд Плезенс",
+      "birthDate": "1919-10-05",
+      "birthYear": 1919,
+      "description": "английский актёр, кавалер ордена Британской империи",
+      "category": "screen",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B5%D0%B7%D0%B5%D0%BD%D1%81,_%D0%94%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q314914#P569",
+      "verified": {
+        "revision": 2557857133,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1919-10-05",
+        "originalCalendar": "gregorian",
+        "claim": "q314914$239FE167-8671-4C4F-A7C5-3F708DB006F5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q182546",
+      "name": "Роберт Годдард",
+      "birthDate": "1882-10-05",
+      "birthYear": 1882,
+      "description": "американский физик",
+      "category": "science",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%B4%D0%B4%D0%B0%D1%80%D0%B4,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q182546#P569",
+      "verified": {
+        "revision": 2558226511,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1882-10-05",
+        "originalCalendar": "gregorian",
+        "claim": "q182546$C65ADB8E-976F-4188-A2B8-AB9DE760EDDB",
+        "references": []
+      }
+    }
+  ]
+}

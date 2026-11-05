@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "05-16",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q80069",
+      "name": "Меган Фокс",
+      "birthDate": "1986-05-16",
+      "birthYear": 1986,
+      "description": "американская актриса и фотомодель (род. 1986)",
+      "category": "screen",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D0%BA%D1%81,_%D0%9C%D0%B5%D0%B3%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q80069#P569",
+      "verified": {
+        "revision": 2564259717,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-05-16",
+        "originalCalendar": "gregorian",
+        "claim": "q80069$640C215D-89CA-48DE-ACD9-59DAB931E690",
+        "references": []
+      }
+    },
+    {
+      "id": "Q131324",
+      "name": "Джанет Джексон",
+      "birthDate": "1966-05-16",
+      "birthYear": 1966,
+      "description": "американская певица, автор песен, представительница музыкальной династии Джексонов",
+      "category": "music",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BA%D1%81%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B0%D0%BD%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q131324#P569",
+      "verified": {
+        "revision": 2564137289,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1966-05-16",
+        "originalCalendar": "gregorian",
+        "claim": "q131324$92FEE872-6104-4C9B-867D-2E545E91F56D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q81520",
+      "name": "Пирс Броснан",
+      "birthDate": "1953-05-16",
+      "birthYear": 1953,
+      "description": "ирландский актёр (р. 1953)",
+      "category": "screen",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D1%81%D0%BD%D0%B0%D0%BD,_%D0%9F%D0%B8%D1%80%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q81520#P569",
+      "verified": {
+        "revision": 2563881623,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-05-16",
+        "originalCalendar": "gregorian",
+        "claim": "q81520$50D45312-10DE-4B62-A4A0-A74F37782799",
+        "references": []
+      }
+    },
+    {
+      "id": "Q9151911",
+      "name": "Анджей Дуда",
+      "birthDate": "1972-05-16",
+      "birthYear": 1972,
+      "description": "политик и юрист, президент Польши с 2015 по 2025 год",
+      "category": "public",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B4%D0%B0,_%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q9151911#P569",
+      "verified": {
+        "revision": 2564114477,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-05-16",
+        "originalCalendar": "gregorian",
+        "claim": "Q9151911$a4bf12f9-416c-8b6b-683a-e41f57b76d73",
+        "references": []
+      }
+    },
+    {
+      "id": "Q170697",
+      "name": "Лаура Паузини",
+      "birthDate": "1974-05-16",
+      "birthYear": 1974,
+      "description": "итальянская певица",
+      "category": "music",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%B7%D0%B8%D0%BD%D0%B8,_%D0%9B%D0%B0%D1%83%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q170697#P569",
+      "verified": {
+        "revision": 2561800231,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-05-16",
+        "originalCalendar": "gregorian",
+        "claim": "Q170697$D6175921-F98E-42F9-B475-549820FD01C4",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "02-01",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q34453",
+      "name": "Борис Николаевич Ельцин",
+      "birthDate": "1931-02-01",
+      "birthYear": 1931,
+      "description": "Президент Российской Федерации (1991—1999)",
+      "category": "public",
+      "sitelinks": 161,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD,_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q34453#P569",
+      "verified": {
+        "revision": 2563059230,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1931-02-01",
+        "originalCalendar": "gregorian",
+        "claim": "q34453$ae2057df-44c4-0098-1bdb-2ce9ab31eee9",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/boris-jelzin"
+        ]
+      }
+    },
+    {
+      "id": "Q71243",
+      "name": "Кларк Гейбл",
+      "birthDate": "1901-02-01",
+      "birthYear": 1901,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%B9%D0%B1%D0%BB,_%D0%9A%D0%BB%D0%B0%D1%80%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q71243#P569",
+      "verified": {
+        "revision": 2562968226,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-02-01",
+        "originalCalendar": "gregorian",
+        "claim": "q71243$23B2F76A-9D5F-45E8-AE6F-5F7E4E24B150",
+        "references": []
+      }
+    },
+    {
+      "id": "Q51114",
+      "name": "Джон Форд",
+      "birthDate": "1894-02-01",
+      "birthYear": 1894,
+      "description": "американский кинорежиссёр (1894-1973)",
+      "category": "screen",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%B4,_%D0%94%D0%B6%D0%BE%D0%BD_(%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80)",
+      "source": "https://www.wikidata.org/wiki/Q51114#P569",
+      "verified": {
+        "revision": 2557989549,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1894-02-01",
+        "originalCalendar": "gregorian",
+        "claim": "q51114$F993D04E-E498-48D5-9C32-A865DA627EF9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q188093",
+      "name": "Джеймс Мёрсер Лэнгстон Хьюз",
+      "birthDate": "1901-02-01",
+      "birthYear": 1901,
+      "description": "американский писатель и общественный активист",
+      "category": "literature",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D1%8C%D1%8E%D0%B7,_%D0%9B%D1%8D%D0%BD%D0%B3%D1%81%D1%82%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q188093#P569",
+      "verified": {
+        "revision": 2563870194,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-02-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q188093$8f947bd9-45d3-3c5c-4e1b-78c26a2c233e",
+        "references": [
+          "https://www.nytimes.com/2018/08/09/arts/langston-hughes-birth-date.html",
+          "https://nmaahc.si.edu/LGBTQ/langston-hughes",
+          "https://kshs.org/kansapedia/langston-hughes/15506"
+        ]
+      }
+    },
+    {
+      "id": "Q107037",
+      "name": "Лейма Гбови",
+      "birthDate": "1972-02-01",
+      "birthYear": 1972,
+      "description": "либерийская активистка-миротворец, лауреат Нобелевской премии мира",
+      "category": "other",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B1%D0%BE%D0%B2%D0%B8,_%D0%9B%D0%B5%D0%B9%D0%BC%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q107037#P569",
+      "verified": {
+        "revision": 2563710848,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-02-01",
+        "originalCalendar": "gregorian",
+        "claim": "q107037$E48E6E86-0917-43B6-AD70-83C25CD47BCB",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "day": "01-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7371",
+      "name": "Федерико Феллини",
+      "birthDate": "1920-01-20",
+      "birthYear": 1920,
+      "description": "итальянский кинорежиссёр и сценарист",
+      "category": "screen",
+      "sitelinks": 163,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BB%D0%BB%D0%B8%D0%BD%D0%B8,_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q7371#P569",
+      "verified": {
+        "revision": 2561572900,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1920-01-20",
+        "originalCalendar": "gregorian",
+        "claim": "q7371$AC405ACA-D2CA-4DC0-ADA0-5AD89DBBFBDF",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/fellini-federico",
+          "https://tritius.kmol.cz/authority/776529"
+        ]
+      }
+    },
+    {
+      "id": "Q675",
+      "name": "Андре-Мари Ампер",
+      "birthDate": "1775-01-20",
+      "birthYear": 1775,
+      "description": "французский физик, математик и естествоиспытатель",
+      "category": "science",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%BF%D0%B5%D1%80,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5-%D0%9C%D0%B0%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q675#P569",
+      "verified": {
+        "revision": 2564957200,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1775-01-20",
+        "originalCalendar": "gregorian",
+        "claim": "q675$5E85DE32-76DE-4D10-AFAE-D9B9A7D022F8",
+        "references": [
+          "https://www.leonore.archives-nationales.culture.gouv.fr/archives-images/LH003/FRDAFAN83_OL0032001v005_L.jpg"
+        ]
+      }
+    },
+    {
+      "id": "Q2252",
+      "name": "Базз Олдрин",
+      "birthDate": "1930-01-20",
+      "birthYear": 1930,
+      "description": "американский астронавт",
+      "category": "exploration",
+      "sitelinks": 115,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B4%D1%80%D0%B8%D0%BD,_%D0%91%D0%B0%D0%B7%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q2252#P569",
+      "verified": {
+        "revision": 2564431662,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-01-20",
+        "originalCalendar": "gregorian",
+        "claim": "q2252$CE9FE7C3-F553-4782-AEBB-2C5961AE9A5A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2071",
+      "name": "Дэвид Линч",
+      "birthDate": "1946-01-20",
+      "birthYear": 1946,
+      "description": "американский кинорежиссёр, художник и сценарист",
+      "category": "screen",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BD%D1%87,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q2071#P569",
+      "verified": {
+        "revision": 2559678478,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-01-20",
+        "originalCalendar": "gregorian",
+        "claim": "q2071$1EBC7035-2D32-483F-8A62-266C4067329C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q159552",
+      "name": "Йоханнес Вильхельм Йенсен",
+      "birthDate": "1873-01-20",
+      "birthYear": 1873,
+      "description": "датский писатель",
+      "category": "literature",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D0%BD%D1%81%D0%B5%D0%BD,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD%D0%BD%D0%B5%D1%81_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q159552#P569",
+      "verified": {
+        "revision": 2563196405,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1873-01-20",
+        "originalCalendar": "gregorian",
+        "claim": "q159552$50C7E840-9C63-4545-B622-97876201FFEB",
+        "references": [
+          "https://tritius.kmol.cz/authority/865277"
+        ]
+      }
+    }
+  ]
+}

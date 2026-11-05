@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "08-11",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q40495",
+      "name": "Первез Мушарраф",
+      "birthDate": "1943-08-11",
+      "birthYear": 1943,
+      "description": "пакистанский военный и государственный деятель, президент Пакистана (2001-2008), глава исполнительной власти Пакистана (1999-2002)",
+      "category": "public",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%88%D0%B0%D1%80%D1%80%D0%B0%D1%84,_%D0%9F%D0%B5%D1%80%D0%B2%D0%B5%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q40495#P569",
+      "verified": {
+        "revision": 2562813285,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1943-08-11",
+        "originalCalendar": "gregorian",
+        "claim": "q40495$14B8F680-A795-4B61-AE27-B933DCDE0821",
+        "references": []
+      }
+    },
+    {
+      "id": "Q483382",
+      "name": "Стив Возняк",
+      "birthDate": "1950-08-11",
+      "birthYear": 1950,
+      "description": "американский изобретатель, компьютерный инженер и программист",
+      "category": "science",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%BD%D1%8F%D0%BA,_%D0%A1%D1%82%D0%B8%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q483382#P569",
+      "verified": {
+        "revision": 2564647253,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-08-11",
+        "originalCalendar": "gregorian",
+        "claim": "q483382$6026DC48-6C13-46D1-94D7-05474B843E0F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q54314",
+      "name": "Крис Хемсворт",
+      "birthDate": "1983-08-11",
+      "birthYear": 1983,
+      "description": "австралийский актёр (род. 1983)",
+      "category": "screen",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BC%D1%81%D0%B2%D0%BE%D1%80%D1%82,_%D0%9A%D1%80%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q54314#P569",
+      "verified": {
+        "revision": 2563573182,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-08-11",
+        "originalCalendar": "gregorian",
+        "claim": "q54314$43B2DC49-2C1F-47CF-B616-98C5730219AA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q229181",
+      "name": "Виола Дэвис",
+      "birthDate": "1965-08-11",
+      "birthYear": 1965,
+      "description": "американская актриса и кинопродюсер (р. 1965)",
+      "category": "screen",
+      "sitelinks": 81,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%8D%D0%B2%D0%B8%D1%81,_%D0%92%D0%B8%D0%BE%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q229181#P569",
+      "verified": {
+        "revision": 2564303777,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1965-08-11",
+        "originalCalendar": "gregorian",
+        "claim": "Q229181$CF40DE61-33A3-47AD-A087-EF09C8BAFACA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q192069",
+      "name": "Энид Мэри Блайтон",
+      "birthDate": "1897-08-11",
+      "birthYear": 1897,
+      "description": "британская писательница (1897—1968)",
+      "category": "literature",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B0%D0%B9%D1%82%D0%BE%D0%BD,_%D0%AD%D0%BD%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q192069#P569",
+      "verified": {
+        "revision": 2557869532,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1897-08-11",
+        "originalCalendar": "gregorian",
+        "claim": "q192069$78AA28A4-F5BF-4158-9D2D-4AB19113366F",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/blyton-enid-mary"
+        ]
+      }
+    }
+  ]
+}

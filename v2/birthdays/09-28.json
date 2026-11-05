@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "09-28",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q36268",
+      "name": "Брижит Бардо",
+      "birthDate": "1934-09-28",
+      "birthYear": 1934,
+      "description": "французская актриса, певица и активистка (1934—2025)",
+      "category": "screen",
+      "sitelinks": 152,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B4%D0%BE,_%D0%91%D1%80%D0%B8%D0%B6%D0%B8%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q36268#P569",
+      "verified": {
+        "revision": 2557822817,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1934-09-28",
+        "originalCalendar": "gregorian",
+        "claim": "q36268$FC340F0E-ECCA-4661-A55C-DD362F96C3E0",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/bardot-brigitte"
+        ]
+      }
+    },
+    {
+      "id": "Q55469",
+      "name": "Марчелло Мастроянни",
+      "birthDate": "1924-09-28",
+      "birthYear": 1924,
+      "description": "итальянский актёр",
+      "category": "screen",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%8F%D0%BD%D0%BD%D0%B8,_%D0%9C%D0%B0%D1%80%D1%87%D0%B5%D0%BB%D0%BB%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q55469#P569",
+      "verified": {
+        "revision": 2558150161,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-09-28",
+        "originalCalendar": "gregorian",
+        "claim": "q55469$A2E02DB2-724D-41B0-8A1C-E2FE8B3BC355",
+        "references": []
+      }
+    },
+    {
+      "id": "Q52183",
+      "name": "Шейх Хасина",
+      "birthDate": "1947-09-28",
+      "birthYear": 1947,
+      "description": "бангладешский политик, премьер-министр Бангладеш (1996-2001, 2009-2024)",
+      "category": "public",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%81%D0%B8%D0%BD%D0%B0,_%D0%A8%D0%B5%D0%B9%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q52183#P569",
+      "verified": {
+        "revision": 2562764504,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-09-28",
+        "originalCalendar": "gregorian",
+        "claim": "Q52183$20C2A155-CA14-4131-A02A-3D1671A163C6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q156347",
+      "name": "Лата Мангешкар",
+      "birthDate": "1929-09-28",
+      "birthYear": 1929,
+      "description": "индийская певица",
+      "category": "music",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B3%D0%B5%D1%88%D0%BA%D0%B0%D1%80,_%D0%9B%D0%B0%D1%82%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q156347#P569",
+      "verified": {
+        "revision": 2563768334,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1929-09-28",
+        "originalCalendar": "gregorian",
+        "claim": "q156347$E568CDC7-362A-41AE-85F6-04DB71E68B44",
+        "references": []
+      }
+    },
+    {
+      "id": "Q102804",
+      "name": "Анри Муассан",
+      "birthDate": "1852-09-28",
+      "birthYear": 1852,
+      "description": "французский химик",
+      "category": "science",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B0%D1%81%D1%81%D0%B0%D0%BD,_%D0%90%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q102804#P569",
+      "verified": {
+        "revision": 2563200194,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1852-09-28",
+        "originalCalendar": "gregorian",
+        "claim": "q102804$56FBEC3B-7A6B-492D-858B-34AE45848CA3",
+        "references": []
+      }
+    }
+  ]
+}

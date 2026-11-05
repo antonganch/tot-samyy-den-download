@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "12-31",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5589",
+      "name": "Анри Матисс",
+      "birthDate": "1869-12-31",
+      "birthYear": 1869,
+      "description": "французский художник и скульптор",
+      "category": "art",
+      "sitelinks": 182,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D0%B8%D1%81%D1%81,_%D0%90%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q5589#P569",
+      "verified": {
+        "revision": 2561572275,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1869-12-31",
+        "originalCalendar": "gregorian",
+        "claim": "q5589$E3FDAFD7-FD95-4430-8BCF-8D547F99369E",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/matisse-henri-emile-benoit"
+        ]
+      }
+    },
+    {
+      "id": "Q65932",
+      "name": "Энтони Хопкинс",
+      "birthDate": "1937-12-31",
+      "birthYear": 1937,
+      "description": "британский и американский актёр театра и кино, режиссёр, композитор",
+      "category": "screen",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BF%D0%BA%D0%B8%D0%BD%D1%81,_%D0%AD%D0%BD%D1%82%D0%BE%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q65932#P569",
+      "verified": {
+        "revision": 2561710661,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1937-12-31",
+        "originalCalendar": "gregorian",
+        "claim": "q65932$F26AA8AF-9674-4831-B9CE-119F59AD92B0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44980",
+      "name": "Алекс Фергюсон",
+      "birthDate": "1941-12-31",
+      "birthYear": 1941,
+      "description": "шотландский футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%B3%D1%8E%D1%81%D0%BE%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q44980#P569",
+      "verified": {
+        "revision": 2562787856,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-12-31",
+        "originalCalendar": "gregorian",
+        "claim": "q44980$29253EE1-5A5D-4C86-BA38-4B5734DE5844",
+        "references": []
+      }
+    },
+    {
+      "id": "Q173158",
+      "name": "Бен Кингсли",
+      "birthDate": "1943-12-31",
+      "birthYear": 1943,
+      "description": "британский актёр, продюсер, лауреат премии «Оскар».",
+      "category": "screen",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD_%D0%9A%D0%B8%D0%BD%D0%B3%D1%81%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q173158#P569",
+      "verified": {
+        "revision": 2563792873,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1943-12-31",
+        "originalCalendar": "gregorian",
+        "claim": "q173158$D6492796-E142-4B65-B8FE-615DFE72FF7F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q151414",
+      "name": "Джордж Маршалл",
+      "birthDate": "1880-12-31",
+      "birthYear": 1880,
+      "description": "Американский военный и государственный деятель (1880–1959)",
+      "category": "public",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%88%D0%B0%D0%BB%D0%BB,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q151414#P569",
+      "verified": {
+        "revision": 2563200453,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1880-12-31",
+        "originalCalendar": "gregorian",
+        "claim": "q151414$EA254EB9-307E-45BA-989C-959262FC5B41",
+        "references": []
+      }
+    }
+  ]
+}

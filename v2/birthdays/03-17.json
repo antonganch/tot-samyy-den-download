@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "03-17",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q137042",
+      "name": "Нэт Кинг Коул",
+      "birthDate": "1919-03-17",
+      "birthYear": 1919,
+      "description": "Американский джазовый пианист, певец",
+      "category": "music",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D1%8D%D1%82_%D0%9A%D0%B8%D0%BD%D0%B3_%D0%9A%D0%BE%D1%83%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q137042#P569",
+      "verified": {
+        "revision": 2563750097,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1919-03-17",
+        "originalCalendar": "gregorian",
+        "claim": "q137042$9AD7C6A7-AC44-48FA-A5C0-0868B0A1F5CD",
+        "references": [
+          "https://theaterencyclopedie.nl/wiki/Nat_King_Cole"
+        ]
+      }
+    },
+    {
+      "id": "Q103157",
+      "name": "Курт Рассел",
+      "birthDate": "1951-03-17",
+      "birthYear": 1951,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B5%D0%BB,_%D0%9A%D1%83%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q103157#P569",
+      "verified": {
+        "revision": 2549889273,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1951-03-17",
+        "originalCalendar": "gregorian",
+        "claim": "q103157$92AEA5A2-F39C-4059-B636-20909B8CD858",
+        "references": []
+      }
+    },
+    {
+      "id": "Q191375",
+      "name": "Муджибур Рахман",
+      "birthDate": "1920-03-17",
+      "birthYear": 1920,
+      "description": "пакистанский и бангладешский политик, президент Бангладеш (1971-1972, 1975), премьер-министр Бангладеш (1972-1975)",
+      "category": "public",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%B4%D0%B6%D0%B8%D0%B1%D1%83%D1%80_%D0%A0%D0%B0%D1%85%D0%BC%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q191375#P569",
+      "verified": {
+        "revision": 2564318144,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1920-03-17",
+        "originalCalendar": "gregorian",
+        "claim": "q191375$6DBFB9DB-9ED1-4E16-B676-80548A5C65D1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q180272",
+      "name": "Гэри Синиз",
+      "birthDate": "1955-03-17",
+      "birthYear": 1955,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%B8%D0%B7,_%D0%93%D1%8D%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q180272#P569",
+      "verified": {
+        "revision": 2558115449,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-03-17",
+        "originalCalendar": "gregorian",
+        "claim": "Q180272$C6C6C9B7-BAD3-4F4F-8319-1F91773ED3A9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57098",
+      "name": "Готтлиб Даймлер",
+      "birthDate": "1834-03-17",
+      "birthYear": 1834,
+      "description": "немецкий инженер, автоконструктор и промышленник (1834-1900)",
+      "category": "science",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B9%D0%BC%D0%BB%D0%B5%D1%80,_%D0%93%D0%BE%D1%82%D1%82%D0%BB%D0%B8%D0%B1",
+      "source": "https://www.wikidata.org/wiki/Q57098#P569",
+      "verified": {
+        "revision": 2563974883,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1834-03-17",
+        "originalCalendar": "gregorian",
+        "claim": "q57098$4B0E9CC2-7357-4D8F-8A06-4F3CA7A69F91",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/daimler-gottlieb-wilhelm"
+        ]
+      }
+    }
+  ]
+}

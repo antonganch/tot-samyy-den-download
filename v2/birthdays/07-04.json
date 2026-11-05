@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "07-04",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q36023",
+      "name": "Калвин Кулидж",
+      "birthDate": "1872-07-04",
+      "birthYear": 1872,
+      "description": "30-й президент США",
+      "category": "public",
+      "sitelinks": 161,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BB%D0%B8%D0%B4%D0%B6,_%D0%9A%D0%B0%D0%BB%D0%B2%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q36023#P569",
+      "verified": {
+        "revision": 2563918496,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1872-07-04",
+        "originalCalendar": "gregorian",
+        "claim": "q36023$5DEE5D66-CADB-4CD4-A72C-D2D6ED4776BC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q56009",
+      "name": "Джина Лоллобриджида",
+      "birthDate": "1927-07-04",
+      "birthYear": 1927,
+      "description": "итальянская киноактриса (1927–2023)",
+      "category": "screen",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BB%D0%BB%D0%BE%D0%B1%D1%80%D0%B8%D0%B4%D0%B6%D0%B8%D0%B4%D0%B0,_%D0%94%D0%B6%D0%B8%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q56009#P569",
+      "verified": {
+        "revision": 2563394540,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1927-07-04",
+        "originalCalendar": "gregorian",
+        "claim": "q56009$ABD5B408-148C-4882-AD3A-E45B8301E56F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q69339",
+      "name": "Натаниэль Готорн",
+      "birthDate": "1804-07-04",
+      "birthYear": 1804,
+      "description": "один из первых и наиболее общепризнанных мастеров американской литературы (1804—1864)",
+      "category": "other",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%82%D0%BE%D1%80%D0%BD,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BD%D0%B8%D1%8D%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q69339#P569",
+      "verified": {
+        "revision": 2558179883,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1804-07-04",
+        "originalCalendar": "gregorian",
+        "claim": "q69339$209A3F00-F8CF-41F0-9686-963A9E4B1383",
+        "references": []
+      }
+    },
+    {
+      "id": "Q164546",
+      "name": "Альфредо Ди Стефано",
+      "birthDate": "1926-07-04",
+      "birthYear": 1926,
+      "description": "аргентинский и испанский футболист",
+      "category": "sport",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8_%D0%A1%D1%82%D0%B5%D1%84%D0%B0%D0%BD%D0%BE,_%D0%90%D0%BB%D1%8C%D1%84%D1%80%D0%B5%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q164546#P569",
+      "verified": {
+        "revision": 2562337923,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-07-04",
+        "originalCalendar": "gregorian",
+        "claim": "Q164546$4CEB15FC-400D-4A05-BF76-601157FE62F9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q316901",
+      "name": "Эди Рама",
+      "birthDate": "1964-07-04",
+      "birthYear": 1964,
+      "description": "албанский художник",
+      "category": "art",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B0,_%D0%AD%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q316901#P569",
+      "verified": {
+        "revision": 2562976971,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-07-04",
+        "originalCalendar": "gregorian",
+        "claim": "q316901$AC7BCAD7-FAE3-40ED-B187-5D3BD4E6C6BB",
+        "references": []
+      }
+    }
+  ]
+}

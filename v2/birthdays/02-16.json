@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "02-16",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q23441",
+      "name": "Октав Мирбо",
+      "birthDate": "1848-02-16",
+      "birthYear": 1848,
+      "description": "французский писатель, романист, драматург, публицист и художественный критик",
+      "category": "literature",
+      "sitelinks": 161,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%80%D0%B1%D0%BE,_%D0%9E%D0%BA%D1%82%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q23441#P569",
+      "verified": {
+        "revision": 2558187835,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1848-02-16",
+        "originalCalendar": "gregorian",
+        "claim": "q23441$CCB2D32A-BB04-43C0-8D77-3CF5AC5CBAF6",
+        "references": [
+          "https://archives.calvados.fr/ark:/52329/x7nc6jrv4pgh/aea96673-46df-452a-8ef8-eca5ad5ee617"
+        ]
+      }
+    },
+    {
+      "id": "Q10665",
+      "name": "Ким Чен Ир",
+      "birthDate": "1941-02-16",
+      "birthYear": 1941,
+      "description": "северокорейский политик, лидер КНДР в 1994—2011 годах",
+      "category": "public",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC_%D0%A7%D0%B5%D0%BD_%D0%98%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q10665#P569",
+      "verified": {
+        "revision": 2560577504,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-02-16",
+        "originalCalendar": "gregorian",
+        "claim": "q10665$6CCF6AF2-F509-4768-81CE-A52724692289",
+        "references": []
+      }
+    },
+    {
+      "id": "Q48246",
+      "name": "Эрнст Генрих Геккель",
+      "birthDate": "1834-02-16",
+      "birthYear": 1834,
+      "description": "немецкий естествоиспытатель и философ",
+      "category": "science",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D0%BA%D0%BA%D0%B5%D0%BB%D1%8C,_%D0%AD%D1%80%D0%BD%D1%81%D1%82_%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q48246#P569",
+      "verified": {
+        "revision": 2564813452,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1834-02-16",
+        "originalCalendar": "gregorian",
+        "claim": "q48246$6F941373-91FD-49B4-90F6-191DAB571052",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/haeckel-ernst"
+        ]
+      }
+    },
+    {
+      "id": "Q234644",
+      "name": "Элизабет Олсен",
+      "birthDate": "1989-02-16",
+      "birthYear": 1989,
+      "description": "американская актриса (р. 1989)",
+      "category": "screen",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D1%81%D0%B5%D0%BD,_%D0%AD%D0%BB%D0%B8%D0%B7%D0%B0%D0%B1%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q234644#P569",
+      "verified": {
+        "revision": 2557509596,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1989-02-16",
+        "originalCalendar": "gregorian",
+        "claim": "Q234644$83ED3FCC-37B7-4D76-8B71-392278336710",
+        "references": []
+      }
+    },
+    {
+      "id": "Q16474",
+      "name": "Джон Макинрой",
+      "birthDate": "1959-02-16",
+      "birthYear": 1959,
+      "description": "американский теннисист",
+      "category": "sport",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B8%D0%BD%D1%80%D0%BE%D0%B9,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q16474#P569",
+      "verified": {
+        "revision": 2561687739,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1959-02-16",
+        "originalCalendar": "gregorian",
+        "claim": "q16474$4fea2afe-474a-5737-f25b-8fd1bdd76d35",
+        "references": []
+      }
+    }
+  ]
+}

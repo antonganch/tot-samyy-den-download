@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "10-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1001",
+      "name": "Махатма Ганди",
+      "birthDate": "1869-10-02",
+      "birthYear": 1869,
+      "description": "индийский политик и философ, один из руководителей и идеологов движения за независимость Индии от Великобритании",
+      "category": "public",
+      "sitelinks": 287,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%85%D0%B0%D1%82%D0%BC%D0%B0_%D0%93%D0%B0%D0%BD%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q1001#P569",
+      "verified": {
+        "revision": 2563368401,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1869-10-02",
+        "originalCalendar": "gregorian",
+        "claim": "q1001$C1A77886-2618-462E-961B-96D5AE36FF45",
+        "references": []
+      }
+    },
+    {
+      "id": "Q128560",
+      "name": "Грэм Грин",
+      "birthDate": "1904-10-02",
+      "birthYear": 1904,
+      "description": "английский писатель (1904–1991)",
+      "category": "literature",
+      "sitelinks": 111,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%BD,_%D0%93%D1%80%D1%8D%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q128560#P569",
+      "verified": {
+        "revision": 2557903593,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1904-10-02",
+        "originalCalendar": "gregorian",
+        "claim": "q128560$438F8642-FA58-4DAA-9B79-9A85ACAD7553",
+        "references": [
+          "https://tritius.kmol.cz/authority/864884"
+        ]
+      }
+    },
+    {
+      "id": "Q483203",
+      "name": "Стинг",
+      "birthDate": "1951-10-02",
+      "birthYear": 1951,
+      "description": "британский музыкант",
+      "category": "music",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D0%BD%D0%B3",
+      "source": "https://www.wikidata.org/wiki/Q483203#P569",
+      "verified": {
+        "revision": 2564428161,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1951-10-02",
+        "originalCalendar": "gregorian",
+        "claim": "q483203$6E0939E9-98F9-4EBA-92EF-F3B5D517BA7B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q103846",
+      "name": "Граучо Маркс",
+      "birthDate": "1890-10-02",
+      "birthYear": 1890,
+      "description": "американский актёр, комик",
+      "category": "screen",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D1%81,_%D0%93%D1%80%D0%B0%D1%83%D1%87%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q103846#P569",
+      "verified": {
+        "revision": 2561273853,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1890-10-02",
+        "originalCalendar": "gregorian",
+        "claim": "q103846$D0AE180B-8410-4C32-95F4-1630462C717E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q950726",
+      "name": "Уильям Рамзай",
+      "birthDate": "1852-10-02",
+      "birthYear": 1852,
+      "description": "шотландский британский химик и физик",
+      "category": "science",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B7%D0%B0%D0%B9,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q950726#P569",
+      "verified": {
+        "revision": 2563063973,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1852-10-02",
+        "originalCalendar": "gregorian",
+        "claim": "q950726$3084AD88-81AD-498B-8366-24B7960F621A",
+        "references": []
+      }
+    }
+  ]
+}

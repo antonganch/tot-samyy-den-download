@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "12-01",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q129199",
+      "name": "Николай Иванович Лобачевский",
+      "birthDate": "1792-12-01",
+      "birthYear": 1792,
+      "description": "русский математик, профессор (1792—1856)",
+      "category": "science",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B1%D0%B0%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q129199#P569",
+      "verified": {
+        "revision": 2564793357,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1792-11-20",
+        "originalCalendar": "julian",
+        "claim": "Q129199$62835fa3-4f40-160d-75ac-c8f313bf76df",
+        "references": []
+      }
+    },
+    {
+      "id": "Q187447",
+      "name": "Пабло Эскобар",
+      "birthDate": "1949-12-01",
+      "birthYear": 1949,
+      "description": "колумбийский наркобарон",
+      "category": "other",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D1%81%D0%BA%D0%BE%D0%B1%D0%B0%D1%80,_%D0%9F%D0%B0%D0%B1%D0%BB%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q187447#P569",
+      "verified": {
+        "revision": 2560483164,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-12-01",
+        "originalCalendar": "gregorian",
+        "claim": "q187447$31F09076-0251-488D-8608-18329CDB8DF3",
+        "references": []
+      }
+    },
+    {
+      "id": "Q306",
+      "name": "Себастьян Пиньера",
+      "birthDate": "1949-12-01",
+      "birthYear": 1949,
+      "description": "чилийский экономист, инвестор и политический деятель, президент Чили (2010-2014, 2018-2022)",
+      "category": "public",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BD%D1%8C%D0%B5%D1%80%D0%B0,_%D0%A1%D0%B5%D0%B1%D0%B0%D1%81%D1%82%D1%8C%D1%8F%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q306#P569",
+      "verified": {
+        "revision": 2563696335,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-12-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q306$C2F88C3B-8C2C-4800-A8FC-508EB79EB6F5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q190631",
+      "name": "Бетт Мидлер",
+      "birthDate": "1945-12-01",
+      "birthYear": 1945,
+      "description": "американская певица и актриса",
+      "category": "screen",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%B4%D0%BB%D0%B5%D1%80,_%D0%91%D0%B5%D1%82%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q190631#P569",
+      "verified": {
+        "revision": 2561719932,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1945-12-01",
+        "originalCalendar": "gregorian",
+        "claim": "q190631$5F163C8B-E407-4C98-84A4-D2CD15DF7EFA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q18637166",
+      "name": "Эндрю Тейт",
+      "birthDate": "1986-12-01",
+      "birthYear": 1986,
+      "description": "американо-британская интернет-звезда, бывший профессиональный кикбоксер",
+      "category": "sport",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%B9%D1%82,_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q18637166#P569",
+      "verified": {
+        "revision": 2563885693,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-12-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q18637166$48d4ff0b-4dac-a4b7-63b1-f305f0c79605",
+        "references": [
+          "https://twitter.com/cobratate/status/1598311741137494016"
+        ]
+      }
+    }
+  ]
+}

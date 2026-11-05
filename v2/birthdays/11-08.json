@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "11-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q106529",
+      "name": "Ален Делон",
+      "birthDate": "1935-11-08",
+      "birthYear": 1935,
+      "description": "французский актёр и кинорежиссёр",
+      "category": "screen",
+      "sitelinks": 140,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D0%BE%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q106529#P569",
+      "verified": {
+        "revision": 2560502038,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1935-11-08",
+        "originalCalendar": "gregorian",
+        "claim": "q106529$66A26AF0-DE9E-41E7-8E73-540560860F1B",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/delon-alain"
+        ]
+      }
+    },
+    {
+      "id": "Q272855",
+      "name": "Кадзуо Исигуро",
+      "birthDate": "1954-11-08",
+      "birthYear": 1954,
+      "description": "британский писатель японского происхождения (род. 1954)",
+      "category": "literature",
+      "sitelinks": 118,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%B8%D0%B3%D1%83%D1%80%D0%BE,_%D0%9A%D0%B0%D0%B4%D0%B7%D1%83%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q272855#P569",
+      "verified": {
+        "revision": 2563196077,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1954-11-08",
+        "originalCalendar": "gregorian",
+        "claim": "q272855$F1E86DCB-0DF8-4B36-B4B2-EDB1BA8FC14D",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/ishiguro-kazuo"
+        ]
+      }
+    },
+    {
+      "id": "Q36184",
+      "name": "Брэм Стокер",
+      "birthDate": "1847-11-08",
+      "birthYear": 1847,
+      "description": "ирландский писатель (1847—1912)",
+      "category": "literature",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%BA%D0%B5%D1%80,_%D0%91%D1%80%D1%8D%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q36184#P569",
+      "verified": {
+        "revision": 2558790022,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1847-11-08",
+        "originalCalendar": "gregorian",
+        "claim": "q36184$952221DD-20D4-43DC-BB6F-B571C0C4507A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q60028",
+      "name": "Готлоб Фреге",
+      "birthDate": "1848-11-08",
+      "birthYear": 1848,
+      "description": "немецкий логик, математик и философ",
+      "category": "science",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B3%D0%B5,_%D0%93%D0%BE%D1%82%D0%BB%D0%BE%D0%B1",
+      "source": "https://www.wikidata.org/wiki/Q60028#P569",
+      "verified": {
+        "revision": 2563975958,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1848-11-08",
+        "originalCalendar": "gregorian",
+        "claim": "q60028$FCCC73F1-C8EE-4B4D-A830-FE2369E0AAEE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q302817",
+      "name": "Аарон Шварц",
+      "birthDate": "1986-11-08",
+      "birthYear": 1986,
+      "description": "американский интернет-активист, программист, писатель, хактивист",
+      "category": "science",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B2%D0%B0%D1%80%D1%86,_%D0%90%D0%B0%D1%80%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q302817#P569",
+      "verified": {
+        "revision": 2563342581,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-11-08",
+        "originalCalendar": "gregorian",
+        "claim": "q302817$e2b48dc3-4de3-d3d7-22d9-38a264ed5a9b",
+        "references": []
+      }
+    }
+  ]
+}

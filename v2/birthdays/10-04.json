@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "10-04",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q35686",
+      "name": "Ратерфорд Бёрчард Хейс",
+      "birthDate": "1822-10-04",
+      "birthYear": 1822,
+      "description": "американский политик, 19-й президент США",
+      "category": "public",
+      "sitelinks": 140,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%B9%D1%81,_%D0%A0%D0%B0%D1%82%D0%B5%D1%80%D1%84%D0%BE%D1%80%D0%B4_%D0%91%D1%91%D1%80%D1%87%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q35686#P569",
+      "verified": {
+        "revision": 2563805103,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1822-10-04",
+        "originalCalendar": "gregorian",
+        "claim": "Q35686$4ACF9301-12E0-4F7D-8F2F-9B3889780F0E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q133050",
+      "name": "Сьюзан Сарандон",
+      "birthDate": "1946-10-04",
+      "birthYear": 1946,
+      "description": "американская актриса и активистка",
+      "category": "screen",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D0%B0%D0%BD%D0%B4%D0%BE%D0%BD,_%D0%A1%D1%8C%D1%8E%D0%B7%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q133050#P569",
+      "verified": {
+        "revision": 2564317120,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-10-04",
+        "originalCalendar": "gregorian",
+        "claim": "q133050$2A1B98FB-F9C9-44DD-9461-86E515ABA32D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q103949",
+      "name": "Бастер Китон",
+      "birthDate": "1895-10-04",
+      "birthYear": 1895,
+      "description": "американский комедийный актёр, режиссёр, продюсер, сценарист и каскадёр",
+      "category": "screen",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%BE%D0%BD,_%D0%91%D0%B0%D1%81%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q103949#P569",
+      "verified": {
+        "revision": 2564586604,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1895-10-04",
+        "originalCalendar": "gregorian",
+        "claim": "q103949$08827ABA-F4D6-4A7A-936C-7184869B70F0",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/keaton-buster",
+          "https://cs.isabart.org/person/66345"
+        ]
+      }
+    },
+    {
+      "id": "Q104668",
+      "name": "Виталий Лазаревич Гинзбург",
+      "birthDate": "1916-10-04",
+      "birthYear": 1916,
+      "description": "советский и российский физик-теоретик",
+      "category": "science",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BD%D0%B7%D0%B1%D1%83%D1%80%D0%B3,_%D0%92%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9_%D0%9B%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q104668#P569",
+      "verified": {
+        "revision": 2563063532,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1916-10-04",
+        "originalCalendar": "gregorian",
+        "claim": "Q104668$DA710440-246A-460D-A506-76FBC166A4C7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q148458",
+      "name": "Жан-Франсуа Милле",
+      "birthDate": "1814-10-04",
+      "birthYear": 1814,
+      "description": "французский художник",
+      "category": "art",
+      "sitelinks": 69,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D0%BB%D0%B5,_%D0%96%D0%B0%D0%BD-%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q148458#P569",
+      "verified": {
+        "revision": 2564208841,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1814-10-04",
+        "originalCalendar": "gregorian",
+        "claim": "q148458$58F5FA46-9167-47C4-9094-E2206447EB55",
+        "references": []
+      }
+    }
+  ]
+}

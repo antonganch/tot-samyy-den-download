@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "06-22",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q873",
+      "name": "Мерил Стрип",
+      "birthDate": "1949-06-22",
+      "birthYear": 1949,
+      "description": "американская актриса театра и кино",
+      "category": "screen",
+      "sitelinks": 135,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%80%D0%B8%D0%BF,_%D0%9C%D0%B5%D1%80%D0%B8%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q873#P569",
+      "verified": {
+        "revision": 2563769958,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-06-22",
+        "originalCalendar": "gregorian",
+        "claim": "q873$F06CA878-979A-4BDB-9AEB-2A6870DDAAC8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q47293",
+      "name": "Эрих Мария Ремарк",
+      "birthDate": "1898-06-22",
+      "birthYear": 1898,
+      "description": "немецкий писатель (1898—1970)",
+      "category": "literature",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%BC%D0%B0%D1%80%D0%BA,_%D0%AD%D1%80%D0%B8%D1%85_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q47293#P569",
+      "verified": {
+        "revision": 2563981768,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1898-06-22",
+        "originalCalendar": "gregorian",
+        "claim": "q47293$147D9C64-433E-492F-8813-1A97D674D346",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7345",
+      "name": "Дэн Браун",
+      "birthDate": "1964-06-22",
+      "birthYear": 1964,
+      "description": "американский писатель, журналист, музыкант (род. 1964)",
+      "category": "music",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%94%D1%8D%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q7345#P569",
+      "verified": {
+        "revision": 2557849634,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-06-22",
+        "originalCalendar": "gregorian",
+        "claim": "q7345$774CC35E-FEE6-456F-A14C-52A8BDAEBC73",
+        "references": []
+      }
+    },
+    {
+      "id": "Q77888",
+      "name": "Вильгельм фон Гумбольдт",
+      "birthDate": "1767-06-22",
+      "birthYear": 1767,
+      "description": "немецкий филолог, философ, языковед, государственный деятель, дипломат",
+      "category": "literature",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%BC%D0%B1%D0%BE%D0%BB%D1%8C%D0%B4%D1%82,_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q77888#P569",
+      "verified": {
+        "revision": 2564373222,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1767-06-22",
+        "originalCalendar": "gregorian",
+        "claim": "q77888$40CB8B68-EA64-4708-A591-0FCE4318A52F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7426",
+      "name": "Ада Йонат",
+      "birthDate": "1939-06-22",
+      "birthYear": 1939,
+      "description": "израильский учёный-кристаллограф",
+      "category": "science",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%99%D0%BE%D0%BD%D0%B0%D1%82,_%D0%90%D0%B4%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q7426#P569",
+      "verified": {
+        "revision": 2563201476,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1939-06-22",
+        "originalCalendar": "gregorian",
+        "claim": "q7426$4D683C60-E014-4F30-A00F-EB2E68131131",
+        "references": []
+      }
+    }
+  ]
+}

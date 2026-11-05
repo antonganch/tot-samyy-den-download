@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "02-09",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q126462",
+      "name": "Томас Пейн",
+      "birthDate": "1737-02-09",
+      "birthYear": 1737,
+      "description": "англо-американский писатель, философ, публицист",
+      "category": "literature",
+      "sitelinks": 135,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B9%D0%BD,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q126462#P569",
+      "verified": {
+        "revision": 2558979727,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1737-01-29",
+        "originalCalendar": "julian",
+        "claim": "Q126462$FA67A17C-616B-4A72-A643-0AFD8FB104AD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q11869",
+      "name": "Уильям Генри Гаррисон",
+      "birthDate": "1773-02-09",
+      "birthYear": 1773,
+      "description": "американский военачальник и политик, девятый президент США (1841)",
+      "category": "public",
+      "sitelinks": 140,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D1%80%D0%B8%D1%81%D0%BE%D0%BD,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%93%D0%B5%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q11869#P569",
+      "verified": {
+        "revision": 2562621688,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1773-02-09",
+        "originalCalendar": "gregorian",
+        "claim": "q11869$62738F8A-83B4-46A5-98E5-B130C4F84B5F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q43293",
+      "name": "Джон Максвелл Кутзее",
+      "birthDate": "1940-02-09",
+      "birthYear": 1940,
+      "description": "южноафриканский писатель",
+      "category": "literature",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%82%D0%B7%D0%B5%D0%B5,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%9C%D0%B0%D0%BA%D1%81%D0%B2%D0%B5%D0%BB%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q43293#P569",
+      "verified": {
+        "revision": 2563196727,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-02-09",
+        "originalCalendar": "gregorian",
+        "claim": "q43293$7791B35C-829F-45A7-AD0E-1EF286CB08C1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q295803",
+      "name": "Том Хиддлстон",
+      "birthDate": "1981-02-09",
+      "birthYear": 1981,
+      "description": "британский актёр (род. 1981)",
+      "category": "screen",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%B4%D0%B4%D0%BB%D1%81%D1%82%D0%BE%D0%BD,_%D0%A2%D0%BE%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q295803#P569",
+      "verified": {
+        "revision": 2563951360,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-02-09",
+        "originalCalendar": "gregorian",
+        "claim": "Q295803$AC891129-B6AE-454F-8F72-74629B6FE58D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q18430",
+      "name": "Джозеф Стиглиц",
+      "birthDate": "1943-02-09",
+      "birthYear": 1943,
+      "description": "американский экономист, лауреат Нобелевской премии",
+      "category": "science",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D0%B3%D0%BB%D0%B8%D1%86,_%D0%94%D0%B6%D0%BE%D0%B7%D0%B5%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q18430#P569",
+      "verified": {
+        "revision": 2564258934,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1943-02-09",
+        "originalCalendar": "gregorian",
+        "claim": "q18430$6CCB1ABC-2245-49E8-9D15-86EB84F4BF4F",
+        "references": []
+      }
+    }
+  ]
+}

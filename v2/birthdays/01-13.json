@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "01-13",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q44467",
+      "name": "Орландо Блум",
+      "birthDate": "1977-01-13",
+      "birthYear": 1977,
+      "description": "английский актёр (род. 1977)",
+      "category": "screen",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D1%83%D0%BC,_%D0%9E%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q44467#P569",
+      "verified": {
+        "revision": 2563011447,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1977-01-13",
+        "originalCalendar": "gregorian",
+        "claim": "q44467$e9734253-483e-6087-ec9c-9e0d622b1d96",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57068",
+      "name": "Вильгельм Вин",
+      "birthDate": "1864-01-13",
+      "birthYear": 1864,
+      "description": "немецкий физик",
+      "category": "science",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BD,_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q57068#P569",
+      "verified": {
+        "revision": 2563994248,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1864-01-13",
+        "originalCalendar": "gregorian",
+        "claim": "q57068$896BF7EC-D7F0-4A39-A354-24227737E26B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q234463",
+      "name": "Сидней Бреннер",
+      "birthDate": "1927-01-13",
+      "birthYear": 1927,
+      "description": "биолог, лауреат Нобелевской премии по физиологии и медицине (2002)",
+      "category": "science",
+      "sitelinks": 71,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D1%80,_%D0%A1%D0%B8%D0%B4%D0%BD%D0%B5%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q234463#P569",
+      "verified": {
+        "revision": 2563063828,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1927-01-13",
+        "originalCalendar": "gregorian",
+        "claim": "q234463$2FF5287C-D3DB-4389-B78C-6CEE897FDC14",
+        "references": []
+      }
+    },
+    {
+      "id": "Q32045",
+      "name": "Лиам Хемсворт",
+      "birthDate": "1990-01-13",
+      "birthYear": 1990,
+      "description": "австралийский актёр",
+      "category": "screen",
+      "sitelinks": 63,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BC%D1%81%D0%B2%D0%BE%D1%80%D1%82,_%D0%9B%D0%B8%D0%B0%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q32045#P569",
+      "verified": {
+        "revision": 2561686353,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1990-01-13",
+        "originalCalendar": "gregorian",
+        "claim": "q32045$338F4D13-FB92-42A6-9CA6-40FD2E472F9E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q28531111",
+      "name": "Луис Фернандо Диас",
+      "birthDate": "1997-01-13",
+      "birthYear": 1997,
+      "description": "колумбийский футболист",
+      "category": "sport",
+      "sitelinks": 60,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B0%D1%81,_%D0%9B%D1%83%D0%B8%D1%81_%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q28531111#P569",
+      "verified": {
+        "revision": 2556943898,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1997-01-13",
+        "originalCalendar": "gregorian",
+        "claim": "Q28531111$3329eda0-4691-ac07-7a4b-828cd3f9ddee",
+        "references": []
+      }
+    }
+  ]
+}

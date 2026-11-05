@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "09-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9353",
+      "name": "Джон Локк",
+      "birthDate": "1632-09-08",
+      "birthYear": 1632,
+      "description": "британский педагог и философ",
+      "category": "literature",
+      "sitelinks": 210,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BA%D0%BA,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q9353#P569",
+      "verified": {
+        "revision": 2564782715,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1632-08-29",
+        "originalCalendar": "julian",
+        "claim": "Q9353$5fd60855-40b8-102e-db6e-0540ded9d288",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7298",
+      "name": "Антонин Дворжак",
+      "birthDate": "1841-09-08",
+      "birthYear": 1841,
+      "description": "чешский композитор",
+      "category": "music",
+      "sitelinks": 152,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B6%D0%B0%D0%BA,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q7298#P569",
+      "verified": {
+        "revision": 2564807955,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1841-09-08",
+        "originalCalendar": "gregorian",
+        "claim": "q7298$04E75C48-1943-4764-87B5-7841A728B562",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/dvorak-antonin",
+          "https://tritius.plzen.eu/authority/122095",
+          "https://tritius.kmol.cz/authority/716158"
+        ]
+      }
+    },
+    {
+      "id": "Q359442",
+      "name": "Берни Сандерс",
+      "birthDate": "1941-09-08",
+      "birthYear": 1941,
+      "description": "американский политик, сенатор США от штата Вермонт",
+      "category": "public",
+      "sitelinks": 141,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%D1%81,_%D0%91%D0%B5%D1%80%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q359442#P569",
+      "verified": {
+        "revision": 2558301234,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-09-08",
+        "originalCalendar": "gregorian",
+        "claim": "q359442$DE76C4CD-381F-4CEA-8DF0-BC28B982F494",
+        "references": []
+      }
+    },
+    {
+      "id": "Q42596",
+      "name": "Фредерик Мистраль",
+      "birthDate": "1830-09-08",
+      "birthYear": 1830,
+      "description": "провансальский поэт и лексикограф",
+      "category": "literature",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%BB%D1%8C,_%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q42596#P569",
+      "verified": {
+        "revision": 2564802639,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1830-09-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q42596$2D93B1B1-3A63-43D2-80A0-F452DA830754",
+        "references": []
+      }
+    },
+    {
+      "id": "Q177984",
+      "name": "Питер Селлерс",
+      "birthDate": "1925-09-08",
+      "birthYear": 1925,
+      "description": "английский актёр и комик",
+      "category": "screen",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%D1%81,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q177984#P569",
+      "verified": {
+        "revision": 2562727344,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1925-09-08",
+        "originalCalendar": "gregorian",
+        "claim": "q177984$2A241AA4-9086-47C9-9A2C-D7D3633CF13B",
+        "references": [
+          "https://tritius.kmol.cz/authority/865250"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "10-18",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q42156",
+      "name": "Анри Бергсон",
+      "birthDate": "1859-10-18",
+      "birthYear": 1859,
+      "description": "французский философ",
+      "category": "literature",
+      "sitelinks": 138,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B3%D1%81%D0%BE%D0%BD,_%D0%90%D0%BD%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q42156#P569",
+      "verified": {
+        "revision": 2563196983,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1859-10-18",
+        "originalCalendar": "gregorian",
+        "claim": "q42156$E2FE8215-3A13-4A5B-910F-9003ADDE2B6E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q5921",
+      "name": "Чак Берри",
+      "birthDate": "1926-10-18",
+      "birthYear": 1926,
+      "description": "американский певец, гитарист, автор песен",
+      "category": "music",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D1%80%D0%B8,_%D0%A7%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q5921#P569",
+      "verified": {
+        "revision": 2561671393,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-10-18",
+        "originalCalendar": "gregorian",
+        "claim": "q5921$9B00AD1B-5136-4C54-9584-19B23A68108E",
+        "references": [
+          "https://www.lemonde.fr/musiques/article/2017/03/18/le-musicien-chuck-berry-legende-du-rock-n-roll-meurt-a-l-age-de-90-ans_5096953_1654986.html"
+        ]
+      }
+    },
+    {
+      "id": "Q308840",
+      "name": "Жан-Клод Ван Дамм",
+      "birthDate": "1960-10-18",
+      "birthYear": 1960,
+      "description": "американский актёр, режиссёр, сценарист, постановщик боевых сцен и продюсер бельгийского происхождения",
+      "category": "screen",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BD_%D0%94%D0%B0%D0%BC%D0%BC,_%D0%96%D0%B0%D0%BD-%D0%9A%D0%BB%D0%BE%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q308840#P569",
+      "verified": {
+        "revision": 2562352852,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1960-10-18",
+        "originalCalendar": "gregorian",
+        "claim": "q308840$6082F5AB-F255-48F9-8394-68264FE4B58E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q45229",
+      "name": "Зак Эфрон",
+      "birthDate": "1987-10-18",
+      "birthYear": 1987,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D1%84%D1%80%D0%BE%D0%BD,_%D0%97%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q45229#P569",
+      "verified": {
+        "revision": 2563792474,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1987-10-18",
+        "originalCalendar": "gregorian",
+        "claim": "q45229$3C61EE05-5F4D-4433-9E3E-893D2DBF5BA8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q54545",
+      "name": "Мартина Навратилова",
+      "birthDate": "1956-10-18",
+      "birthYear": 1956,
+      "description": "чехословацкая и американская теннисистка, бывшая первая ракетка мира в одиночном и парном разряде",
+      "category": "sport",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D1%80%D0%B0%D1%82%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q54545#P569",
+      "verified": {
+        "revision": 2563062966,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1956-10-18",
+        "originalCalendar": "gregorian",
+        "claim": "q54545$00fe6811-45e3-76b1-7f16-08f134e42892",
+        "references": []
+      }
+    }
+  ]
+}

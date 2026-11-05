@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "07-19",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q132964",
+      "name": "Владимир Владимирович Маяковский",
+      "birthDate": "1893-07-19",
+      "birthYear": 1893,
+      "description": "русский поэт-футурист, драматург и публицист (1893—1930)",
+      "category": "literature",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%8F%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q132964#P569",
+      "verified": {
+        "revision": 2561202724,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1893-07-19",
+        "originalCalendar": "gregorian",
+        "claim": "Q132964$5b440935-b521-4d91-b065-94d03289c998",
+        "references": []
+      }
+    },
+    {
+      "id": "Q46373",
+      "name": "Эдгар Дега",
+      "birthDate": "1834-07-19",
+      "birthYear": 1834,
+      "description": "французский художник, импрессионист",
+      "category": "art",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B3%D0%B0,_%D0%AD%D0%B4%D0%B3%D0%B0%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q46373#P569",
+      "verified": {
+        "revision": 2561607132,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1834-07-19",
+        "originalCalendar": "gregorian",
+        "claim": "q46373$2BF0A809-8BB7-4E42-81FD-42FAFFCBB254",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/degas-hilaire-germain-edgar"
+        ]
+      }
+    },
+    {
+      "id": "Q15873",
+      "name": "Брайан Мэй",
+      "birthDate": "1947-07-19",
+      "birthYear": 1947,
+      "description": "гитарист британской рок-группы Queen",
+      "category": "music",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8D%D0%B9,_%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q15873#P569",
+      "verified": {
+        "revision": 2563746496,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-07-19",
+        "originalCalendar": "gregorian",
+        "claim": "q15873$BC400CAD-2C9E-4417-B7A1-1180FB993033",
+        "references": []
+      }
+    },
+    {
+      "id": "Q244674",
+      "name": "Бенедикт Камбербэтч",
+      "birthDate": "1976-07-19",
+      "birthYear": 1976,
+      "description": "британский актёр (род. 1976)",
+      "category": "screen",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D0%B1%D0%B5%D1%80%D0%B1%D1%8D%D1%82%D1%87,_%D0%91%D0%B5%D0%BD%D0%B5%D0%B4%D0%B8%D0%BA%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q244674#P569",
+      "verified": {
+        "revision": 2563934177,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1976-07-19",
+        "originalCalendar": "gregorian",
+        "claim": "q244674$37d6a4a5-45bd-ae6c-6f00-dbf28c458992",
+        "references": []
+      }
+    },
+    {
+      "id": "Q107402",
+      "name": "Розалин Сасмен Ялоу",
+      "birthDate": "1921-07-19",
+      "birthYear": 1921,
+      "description": "американская физик и медик",
+      "category": "science",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BB%D0%BE%D1%83,_%D0%A0%D0%BE%D0%B7%D0%B0%D0%BB%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q107402#P569",
+      "verified": {
+        "revision": 2563281978,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1921-07-19",
+        "originalCalendar": "gregorian",
+        "claim": "q107402$5828825E-7DAF-49CC-9E57-D7CBF557AED3",
+        "references": []
+      }
+    }
+  ]
+}

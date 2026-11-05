@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "09-14",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q6109517",
+      "name": "Лев XIV",
+      "birthDate": "1955-09-14",
+      "birthYear": 1955,
+      "description": "267-й Папа Римский с 8 мая 2025",
+      "category": "public",
+      "sitelinks": 176,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2_XIV",
+      "source": "https://www.wikidata.org/wiki/Q6109517#P569",
+      "verified": {
+        "revision": 2564378353,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-09-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q6109517$328B6DAB-4A70-4FBD-B160-08573203FA63",
+        "references": [
+          "https://as.com/actualidad/sociedad/quien-es-robert-francis-prevost-el-discreto-cardenal-agustino-que-fue-misionero-y-es-el-favorito-de-eeuu-para-ser-nuevo-papa-n/"
+        ]
+      }
+    },
+    {
+      "id": "Q6694",
+      "name": "Александр фон Гумбольдт",
+      "birthDate": "1769-09-14",
+      "birthYear": 1769,
+      "description": "немецкий учёный-энциклопедист, физик, метеоролог, географ, ботаник, зоолог и путешественник",
+      "category": "science",
+      "sitelinks": 141,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%BC%D0%B1%D0%BE%D0%BB%D1%8C%D0%B4%D1%82,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D1%84%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q6694#P569",
+      "verified": {
+        "revision": 2564774882,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1769-09-14",
+        "originalCalendar": "gregorian",
+        "claim": "q6694$3E5FBA31-D509-4275-BB9F-CEFD13248232",
+        "references": [
+          "https://www.geographicus.com/P/RareMaps/humboldt"
+        ]
+      }
+    },
+    {
+      "id": "Q15897",
+      "name": "Эми Уайнхаус",
+      "birthDate": "1983-09-14",
+      "birthYear": 1983,
+      "description": "английская певица и автор песен",
+      "category": "music",
+      "sitelinks": 130,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B0%D0%B9%D0%BD%D1%85%D0%B0%D1%83%D1%81,_%D0%AD%D0%BC%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q15897#P569",
+      "verified": {
+        "revision": 2557732661,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-09-14",
+        "originalCalendar": "gregorian",
+        "claim": "q15897$351C1184-71CA-4C2B-A546-D15993DB6DA6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q214309",
+      "name": "Сэм Нилл",
+      "birthDate": "1947-09-14",
+      "birthYear": 1947,
+      "description": "новозеландский актёр (1947—2026)",
+      "category": "screen",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%BB%D0%BB,_%D0%A1%D1%8D%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q214309#P569",
+      "verified": {
+        "revision": 2560323440,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-09-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q214309$C025A610-E75C-424A-A2FB-E29AABDF5999",
+        "references": []
+      }
+    },
+    {
+      "id": "Q495980",
+      "name": "Пон Джун Хо",
+      "birthDate": "1969-09-14",
+      "birthYear": 1969,
+      "description": "южнокорейский кинорежиссёр и сценарист",
+      "category": "screen",
+      "sitelinks": 63,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BD_%D0%94%D0%B6%D1%83%D0%BD_%D0%A5%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q495980#P569",
+      "verified": {
+        "revision": 2557821207,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-09-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q495980$DBB16F9E-5935-4C96-8107-972DBFCA430D",
+        "references": []
+      }
+    }
+  ]
+}

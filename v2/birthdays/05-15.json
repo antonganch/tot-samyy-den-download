@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "05-15",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q37463",
+      "name": "Пьер Кюри",
+      "birthDate": "1859-05-15",
+      "birthYear": 1859,
+      "description": "французский физик, лауреат Нобелевской премии",
+      "category": "science",
+      "sitelinks": 132,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8E%D1%80%D0%B8,_%D0%9F%D1%8C%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q37463#P569",
+      "verified": {
+        "revision": 2563198803,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1859-05-15",
+        "originalCalendar": "gregorian",
+        "claim": "q37463$D76920FA-E98B-43B3-88E2-7660F0A38320",
+        "references": []
+      }
+    },
+    {
+      "id": "Q835",
+      "name": "Михаил Афанасьевич Булгаков",
+      "birthDate": "1891-05-15",
+      "birthYear": 1891,
+      "description": "советский писатель, драматург, театральный режиссёр и актёр (1891—1940)",
+      "category": "screen",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%90%D1%84%D0%B0%D0%BD%D0%B0%D1%81%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q835#P569",
+      "verified": {
+        "revision": 2564248406,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1891-05-03",
+        "originalCalendar": "julian",
+        "claim": "q835$613D02E8-F351-488B-973B-10AE4A41915B",
+        "references": [
+          "https://cdiak.archives.gov.ua/images/arxiv_cetera/ac_2016_09_20/127_1078_837_234zv-235.jpg"
+        ]
+      }
+    },
+    {
+      "id": "Q12237722",
+      "name": "Лайал Аббуд",
+      "birthDate": "1982-05-15",
+      "birthYear": 1982,
+      "description": "ливанская певица и актриса",
+      "category": "screen",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B1%D1%83%D0%B4,_%D0%9B%D0%B0%D0%B9%D0%B0%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q12237722#P569",
+      "verified": {
+        "revision": 2551730510,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1982-05-15",
+        "originalCalendar": "gregorian",
+        "claim": "Q12237722$B33B3C63-BC20-4C0B-AAF9-630EBCE5121A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q174438",
+      "name": "Мадлен Олбрайт",
+      "birthDate": "1937-05-15",
+      "birthYear": 1937,
+      "description": "американский политик, государственный секретарь США (1997-2001)",
+      "category": "public",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%B1%D1%80%D0%B0%D0%B9%D1%82,_%D0%9C%D0%B0%D0%B4%D0%BB%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q174438#P569",
+      "verified": {
+        "revision": 2562945331,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1937-05-15",
+        "originalCalendar": "gregorian",
+        "claim": "q174438$6F7F3176-1297-44F8-9274-869D41199D48",
+        "references": [
+          "https://hedendaagsesieraden.nl/2021/10/21/madeleine-albright/"
+        ]
+      }
+    },
+    {
+      "id": "Q102454",
+      "name": "Пол Энтони Самуэльсон",
+      "birthDate": "1915-05-15",
+      "birthYear": 1915,
+      "description": "американский экономист",
+      "category": "science",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BC%D1%83%D1%8D%D0%BB%D1%8C%D1%81%D0%BE%D0%BD,_%D0%9F%D0%BE%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q102454#P569",
+      "verified": {
+        "revision": 2563198997,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1915-05-15",
+        "originalCalendar": "gregorian",
+        "claim": "q102454$EA57CE54-1474-4056-BE33-FB5EDC60746B",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "09-29",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8753",
+      "name": "Энрико Ферми",
+      "birthDate": "1901-09-29",
+      "birthYear": 1901,
+      "description": "итальянский физик, наиболее известный благодаря созданию первого в мире ядерного реактора",
+      "category": "science",
+      "sitelinks": 172,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B8,_%D0%AD%D0%BD%D1%80%D0%B8%D0%BA%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q8753#P569",
+      "verified": {
+        "revision": 2563197804,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-09-29",
+        "originalCalendar": "gregorian",
+        "claim": "q8753$26205361-4020-20a1-cf08-bd9b82c9baa6",
+        "references": [
+          "https://www.biography.com/people/enrico-fermi-9293405"
+        ]
+      }
+    },
+    {
+      "id": "Q444",
+      "name": "Лех Валенса",
+      "birthDate": "1943-09-29",
+      "birthYear": 1943,
+      "description": "польский политический и профсоюзный деятель, президент Польши (1990—1995)",
+      "category": "public",
+      "sitelinks": 176,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%81%D0%B0,_%D0%9B%D0%B5%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q444#P569",
+      "verified": {
+        "revision": 2563195944,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1943-09-29",
+        "originalCalendar": "gregorian",
+        "claim": "Q444$B021DF0E-0165-4A7B-8D94-53E1B7F8F16F",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/walesa-leszek-lech"
+        ]
+      }
+    },
+    {
+      "id": "Q11860",
+      "name": "Сильвио Берлускони",
+      "birthDate": "1936-09-29",
+      "birthYear": 1936,
+      "description": "четырежды председатель Совета министров Италии",
+      "category": "other",
+      "sitelinks": 164,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BB%D1%83%D1%81%D0%BA%D0%BE%D0%BD%D0%B8,_%D0%A1%D0%B8%D0%BB%D1%8C%D0%B2%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q11860#P569",
+      "verified": {
+        "revision": 2563121319,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1936-09-29",
+        "originalCalendar": "gregorian",
+        "claim": "q11860$47956e34-43c3-c2a1-27ae-0f6a73e60488",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/berlusconi-silvio"
+        ]
+      }
+    },
+    {
+      "id": "Q234141",
+      "name": "Иэн Макшейн",
+      "birthDate": "1942-09-29",
+      "birthYear": 1942,
+      "description": "британский актёр (род. 1942)",
+      "category": "screen",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D1%88%D0%B5%D0%B9%D0%BD,_%D0%98%D1%8D%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q234141#P569",
+      "verified": {
+        "revision": 2549090753,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-09-29",
+        "originalCalendar": "gregorian",
+        "claim": "Q234141$C1518C32-F81A-416F-A1C8-3EF6B33F7ED0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83235",
+      "name": "Горацио Нельсон",
+      "birthDate": "1758-09-29",
+      "birthYear": 1758,
+      "description": "выдающийся британский вице-адмирал, барон и виконт",
+      "category": "other",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%BB%D1%8C%D1%81%D0%BE%D0%BD,_%D0%93%D0%BE%D1%80%D0%B0%D1%86%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q83235#P569",
+      "verified": {
+        "revision": 2561205161,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1758-09-29",
+        "originalCalendar": "gregorian",
+        "claim": "q83235$C2881826-85B2-4E3E-ACC1-3B974F155EC8",
+        "references": []
+      }
+    }
+  ]
+}

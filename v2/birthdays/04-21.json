@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "04-21",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9682",
+      "name": "Елизавета II",
+      "birthDate": "1926-04-21",
+      "birthYear": 1926,
+      "description": "королева Великобритании и королевств Содружества c 1952 по 2022 годы",
+      "category": "public",
+      "sitelinks": 255,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0_II",
+      "source": "https://www.wikidata.org/wiki/Q9682#P569",
+      "verified": {
+        "revision": 2564275773,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1926-04-21",
+        "originalCalendar": "gregorian",
+        "claim": "q9682$b7d75eb5-4566-524f-e55a-105e9d99b0b6",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/elisabeth-elisabeth-ii"
+        ]
+      }
+    },
+    {
+      "id": "Q127332",
+      "name": "Шарлотта Бронте",
+      "birthDate": "1816-04-21",
+      "birthYear": 1816,
+      "description": "английская поэтесса и романистка",
+      "category": "literature",
+      "sitelinks": 135,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%BD%D1%82%D0%B5,_%D0%A8%D0%B0%D1%80%D0%BB%D0%BE%D1%82%D1%82%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q127332#P569",
+      "verified": {
+        "revision": 2564801181,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1816-04-21",
+        "originalCalendar": "gregorian",
+        "claim": "q127332$FC8AE76A-13E0-4468-B8AD-D5AA7B5CA80A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83484",
+      "name": "Энтони Куинн",
+      "birthDate": "1915-04-21",
+      "birthYear": 1915,
+      "description": "американский актёр (1915–2001)",
+      "category": "screen",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B8%D0%BD%D0%BD,_%D0%AD%D0%BD%D1%82%D0%BE%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q83484#P569",
+      "verified": {
+        "revision": 2563875613,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1915-04-21",
+        "originalCalendar": "gregorian",
+        "claim": "q83484$F21FA172-B84A-4D95-ABE7-D28A4BFA961D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q182665",
+      "name": "Игги Поп",
+      "birthDate": "1947-04-21",
+      "birthYear": 1947,
+      "description": "американский рок певец",
+      "category": "music",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D0%B3%D0%B8_%D0%9F%D0%BE%D0%BF",
+      "source": "https://www.wikidata.org/wiki/Q182665#P569",
+      "verified": {
+        "revision": 2557927848,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-04-21",
+        "originalCalendar": "gregorian",
+        "claim": "q182665$2ACA5704-E6AD-4F37-8D7F-55F1B8141EE0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q4967771",
+      "name": "Наргиз Мохаммади",
+      "birthDate": "1972-04-21",
+      "birthYear": 1972,
+      "description": "иранская правозащитница",
+      "category": "other",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4%D0%B8,_%D0%9D%D0%B0%D1%80%D0%B3%D0%B8%D0%B7",
+      "source": "https://www.wikidata.org/wiki/Q4967771#P569",
+      "verified": {
+        "revision": 2563050854,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-04-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q4967771$F4EA4E35-A9DB-4E29-823A-A0E182EDD0E8",
+        "references": [
+          "https://www.nobelprize.org/prizes/peace/2023/mohammadi/facts/"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "07-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q49496",
+      "name": "Жан де Лафонтен",
+      "birthDate": "1621-07-08",
+      "birthYear": 1621,
+      "description": "французский баснописец",
+      "category": "other",
+      "sitelinks": 146,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%84%D0%BE%D0%BD%D1%82%D0%B5%D0%BD,_%D0%96%D0%B0%D0%BD_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q49496#P569",
+      "verified": {
+        "revision": 2564774698,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1621-07-08",
+        "originalCalendar": "gregorian",
+        "claim": "q49496$8FC3B833-6466-4913-AE8D-3E851688F267",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/la-fontaine-jean"
+        ]
+      }
+    },
+    {
+      "id": "Q160278",
+      "name": "Джон Дэвисон Рокфеллер",
+      "birthDate": "1839-07-08",
+      "birthYear": 1839,
+      "description": "американский предприниматель, филантроп, первый долларовый миллиардер в истории человечества",
+      "category": "other",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BA%D1%84%D0%B5%D0%BB%D0%BB%D0%B5%D1%80,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%94%D1%8D%D0%B2%D0%B8%D1%81%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q160278#P569",
+      "verified": {
+        "revision": 2562486275,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1839-07-08",
+        "originalCalendar": "gregorian",
+        "claim": "q160278$C382066F-96F6-426B-B50F-8C0D35975887",
+        "references": []
+      }
+    },
+    {
+      "id": "Q172844",
+      "name": "Пётр Леонидович Капица",
+      "birthDate": "1894-07-08",
+      "birthYear": 1894,
+      "description": "советский физик",
+      "category": "science",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D0%B8%D1%86%D0%B0,_%D0%9F%D1%91%D1%82%D1%80_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q172844#P569",
+      "verified": {
+        "revision": 2563065063,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1894-06-26",
+        "originalCalendar": "julian",
+        "claim": "Q172844$1765C613-F712-425E-80FF-AB3AA1A32B1E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q155759",
+      "name": "Игорь Евгеньевич Тамм",
+      "birthDate": "1895-07-08",
+      "birthYear": 1895,
+      "description": "советский физик",
+      "category": "science",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D0%BC,_%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q155759#P569",
+      "verified": {
+        "revision": 2563196843,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1895-07-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q155759$9F3D556A-EF10-49D3-95AE-90616F610E3A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q439722",
+      "name": "Сон Хын Мин",
+      "birthDate": "1992-07-08",
+      "birthYear": 1992,
+      "description": "южнокорейский футболист",
+      "category": "sport",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BD_%D0%A5%D1%8B%D0%BD_%D0%9C%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q439722#P569",
+      "verified": {
+        "revision": 2564082568,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1992-07-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q439722$EB614ECD-00A4-4AE3-9573-19C887973B6D",
+        "references": []
+      }
+    }
+  ]
+}

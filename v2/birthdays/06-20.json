@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "06-20",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q37459",
+      "name": "Николь Кидман",
+      "birthDate": "1967-06-20",
+      "birthYear": 1967,
+      "description": "австралийская и американская актриса, певица, продюсер (род. 1967)",
+      "category": "screen",
+      "sitelinks": 134,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q37459#P569",
+      "verified": {
+        "revision": 2563887976,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-06-20",
+        "originalCalendar": "gregorian",
+        "claim": "q37459$F0E75484-2F2D-4AC2-80A1-406DFE7C8D0F",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/kidman-nicole"
+        ]
+      }
+    },
+    {
+      "id": "Q41555",
+      "name": "Жак Оффенбах",
+      "birthDate": "1819-06-20",
+      "birthYear": 1819,
+      "description": "французский композитор, музыкант, дирижёр",
+      "category": "music",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D1%84%D1%84%D0%B5%D0%BD%D0%B1%D0%B0%D1%85,_%D0%96%D0%B0%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q41555#P569",
+      "verified": {
+        "revision": 2564783431,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1819-06-20",
+        "originalCalendar": "gregorian",
+        "claim": "q41555$C629E186-EF49-454F-8FA1-6C4D40CD4B01",
+        "references": []
+      }
+    },
+    {
+      "id": "Q215072",
+      "name": "Джон Гудмен",
+      "birthDate": "1952-06-20",
+      "birthYear": 1952,
+      "description": "американский актёр кино и телевидения, продюсер",
+      "category": "screen",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B4%D0%BC%D0%B5%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q215072#P569",
+      "verified": {
+        "revision": 2557989704,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1952-06-20",
+        "originalCalendar": "gregorian",
+        "claim": "q215072$8DDD32C2-658E-4DCD-9D0B-4C706086B398",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41533",
+      "name": "Фрэнк Лэмпард",
+      "birthDate": "1978-06-20",
+      "birthYear": 1978,
+      "description": "английский футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 104,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8D%D0%BC%D0%BF%D0%B0%D1%80%D0%B4,_%D0%A4%D1%80%D1%8D%D0%BD%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q41533#P569",
+      "verified": {
+        "revision": 2557882926,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-06-20",
+        "originalCalendar": "gregorian",
+        "claim": "q41533$38DF37FF-30AB-4872-A87C-4FE4CE07A4A4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q19901232",
+      "name": "Драупади Мурму",
+      "birthDate": "1958-06-20",
+      "birthYear": 1958,
+      "description": "индийский политик, президент Индии с 25 июля 2022 года",
+      "category": "public",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%BC%D1%83,_%D0%94%D1%80%D0%B0%D1%83%D0%BF%D0%B0%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q19901232#P569",
+      "verified": {
+        "revision": 2563961802,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-06-20",
+        "originalCalendar": "gregorian",
+        "claim": "Q19901232$296f68ca-4f7d-29ce-6300-6f46b54f266f",
+        "references": []
+      }
+    }
+  ]
+}

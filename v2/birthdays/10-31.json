@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "10-31",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5586",
+      "name": "Кацусика Хокусай",
+      "birthDate": "1760-10-31",
+      "birthYear": 1760,
+      "description": "японский художник",
+      "category": "art",
+      "sitelinks": 177,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%86%D1%83%D1%81%D0%B8%D0%BA%D0%B0_%D0%A5%D0%BE%D0%BA%D1%83%D1%81%D0%B0%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q5586#P569",
+      "verified": {
+        "revision": 2561456861,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1760-10-31",
+        "originalCalendar": "gregorian",
+        "claim": "q5586$15c0948a-4263-9236-91e5-d2f168b339cd",
+        "references": []
+      }
+    },
+    {
+      "id": "Q82083",
+      "name": "Джон Китс",
+      "birthDate": "1795-10-31",
+      "birthYear": 1795,
+      "description": "английский поэт",
+      "category": "literature",
+      "sitelinks": 146,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D1%81,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q82083#P569",
+      "verified": {
+        "revision": 2563143318,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1795-10-31",
+        "originalCalendar": "gregorian",
+        "claim": "q82083$E6C2C532-48D5-468C-8878-208A14A2AF99",
+        "references": [
+          "https://cs.isabart.org/person/26172"
+        ]
+      }
+    },
+    {
+      "id": "Q16574",
+      "name": "Чан Кайши",
+      "birthDate": "1887-10-31",
+      "birthYear": 1887,
+      "description": "военный и политический деятель Китая (1887–1975)",
+      "category": "public",
+      "sitelinks": 138,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD_%D0%9A%D0%B0%D0%B9%D1%88%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q16574#P569",
+      "verified": {
+        "revision": 2563066020,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1887-10-31",
+        "originalCalendar": "gregorian",
+        "claim": "q16574$aca95124-42dd-f7e7-bd92-f9ee897024d6",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/chiang-kai-shek"
+        ]
+      }
+    },
+    {
+      "id": "Q4465",
+      "name": "Питер Джексон",
+      "birthDate": "1961-10-31",
+      "birthYear": 1961,
+      "description": "новозеландский кинорежиссёр, продюсер, сценарист и актёр",
+      "category": "screen",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BA%D1%81%D0%BE%D0%BD,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q4465#P569",
+      "verified": {
+        "revision": 2562941825,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1961-10-31",
+        "originalCalendar": "gregorian",
+        "claim": "q4465$fa5480d5-48ef-c662-654c-a4ef660ca52b",
+        "references": []
+      }
+    },
+    {
+      "id": "Q47780",
+      "name": "Заха Хадид",
+      "birthDate": "1950-10-31",
+      "birthYear": 1950,
+      "description": "ирако-британская архитектор и дизайнер",
+      "category": "art",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B4%D0%B8%D0%B4,_%D0%97%D0%B0%D1%85%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q47780#P569",
+      "verified": {
+        "revision": 2564087572,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1950-10-31",
+        "originalCalendar": "gregorian",
+        "claim": "q47780$A8715EBD-2286-4684-96E4-CDBE868773F4",
+        "references": []
+      }
+    }
+  ]
+}

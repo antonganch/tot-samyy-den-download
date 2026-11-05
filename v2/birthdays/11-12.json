@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "11-12",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8573",
+      "name": "Сунь Ятсен",
+      "birthDate": "1866-11-12",
+      "birthYear": 1866,
+      "description": "китайский государственный и политический деятель, революционер, основатель партии Гоминьдан (1866–1925)",
+      "category": "public",
+      "sitelinks": 152,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BD%D1%8C_%D0%AF%D1%82%D1%81%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q8573#P569",
+      "verified": {
+        "revision": 2558247283,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1866-11-12",
+        "originalCalendar": "gregorian",
+        "claim": "q8573$6FE48EDE-8DC7-4A37-97DE-CF4BCFC705A7",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/sun-yat-sen"
+        ]
+      }
+    },
+    {
+      "id": "Q30755",
+      "name": "Огюст Роден",
+      "birthDate": "1840-11-12",
+      "birthYear": 1840,
+      "description": "французский скульптор",
+      "category": "art",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D0%B5%D0%BD,_%D0%9E%D0%B3%D1%8E%D1%81%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q30755#P569",
+      "verified": {
+        "revision": 2564807152,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1840-11-12",
+        "originalCalendar": "gregorian",
+        "claim": "q30755$539848C8-6833-4AF8-855D-48CBC0FD850B",
+        "references": [
+          "https://ctemeradi.webnode.cz/regionalni-osobnosti/rodin-auguste/"
+        ]
+      }
+    },
+    {
+      "id": "Q3925",
+      "name": "Грейс Келли",
+      "birthDate": "1929-11-12",
+      "birthYear": 1929,
+      "description": "американская актриса, княгиня Монако",
+      "category": "screen",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%93%D1%80%D0%B5%D0%B9%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q3925#P569",
+      "verified": {
+        "revision": 2561514055,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1929-11-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q3925$AC35F144-D155-4945-88F4-57B9A4C2A8CD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q36301",
+      "name": "Энн Хэтэуэй",
+      "birthDate": "1982-11-12",
+      "birthYear": 1982,
+      "description": "американская актриса, певица и продюсер (род. 1982)",
+      "category": "screen",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D1%8D%D1%82%D1%8D%D1%83%D1%8D%D0%B9,_%D0%AD%D0%BD%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q36301#P569",
+      "verified": {
+        "revision": 2564766854,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1982-11-12",
+        "originalCalendar": "gregorian",
+        "claim": "q36301$129F8FCD-222E-4736-BBCC-8A781996C80B",
+        "references": []
+      }
+    },
+    {
+      "id": "Q164004",
+      "name": "Александр Порфирьевич Бородин",
+      "birthDate": "1833-11-12",
+      "birthYear": 1833,
+      "description": "русский композитор, химик и медик (1833—1887)",
+      "category": "music",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9F%D0%BE%D1%80%D1%84%D0%B8%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q164004#P569",
+      "verified": {
+        "revision": 2564825077,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1833-10-31",
+        "originalCalendar": "julian",
+        "claim": "q164004$D027EE5E-5F3D-4191-A049-603E8E1A8287",
+        "references": []
+      }
+    }
+  ]
+}

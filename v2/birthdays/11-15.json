@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "11-15",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q43523",
+      "name": "Герхарт Гауптман",
+      "birthDate": "1862-11-15",
+      "birthYear": 1862,
+      "description": "немецкий драматург",
+      "category": "literature",
+      "sitelinks": 123,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%83%D0%BF%D1%82%D0%BC%D0%B0%D0%BD,_%D0%93%D0%B5%D1%80%D1%85%D0%B0%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q43523#P569",
+      "verified": {
+        "revision": 2563976888,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1862-11-15",
+        "originalCalendar": "gregorian",
+        "claim": "q43523$F44632B7-BE49-4579-AD53-B4AB1725DC66",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/hauptmann-gerhart"
+        ]
+      }
+    },
+    {
+      "id": "Q14277",
+      "name": "Уильям Гершель",
+      "birthDate": "1738-11-15",
+      "birthYear": 1738,
+      "description": "английский астроном",
+      "category": "science",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D1%88%D0%B5%D0%BB%D1%8C,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q14277#P569",
+      "verified": {
+        "revision": 2564294903,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1738-11-15",
+        "originalCalendar": "gregorian",
+        "claim": "q14277$803FAD5F-1FD1-4E88-8C19-104F10724719",
+        "references": []
+      }
+    },
+    {
+      "id": "Q14060",
+      "name": "Эрвин Роммель",
+      "birthDate": "1891-11-15",
+      "birthYear": 1891,
+      "description": "немецкий военачальник, генерал-фельдмаршал",
+      "category": "public",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BC%D0%BC%D0%B5%D0%BB%D1%8C,_%D0%AD%D1%80%D0%B2%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q14060#P569",
+      "verified": {
+        "revision": 2563982082,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1891-11-15",
+        "originalCalendar": "gregorian",
+        "claim": "q14060$3ABA92BD-D078-47A6-80BD-33F624BA6EBB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q46408",
+      "name": "Джорджия О’Киф",
+      "birthDate": "1887-11-15",
+      "birthYear": 1887,
+      "description": "американская художница",
+      "category": "other",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%E2%80%99%D0%9A%D0%B8%D1%84%D1%84,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q46408#P569",
+      "verified": {
+        "revision": 2557894431,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1887-11-15",
+        "originalCalendar": "gregorian",
+        "claim": "q46408$948F7909-74B6-4D26-931D-92807D220D11",
+        "references": []
+      }
+    },
+    {
+      "id": "Q166317",
+      "name": "Паоло Дибала",
+      "birthDate": "1993-11-15",
+      "birthYear": 1993,
+      "description": "аргентинский футболист",
+      "category": "sport",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%B1%D0%B0%D0%BB%D0%B0,_%D0%9F%D0%B0%D1%83%D0%BB%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q166317#P569",
+      "verified": {
+        "revision": 2562094826,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1993-11-15",
+        "originalCalendar": "gregorian",
+        "claim": "Q166317$57A3F57A-A06F-4F76-9E2F-C2C051CF9972",
+        "references": []
+      }
+    }
+  ]
+}

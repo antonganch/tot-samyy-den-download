@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "09-24",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q93354",
+      "name": "Фрэнсис Скотт Фицджеральд",
+      "birthDate": "1896-09-24",
+      "birthYear": 1896,
+      "description": "американский писатель (1896—1940)",
+      "category": "literature",
+      "sitelinks": 123,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D1%86%D0%B4%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%B4,_%D0%A4%D1%80%D1%8D%D0%BD%D1%81%D0%B8%D1%81_%D0%A1%D0%BA%D0%BE%D1%82%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q93354#P569",
+      "verified": {
+        "revision": 2562938284,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1896-09-24",
+        "originalCalendar": "gregorian",
+        "claim": "q93354$E265E0F6-5A55-42E1-BB21-9F2B72C4CB67",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/fitzgerald-f-francis-scott-key"
+        ]
+      }
+    },
+    {
+      "id": "Q201315",
+      "name": "Франсиско де Кеведо",
+      "birthDate": "1584-09-24",
+      "birthYear": 1584,
+      "description": "испанский поэт и прозаик",
+      "category": "literature",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B2%D0%B5%D0%B4%D0%BE,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D1%81%D0%BA%D0%BE_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q201315#P569",
+      "verified": {
+        "revision": 2564801650,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1584-09-14",
+        "originalCalendar": "julian",
+        "claim": "Q201315$F886FCCA-C79E-4231-83C2-A6F795CCCBEB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q183297",
+      "name": "Исмет Инёню",
+      "birthDate": "1884-09-24",
+      "birthYear": 1884,
+      "description": "второй прездент Турции",
+      "category": "other",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%91%D0%BD%D1%8E,_%D0%98%D1%81%D0%BC%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q183297#P569",
+      "verified": {
+        "revision": 2563040975,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1884-09-24",
+        "originalCalendar": "gregorian",
+        "claim": "q183297$9FF82D48-63F6-48EC-8A71-80C4C23E38A5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q433003",
+      "name": "Биргит Саррап",
+      "birthDate": "1988-09-24",
+      "birthYear": 1988,
+      "description": "эстонская поп-певица, представительница Эстонии на Евровидение-2013",
+      "category": "music",
+      "sitelinks": 64,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D1%80%D1%80%D0%B0%D0%BF,_%D0%91%D0%B8%D1%80%D0%B3%D0%B8%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q433003#P569",
+      "verified": {
+        "revision": 2536810026,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1988-09-24",
+        "originalCalendar": "gregorian",
+        "claim": "Q433003$C5ED52A5-5195-4956-BE0E-B6E715D89776",
+        "references": []
+      }
+    },
+    {
+      "id": "Q233957",
+      "name": "Северо Очоа",
+      "birthDate": "1905-09-24",
+      "birthYear": 1905,
+      "description": "испанский биохимик, нобелевский лауреат",
+      "category": "science",
+      "sitelinks": 61,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D1%87%D0%BE%D0%B0,_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q233957#P569",
+      "verified": {
+        "revision": 2564776094,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1905-09-24",
+        "originalCalendar": "gregorian",
+        "claim": "q233957$E617D224-3260-4105-B9F6-56CDDC75EC97",
+        "references": []
+      }
+    }
+  ]
+}

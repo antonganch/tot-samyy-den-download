@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "10-08",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q102124",
+      "name": "Сигурни Уивер",
+      "birthDate": "1949-10-08",
+      "birthYear": 1949,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%B2%D0%B5%D1%80,_%D0%A1%D0%B8%D0%B3%D1%83%D1%80%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q102124#P569",
+      "verified": {
+        "revision": 2558236494,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-10-08",
+        "originalCalendar": "gregorian",
+        "claim": "q102124$E1151F85-0826-4F0F-956B-B5C82B8EC055",
+        "references": []
+      }
+    },
+    {
+      "id": "Q175535",
+      "name": "Мэтт Деймон",
+      "birthDate": "1970-10-08",
+      "birthYear": 1970,
+      "description": "американский актёр, продюсер и сценарист (р. 1970)",
+      "category": "screen",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%B9%D0%BC%D0%BE%D0%BD,_%D0%9C%D1%8D%D1%82%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q175535#P569",
+      "verified": {
+        "revision": 2558162419,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1970-10-08",
+        "originalCalendar": "gregorian",
+        "claim": "q175535$A5D3B24D-AE50-4201-BB27-8978A8D5BEC0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1450",
+      "name": "Бруно Марс",
+      "birthDate": "1985-10-08",
+      "birthYear": 1985,
+      "description": "американский певец, автор песен и музыкальный продюсер",
+      "category": "music",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D1%83%D0%BD%D0%BE_%D0%9C%D0%B0%D1%80%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q1450#P569",
+      "verified": {
+        "revision": 2564881105,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1985-10-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q1450$9B34C2A1-9511-4804-87B3-A654DB054DC0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q60772",
+      "name": "Урсула фон дер Ляйен",
+      "birthDate": "1958-10-08",
+      "birthYear": 1958,
+      "description": "немецкий политик, председатель Европейской комиссии с 2019 года",
+      "category": "public",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8F%D0%B9%D0%B5%D0%BD,_%D0%A3%D1%80%D1%81%D1%83%D0%BB%D0%B0_%D1%84%D0%BE%D0%BD_%D0%B4%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q60772#P569",
+      "verified": {
+        "revision": 2564952737,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-10-08",
+        "originalCalendar": "gregorian",
+        "claim": "q60772$fc9588c5-42cb-c813-c45c-22b654d97acb",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/ursula-von-der-leyen"
+        ]
+      }
+    },
+    {
+      "id": "Q188526",
+      "name": "Марина Ивановна Цветаева",
+      "birthDate": "1892-10-08",
+      "birthYear": 1892,
+      "description": "русский поэт, прозаик, переводчик",
+      "category": "literature",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q188526#P569",
+      "verified": {
+        "revision": 2559061125,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1892-10-08",
+        "originalCalendar": "gregorian",
+        "claim": "Q188526$0296EDFF-3240-4966-8C22-AEE71EF25613",
+        "references": []
+      }
+    }
+  ]
+}

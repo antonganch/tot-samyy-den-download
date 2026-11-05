@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "04-25",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q41163",
+      "name": "Аль Пачино",
+      "birthDate": "1940-04-25",
+      "birthYear": 1940,
+      "description": "американский актёр (род. 1940)",
+      "category": "screen",
+      "sitelinks": 135,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%87%D0%B8%D0%BD%D0%BE,_%D0%90%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q41163#P569",
+      "verified": {
+        "revision": 2563210961,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-04-25",
+        "originalCalendar": "gregorian",
+        "claim": "q41163$FC7A3EE4-8D4A-4073-A62B-E7BDA8FFC3C4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q36488",
+      "name": "Гульельмо Маркони",
+      "birthDate": "1874-04-25",
+      "birthYear": 1874,
+      "description": "итальянский радиотехник, изобретатель радио",
+      "category": "science",
+      "sitelinks": 130,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D0%BA%D0%BE%D0%BD%D0%B8,_%D0%93%D1%83%D0%BB%D1%8C%D0%B5%D0%BB%D1%8C%D0%BC%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q36488#P569",
+      "verified": {
+        "revision": 2563197190,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1874-04-25",
+        "originalCalendar": "gregorian",
+        "claim": "q36488$9BF3EEAA-3E2F-41B9-8005-6F619A4C5A12",
+        "references": [
+          "https://www.biography.com/people/guglielmo-marconi-9398611"
+        ]
+      }
+    },
+    {
+      "id": "Q17163",
+      "name": "Йохан Кройф",
+      "birthDate": "1947-04-25",
+      "birthYear": 1947,
+      "description": "нидерландский футболист",
+      "category": "sport",
+      "sitelinks": 128,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%B9%D1%84,_%D0%99%D0%BE%D1%85%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q17163#P569",
+      "verified": {
+        "revision": 2563899773,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1947-04-25",
+        "originalCalendar": "gregorian",
+        "claim": "q17163$ebb4c482-499e-4dde-c4a2-84b5cb80a82e",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1768",
+      "name": "Элла Фицджеральд",
+      "birthDate": "1917-04-25",
+      "birthYear": 1917,
+      "description": "американская джазовая певица",
+      "category": "music",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D1%86%D0%B4%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%B4,_%D0%AD%D0%BB%D0%BB%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q1768#P569",
+      "verified": {
+        "revision": 2564388912,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1917-04-25",
+        "originalCalendar": "gregorian",
+        "claim": "q1768$EF705FC0-822D-4665-8DDF-F2441D40EC30",
+        "references": []
+      }
+    },
+    {
+      "id": "Q65989",
+      "name": "Вольфганг Паули",
+      "birthDate": "1900-04-25",
+      "birthYear": 1900,
+      "description": "австрийско-швейцарский физик, нобелевский лауреат",
+      "category": "science",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%83%D0%BB%D0%B8,_%D0%92%D0%BE%D0%BB%D1%8C%D1%84%D0%B3%D0%B0%D0%BD%D0%B3",
+      "source": "https://www.wikidata.org/wiki/Q65989#P569",
+      "verified": {
+        "revision": 2563981040,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1900-04-25",
+        "originalCalendar": "gregorian",
+        "claim": "q65989$5B15B488-9C5D-4FFC-8BD7-EC4AC2221A68",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "10-01",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q23685",
+      "name": "Джимми Картер",
+      "birthDate": "1924-10-01",
+      "birthYear": 1924,
+      "description": "39-й президент США (1977—1981)",
+      "category": "public",
+      "sitelinks": 200,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B5%D1%80,_%D0%94%D0%B6%D0%B8%D0%BC%D0%BC%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q23685#P569",
+      "verified": {
+        "revision": 2563886551,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-10-01",
+        "originalCalendar": "gregorian",
+        "claim": "q23685$7A58B370-32A8-428E-9B6E-55294C3F99F2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q161819",
+      "name": "Джули Эндрюс",
+      "birthDate": "1935-10-01",
+      "birthYear": 1935,
+      "description": "британская актриса и певица",
+      "category": "screen",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B4%D1%80%D1%8E%D1%81,_%D0%94%D0%B6%D1%83%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q161819#P569",
+      "verified": {
+        "revision": 2559450333,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1935-10-01",
+        "originalCalendar": "gregorian",
+        "claim": "q161819$334A6990-921A-4639-9829-249308D29AAA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q29328",
+      "name": "Бри Ларсон",
+      "birthDate": "1989-10-01",
+      "birthYear": 1989,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D1%80%D1%81%D0%BE%D0%BD,_%D0%91%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q29328#P569",
+      "verified": {
+        "revision": 2554535964,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1989-10-01",
+        "originalCalendar": "gregorian",
+        "claim": "Q29328$49AD2B52-ADA3-4D55-A7BC-C325ABB37BC7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q127442",
+      "name": "Константин Устинович Черненко",
+      "birthDate": "1912-10-01",
+      "birthYear": 1912,
+      "description": "советский партийный и государственный деятель, генеральный секретарь ЦК КПСС и председатель Президиума Верховного Совета СССР (1984—1985)",
+      "category": "other",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A3%D1%81%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q127442#P569",
+      "verified": {
+        "revision": 2559702033,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-09-18",
+        "originalCalendar": "julian",
+        "claim": "Q127442$a935b236-4660-c419-674f-455e6c22fd56",
+        "references": [
+          "https://tass.ru/nauka/26726187"
+        ]
+      }
+    },
+    {
+      "id": "Q181369",
+      "name": "Янг Чжэньнин",
+      "birthDate": "1922-10-01",
+      "birthYear": 1922,
+      "description": "китайский физик (1922—2025)",
+      "category": "science",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AF%D0%BD%D0%B3_%D0%A7%D0%B6%D1%8D%D0%BD%D1%8C%D0%BD%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q181369#P569",
+      "verified": {
+        "revision": 2563662000,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-10-01",
+        "originalCalendar": "gregorian",
+        "claim": "q181369$C9C7105F-55DF-4E41-832F-2D0638F7F859",
+        "references": []
+      }
+    }
+  ]
+}

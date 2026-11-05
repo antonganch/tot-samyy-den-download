@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "02-22",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q23",
+      "name": "Джордж Вашингтон",
+      "birthDate": "1732-02-22",
+      "birthYear": 1732,
+      "description": "Американский военный и политический деятель, первый президент США (1789–1797)",
+      "category": "public",
+      "sitelinks": 275,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q23#P569",
+      "verified": {
+        "revision": 2564320705,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1732-02-22",
+        "originalCalendar": "gregorian",
+        "claim": "Q23$3BF0223A-D656-435B-9FD1-32E0B8F54A69",
+        "references": [
+          "https://d-nb.info/gnd/11876439X/about/lds"
+        ]
+      }
+    },
+    {
+      "id": "Q38193",
+      "name": "Артур Шопенгауэр",
+      "birthDate": "1788-02-22",
+      "birthYear": 1788,
+      "description": "немецкий философ (1788—1860)",
+      "category": "literature",
+      "sitelinks": 175,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D0%BF%D0%B5%D0%BD%D0%B3%D0%B0%D1%83%D1%8D%D1%80,_%D0%90%D1%80%D1%82%D1%83%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q38193#P569",
+      "verified": {
+        "revision": 2563983537,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1788-02-22",
+        "originalCalendar": "gregorian",
+        "claim": "q38193$14DAA7E0-A69D-4F53-9541-44703E0E612C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41257",
+      "name": "Генрих Рудольф Герц",
+      "birthDate": "1857-02-22",
+      "birthYear": 1857,
+      "description": "немецкий физик",
+      "category": "science",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D1%86,_%D0%93%D0%B5%D0%BD%D1%80%D0%B8%D1%85_%D0%A0%D1%83%D0%B4%D0%BE%D0%BB%D1%8C%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q41257#P569",
+      "verified": {
+        "revision": 2563977232,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1857-02-22",
+        "originalCalendar": "gregorian",
+        "claim": "q41257$00783970-E9AC-4D98-AB79-E29FA33FA08B",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/hertz-heinrich-rudolf"
+        ]
+      }
+    },
+    {
+      "id": "Q676094",
+      "name": "Дрю Бэрримор",
+      "birthDate": "1975-02-22",
+      "birthYear": 1975,
+      "description": "американская актриса и продюсер",
+      "category": "screen",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%8D%D1%80%D1%80%D0%B8%D0%BC%D0%BE%D1%80,_%D0%94%D1%80%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q676094#P569",
+      "verified": {
+        "revision": 2560346804,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-02-22",
+        "originalCalendar": "gregorian",
+        "claim": "q676094$61EC99AF-161A-4CB5-A38F-E7A38EB71913",
+        "references": []
+      }
+    },
+    {
+      "id": "Q51545",
+      "name": "Луис Бунюэль",
+      "birthDate": "1900-02-22",
+      "birthYear": 1900,
+      "description": "испанский киносценарист и кинорежиссёр",
+      "category": "screen",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BD%D1%8E%D1%8D%D0%BB%D1%8C,_%D0%9B%D1%83%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q51545#P569",
+      "verified": {
+        "revision": 2558137208,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1900-02-22",
+        "originalCalendar": "gregorian",
+        "claim": "q51545$21F5437F-C7DD-4164-896C-5EA226042EDC",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/bunuel-luis"
+        ]
+      }
+    }
+  ]
+}

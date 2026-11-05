@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "09-15",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q35064",
+      "name": "Агата Кристи",
+      "birthDate": "1890-09-15",
+      "birthYear": 1890,
+      "description": "английская писательница и драматург (1890—1976)",
+      "category": "literature",
+      "sitelinks": 199,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8,_%D0%90%D0%B3%D0%B0%D1%82%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q35064#P569",
+      "verified": {
+        "revision": 2563211555,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1890-09-15",
+        "originalCalendar": "gregorian",
+        "claim": "q35064$91B5BEA6-A233-4831-97C5-AF97E1BF86E1",
+        "references": [
+          "https://tritius.kmol.cz/authority/865253"
+        ]
+      }
+    },
+    {
+      "id": "Q35648",
+      "name": "Уильям Говард Тафт",
+      "birthDate": "1857-09-15",
+      "birthYear": 1857,
+      "description": "американский политик и юрист, 27-й президент США (1909—1913)",
+      "category": "public",
+      "sitelinks": 148,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D1%84%D1%82,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q35648#P569",
+      "verified": {
+        "revision": 2563787314,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1857-09-15",
+        "originalCalendar": "gregorian",
+        "claim": "q35648$4E1EAF01-44AF-45DF-BAE7-DBF7EBB027EC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q230141",
+      "name": "Чимаманда Нгози Адичи",
+      "birthDate": "1977-09-15",
+      "birthYear": 1977,
+      "description": "нигерийская писательница и певица",
+      "category": "music",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B8%D1%87%D0%B8,_%D0%A7%D0%B8%D0%BC%D0%B0%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0_%D0%9D%D0%B3%D0%BE%D0%B7%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q230141#P569",
+      "verified": {
+        "revision": 2564610258,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1977-09-15",
+        "originalCalendar": "gregorian",
+        "claim": "q230141$FBC2A44B-27D0-49EB-9C83-D58CE72807A8",
+        "references": [
+          "https://thebookerprizes.com/the-booker-library/authors/chimimanda-ngozi-adichie"
+        ]
+      }
+    },
+    {
+      "id": "Q51101",
+      "name": "Джолин Цай",
+      "birthDate": "1980-09-15",
+      "birthYear": 1980,
+      "description": "тайваньская певица, автор песен и актриса",
+      "category": "screen",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B0%D0%B9,_%D0%94%D0%B6%D0%BE%D0%BB%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q51101#P569",
+      "verified": {
+        "revision": 2556658134,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1980-09-15",
+        "originalCalendar": "gregorian",
+        "claim": "q51101$D5EA0DAA-B878-4128-BDA0-7AED3B3CF18A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q208026",
+      "name": "Том Харди",
+      "birthDate": "1977-09-15",
+      "birthYear": 1977,
+      "description": "английский актёр театра и кино",
+      "category": "screen",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%B4%D0%B8,_%D0%A2%D0%BE%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q208026#P569",
+      "verified": {
+        "revision": 2561650444,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1977-09-15",
+        "originalCalendar": "gregorian",
+        "claim": "Q208026$9512EEED-17CF-4A3A-A8C9-2CC913E2A64A",
+        "references": []
+      }
+    }
+  ]
+}

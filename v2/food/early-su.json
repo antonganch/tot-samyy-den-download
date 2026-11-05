@@ -1,0 +1,4148 @@
+{
+  "schema": 1,
+  "dataset": "early-retail-prices",
+  "updated": "2026-11-05",
+  "units": {
+    "beef": "RUB/kg",
+    "potato": "RUB/kg",
+    "eggs": "RUB/10 eggs"
+  },
+  "method": "Observed anchors in rubles; remaining groceries use the app's explicit approximate family ratios. Fiscal-year data are estimates for individual dates. No extrapolation across the 1924, 1947 or 1961 reforms. No extension into the rationing period after 1928.",
+  "priceSeries": [
+    {
+      "id": "csu1927-Saint Petersburg-1925-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1925-10-01",
+      "observedTo": "1925-10-01",
+      "validFrom": "1925-01-01",
+      "validTo": "1925-10-31",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.828
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1925-11-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1925-11-01",
+      "observedTo": "1925-11-01",
+      "validFrom": "1925-11-01",
+      "validTo": "1925-11-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.775
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1925-12-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1925-12-01",
+      "observedTo": "1925-12-01",
+      "validFrom": "1925-12-01",
+      "validTo": "1925-12-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.785
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1926-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1926-01-01",
+      "observedTo": "1926-01-01",
+      "validFrom": "1926-01-01",
+      "validTo": "1926-01-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.755
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1926-02-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1926-02-01",
+      "observedTo": "1926-02-01",
+      "validFrom": "1926-02-01",
+      "validTo": "1926-02-28",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.825
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1926-03-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1926-03-01",
+      "observedTo": "1926-03-01",
+      "validFrom": "1926-03-01",
+      "validTo": "1926-03-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.768
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1926-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1926-04-01",
+      "observedTo": "1926-04-01",
+      "validFrom": "1926-04-01",
+      "validTo": "1926-04-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.935
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1926-05-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1926-05-01",
+      "observedTo": "1926-05-01",
+      "validFrom": "1926-05-01",
+      "validTo": "1926-05-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 1.04
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1926-06-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1926-06-01",
+      "observedTo": "1926-06-01",
+      "validFrom": "1926-06-01",
+      "validTo": "1926-06-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 1.04
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1926-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1926-07-01",
+      "observedTo": "1926-07-01",
+      "validFrom": "1926-07-01",
+      "validTo": "1926-07-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 1.07
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1926-08-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1926-08-01",
+      "observedTo": "1926-08-01",
+      "validFrom": "1926-08-01",
+      "validTo": "1926-08-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.948
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1926-09-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1926-09-01",
+      "observedTo": "1926-09-01",
+      "validFrom": "1926-09-01",
+      "validTo": "1926-09-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 1.1
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saint Petersburg-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Санкт-Петербург",
+      "cityRegion": "ru",
+      "lat": 59.93863,
+      "lon": 30.31413,
+      "allowNearby": true,
+      "observedFrom": "1926-10-01",
+      "observedTo": "1926-10-01",
+      "validFrom": "1926-10-01",
+      "validTo": "1926-10-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.953
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1925-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1925-10-01",
+      "observedTo": "1925-10-01",
+      "validFrom": "1925-01-01",
+      "validTo": "1925-10-31",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.825
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1925-11-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1925-11-01",
+      "observedTo": "1925-11-01",
+      "validFrom": "1925-11-01",
+      "validTo": "1925-11-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.7
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1925-12-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1925-12-01",
+      "observedTo": "1925-12-01",
+      "validFrom": "1925-12-01",
+      "validTo": "1925-12-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.775
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1926-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1926-01-01",
+      "observedTo": "1926-01-01",
+      "validFrom": "1926-01-01",
+      "validTo": "1926-01-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.75
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1926-02-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1926-02-01",
+      "observedTo": "1926-02-01",
+      "validFrom": "1926-02-01",
+      "validTo": "1926-02-28",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.85
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1926-03-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1926-03-01",
+      "observedTo": "1926-03-01",
+      "validFrom": "1926-03-01",
+      "validTo": "1926-03-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.8
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1926-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1926-04-01",
+      "observedTo": "1926-04-01",
+      "validFrom": "1926-04-01",
+      "validTo": "1926-04-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.975
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1926-05-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1926-05-01",
+      "observedTo": "1926-05-01",
+      "validFrom": "1926-05-01",
+      "validTo": "1926-05-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 1.025
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1926-06-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1926-06-01",
+      "observedTo": "1926-06-01",
+      "validFrom": "1926-06-01",
+      "validTo": "1926-06-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 1.025
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1926-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1926-07-01",
+      "observedTo": "1926-07-01",
+      "validFrom": "1926-07-01",
+      "validTo": "1926-07-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 1.025
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1926-08-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1926-08-01",
+      "observedTo": "1926-08-01",
+      "validFrom": "1926-08-01",
+      "validTo": "1926-08-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 1.025
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1926-09-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1926-09-01",
+      "observedTo": "1926-09-01",
+      "validFrom": "1926-09-01",
+      "validTo": "1926-09-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.95
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Moscow-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75204,
+      "lon": 37.61781,
+      "allowNearby": true,
+      "observedFrom": "1926-10-01",
+      "observedTo": "1926-10-01",
+      "validFrom": "1926-10-01",
+      "validTo": "1926-10-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.938
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1925-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1925-10-01",
+      "observedTo": "1925-10-01",
+      "validFrom": "1925-01-01",
+      "validTo": "1925-10-31",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.5
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1925-11-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1925-11-01",
+      "observedTo": "1925-11-01",
+      "validFrom": "1925-11-01",
+      "validTo": "1925-11-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.463
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1925-12-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1925-12-01",
+      "observedTo": "1925-12-01",
+      "validFrom": "1925-12-01",
+      "validTo": "1925-12-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.45
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1926-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1926-01-01",
+      "observedTo": "1926-01-01",
+      "validFrom": "1926-01-01",
+      "validTo": "1926-01-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.45
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1926-02-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1926-02-01",
+      "observedTo": "1926-02-01",
+      "validFrom": "1926-02-01",
+      "validTo": "1926-02-28",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.475
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1926-03-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1926-03-01",
+      "observedTo": "1926-03-01",
+      "validFrom": "1926-03-01",
+      "validTo": "1926-03-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.563
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1926-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1926-04-01",
+      "observedTo": "1926-04-01",
+      "validFrom": "1926-04-01",
+      "validTo": "1926-04-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.6
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1926-05-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1926-05-01",
+      "observedTo": "1926-05-01",
+      "validFrom": "1926-05-01",
+      "validTo": "1926-05-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.675
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1926-06-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1926-06-01",
+      "observedTo": "1926-06-01",
+      "validFrom": "1926-06-01",
+      "validTo": "1926-06-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.725
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1926-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1926-07-01",
+      "observedTo": "1926-07-01",
+      "validFrom": "1926-07-01",
+      "validTo": "1926-07-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.7
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1926-08-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1926-08-01",
+      "observedTo": "1926-08-01",
+      "validFrom": "1926-08-01",
+      "validTo": "1926-08-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.665
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Yekaterinburg-1926-09-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Екатеринбург",
+      "cityRegion": "ru",
+      "lat": 56.85733,
+      "lon": 60.61529,
+      "allowNearby": true,
+      "observedFrom": "1926-09-01",
+      "observedTo": "1926-09-01",
+      "validFrom": "1926-09-01",
+      "validTo": "1926-09-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.64
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1925-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1925-10-01",
+      "observedTo": "1925-10-01",
+      "validFrom": "1925-01-01",
+      "validTo": "1925-10-31",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.5
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1925-11-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1925-11-01",
+      "observedTo": "1925-11-01",
+      "validFrom": "1925-11-01",
+      "validTo": "1925-11-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.35
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1925-12-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1925-12-01",
+      "observedTo": "1925-12-01",
+      "validFrom": "1925-12-01",
+      "validTo": "1925-12-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.5
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1926-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1926-01-01",
+      "observedTo": "1926-01-01",
+      "validFrom": "1926-01-01",
+      "validTo": "1926-01-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.475
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1926-02-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1926-02-01",
+      "observedTo": "1926-02-01",
+      "validFrom": "1926-02-01",
+      "validTo": "1926-02-28",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.55
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1926-03-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1926-03-01",
+      "observedTo": "1926-03-01",
+      "validFrom": "1926-03-01",
+      "validTo": "1926-03-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.6
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1926-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1926-04-01",
+      "observedTo": "1926-04-01",
+      "validFrom": "1926-04-01",
+      "validTo": "1926-04-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.65
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1926-05-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1926-05-01",
+      "observedTo": "1926-05-01",
+      "validFrom": "1926-05-01",
+      "validTo": "1926-05-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.775
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1926-06-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1926-06-01",
+      "observedTo": "1926-06-01",
+      "validFrom": "1926-06-01",
+      "validTo": "1926-06-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.8
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1926-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1926-07-01",
+      "observedTo": "1926-07-01",
+      "validFrom": "1926-07-01",
+      "validTo": "1926-07-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.75
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1926-08-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1926-08-01",
+      "observedTo": "1926-08-01",
+      "validFrom": "1926-08-01",
+      "validTo": "1926-08-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.75
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1926-09-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1926-09-01",
+      "observedTo": "1926-09-01",
+      "validFrom": "1926-09-01",
+      "validTo": "1926-09-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.7
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Saratov-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Саратов",
+      "cityRegion": "ru",
+      "lat": 51.54048,
+      "lon": 45.9901,
+      "allowNearby": true,
+      "observedFrom": "1926-10-01",
+      "observedTo": "1926-10-01",
+      "validFrom": "1926-10-01",
+      "validTo": "1926-10-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.75
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1925-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1925-10-01",
+      "observedTo": "1925-10-01",
+      "validFrom": "1925-01-01",
+      "validTo": "1925-10-31",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.413
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1925-11-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1925-11-01",
+      "observedTo": "1925-11-01",
+      "validFrom": "1925-11-01",
+      "validTo": "1925-11-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.338
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1925-12-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1925-12-01",
+      "observedTo": "1925-12-01",
+      "validFrom": "1925-12-01",
+      "validTo": "1925-12-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.375
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1926-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1926-01-01",
+      "observedTo": "1926-01-01",
+      "validFrom": "1926-01-01",
+      "validTo": "1926-01-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.375
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1926-02-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1926-02-01",
+      "observedTo": "1926-02-01",
+      "validFrom": "1926-02-01",
+      "validTo": "1926-02-28",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.475
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1926-03-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1926-03-01",
+      "observedTo": "1926-03-01",
+      "validFrom": "1926-03-01",
+      "validTo": "1926-03-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.525
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1926-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1926-04-01",
+      "observedTo": "1926-04-01",
+      "validFrom": "1926-04-01",
+      "validTo": "1926-04-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.625
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1926-05-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1926-05-01",
+      "observedTo": "1926-05-01",
+      "validFrom": "1926-05-01",
+      "validTo": "1926-05-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.6
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1926-06-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1926-06-01",
+      "observedTo": "1926-06-01",
+      "validFrom": "1926-06-01",
+      "validTo": "1926-06-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.638
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1926-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1926-07-01",
+      "observedTo": "1926-07-01",
+      "validFrom": "1926-07-01",
+      "validTo": "1926-07-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.613
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1926-09-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1926-09-01",
+      "observedTo": "1926-09-01",
+      "validFrom": "1926-09-01",
+      "validTo": "1926-09-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.638
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Kyiv-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Киев",
+      "cityRegion": "ua",
+      "lat": 50.45466,
+      "lon": 30.5238,
+      "allowNearby": true,
+      "observedFrom": "1926-10-01",
+      "observedTo": "1926-10-01",
+      "validFrom": "1926-10-01",
+      "validTo": "1926-10-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.7
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1925-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1925-10-01",
+      "observedTo": "1925-10-01",
+      "validFrom": "1925-01-01",
+      "validTo": "1925-10-31",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.5
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1925-11-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1925-11-01",
+      "observedTo": "1925-11-01",
+      "validFrom": "1925-11-01",
+      "validTo": "1925-11-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.5
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1925-12-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1925-12-01",
+      "observedTo": "1925-12-01",
+      "validFrom": "1925-12-01",
+      "validTo": "1925-12-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.45
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1926-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1926-01-01",
+      "observedTo": "1926-01-01",
+      "validFrom": "1926-01-01",
+      "validTo": "1926-01-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.5
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1926-02-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1926-02-01",
+      "observedTo": "1926-02-01",
+      "validFrom": "1926-02-01",
+      "validTo": "1926-02-28",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.575
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1926-03-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1926-03-01",
+      "observedTo": "1926-03-01",
+      "validFrom": "1926-03-01",
+      "validTo": "1926-03-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.625
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1926-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1926-04-01",
+      "observedTo": "1926-04-01",
+      "validFrom": "1926-04-01",
+      "validTo": "1926-04-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.7
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1926-05-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1926-05-01",
+      "observedTo": "1926-05-01",
+      "validFrom": "1926-05-01",
+      "validTo": "1926-05-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.75
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1926-06-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1926-06-01",
+      "observedTo": "1926-06-01",
+      "validFrom": "1926-06-01",
+      "validTo": "1926-06-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.825
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1926-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1926-07-01",
+      "observedTo": "1926-07-01",
+      "validFrom": "1926-07-01",
+      "validTo": "1926-07-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.8
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1926-08-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1926-08-01",
+      "observedTo": "1926-08-01",
+      "validFrom": "1926-08-01",
+      "validTo": "1926-08-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.825
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1926-09-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1926-09-01",
+      "observedTo": "1926-09-01",
+      "validFrom": "1926-09-01",
+      "validTo": "1926-09-30",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.8
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1927-Odesa-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "city": "Одесса",
+      "cityRegion": "ua",
+      "lat": 46.48572,
+      "lon": 30.74383,
+      "allowNearby": true,
+      "observedFrom": "1926-10-01",
+      "observedTo": "1926-10-01",
+      "validFrom": "1926-10-01",
+      "validTo": "1926-10-31",
+      "maxDistanceDays": 31,
+      "retail": {
+        "beef": 0.7
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/66164/statisticheskiy_spravochnik_sssr_1927.pdf",
+          "title": "ЦСУ СССР. Статистический справочник 1927",
+          "published": 1927,
+          "pages": "375–377",
+          "table": "VI.Г.1"
+        }
+      ],
+      "note": "Оценка в советских рублях по розничной цене говядины в кооперативной торговле."
+    },
+    {
+      "id": "csu1928-country-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.593,
+        "potato": 0.0363,
+        "eggs": 0.428
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода."
+    },
+    {
+      "id": "csu1928-country-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.594,
+        "potato": 0.0368,
+        "eggs": 0.487
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода."
+    },
+    {
+      "id": "csu1928-country-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.588,
+        "potato": 0.0428,
+        "eggs": 0.568
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода."
+    },
+    {
+      "id": "csu1928-country-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.628,
+        "potato": 0.0556,
+        "eggs": 0.407
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода."
+    },
+    {
+      "id": "csu1928-country-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "potato": 0.0666,
+        "eggs": 0.418
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода."
+    },
+    {
+      "id": "csu1928-ru-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.59,
+        "potato": 0.0359,
+        "eggs": 0.429
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ru"
+      ]
+    },
+    {
+      "id": "csu1928-ru-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.597,
+        "potato": 0.0377,
+        "eggs": 0.476
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ru"
+      ]
+    },
+    {
+      "id": "csu1928-ru-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.592,
+        "potato": 0.0438,
+        "eggs": 0.573
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ru"
+      ]
+    },
+    {
+      "id": "csu1928-ru-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.645,
+        "potato": 0.0572,
+        "eggs": 0.417
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ru"
+      ]
+    },
+    {
+      "id": "csu1928-ru-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "potato": 0.0636,
+        "eggs": 0.424
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ru"
+      ]
+    },
+    {
+      "id": "csu1928-crimea-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.608,
+        "potato": 0.0832,
+        "eggs": 0.463
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "crimea",
+        "sev"
+      ]
+    },
+    {
+      "id": "csu1928-crimea-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.595,
+        "potato": 0.0754,
+        "eggs": 0.672
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "crimea",
+        "sev"
+      ]
+    },
+    {
+      "id": "csu1928-crimea-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.61,
+        "potato": 0.1158,
+        "eggs": 0.74
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "crimea",
+        "sev"
+      ]
+    },
+    {
+      "id": "csu1928-crimea-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.644,
+        "potato": 0.1738,
+        "eggs": 0.423
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "crimea",
+        "sev"
+      ]
+    },
+    {
+      "id": "csu1928-crimea-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "beef": 0.61,
+        "potato": 0.1488,
+        "eggs": 0.486
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "crimea",
+        "sev"
+      ]
+    },
+    {
+      "id": "csu1928-by-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.579,
+        "potato": 0.0275,
+        "eggs": 0.492
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "by"
+      ]
+    },
+    {
+      "id": "csu1928-by-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.574,
+        "potato": 0.0332,
+        "eggs": 0.59
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "by"
+      ]
+    },
+    {
+      "id": "csu1928-by-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.57,
+        "potato": 0.036,
+        "eggs": 0.728
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "by"
+      ]
+    },
+    {
+      "id": "csu1928-by-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.587,
+        "potato": 0.0498,
+        "eggs": 0.453
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "by"
+      ]
+    },
+    {
+      "id": "csu1928-by-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "beef": 0.582,
+        "potato": 0.0715,
+        "eggs": 0.486
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "by"
+      ]
+    },
+    {
+      "id": "csu1928-ua-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.568,
+        "potato": 0.0396,
+        "eggs": 0.417
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ua"
+      ]
+    },
+    {
+      "id": "csu1928-ua-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.567,
+        "potato": 0.0341,
+        "eggs": 0.508
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ua"
+      ]
+    },
+    {
+      "id": "csu1928-ua-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.53,
+        "potato": 0.0404,
+        "eggs": 0.51
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ua"
+      ]
+    },
+    {
+      "id": "csu1928-ua-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.508,
+        "potato": 0.0512,
+        "eggs": 0.35
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ua"
+      ]
+    },
+    {
+      "id": "csu1928-ua-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "beef": 0.509,
+        "potato": 0.0762,
+        "eggs": 0.369
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ua"
+      ]
+    },
+    {
+      "id": "csu1928-az-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.7,
+        "eggs": 0.457
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "az"
+      ]
+    },
+    {
+      "id": "csu1928-az-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.674,
+        "eggs": 0.557
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "az"
+      ]
+    },
+    {
+      "id": "csu1928-az-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.737,
+        "eggs": 0.749
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "az"
+      ]
+    },
+    {
+      "id": "csu1928-az-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.829,
+        "eggs": 0.491
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "az"
+      ]
+    },
+    {
+      "id": "csu1928-az-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "beef": 0.751,
+        "eggs": 0.475
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "az"
+      ]
+    },
+    {
+      "id": "csu1928-ge-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.719,
+        "eggs": 0.406
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ge"
+      ]
+    },
+    {
+      "id": "csu1928-ge-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.666,
+        "eggs": 0.467
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ge"
+      ]
+    },
+    {
+      "id": "csu1928-ge-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.735,
+        "eggs": 0.555
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ge"
+      ]
+    },
+    {
+      "id": "csu1928-ge-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.861,
+        "eggs": 0.518
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ge"
+      ]
+    },
+    {
+      "id": "csu1928-ge-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "beef": 0.79,
+        "eggs": 0.545
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "ge"
+      ]
+    },
+    {
+      "id": "csu1928-am-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.618,
+        "eggs": 0.336
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "am"
+      ]
+    },
+    {
+      "id": "csu1928-am-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.596,
+        "eggs": 0.418
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "am"
+      ]
+    },
+    {
+      "id": "csu1928-am-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.7,
+        "eggs": 0.554
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "am"
+      ]
+    },
+    {
+      "id": "csu1928-am-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.713,
+        "eggs": 0.335
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "am"
+      ]
+    },
+    {
+      "id": "csu1928-am-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "beef": 0.606,
+        "eggs": 0.4
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "am"
+      ]
+    },
+    {
+      "id": "csu1928-kz-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.47,
+        "potato": 0.0509,
+        "eggs": 0.4
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "kz"
+      ]
+    },
+    {
+      "id": "csu1928-kz-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.423,
+        "potato": 0.0561,
+        "eggs": 0.491
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "kz"
+      ]
+    },
+    {
+      "id": "csu1928-kz-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.463,
+        "potato": 0.063,
+        "eggs": 0.662
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "kz"
+      ]
+    },
+    {
+      "id": "csu1928-kz-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.472,
+        "potato": 0.0916,
+        "eggs": 0.438
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "kz"
+      ]
+    },
+    {
+      "id": "csu1928-kz-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "potato": 0.0863,
+        "eggs": 0.397
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "kz"
+      ]
+    },
+    {
+      "id": "csu1928-kg-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.545,
+        "potato": 0.0693,
+        "eggs": 0.409
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "kg"
+      ]
+    },
+    {
+      "id": "csu1928-kg-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.487,
+        "potato": 0.0542,
+        "eggs": 0.53
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "kg"
+      ]
+    },
+    {
+      "id": "csu1928-kg-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.606,
+        "potato": 0.0207,
+        "eggs": 0.697
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "kg"
+      ]
+    },
+    {
+      "id": "csu1928-kg-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.671,
+        "potato": 0.0831,
+        "eggs": 0.417
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "kg"
+      ]
+    },
+    {
+      "id": "csu1928-kg-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "potato": 0.0829,
+        "eggs": 0.46
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "kg"
+      ]
+    },
+    {
+      "id": "csu1928-uz-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.685
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "uz"
+      ]
+    },
+    {
+      "id": "csu1928-uz-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.63
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "uz"
+      ]
+    },
+    {
+      "id": "csu1928-uz-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.71
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "uz"
+      ]
+    },
+    {
+      "id": "csu1928-uz-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.823
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "uz"
+      ]
+    },
+    {
+      "id": "csu1928-uz-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "beef": 0.792
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "uz"
+      ]
+    },
+    {
+      "id": "csu1928-tj-1926-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1926-10-01",
+      "observedTo": "1927-09-30",
+      "validFrom": "1926-01-01",
+      "validTo": "1927-09-30",
+      "maxDistanceDays": 273,
+      "retail": {
+        "beef": 0.64
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "tj"
+      ]
+    },
+    {
+      "id": "csu1928-tj-1927-10-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1927-10-01",
+      "observedTo": "1927-12-31",
+      "validFrom": "1927-10-01",
+      "validTo": "1927-12-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.61
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "tj"
+      ]
+    },
+    {
+      "id": "csu1928-tj-1928-01-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-01-01",
+      "observedTo": "1928-03-31",
+      "validFrom": "1928-01-01",
+      "validTo": "1928-03-31",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.687
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "tj"
+      ]
+    },
+    {
+      "id": "csu1928-tj-1928-04-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-04-01",
+      "observedTo": "1928-06-30",
+      "validFrom": "1928-04-01",
+      "validTo": "1928-06-30",
+      "maxDistanceDays": 0,
+      "retail": {
+        "beef": 0.697
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "tj"
+      ]
+    },
+    {
+      "id": "csu1928-tj-1928-07-01",
+      "currency": "SUR",
+      "denomination": "SUR-1924",
+      "country": "СССР",
+      "observedFrom": "1928-07-01",
+      "observedTo": "1928-09-30",
+      "validFrom": "1928-07-01",
+      "validTo": "1928-12-31",
+      "maxDistanceDays": 92,
+      "retail": {
+        "beef": 0.68
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/files/uploads/20228/stat_1928_6_3_5.pdf",
+          "title": "ЦСУ СССР. Статистический справочник за 1928 год",
+          "published": 1929,
+          "pages": "750–755",
+          "tables": [
+            75,
+            76,
+            77
+          ]
+        }
+      ],
+      "note": "Оценка в советских рублях по средним рыночным ценам статистического периода.",
+      "regions": [
+        "tj"
+      ]
+    }
+  ]
+}

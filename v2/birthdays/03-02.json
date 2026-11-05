@@ -1,0 +1,116 @@
+{
+  "schema": 1,
+  "day": "03-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q30487",
+      "name": "Михаил Сергеевич Горбачёв",
+      "birthDate": "1931-03-02",
+      "birthYear": 1931,
+      "description": "советский и российский политик, государственный и общественный деятель, генеральный секретарь ЦК КПСС (1985—1991), президент СССР (1990—1991)",
+      "category": "public",
+      "sitelinks": 203,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D0%B1%D0%B0%D1%87%D1%91%D0%B2,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q30487#P569",
+      "verified": {
+        "revision": 2564248872,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1931-03-02",
+        "originalCalendar": "gregorian",
+        "claim": "q30487$331DF490-7AB0-41AE-AAB9-53BE1FE866DF",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/michail-gorbatschow"
+        ]
+      }
+    },
+    {
+      "id": "Q4547",
+      "name": "Дэниел Крэйг",
+      "birthDate": "1968-03-02",
+      "birthYear": 1968,
+      "description": "английский актёр (род. 1968)",
+      "category": "screen",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%B9%D0%B3,_%D0%94%D1%8D%D0%BD%D0%B8%D0%B5%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q4547#P569",
+      "verified": {
+        "revision": 2562198997,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-03-02",
+        "originalCalendar": "gregorian",
+        "claim": "Q4547$CD34E6DE-C603-4C1B-BE39-3707022D8269",
+        "references": []
+      }
+    },
+    {
+      "id": "Q48173",
+      "name": "Бедржих Сметана",
+      "birthDate": "1824-03-02",
+      "birthYear": 1824,
+      "description": "чешский композитор, пианист и дирижёр",
+      "category": "music",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BC%D0%B5%D1%82%D0%B0%D0%BD%D0%B0,_%D0%91%D0%B5%D0%B4%D1%80%D0%B6%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q48173#P569",
+      "verified": {
+        "revision": 2564770949,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1824-03-02",
+        "originalCalendar": "gregorian",
+        "claim": "q48173$6F18E3EC-17D8-4320-9945-8A469E7204BA",
+        "references": [
+          "https://tritius.plzen.eu/authority/46251",
+          "https://tritius.kkvysociny.cz/authority/882873",
+          "https://jh.tritius.cz/authority/537485"
+        ]
+      }
+    },
+    {
+      "id": "Q189080",
+      "name": "Лу Рид",
+      "birthDate": "1942-03-02",
+      "birthYear": 1942,
+      "description": "американский музыкант",
+      "category": "music",
+      "sitelinks": 79,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%B4,_%D0%9B%D1%83",
+      "source": "https://www.wikidata.org/wiki/Q189080#P569",
+      "verified": {
+        "revision": 2561830333,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-03-02",
+        "originalCalendar": "gregorian",
+        "claim": "q189080$592FB4B7-5949-4819-9C96-D32C90ED58EA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q214622",
+      "name": "Никос Казандзакис",
+      "birthDate": "1883-03-02",
+      "birthYear": 1883,
+      "description": "греческий писатель",
+      "category": "literature",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D0%B4%D0%B7%D0%B0%D0%BA%D0%B8%D1%81,_%D0%9D%D0%B8%D0%BA%D0%BE%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q214622#P569",
+      "verified": {
+        "revision": 2562942637,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1883-02-18",
+        "originalCalendar": "julian",
+        "claim": "q214622$E48F859E-1AB8-4668-937F-91DEBFA435B5",
+        "references": [
+          "https://cs.isabart.org/person/18854"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "02-14",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q238464",
+      "name": "Саймон Пегг",
+      "birthDate": "1970-02-14",
+      "birthYear": 1970,
+      "description": "английский актёр, комик, сценарист, писатель, продюсер и режиссёр",
+      "category": "screen",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%B3%D0%B3,_%D0%A1%D0%B0%D0%B9%D0%BC%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q238464#P569",
+      "verified": {
+        "revision": 2563154550,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1970-02-14",
+        "originalCalendar": "gregorian",
+        "claim": "q238464$C8FCFA34-B5CA-470F-9018-82C19E8EC073",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57792",
+      "name": "Марк Рютте",
+      "birthDate": "1967-02-14",
+      "birthYear": 1967,
+      "description": "нидерландский политик, 14-й генеральный секретарь НАТО (с 2024)",
+      "category": "public",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%8E%D1%82%D1%82%D0%B5,_%D0%9C%D0%B0%D1%80%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q57792#P569",
+      "verified": {
+        "revision": 2562768610,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-02-14",
+        "originalCalendar": "gregorian",
+        "claim": "q57792$275ef517-413c-2697-5f41-05c04b702f6c",
+        "references": [
+          "https://www.rijksoverheid.nl/regering/bewindspersonen/mark-rutte/cv",
+          "https://www.vvd.nl/profielen/mark-rutte/"
+        ]
+      }
+    },
+    {
+      "id": "Q215562",
+      "name": "Фредерик Дуглас",
+      "birthDate": "1818-02-14",
+      "birthYear": 1818,
+      "description": "американский писатель, один из известнейших борцов за права чернокожих",
+      "category": "literature",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B3%D0%BB%D0%B0%D1%81,_%D0%A4%D1%80%D0%B5%D0%B4%D0%B5%D1%80%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q215562#P569",
+      "verified": {
+        "revision": 2563106006,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1818-02-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q215562$d4b4731c-44f2-15b9-a63b-e6332be1cd5d",
+        "references": []
+      }
+    },
+    {
+      "id": "Q162900",
+      "name": "Чарлз Томсон Рис Вильсон",
+      "birthDate": "1869-02-14",
+      "birthYear": 1869,
+      "description": "шотландский физик, лауреат Нобелевской премии по физике.",
+      "category": "science",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D1%81%D0%BE%D0%BD,_%D0%A7%D0%B0%D1%80%D0%BB%D0%B7_%D0%A2%D0%BE%D0%BC%D1%81%D0%BE%D0%BD_%D0%A0%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q162900#P569",
+      "verified": {
+        "revision": 2563201056,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1869-02-14",
+        "originalCalendar": "gregorian",
+        "claim": "q162900$E937B536-1A9B-454E-ACAB-D89208989B2F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q167790",
+      "name": "Эдинсон Кавани",
+      "birthDate": "1987-02-14",
+      "birthYear": 1987,
+      "description": "уругвайский футболист",
+      "category": "sport",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8,_%D0%AD%D0%B4%D0%B8%D0%BD%D1%81%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q167790#P569",
+      "verified": {
+        "revision": 2557859264,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1987-02-14",
+        "originalCalendar": "gregorian",
+        "claim": "Q167790$4E22134A-6ECC-467E-A991-9BD3079D7A31",
+        "references": []
+      }
+    }
+  ]
+}

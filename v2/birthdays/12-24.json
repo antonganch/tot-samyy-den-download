@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "12-24",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8962",
+      "name": "Джеймс Джоуль",
+      "birthDate": "1818-12-24",
+      "birthYear": 1818,
+      "description": "британский физик",
+      "category": "science",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D1%83%D0%BB%D1%8C,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q8962#P569",
+      "verified": {
+        "revision": 2557949984,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1818-12-24",
+        "originalCalendar": "gregorian",
+        "claim": "q8962$2BC177FD-201A-4B89-825D-D26F70E280CC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q79822",
+      "name": "Адам Мицкевич",
+      "birthDate": "1798-12-24",
+      "birthYear": 1798,
+      "description": "польский поэт",
+      "category": "literature",
+      "sitelinks": 130,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%86%D0%BA%D0%B5%D0%B2%D0%B8%D1%87,_%D0%90%D0%B4%D0%B0%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q79822#P569",
+      "verified": {
+        "revision": 2563838771,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1798-12-24",
+        "originalCalendar": "gregorian",
+        "claim": "q79822$20C6F76A-109D-4F50-98D5-5A606D64A912",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57371",
+      "name": "Ильхам Гейдарович Алиев",
+      "birthDate": "1961-12-24",
+      "birthYear": 1961,
+      "description": "президент Азербайджана (2003 — н.в.)",
+      "category": "public",
+      "sitelinks": 130,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B8%D0%B5%D0%B2,_%D0%98%D0%BB%D1%8C%D1%85%D0%B0%D0%BC_%D0%93%D0%B5%D0%B9%D0%B4%D0%B0%D1%80_%D0%BE%D0%B3%D0%BB%D1%8B",
+      "source": "https://www.wikidata.org/wiki/Q57371#P569",
+      "verified": {
+        "revision": 2563059221,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1961-12-24",
+        "originalCalendar": "gregorian",
+        "claim": "Q57371$924D3700-7EA8-4E63-B6E2-67A978E62713",
+        "references": []
+      }
+    },
+    {
+      "id": "Q164487",
+      "name": "Ава Гарднер",
+      "birthDate": "1922-12-24",
+      "birthYear": 1922,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B4%D0%BD%D0%B5%D1%80,_%D0%90%D0%B2%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q164487#P569",
+      "verified": {
+        "revision": 2558022075,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-12-24",
+        "originalCalendar": "gregorian",
+        "claim": "q164487$3BBA7A57-3E37-4E83-B43A-E99996493FBC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q128799",
+      "name": "Рики Мартин",
+      "birthDate": "1971-12-24",
+      "birthYear": 1971,
+      "description": "американский певец",
+      "category": "music",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD,_%D0%A0%D0%B8%D0%BA%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q128799#P569",
+      "verified": {
+        "revision": 2563746082,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1971-12-24",
+        "originalCalendar": "gregorian",
+        "claim": "q128799$19111935-ECE6-410E-A959-0B4AA7AAAC92",
+        "references": []
+      }
+    }
+  ]
+}

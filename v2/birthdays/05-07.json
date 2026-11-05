@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "05-07",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7315",
+      "name": "Пётр Ильич Чайковский",
+      "birthDate": "1840-05-07",
+      "birthYear": 1840,
+      "description": "русский композитор, дирижёр, педагог, музыкально-общественный деятель, музыкальный журналист",
+      "category": "music",
+      "sitelinks": 192,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%B9%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9F%D1%91%D1%82%D1%80_%D0%98%D0%BB%D1%8C%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q7315#P569",
+      "verified": {
+        "revision": 2564817377,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1840-04-25",
+        "originalCalendar": "julian",
+        "claim": "q7315$0C52841C-9843-476F-B198-59A074FFEB90",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7294",
+      "name": "Иоганнес Брамс",
+      "birthDate": "1833-05-07",
+      "birthYear": 1833,
+      "description": "немецкий композитор и пианист",
+      "category": "music",
+      "sitelinks": 162,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%BC%D1%81,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD%D0%B5%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q7294#P569",
+      "verified": {
+        "revision": 2564818321,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1833-05-07",
+        "originalCalendar": "gregorian",
+        "claim": "q7294$0ABD7B5B-57EC-44AF-AB81-7BF2F18C51BA",
+        "references": [
+          "https://aleph.vkol.cz/F/?func=find-c&ccl_term=sys=000004146&local_base=svk04"
+        ]
+      }
+    },
+    {
+      "id": "Q9161",
+      "name": "Иосип Броз Тито",
+      "birthDate": "1892-05-07",
+      "birthYear": 1892,
+      "description": "югославский военный и политический деятель; президент Югославии (1953–1980), председатель Правительства Югославии (1945–1953)",
+      "category": "public",
+      "sitelinks": 130,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%BE%D0%B7_%D0%A2%D0%B8%D1%82%D0%BE,_%D0%98%D0%BE%D1%81%D0%B8%D0%BF",
+      "source": "https://www.wikidata.org/wiki/Q9161#P569",
+      "verified": {
+        "revision": 2559960453,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1892-05-07",
+        "originalCalendar": "gregorian",
+        "claim": "q9161$EEA71575-0F44-405E-B511-7FA08931186B",
+        "references": [
+          "https://cs.isabart.org/person/79236"
+        ]
+      }
+    },
+    {
+      "id": "Q121180",
+      "name": "Владислав Реймонт",
+      "birthDate": "1867-05-07",
+      "birthYear": 1867,
+      "description": "польский писатель",
+      "category": "literature",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B9%D0%BC%D0%BE%D0%BD%D1%82,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q121180#P569",
+      "verified": {
+        "revision": 2563063319,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1867-05-07",
+        "originalCalendar": "gregorian",
+        "claim": "q121180$69B935E9-5C61-416D-9864-D1510E2DC5F5",
+        "references": [
+          "https://tritius.kmol.cz/authority/865281"
+        ]
+      }
+    },
+    {
+      "id": "Q93957",
+      "name": "Гэри Купер",
+      "birthDate": "1901-05-07",
+      "birthYear": 1901,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BF%D0%B5%D1%80,_%D0%93%D1%8D%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q93957#P569",
+      "verified": {
+        "revision": 2557889608,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1901-05-07",
+        "originalCalendar": "gregorian",
+        "claim": "q93957$9F259EE5-CFF4-4EE1-A364-470FF995817A",
+        "references": []
+      }
+    }
+  ]
+}

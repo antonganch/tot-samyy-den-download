@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "04-17",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q19810",
+      "name": "Виктория Бекхэм",
+      "birthDate": "1974-04-17",
+      "birthYear": 1974,
+      "description": "британская певица",
+      "category": "music",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BA%D1%85%D1%8D%D0%BC,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q19810#P569",
+      "verified": {
+        "revision": 2563865977,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-04-17",
+        "originalCalendar": "gregorian",
+        "claim": "q19810$AC4C3456-6D66-4EDB-8BA3-600BAD6D0957",
+        "references": []
+      }
+    },
+    {
+      "id": "Q172044",
+      "name": "Дженнифер Гарнер",
+      "birthDate": "1972-04-17",
+      "birthYear": 1972,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%BD%D0%B5%D1%80,_%D0%94%D0%B6%D0%B5%D0%BD%D0%BD%D0%B8%D1%84%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q172044#P569",
+      "verified": {
+        "revision": 2559925471,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1972-04-17",
+        "originalCalendar": "gregorian",
+        "claim": "q172044$574915D0-EB2C-45D9-A150-ECD0EF395277",
+        "references": []
+      }
+    },
+    {
+      "id": "Q182804",
+      "name": "Карен Бликсен",
+      "birthDate": "1885-04-17",
+      "birthYear": 1885,
+      "description": "датская писательница",
+      "category": "literature",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BB%D0%B8%D0%BA%D1%81%D0%B5%D0%BD,_%D0%9A%D0%B0%D1%80%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q182804#P569",
+      "verified": {
+        "revision": 2561781860,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1885-04-17",
+        "originalCalendar": "gregorian",
+        "claim": "q182804$AAAC7F99-37A0-4EC4-8871-7CE0AAC33F87",
+        "references": []
+      }
+    },
+    {
+      "id": "Q95002",
+      "name": "Уильям Холден",
+      "birthDate": "1918-04-17",
+      "birthYear": 1918,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BB%D0%B4%D0%B5%D0%BD,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q95002#P569",
+      "verified": {
+        "revision": 2562198978,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1918-04-17",
+        "originalCalendar": "gregorian",
+        "claim": "q95002$D5D193CE-4B1C-4932-BDC9-0976A9771CDB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q194291",
+      "name": "Сиримаво Бандаранаике",
+      "birthDate": "1916-04-17",
+      "birthYear": 1916,
+      "description": "премьер-министр Шри-Ланки (1960-1965, 1970-1977, 1994-2000)",
+      "category": "public",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%B0%D0%BD%D0%B0%D0%B8%D0%BA%D0%B5,_%D0%A1%D0%B8%D1%80%D0%B8%D0%BC%D0%B0%D0%B2%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q194291#P569",
+      "verified": {
+        "revision": 2562786230,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1916-04-17",
+        "originalCalendar": "gregorian",
+        "claim": "q194291$FEF2150E-0B40-49C9-8414-5718C4F20976",
+        "references": []
+      }
+    }
+  ]
+}

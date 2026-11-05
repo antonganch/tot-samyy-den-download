@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "08-21",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1189",
+      "name": "Усэйн Болт",
+      "birthDate": "1986-08-21",
+      "birthYear": 1986,
+      "description": "ямайский легкоатлет, спринтер",
+      "category": "sport",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%82,_%D0%A3%D1%81%D1%8D%D0%B9%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q1189#P569",
+      "verified": {
+        "revision": 2564712887,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1986-08-21",
+        "originalCalendar": "gregorian",
+        "claim": "q1189$3e6e0fed-4abb-6147-a08b-16dc62f26768",
+        "references": []
+      }
+    },
+    {
+      "id": "Q151269",
+      "name": "Роберт Левандовский",
+      "birthDate": "1988-08-21",
+      "birthYear": 1988,
+      "description": "польский футболист",
+      "category": "sport",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%A0%D0%BE%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q151269#P569",
+      "verified": {
+        "revision": 2562664206,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1988-08-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q151269$284CB94F-229A-44A5-B6B5-AA456F4576A7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57553",
+      "name": "Мухаммед VI",
+      "birthDate": "1963-08-21",
+      "birthYear": 1963,
+      "description": "король Марокко (с 1999)",
+      "category": "public",
+      "sitelinks": 104,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4_VI",
+      "source": "https://www.wikidata.org/wiki/Q57553#P569",
+      "verified": {
+        "revision": 2558174127,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-08-21",
+        "originalCalendar": "gregorian",
+        "claim": "q57553$EAD9C444-DEED-433C-9A3B-18577E100F85",
+        "references": []
+      }
+    },
+    {
+      "id": "Q92764",
+      "name": "Сергей Брин",
+      "birthDate": "1973-08-21",
+      "birthYear": 1973,
+      "description": "соучредитель компании Google",
+      "category": "other",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B8%D0%BD,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q92764#P569",
+      "verified": {
+        "revision": 2561686700,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1973-08-21",
+        "originalCalendar": "gregorian",
+        "claim": "q92764$e5583678-4436-018f-e7ed-3ba46dd4cee4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q318750",
+      "name": "Стивен Хилленберг",
+      "birthDate": "1961-08-21",
+      "birthYear": 1961,
+      "description": "американский аниматор и морской биолог (1961—2018)",
+      "category": "science",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BB%D0%BB%D0%B5%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q318750#P569",
+      "verified": {
+        "revision": 2556677212,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1961-08-21",
+        "originalCalendar": "gregorian",
+        "claim": "Q318750$8F39DA2A-8D0E-430C-8C31-76E91A47C0A0",
+        "references": [
+          "https://www.nytimes.com/2018/11/27/obituaries/stephen-hillenburg-spongebob-squarepants-creator-dies-at-57.html"
+        ]
+      }
+    }
+  ]
+}

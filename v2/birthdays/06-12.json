@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "06-12",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q23505",
+      "name": "Джордж Буш — старший",
+      "birthDate": "1924-06-12",
+      "birthYear": 1924,
+      "description": "41-й президент США (1989—1993)",
+      "category": "public",
+      "sitelinks": 197,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%88,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_(%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9)",
+      "source": "https://www.wikidata.org/wiki/Q23505#P569",
+      "verified": {
+        "revision": 2563803516,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1924-06-12",
+        "originalCalendar": "gregorian",
+        "claim": "q23505$7775c03c-417c-0a48-ae61-b8559eea76d8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q4583",
+      "name": "Анна Франк",
+      "birthDate": "1929-06-12",
+      "birthYear": 1929,
+      "description": "еврейская девочка, автор «Дневника Анны Франк»",
+      "category": "other",
+      "sitelinks": 171,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D0%BA,_%D0%90%D0%BD%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q4583#P569",
+      "verified": {
+        "revision": 2564131988,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1929-06-12",
+        "originalCalendar": "gregorian",
+        "claim": "q4583$12b07be1-4be5-41a0-aa79-c552e219785c",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/frank-anne"
+        ]
+      }
+    },
+    {
+      "id": "Q6276882",
+      "name": "Джордан Питерсон",
+      "birthDate": "1962-06-12",
+      "birthYear": 1962,
+      "description": "Канадский клинический психолог",
+      "category": "science",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%82%D0%B5%D1%80%D1%81%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q6276882#P569",
+      "verified": {
+        "revision": 2561239096,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1962-06-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q6276882$A4A628C7-C7A7-4540-94EF-F066BB023F37",
+        "references": []
+      }
+    },
+    {
+      "id": "Q311872",
+      "name": "Филипе Коутиньо",
+      "birthDate": "1992-06-12",
+      "birthYear": 1992,
+      "description": "бразильский футболист",
+      "category": "sport",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%83%D1%82%D0%B8%D0%BD%D1%8C%D0%BE,_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q311872#P569",
+      "verified": {
+        "revision": 2562673550,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1992-06-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q311872$24782DA5-F612-47C8-B61C-36810D77AE5F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q44032",
+      "name": "Эгон Шиле",
+      "birthDate": "1890-06-12",
+      "birthYear": 1890,
+      "description": "австрийский художник",
+      "category": "art",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BB%D0%B5,_%D0%AD%D0%B3%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q44032#P569",
+      "verified": {
+        "revision": 2563982637,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1890-06-12",
+        "originalCalendar": "gregorian",
+        "claim": "q44032$2C90BF43-5F5D-4979-8A55-A048C0D5B60F",
+        "references": []
+      }
+    }
+  ]
+}

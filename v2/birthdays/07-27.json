@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "07-27",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q43440",
+      "name": "Джозуэ Кардуччи",
+      "birthDate": "1835-07-27",
+      "birthYear": 1835,
+      "description": "итальянский поэт",
+      "category": "literature",
+      "sitelinks": 123,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B4%D1%83%D1%87%D1%87%D0%B8,_%D0%94%D0%B6%D0%BE%D0%B7%D1%83%D1%8D",
+      "source": "https://www.wikidata.org/wiki/Q43440#P569",
+      "verified": {
+        "revision": 2564816692,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1835-07-27",
+        "originalCalendar": "gregorian",
+        "claim": "q43440$720CB452-1E90-46D9-95B2-57B2794167F2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q169150",
+      "name": "Александр Дюма-сын",
+      "birthDate": "1824-07-27",
+      "birthYear": 1824,
+      "description": "французский драматург и прозаик и журналист",
+      "category": "literature",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%8E%D0%BC%D0%B0,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_(%D1%81%D1%8B%D0%BD)",
+      "source": "https://www.wikidata.org/wiki/Q169150#P569",
+      "verified": {
+        "revision": 2564820228,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1824-07-27",
+        "originalCalendar": "gregorian",
+        "claim": "q169150$DD826127-C782-497E-8827-F472964CFF73",
+        "references": [
+          "https://www.blackpast.org/global-african-history/alexandre-dumas-1824-1895/"
+        ]
+      }
+    },
+    {
+      "id": "Q311723",
+      "name": "Донни Йен",
+      "birthDate": "1963-07-27",
+      "birthYear": 1963,
+      "description": "китайский актёр, режиссёр, продюсер, постановщик трюков и боевых сцен (род. 1963)",
+      "category": "screen",
+      "sitelinks": 63,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D0%BD,_%D0%94%D0%BE%D0%BD%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q311723#P569",
+      "verified": {
+        "revision": 2554029467,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1963-07-27",
+        "originalCalendar": "gregorian",
+        "claim": "q311723$ED995961-4BA6-4525-A68C-4FDF8A9BEE2C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q76604",
+      "name": "Ханс Фишер",
+      "birthDate": "1881-07-27",
+      "birthYear": 1881,
+      "description": "немецкий химик",
+      "category": "science",
+      "sitelinks": 65,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D1%88%D0%B5%D1%80,_%D0%A5%D0%B0%D0%BD%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q76604#P569",
+      "verified": {
+        "revision": 2563989056,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1881-07-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q76604$41109A40-6D18-4925-9314-97CFA6F74BCC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q16233540",
+      "name": "Крити Санон",
+      "birthDate": "1990-07-27",
+      "birthYear": 1990,
+      "description": "индийская актриса",
+      "category": "screen",
+      "sitelinks": 56,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BE%D0%BD,_%D0%9A%D1%80%D0%B8%D1%82%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q16233540#P569",
+      "verified": {
+        "revision": 2563964261,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1990-07-27",
+        "originalCalendar": "gregorian",
+        "claim": "Q16233540$A3A0BFB1-DFE0-492B-9B9D-83B9183B0849",
+        "references": [
+          "https://web.archive.org/web/20150929024138/http://www.hindustantimes.com/bollywood/varun-dhawan-and-i-think-in-the-same-filmy-way-kriti-sanon/story-y6QqoDZaIFvDyqL5l9JupL.html"
+        ]
+      }
+    }
+  ]
+}

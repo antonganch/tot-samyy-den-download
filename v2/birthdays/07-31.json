@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "07-31",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q34660",
+      "name": "Джоан Роулинг",
+      "birthDate": "1965-07-31",
+      "birthYear": 1965,
+      "description": "британская писательница, автор серии романов о Гарри Поттере (род. 1965)",
+      "category": "literature",
+      "sitelinks": 183,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D1%83%D0%BB%D0%B8%D0%BD%D0%B3,_%D0%94%D0%B6%D0%BE%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q34660#P569",
+      "verified": {
+        "revision": 2563116086,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1965-07-31",
+        "originalCalendar": "gregorian",
+        "claim": "q34660$685B6069-2AA2-4ECC-BB4E-040873D9C20D",
+        "references": [
+          "https://portal.dnb.de/opac.htm?method=simpleSearch&cqlMode=true&query=nid%3D122340469",
+          "https://brockhaus.de/ecs/julex/article/rowling-joanne-k-kathleen"
+        ]
+      }
+    },
+    {
+      "id": "Q47426",
+      "name": "Милтон Фридман",
+      "birthDate": "1912-07-31",
+      "birthYear": 1912,
+      "description": "американский экономист",
+      "category": "science",
+      "sitelinks": 136,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD,_%D0%9C%D0%B8%D0%BB%D1%82%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q47426#P569",
+      "verified": {
+        "revision": 2564354913,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-07-31",
+        "originalCalendar": "gregorian",
+        "claim": "q47426$E1419308-60CB-4B7B-BF38-4DB112944FA8",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2737",
+      "name": "Луи де Фюнес",
+      "birthDate": "1914-07-31",
+      "birthYear": 1914,
+      "description": "французский киноактёр, режиссёр, сценарист",
+      "category": "screen",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%8E%D0%BD%D0%B5%D1%81,_%D0%9B%D1%83%D0%B8_%D0%B4%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q2737#P569",
+      "verified": {
+        "revision": 2563951330,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1914-07-31",
+        "originalCalendar": "gregorian",
+        "claim": "q2737$A8015964-9F49-493C-98AB-6C30428B2E18",
+        "references": []
+      }
+    },
+    {
+      "id": "Q153670",
+      "name": "Примо Леви",
+      "birthDate": "1919-07-31",
+      "birthYear": 1919,
+      "description": "итальянский химик и писатель",
+      "category": "science",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B2%D0%B8,_%D0%9F%D1%80%D0%B8%D0%BC%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q153670#P569",
+      "verified": {
+        "revision": 2558218491,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1919-07-31",
+        "originalCalendar": "gregorian",
+        "claim": "Q153670$1CC7E46B-723F-4AFF-B8D9-3B54551A68DC",
+        "references": [
+          "https://cs.isabart.org/person/101218"
+        ]
+      }
+    },
+    {
+      "id": "Q174152",
+      "name": "Премчанд",
+      "birthDate": "1880-07-31",
+      "birthYear": 1880,
+      "description": "индийский писатель, публицист, сценарист",
+      "category": "screen",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D0%B8%D0%B2%D0%B0%D1%81%D1%82%D0%B0%D0%B2,_%D0%94%D1%85%D0%B0%D0%BD%D0%BF%D0%B0%D1%82%D1%80%D0%B0%D0%B9",
+      "source": "https://www.wikidata.org/wiki/Q174152#P569",
+      "verified": {
+        "revision": 2558218450,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1880-07-31",
+        "originalCalendar": "gregorian",
+        "claim": "q174152$6D6F8A66-205B-4242-A4BB-4B971418B5EC",
+        "references": []
+      }
+    }
+  ]
+}

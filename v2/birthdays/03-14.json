@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "03-14",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q937",
+      "name": "Альберт Эйнштейн",
+      "birthDate": "1879-03-14",
+      "birthYear": 1879,
+      "description": "физик-теоретик, один из основателей современной теоретической физики, лауреат Нобелевской премии, общественный деятель-гуманист",
+      "category": "science",
+      "sitelinks": 322,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q937#P569",
+      "verified": {
+        "revision": 2563975403,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1879-03-14",
+        "originalCalendar": "gregorian",
+        "claim": "q937$2ecb21c3-4db1-54e8-27c4-a8a40541930c",
+        "references": []
+      }
+    },
+    {
+      "id": "Q123351",
+      "name": "Майкл Кейн",
+      "birthDate": "1933-03-14",
+      "birthYear": 1933,
+      "description": "английский актёр, продюсер и писатель",
+      "category": "screen",
+      "sitelinks": 110,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%B9%D0%BD,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q123351#P569",
+      "verified": {
+        "revision": 2563205603,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-03-14",
+        "originalCalendar": "gregorian",
+        "claim": "q123351$5886CC07-B5C3-4E2B-9B1E-886ADDD807B0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q9557",
+      "name": "Аамир Хан",
+      "birthDate": "1965-03-14",
+      "birthYear": 1965,
+      "description": "индийский актёр, продюсер, кинорежиссёр и сценарист",
+      "category": "screen",
+      "sitelinks": 103,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BD,_%D0%90%D0%B0%D0%BC%D0%B8%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q9557#P569",
+      "verified": {
+        "revision": 2563898639,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1965-03-14",
+        "originalCalendar": "gregorian",
+        "claim": "q9557$9005531D-B591-4082-A1F5-1B3CC86BDB8C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q193645",
+      "name": "Куинси Джонс",
+      "birthDate": "1933-03-14",
+      "birthYear": 1933,
+      "description": "американский музыкальный продюсер и композитор (1933–2024)",
+      "category": "music",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%BE%D0%BD%D1%81,_%D0%9A%D1%83%D0%B8%D0%BD%D1%81%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q193645#P569",
+      "verified": {
+        "revision": 2559257757,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-03-14",
+        "originalCalendar": "gregorian",
+        "claim": "q193645$87F09C3D-65EA-466C-9A8E-60CCA404A72D",
+        "references": []
+      }
+    },
+    {
+      "id": "Q3910",
+      "name": "Альбер II",
+      "birthDate": "1958-03-14",
+      "birthYear": 1958,
+      "description": "правящий князь Монако",
+      "category": "other",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80_II_(%D0%BA%D0%BD%D1%8F%D0%B7%D1%8C_%D0%9C%D0%BE%D0%BD%D0%B0%D0%BA%D0%BE)",
+      "source": "https://www.wikidata.org/wiki/Q3910#P569",
+      "verified": {
+        "revision": 2563063217,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-03-14",
+        "originalCalendar": "gregorian",
+        "claim": "q3910$2DBFF8A3-EEB8-45E4-B833-ED8D17AF2A04",
+        "references": []
+      }
+    }
+  ]
+}

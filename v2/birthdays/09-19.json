@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "09-19",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q44183",
+      "name": "Уильям Голдинг",
+      "birthDate": "1911-09-19",
+      "birthYear": 1911,
+      "description": "английский писатель, лауреат Нобелевской премии по литературе",
+      "category": "literature",
+      "sitelinks": 119,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%B4%D0%B8%D0%BD%D0%B3,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q44183#P569",
+      "verified": {
+        "revision": 2563063371,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1911-09-19",
+        "originalCalendar": "gregorian",
+        "claim": "q44183$567F951D-B4E9-4D93-A3EB-824CD018605A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q171745",
+      "name": "Джереми Айронс",
+      "birthDate": "1948-09-19",
+      "birthYear": 1948,
+      "description": "английский актёр",
+      "category": "screen",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B9%D1%80%D0%BE%D0%BD%D1%81,_%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BC%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q171745#P569",
+      "verified": {
+        "revision": 2563902118,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1948-09-19",
+        "originalCalendar": "gregorian",
+        "claim": "Q171745$2D3C10BA-C611-4074-BBC1-389C9C507847",
+        "references": []
+      }
+    },
+    {
+      "id": "Q485517",
+      "name": "Сон Джунги",
+      "birthDate": "1985-09-19",
+      "birthYear": 1985,
+      "description": "южнокорейский актёр",
+      "category": "screen",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BD_%D0%94%D0%B6%D1%83%D0%BD%D0%B3%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q485517#P569",
+      "verified": {
+        "revision": 2554129678,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1985-09-19",
+        "originalCalendar": "gregorian",
+        "claim": "Q485517$36d8fe38-4fe9-eef1-0769-4eccae6e3fe2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q55177",
+      "name": "Сунита Уильямс",
+      "birthDate": "1965-09-19",
+      "birthYear": 1965,
+      "description": "американская офицер ВМС США и астронавт НАСА",
+      "category": "exploration",
+      "sitelinks": 73,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC%D1%81,_%D0%A1%D1%83%D0%BD%D0%B8%D1%82%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q55177#P569",
+      "verified": {
+        "revision": 2562261094,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1965-09-19",
+        "originalCalendar": "gregorian",
+        "claim": "q55177$D1FFDEDF-BEA1-4D7F-9692-306FE8CC3CB5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q52589",
+      "name": "Эмиль Затопек",
+      "birthDate": "1922-09-19",
+      "birthYear": 1922,
+      "description": "чешский легкоатлет (стайерский и марафонский бег)",
+      "category": "sport",
+      "sitelinks": 64,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%82%D0%BE%D0%BF%D0%B5%D0%BA,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q52589#P569",
+      "verified": {
+        "revision": 2557868784,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1922-09-19",
+        "originalCalendar": "gregorian",
+        "claim": "q52589$A5F51815-471F-4EC8-9E84-B3EE8F72BCF4",
+        "references": [
+          "https://cs.isabart.org/person/126413"
+        ]
+      }
+    }
+  ]
+}

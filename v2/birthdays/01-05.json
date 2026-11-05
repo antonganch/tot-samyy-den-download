@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "01-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q12807",
+      "name": "Умберто Эко",
+      "birthDate": "1932-01-05",
+      "birthYear": 1932,
+      "description": "итальянский учёный-философ, историк-медиевист, специалист по семиотике, писатель (1932—2016)",
+      "category": "science",
+      "sitelinks": 151,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BA%D0%BE,_%D0%A3%D0%BC%D0%B1%D0%B5%D1%80%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q12807#P569",
+      "verified": {
+        "revision": 2559893185,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1932-01-05",
+        "originalCalendar": "gregorian",
+        "claim": "q12807$2C14A0AD-527A-4664-BB18-31727C336C91",
+        "references": [
+          "https://www.washingtonpost.com/entertainment/umberto-eco-author-of-the-name-of-the-rose-dead-at-84/2016/02/19/8575f42e-d77d-11e5-a65b-587e721fb231_story.html?hpid=hp_hp-more-top-stories_eco-obit-1030pm%3Ahomepage%2Fstory",
+          "https://brockhaus.de/ecs/julex/article/eco-umberto"
+        ]
+      }
+    },
+    {
+      "id": "Q205707",
+      "name": "Брэдли Купер",
+      "birthDate": "1975-01-05",
+      "birthYear": 1975,
+      "description": "американский актёр, режиссёр и певец (род. 1975)",
+      "category": "screen",
+      "sitelinks": 135,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BF%D0%B5%D1%80,_%D0%91%D1%80%D1%8D%D0%B4%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q205707#P569",
+      "verified": {
+        "revision": 2563819866,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-01-05",
+        "originalCalendar": "gregorian",
+        "claim": "q205707$783BF583-F2E3-42F5-84CE-7FDFD573FEDB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2492",
+      "name": "Конрад Аденауэр",
+      "birthDate": "1876-01-05",
+      "birthYear": 1876,
+      "description": "немецкий политик, федеральный канцлер ФРГ (1949—1963)",
+      "category": "public",
+      "sitelinks": 147,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BD%D0%B0%D1%83%D1%8D%D1%80,_%D0%9A%D0%BE%D0%BD%D1%80%D0%B0%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q2492#P569",
+      "verified": {
+        "revision": 2564115176,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1876-01-05",
+        "originalCalendar": "gregorian",
+        "claim": "q2492$75823FE4-84B8-460D-8C07-5C8984C0B1A6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q55400",
+      "name": "Хаяо Миядзаки",
+      "birthDate": "1941-01-05",
+      "birthYear": 1941,
+      "description": "японский режиссёр-аниматор, продюсер, сценарист, писатель и мангака",
+      "category": "screen",
+      "sitelinks": 111,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%8F%D0%B4%D0%B7%D0%B0%D0%BA%D0%B8,_%D0%A5%D0%B0%D1%8F%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q55400#P569",
+      "verified": {
+        "revision": 2560775472,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-01-05",
+        "originalCalendar": "gregorian",
+        "claim": "q55400$6D3480D0-7CB5-469D-8E05-52B4AF713FE6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q186327",
+      "name": "Мэрилин Мэнсон",
+      "birthDate": "1969-01-05",
+      "birthYear": 1969,
+      "description": "американский рок-певец, поэт-песенник, композитор, художник и музыкальный журналист (род. 1969)",
+      "category": "music",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8D%D1%80%D0%B8%D0%BB%D0%B8%D0%BD_%D0%9C%D1%8D%D0%BD%D1%81%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q186327#P569",
+      "verified": {
+        "revision": 2558807535,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-01-05",
+        "originalCalendar": "gregorian",
+        "claim": "Q186327$867B3559-28A5-4D16-A75A-3735C4E3DA65",
+        "references": []
+      }
+    }
+  ]
+}

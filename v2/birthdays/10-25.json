@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "day": "10-25",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q5593",
+      "name": "Пабло Пикассо",
+      "birthDate": "1881-10-25",
+      "birthYear": 1881,
+      "description": "испанский художник, скульптор и график (1881–1973)",
+      "category": "art",
+      "sitelinks": 265,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%BA%D0%B0%D1%81%D1%81%D0%BE,_%D0%9F%D0%B0%D0%B1%D0%BB%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q5593#P569",
+      "verified": {
+        "revision": 2558204742,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1881-10-25",
+        "originalCalendar": "gregorian",
+        "claim": "q5593$46BACCAD-A632-420C-95AD-305C50977AF3",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/picasso-pablo",
+          "https://hdl.handle.net/21.12141/id/people.E9241E8B-17C3-46D5-95FB-87F0DD81B2B9"
+        ]
+      }
+    },
+    {
+      "id": "Q42493",
+      "name": "Кэти Перри",
+      "birthDate": "1984-10-25",
+      "birthYear": 1984,
+      "description": "американская певица, композитор и актриса",
+      "category": "screen",
+      "sitelinks": 138,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D1%80%D0%B8,_%D0%9A%D1%8D%D1%82%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q42493#P569",
+      "verified": {
+        "revision": 2563804205,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1984-10-25",
+        "originalCalendar": "gregorian",
+        "claim": "q42493$AAD254E5-4400-4F55-9901-C328B2275336",
+        "references": []
+      }
+    },
+    {
+      "id": "Q56158",
+      "name": "Жорж Бизе",
+      "birthDate": "1838-10-25",
+      "birthYear": 1838,
+      "description": "французский композитор",
+      "category": "music",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B7%D0%B5,_%D0%96%D0%BE%D1%80%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q56158#P569",
+      "verified": {
+        "revision": 2564821414,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1838-10-25",
+        "originalCalendar": "gregorian",
+        "claim": "q56158$F299ACE4-0C47-4DDD-9EA5-76C33390F282",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/bizet-georges",
+          "https://cs.isabart.org/person/32067",
+          "https://www.musik-sammler.de/artist/georges-bizet-franz-waxman"
+        ]
+      }
+    },
+    {
+      "id": "Q7091",
+      "name": "Эварист Галуа",
+      "birthDate": "1811-10-25",
+      "birthYear": 1811,
+      "description": "французский математик",
+      "category": "science",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%BB%D1%83%D0%B0,_%D0%AD%D0%B2%D0%B0%D1%80%D0%B8%D1%81%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q7091#P569",
+      "verified": {
+        "revision": 2559619915,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1811-10-25",
+        "originalCalendar": "gregorian",
+        "claim": "q7091$AC4BE589-7B9F-4692-B2B9-498AA27560B1",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83309",
+      "name": "Иоганн Штраус",
+      "birthDate": "1825-10-25",
+      "birthYear": 1825,
+      "description": "австрийский композитор",
+      "category": "music",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D1%82%D1%80%D0%B0%D1%83%D1%81,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD_(%D1%81%D1%8B%D0%BD)",
+      "source": "https://www.wikidata.org/wiki/Q83309#P569",
+      "verified": {
+        "revision": 2564792722,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1825-10-25",
+        "originalCalendar": "gregorian",
+        "claim": "q83309$6c9a08ab-4fc4-7bb6-5534-f1bccc392cfa",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/strauss-johann-sohn"
+        ]
+      }
+    }
+  ]
+}

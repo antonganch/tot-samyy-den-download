@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "07-23",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q38119",
+      "name": "Дэниэл Рэдклифф",
+      "birthDate": "1989-07-23",
+      "birthYear": 1989,
+      "description": "английский актёр",
+      "category": "screen",
+      "sitelinks": 112,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%8D%D0%B4%D0%BA%D0%BB%D0%B8%D1%84%D1%84,_%D0%94%D1%8D%D0%BD%D0%B8%D0%B5%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q38119#P569",
+      "verified": {
+        "revision": 2563830519,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1989-07-23",
+        "originalCalendar": "gregorian",
+        "claim": "q38119$ED3F8ED6-4256-4419-A010-8A15A79BD96F",
+        "references": [
+          "https://parade.com/585756/lindsaylowe/happy-birthday-daniel-radcliffe-5-of-his-best-movies-since-harry-potter/"
+        ]
+      }
+    },
+    {
+      "id": "Q3956186",
+      "name": "Серджо Маттарелла",
+      "birthDate": "1941-07-23",
+      "birthYear": 1941,
+      "description": "итальянский политик, президент Италии (с 2015)",
+      "category": "public",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%82%D1%82%D0%B0%D1%80%D0%B5%D0%BB%D0%BB%D0%B0,_%D0%A1%D0%B5%D1%80%D0%B4%D0%B6%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q3956186#P569",
+      "verified": {
+        "revision": 2563378715,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1941-07-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q3956186$5AC63CE8-EE42-4B4B-A5B6-A5F8924A1734",
+        "references": []
+      }
+    },
+    {
+      "id": "Q180560",
+      "name": "Филип Сеймур Хоффман",
+      "birthDate": "1967-07-23",
+      "birthYear": 1967,
+      "description": "американский актёр и кинорежиссёр",
+      "category": "screen",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%84%D1%84%D0%BC%D0%B0%D0%BD,_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF_%D0%A1%D0%B5%D0%B9%D0%BC%D1%83%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q180560#P569",
+      "verified": {
+        "revision": 2558216021,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1967-07-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q180560$7428AD8D-E700-4D30-A4C7-D0F7CBFD6216",
+        "references": []
+      }
+    },
+    {
+      "id": "Q180377",
+      "name": "Рэймонд Чандлер",
+      "birthDate": "1888-07-23",
+      "birthYear": 1888,
+      "description": "американский писатель (1888—1959)",
+      "category": "literature",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B4%D0%BB%D0%B5%D1%80,_%D0%A0%D1%8D%D0%B9%D0%BC%D0%BE%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q180377#P569",
+      "verified": {
+        "revision": 2558221943,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1888-07-23",
+        "originalCalendar": "gregorian",
+        "claim": "q180377$F7535721-00AC-4D13-A42D-6DC2093F965A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q34166",
+      "name": "Слэш",
+      "birthDate": "1965-07-23",
+      "birthYear": 1965,
+      "description": "американский музыкант, гитарист Guns N' Roses",
+      "category": "music",
+      "sitelinks": 66,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D1%8D%D1%88_(%D0%B3%D0%B8%D1%82%D0%B0%D1%80%D0%B8%D1%81%D1%82)",
+      "source": "https://www.wikidata.org/wiki/Q34166#P569",
+      "verified": {
+        "revision": 2559470955,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1965-07-23",
+        "originalCalendar": "gregorian",
+        "claim": "q34166$b7d9114b-4cb9-4109-8b36-e2bec51125fb",
+        "references": []
+      }
+    }
+  ]
+}

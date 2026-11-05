@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "01-12",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q45765",
+      "name": "Джек Лондон",
+      "birthDate": "1876-01-12",
+      "birthYear": 1876,
+      "description": "американский писатель, социалист, общественный деятель (1876—1916)",
+      "category": "literature",
+      "sitelinks": 146,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD,_%D0%94%D0%B6%D0%B5%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q45765#P569",
+      "verified": {
+        "revision": 2562722014,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1876-01-12",
+        "originalCalendar": "gregorian",
+        "claim": "q45765$C1D49C12-AE14-4D0E-92F4-41AD9D4BEF33",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/london-jack"
+        ]
+      }
+    },
+    {
+      "id": "Q134798",
+      "name": "Харуки Мураками",
+      "birthDate": "1949-01-12",
+      "birthYear": 1949,
+      "description": "японский писатель и переводчик",
+      "category": "literature",
+      "sitelinks": 130,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D1%80%D0%B0%D0%BA%D0%B0%D0%BC%D0%B8,_%D0%A5%D0%B0%D1%80%D1%83%D0%BA%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q134798#P569",
+      "verified": {
+        "revision": 2562858026,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1949-01-12",
+        "originalCalendar": "gregorian",
+        "claim": "q134798$D9FF21F8-6D1C-4D60-98FA-9F4C38877E3C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q47478",
+      "name": "Вивекананда",
+      "birthDate": "1863-01-12",
+      "birthYear": 1863,
+      "description": "индуистский монах",
+      "category": "other",
+      "sitelinks": 139,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B2%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BD%D0%B4%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q47478#P569",
+      "verified": {
+        "revision": 2564316892,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1863-01-12",
+        "originalCalendar": "gregorian",
+        "claim": "q47478$07606568-BA0E-4C95-BBF8-A91CC06FB0B9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q165792",
+      "name": "Эдмунд Бёрк",
+      "birthDate": "1729-01-12",
+      "birthYear": 1729,
+      "description": "английский парламентарий, политический деятель, публицист",
+      "category": "public",
+      "sitelinks": 124,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%91%D1%80%D0%BA,_%D0%AD%D0%B4%D0%BC%D1%83%D0%BD%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q165792#P569",
+      "verified": {
+        "revision": 2564784221,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1729-01-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q165792$7ACB617C-9CE6-4C0A-9EF7-352491546895",
+        "references": [
+          "https://cs.isabart.org/person/26260"
+        ]
+      }
+    },
+    {
+      "id": "Q312556",
+      "name": "Джефф Безос",
+      "birthDate": "1964-01-12",
+      "birthYear": 1964,
+      "description": "американский предприниматель",
+      "category": "other",
+      "sitelinks": 116,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D0%BE%D1%81,_%D0%94%D0%B6%D0%B5%D1%84%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q312556#P569",
+      "verified": {
+        "revision": 2562538406,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-01-12",
+        "originalCalendar": "gregorian",
+        "claim": "q312556$35AA5F0E-651D-40F3-BFE0-7A05E4307356",
+        "references": [
+          "https://www.upi.com/Top_News/2020/01/12/UPI-Almanac-for-Sunday-Jan-12-2020/8721578623716/"
+        ]
+      }
+    }
+  ]
+}

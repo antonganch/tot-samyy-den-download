@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "10-09",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q1203",
+      "name": "Джон Леннон",
+      "birthDate": "1940-10-09",
+      "birthYear": 1940,
+      "description": "британский рок-музыкант, певец, поэт, композитор, художник, писатель",
+      "category": "music",
+      "sitelinks": 186,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BD%D0%BD%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q1203#P569",
+      "verified": {
+        "revision": 2563411630,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1940-10-09",
+        "originalCalendar": "gregorian",
+        "claim": "q1203$AE0A9F48-D529-481A-B745-DFDE763F9099",
+        "references": []
+      }
+    },
+    {
+      "id": "Q192",
+      "name": "Дэвид Кэмерон",
+      "birthDate": "1966-10-09",
+      "birthYear": 1966,
+      "description": "британский политик, 75-й Премьер-министр Великобритании",
+      "category": "public",
+      "sitelinks": 153,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D0%BC%D0%B5%D1%80%D0%BE%D0%BD,_%D0%94%D1%8D%D0%B2%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q192#P569",
+      "verified": {
+        "revision": 2564412675,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1966-10-09",
+        "originalCalendar": "gregorian",
+        "claim": "q192$365e214b-40fd-bf39-c11c-c8596f78a1d4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q70554",
+      "name": "Герман Эмиль Фишер",
+      "birthDate": "1852-10-09",
+      "birthYear": 1852,
+      "description": "немецкий химик",
+      "category": "science",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D1%88%D0%B5%D1%80,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q70554#P569",
+      "verified": {
+        "revision": 2563989052,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1852-10-09",
+        "originalCalendar": "gregorian",
+        "claim": "q70554$0C35162E-E811-464D-960F-16B80A49CBA6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q150445",
+      "name": "Камиль Сен-Санс",
+      "birthDate": "1835-10-09",
+      "birthYear": 1835,
+      "description": "французский композитор, дирижёр и пианист",
+      "category": "music",
+      "sitelinks": 80,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BD-%D0%A1%D0%B0%D0%BD%D1%81,_%D0%9A%D0%B0%D0%BC%D0%B8%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q150445#P569",
+      "verified": {
+        "revision": 2564774508,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1835-10-09",
+        "originalCalendar": "gregorian",
+        "claim": "q150445$827B566A-D943-4498-89CE-87C3268C18DF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q219124",
+      "name": "Гильермо дель Торо",
+      "birthDate": "1964-10-09",
+      "birthYear": 1964,
+      "description": "мексиканский кинорежиссёр, сценарист и продюсер (р. 1964)",
+      "category": "screen",
+      "sitelinks": 76,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BB%D1%8C_%D0%A2%D0%BE%D1%80%D0%BE,_%D0%93%D0%B8%D0%BB%D1%8C%D0%B5%D1%80%D0%BC%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q219124#P569",
+      "verified": {
+        "revision": 2560473025,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-10-09",
+        "originalCalendar": "gregorian",
+        "claim": "Q219124$813F8ECC-D6D7-44FC-98E0-AF3F82589488",
+        "references": []
+      }
+    }
+  ]
+}

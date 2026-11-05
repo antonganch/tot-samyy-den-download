@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "09-13",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q25161",
+      "name": "Роальд Даль",
+      "birthDate": "1916-09-13",
+      "birthYear": 1916,
+      "description": "английский писатель и поэт (1916–1990)",
+      "category": "literature",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%BB%D1%8C,_%D0%A0%D0%BE%D0%B0%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q25161#P569",
+      "verified": {
+        "revision": 2561585658,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1916-09-13",
+        "originalCalendar": "gregorian",
+        "claim": "q25161$EBA72FD9-1B67-421A-A33B-0602126E2FAA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q203819",
+      "name": "Клодетт Колбер",
+      "birthDate": "1903-09-13",
+      "birthYear": 1903,
+      "description": "Американская актриса, родилась во Франции",
+      "category": "screen",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BB%D1%8C%D0%B1%D0%B5%D1%80,_%D0%9A%D0%BB%D0%BE%D0%B4%D0%B5%D1%82%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q203819#P569",
+      "verified": {
+        "revision": 2557845463,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1903-09-13",
+        "originalCalendar": "gregorian",
+        "claim": "q203819$FC6964FE-A8D8-4CBA-ACE7-5B23F00713AE",
+        "references": [
+          "https://archives.valdemarne.fr/ark:/71138/s005b9bcb1ba1ec1/5b9bcb1bc9827.ef=3&s=47"
+        ]
+      }
+    },
+    {
+      "id": "Q154770",
+      "name": "Арнольд Шёнберг",
+      "birthDate": "1874-09-13",
+      "birthYear": 1874,
+      "description": "композитор, новый венский классик",
+      "category": "music",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D1%91%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%90%D1%80%D0%BD%D0%BE%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q154770#P569",
+      "verified": {
+        "revision": 2563983332,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1874-09-13",
+        "originalCalendar": "gregorian",
+        "claim": "q154770$1AA90297-EBFC-4A99-B218-D0A855209641",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/schönberg-arnold"
+        ]
+      }
+    },
+    {
+      "id": "Q43666",
+      "name": "Томас Мюллер",
+      "birthDate": "1989-09-13",
+      "birthYear": 1989,
+      "description": "немецкий футболист",
+      "category": "sport",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8E%D0%BB%D0%BB%D0%B5%D1%80,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q43666#P569",
+      "verified": {
+        "revision": 2562628574,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1989-09-13",
+        "originalCalendar": "gregorian",
+        "claim": "q43666$4e0fd010-4e96-758d-acae-8c6adf3ee846",
+        "references": []
+      }
+    },
+    {
+      "id": "Q132232",
+      "name": "Клара Шуман",
+      "birthDate": "1819-09-13",
+      "birthYear": 1819,
+      "description": "немецкая пианистка, композитор и педагог",
+      "category": "music",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC%D0%B0%D0%BD,_%D0%9A%D0%BB%D0%B0%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q132232#P569",
+      "verified": {
+        "revision": 2563983830,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1819-09-13",
+        "originalCalendar": "gregorian",
+        "claim": "q132232$90406EAB-D235-4EDE-B919-A08D48796DDB",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/schumann-clara"
+        ]
+      }
+    }
+  ]
+}

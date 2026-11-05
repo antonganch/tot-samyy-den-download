@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "day": "08-29",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q2831",
+      "name": "Майкл Джексон",
+      "birthDate": "1958-08-29",
+      "birthYear": 1958,
+      "description": "американский певец, автор песен и танцор (1958—2009)",
+      "category": "music",
+      "sitelinks": 324,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BA%D1%81%D0%BE%D0%BD,_%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q2831#P569",
+      "verified": {
+        "revision": 2563784040,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-08-29",
+        "originalCalendar": "gregorian",
+        "claim": "q2831$5645ee52-4f80-088a-cda3-9ddb820752e9",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/jackson-michael-joseph",
+          "https://cs.isabart.org/person/79015"
+        ]
+      }
+    },
+    {
+      "id": "Q43247",
+      "name": "Ингрид Бергман",
+      "birthDate": "1915-08-29",
+      "birthYear": 1915,
+      "description": "шведская и американская актриса (1915–1982)",
+      "category": "screen",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%B3%D0%BC%D0%B0%D0%BD,_%D0%98%D0%BD%D0%B3%D1%80%D0%B8%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q43247#P569",
+      "verified": {
+        "revision": 2562481843,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1915-08-29",
+        "originalCalendar": "gregorian",
+        "claim": "q43247$A31764E2-26CA-41D0-8C4C-302D4C0001CF",
+        "references": [
+          "https://sok.riksarkivet.se/bildvisning/00012320_00128?c=0&m=0&s=0&cv=0#?cv=127&z=94.8527%2C2845.0374%2C2881.942%2C1727.1481"
+        ]
+      }
+    },
+    {
+      "id": "Q23380",
+      "name": "Жан-Огюст-Доминик Энгр",
+      "birthDate": "1780-08-29",
+      "birthYear": 1780,
+      "description": "французский художник",
+      "category": "art",
+      "sitelinks": 133,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%B3%D1%80,_%D0%96%D0%B0%D0%BD_%D0%9E%D0%B3%D1%8E%D1%81%D1%82_%D0%94%D0%BE%D0%BC%D0%B8%D0%BD%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q23380#P569",
+      "verified": {
+        "revision": 2564802589,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1780-08-29",
+        "originalCalendar": "gregorian",
+        "claim": "q23380$A587CE20-F0C9-4103-A544-9415F53667F4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q49747",
+      "name": "Морис Метерлинк",
+      "birthDate": "1862-08-29",
+      "birthYear": 1862,
+      "description": "бельгийский писатель, поэт, драматург и философ (1862—1949)",
+      "category": "literature",
+      "sitelinks": 132,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%BA,_%D0%9C%D0%BE%D1%80%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q49747#P569",
+      "verified": {
+        "revision": 2563051107,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1862-08-29",
+        "originalCalendar": "gregorian",
+        "claim": "q49747$6D514605-454E-4A2C-889D-558A38641FE7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q10390",
+      "name": "Джон Маккейн",
+      "birthDate": "1936-08-29",
+      "birthYear": 1936,
+      "description": "американский политик, сенатор США (1987-2018), член Палаты представителей США (1983-1987)",
+      "category": "public",
+      "sitelinks": 132,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%B5%D0%B9%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q10390#P569",
+      "verified": {
+        "revision": 2558257210,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1936-08-29",
+        "originalCalendar": "gregorian",
+        "claim": "q10390$AF031A84-8F36-41B7-A961-70C13D72FDE8",
+        "references": []
+      }
+    }
+  ]
+}

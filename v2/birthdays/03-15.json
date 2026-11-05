@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "03-15",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q11817",
+      "name": "Эндрю Джексон",
+      "birthDate": "1767-03-15",
+      "birthYear": 1767,
+      "description": "7-й Президент США",
+      "category": "public",
+      "sitelinks": 165,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D0%BA%D1%81%D0%BE%D0%BD,_%D0%AD%D0%BD%D0%B4%D1%80%D1%8E",
+      "source": "https://www.wikidata.org/wiki/Q11817#P569",
+      "verified": {
+        "revision": 2563214517,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1767-03-15",
+        "originalCalendar": "gregorian",
+        "claim": "q11817$91251602-87E7-45B8-9371-273F7DE73DAC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q4725343",
+      "name": "Алия Бхатт",
+      "birthDate": "1993-03-15",
+      "birthYear": 1993,
+      "description": "индийская актриса и певица",
+      "category": "screen",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%85%D0%B0%D1%82%D1%82,_%D0%90%D0%BB%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q4725343#P569",
+      "verified": {
+        "revision": 2540250169,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1993-03-15",
+        "originalCalendar": "gregorian",
+        "claim": "Q4725343$F2882F2B-A8CE-44F5-B3DC-7E274C49A3D2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q76487",
+      "name": "Пауль Хейзе",
+      "birthDate": "1830-03-15",
+      "birthYear": 1830,
+      "description": "немецкий писатель",
+      "category": "literature",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%B9%D0%B7%D0%B5,_%D0%9F%D0%B0%D1%83%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q76487#P569",
+      "verified": {
+        "revision": 2563977305,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1830-03-15",
+        "originalCalendar": "gregorian",
+        "claim": "q76487$F26468C4-A5D5-4334-B5FE-7CFC109BB143",
+        "references": []
+      }
+    },
+    {
+      "id": "Q129027",
+      "name": "Поль Погба",
+      "birthDate": "1993-03-15",
+      "birthYear": 1993,
+      "description": "французский футболист",
+      "category": "sport",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B3%D0%B1%D0%B0,_%D0%9F%D0%BE%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q129027#P569",
+      "verified": {
+        "revision": 2558207358,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1993-03-15",
+        "originalCalendar": "gregorian",
+        "claim": "Q129027$8509D273-6EDD-4B7A-835F-7C3D4E34A722",
+        "references": []
+      }
+    },
+    {
+      "id": "Q163263",
+      "name": "Ева Лонгория",
+      "birthDate": "1975-03-15",
+      "birthYear": 1975,
+      "description": "американская актриса, модель и продюсер",
+      "category": "screen",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BD%D0%B3%D0%BE%D1%80%D0%B8%D1%8F,_%D0%95%D0%B2%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q163263#P569",
+      "verified": {
+        "revision": 2564660998,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1975-03-15",
+        "originalCalendar": "gregorian",
+        "claim": "Q163263$FAB06E13-6D70-4F6E-A78E-1D5AA545F6A8",
+        "references": []
+      }
+    }
+  ]
+}

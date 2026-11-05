@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "12-28",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q34296",
+      "name": "Вудро Вильсон",
+      "birthDate": "1856-12-28",
+      "birthYear": 1856,
+      "description": "американский политик, 28-й президент США (1913–1921)",
+      "category": "public",
+      "sitelinks": 190,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D1%8C%D1%81%D0%BE%D0%BD,_%D0%92%D1%83%D0%B4%D1%80%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q34296#P569",
+      "verified": {
+        "revision": 2563197813,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1856-12-28",
+        "originalCalendar": "gregorian",
+        "claim": "q34296$F08E368F-39C6-44C4-93B4-291F0A388820",
+        "references": []
+      }
+    },
+    {
+      "id": "Q34253",
+      "name": "Линус Торвальдс",
+      "birthDate": "1969-12-28",
+      "birthYear": 1969,
+      "description": "финско-американский программист",
+      "category": "science",
+      "sitelinks": 153,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4%D1%81,_%D0%9B%D0%B8%D0%BD%D1%83%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q34253#P569",
+      "verified": {
+        "revision": 2564809517,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-12-28",
+        "originalCalendar": "gregorian",
+        "claim": "q34253$99B8A173-8F29-4B7E-AADA-BABDB475939E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q17455",
+      "name": "Джон фон Нейман",
+      "birthDate": "1903-12-28",
+      "birthYear": 1903,
+      "description": "венгро-американский математик",
+      "category": "science",
+      "sitelinks": 122,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD_%D1%84%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q17455#P569",
+      "verified": {
+        "revision": 2563994338,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1903-12-28",
+        "originalCalendar": "gregorian",
+        "claim": "q17455$42F2285E-2DE1-42F4-BC04-43CC346B8034",
+        "references": []
+      }
+    },
+    {
+      "id": "Q42101",
+      "name": "Дензел Вашингтон",
+      "birthDate": "1954-12-28",
+      "birthYear": 1954,
+      "description": "американский актёр, кинорежиссёр и кинопродюсер",
+      "category": "screen",
+      "sitelinks": 113,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD,_%D0%94%D0%B5%D0%BD%D0%B7%D0%B5%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q42101#P569",
+      "verified": {
+        "revision": 2563109001,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1954-12-28",
+        "originalCalendar": "gregorian",
+        "claim": "q42101$23FE6CCF-D7BE-4058-B9A0-65B76A1B95AC",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/washington-denzel"
+        ]
+      }
+    },
+    {
+      "id": "Q41617",
+      "name": "Лю Сяобо",
+      "birthDate": "1955-12-28",
+      "birthYear": 1955,
+      "description": "китайский писатель",
+      "category": "literature",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E_%D0%A1%D1%8F%D0%BE%D0%B1%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q41617#P569",
+      "verified": {
+        "revision": 2563195842,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1955-12-28",
+        "originalCalendar": "gregorian",
+        "claim": "q41617$E0FAA962-6AB6-403C-8DFF-25ED9E298341",
+        "references": []
+      }
+    }
+  ]
+}

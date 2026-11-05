@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "05-29",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q9696",
+      "name": "Джон Фицджеральд Кеннеди",
+      "birthDate": "1917-05-29",
+      "birthYear": 1917,
+      "description": "американский политический деятель, 35-й президент США",
+      "category": "public",
+      "sitelinks": 251,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D0%B4%D0%B8,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%A4%D0%B8%D1%86%D0%B4%D0%B6%D0%B5%D1%80%D0%B0%D0%BB%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q9696#P569",
+      "verified": {
+        "revision": 2563804038,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1917-05-29",
+        "originalCalendar": "gregorian",
+        "claim": "q9696$8ddb4697-4c37-e1af-3b6e-33c39ec53664",
+        "references": []
+      }
+    },
+    {
+      "id": "Q192112",
+      "name": "Питер Хиггс",
+      "birthDate": "1929-05-29",
+      "birthYear": 1929,
+      "description": "британский физик",
+      "category": "science",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D0%B3%D0%B3%D1%81,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q192112#P569",
+      "verified": {
+        "revision": 2563065175,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1929-05-29",
+        "originalCalendar": "gregorian",
+        "claim": "q192112$7008288F-45FE-41F8-95E1-CF443F788935",
+        "references": [
+          "https://www.theguardian.com/science/2024/apr/09/peter-higgs-obituary"
+        ]
+      }
+    },
+    {
+      "id": "Q94081",
+      "name": "Боб Хоуп",
+      "birthDate": "1903-05-29",
+      "birthYear": 1903,
+      "description": "американский актёр, певец и танцор",
+      "category": "screen",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%83%D0%BF,_%D0%91%D0%BE%D0%B1",
+      "source": "https://www.wikidata.org/wiki/Q94081#P569",
+      "verified": {
+        "revision": 2563768970,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1903-05-29",
+        "originalCalendar": "gregorian",
+        "claim": "q94081$AEF82E4E-1AA0-4018-BD77-2A1DF1B6FC26",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57112",
+      "name": "Освальд Шпенглер",
+      "birthDate": "1880-05-29",
+      "birthYear": 1880,
+      "description": "немецкий философ истории",
+      "category": "literature",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BF%D0%B5%D0%BD%D0%B3%D0%BB%D0%B5%D1%80,_%D0%9E%D1%81%D0%B2%D0%B0%D0%BB%D1%8C%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q57112#P569",
+      "verified": {
+        "revision": 2563984686,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1880-05-29",
+        "originalCalendar": "gregorian",
+        "claim": "q57112$36C248AC-9CDC-4D88-8515-A923FFABD8D3",
+        "references": []
+      }
+    },
+    {
+      "id": "Q190602",
+      "name": "Аннетт Бенинг",
+      "birthDate": "1958-05-29",
+      "birthYear": 1958,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3,_%D0%90%D0%BD%D0%BD%D0%B5%D1%82%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q190602#P569",
+      "verified": {
+        "revision": 2547342334,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-05-29",
+        "originalCalendar": "gregorian",
+        "claim": "q190602$1F9D633B-E9AC-4AF6-B62D-F0F68AA49158",
+        "references": []
+      }
+    }
+  ]
+}

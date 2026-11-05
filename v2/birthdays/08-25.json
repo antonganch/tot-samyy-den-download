@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "08-25",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q4573",
+      "name": "Шон Коннери",
+      "birthDate": "1930-08-25",
+      "birthYear": 1930,
+      "description": "шотландский киноактёр и продюсер (1930–2020)",
+      "category": "screen",
+      "sitelinks": 146,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%BD%D0%B5%D1%80%D0%B8,_%D0%A8%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q4573#P569",
+      "verified": {
+        "revision": 2563205053,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-08-25",
+        "originalCalendar": "gregorian",
+        "claim": "q4573$D1E57A65-9A99-4D26-A70D-DBBE30889C18",
+        "references": []
+      }
+    },
+    {
+      "id": "Q56008",
+      "name": "Тим Бёртон",
+      "birthDate": "1958-08-25",
+      "birthYear": 1958,
+      "description": "американский кинорежиссёр, продюсер, мультипликатор и писатель (род. 1958)",
+      "category": "screen",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%91%D1%80%D1%82%D0%BE%D0%BD,_%D0%A2%D0%B8%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q56008#P569",
+      "verified": {
+        "revision": 2563138518,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-08-25",
+        "originalCalendar": "gregorian",
+        "claim": "q56008$741E2AFD-9F3F-42F1-A8A3-B762F23370E3",
+        "references": []
+      }
+    },
+    {
+      "id": "Q152505",
+      "name": "Леонард Бернстайн",
+      "birthDate": "1918-08-25",
+      "birthYear": 1918,
+      "description": "американский композитор, пианист и дирижёр",
+      "category": "music",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%81%D1%82%D0%B0%D0%B9%D0%BD,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q152505#P569",
+      "verified": {
+        "revision": 2563862090,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1918-08-25",
+        "originalCalendar": "gregorian",
+        "claim": "q152505$B735AD77-1EE1-45EF-B869-B6CE6C6973B9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q2607",
+      "name": "Эрих Хонеккер",
+      "birthDate": "1912-08-25",
+      "birthYear": 1912,
+      "description": "государственный и политический деятель ГДР; председатель Государственного совета ГДР (1976-1989), генеральный секретарь ЦК СЕПГ (1971-1989)",
+      "category": "public",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BD%D0%B5%D0%BA%D0%BA%D0%B5%D1%80,_%D0%AD%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q2607#P569",
+      "verified": {
+        "revision": 2564038007,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-08-25",
+        "originalCalendar": "gregorian",
+        "claim": "q2607$F8F9802D-A86A-44BE-A636-9EFA387DBAFD",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/honecker-erich"
+        ]
+      }
+    },
+    {
+      "id": "Q76717",
+      "name": "Клаудия Шиффер",
+      "birthDate": "1970-08-25",
+      "birthYear": 1970,
+      "description": "немецкая супермодель",
+      "category": "other",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D1%84%D1%84%D0%B5%D1%80,_%D0%9A%D0%BB%D0%B0%D1%83%D0%B4%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q76717#P569",
+      "verified": {
+        "revision": 2564284464,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1970-08-25",
+        "originalCalendar": "gregorian",
+        "claim": "q76717$6F6D1A2A-2A8A-4C46-9300-FFA95457AD8A",
+        "references": []
+      }
+    }
+  ]
+}

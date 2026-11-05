@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "07-24",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q38337",
+      "name": "Александр Дюма",
+      "birthDate": "1802-07-24",
+      "birthYear": 1802,
+      "description": "французский писатель и драматург (1802—1870)",
+      "category": "literature",
+      "sitelinks": 174,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%8E%D0%BC%D0%B0,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_(%D0%BE%D1%82%D0%B5%D1%86)",
+      "source": "https://www.wikidata.org/wiki/Q38337#P569",
+      "verified": {
+        "revision": 2564784452,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1802-07-24",
+        "originalCalendar": "gregorian",
+        "claim": "q38337$25DD0A87-7612-4641-97B5-57DF7AB53E8B",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/dumas-alexandre-20"
+        ]
+      }
+    },
+    {
+      "id": "Q8605",
+      "name": "Симон Боливар",
+      "birthDate": "1783-07-24",
+      "birthYear": 1783,
+      "description": "лидер движения за независимость испанских колоний в Южной Америке",
+      "category": "other",
+      "sitelinks": 175,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D0%B8%D0%B2%D0%B0%D1%80,_%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q8605#P569",
+      "verified": {
+        "revision": 2564814275,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1783-07-24",
+        "originalCalendar": "gregorian",
+        "claim": "q8605$EF8CACB2-D11B-40BC-B6A7-336E84407C75",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/bolivar-simon"
+        ]
+      }
+    },
+    {
+      "id": "Q40715",
+      "name": "Дженнифер Лопес",
+      "birthDate": "1969-07-24",
+      "birthYear": 1969,
+      "description": "американская актриса и певица (род. 1969)",
+      "category": "screen",
+      "sitelinks": 138,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D0%BF%D0%B5%D1%81,_%D0%94%D0%B6%D0%B5%D0%BD%D0%BD%D0%B8%D1%84%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q40715#P569",
+      "verified": {
+        "revision": 2563803943,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-07-24",
+        "originalCalendar": "gregorian",
+        "claim": "q40715$F6299FEC-0C62-43DA-BFE7-1D506121A57A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q3355",
+      "name": "Амелия Эрхарт",
+      "birthDate": "1897-07-24",
+      "birthYear": 1897,
+      "description": "писательница, пионер авиации",
+      "category": "literature",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D1%85%D0%B0%D1%80%D1%82,_%D0%90%D0%BC%D0%B5%D0%BB%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q3355#P569",
+      "verified": {
+        "revision": 2561510354,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1897-07-24",
+        "originalCalendar": "gregorian",
+        "claim": "q3355$8FB8D7FE-FB19-460E-9650-70683BA56536",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57808",
+      "name": "Шавкат Миромонович Мирзиёев",
+      "birthDate": "1957-07-24",
+      "birthYear": 1957,
+      "description": "президент Узбекистана (с 2016), премьер-министр Узбекистана (2003—2016)",
+      "category": "public",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%80%D0%B7%D0%B8%D1%91%D0%B5%D0%B2,_%D0%A8%D0%B0%D0%B2%D0%BA%D0%B0%D1%82_%D0%9C%D0%B8%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q57808#P569",
+      "verified": {
+        "revision": 2562789667,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1957-07-24",
+        "originalCalendar": "gregorian",
+        "claim": "q57808$C927AEBC-A517-413A-817E-BD18FA990AC5",
+        "references": []
+      }
+    }
+  ]
+}

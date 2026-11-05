@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "11-07",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7186",
+      "name": "Мария Склодовская-Кюри",
+      "birthDate": "1867-11-07",
+      "birthYear": 1867,
+      "description": "французско-польский физик и химик (1867—1934)",
+      "category": "science",
+      "sitelinks": 248,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BB%D0%BE%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F-%D0%9A%D1%8E%D1%80%D0%B8,_%D0%9C%D0%B0%D1%80%D0%B8%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q7186#P569",
+      "verified": {
+        "revision": 2563863830,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1867-11-07",
+        "originalCalendar": "gregorian",
+        "claim": "q7186$a5299bea-4071-6b8e-4430-aaf7be169a79",
+        "references": []
+      }
+    },
+    {
+      "id": "Q34670",
+      "name": "Альбер Камю",
+      "birthDate": "1913-11-07",
+      "birthYear": 1913,
+      "description": "французский писатель-экзистенциалист",
+      "category": "literature",
+      "sitelinks": 205,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BC%D1%8E,_%D0%90%D0%BB%D1%8C%D0%B1%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q34670#P569",
+      "verified": {
+        "revision": 2563201256,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1913-11-07",
+        "originalCalendar": "gregorian",
+        "claim": "q34670$904C4402-6B4C-4396-88C6-F2E622D65135",
+        "references": []
+      }
+    },
+    {
+      "id": "Q33391",
+      "name": "Лев Давидович Троцкий",
+      "birthDate": "1879-11-07",
+      "birthYear": 1879,
+      "description": "российский и советский революционер, государственный и военный деятель",
+      "category": "public",
+      "sitelinks": 185,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D1%86%D0%BA%D0%B8%D0%B9,_%D0%9B%D0%B5%D0%B2_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q33391#P569",
+      "verified": {
+        "revision": 2563281990,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1879-10-26",
+        "originalCalendar": "julian",
+        "claim": "Q33391$79b135cb-4b79-ed97-b7d5-08a924a87de6",
+        "references": []
+      }
+    },
+    {
+      "id": "Q60429",
+      "name": "Чандрасекхара Венката Раман",
+      "birthDate": "1888-11-07",
+      "birthYear": 1888,
+      "description": "индийский физик",
+      "category": "science",
+      "sitelinks": 117,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D0%BD%D0%B4%D1%80%D0%B0%D1%81%D0%B5%D0%BA%D1%85%D0%B0%D1%80%D0%B0_%D0%92%D0%B5%D0%BD%D0%BA%D0%B0%D1%82%D0%B0_%D0%A0%D0%B0%D0%BC%D0%B0%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q60429#P569",
+      "verified": {
+        "revision": 2563064146,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1888-11-07",
+        "originalCalendar": "gregorian",
+        "claim": "q60429$8C50A579-E810-4576-AE5A-F3E578F84F32",
+        "references": []
+      }
+    },
+    {
+      "id": "Q13476175",
+      "name": "Лорд",
+      "birthDate": "1996-11-07",
+      "birthYear": 1996,
+      "description": "новозеландская певица",
+      "category": "music",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%BE%D1%80%D0%B4_(%D0%BF%D0%B5%D0%B2%D0%B8%D1%86%D0%B0)",
+      "source": "https://www.wikidata.org/wiki/Q13476175#P569",
+      "verified": {
+        "revision": 2563283323,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1996-11-07",
+        "originalCalendar": "gregorian",
+        "claim": "Q13476175$59a49f64-4a80-d6db-29c6-23ccd6ba9bdb",
+        "references": []
+      }
+    }
+  ]
+}

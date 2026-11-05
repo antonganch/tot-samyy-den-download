@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "07-16",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q926",
+      "name": "Руаль Амундсен",
+      "birthDate": "1872-07-16",
+      "birthYear": 1872,
+      "description": "норвежский исследователь Арктики и Антарктики, первым достиг Южного полюса (1872–1928)",
+      "category": "exploration",
+      "sitelinks": 191,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D1%83%D0%BD%D0%B4%D1%81%D0%B5%D0%BD,_%D0%A0%D1%83%D0%B0%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q926#P569",
+      "verified": {
+        "revision": 2564773900,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1872-07-16",
+        "originalCalendar": "gregorian",
+        "claim": "q926$86E9F995-4EDB-4381-93AF-9A4F5B5D2C12",
+        "references": []
+      }
+    },
+    {
+      "id": "Q185",
+      "name": "Ларри Сэнгер",
+      "birthDate": "1968-07-16",
+      "birthYear": 1968,
+      "description": "один из основателей Википедии",
+      "category": "other",
+      "sitelinks": 115,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8D%D0%BD%D0%B3%D0%B5%D1%80,_%D0%9B%D0%B0%D1%80%D1%80%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q185#P569",
+      "verified": {
+        "revision": 2561697644,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1968-07-16",
+        "originalCalendar": "gregorian",
+        "claim": "q185$D5EB6E11-732F-4416-AEB2-BC7D1ADD61A9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q94002",
+      "name": "Барбара Стэнвик",
+      "birthDate": "1907-07-16",
+      "birthYear": 1907,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D0%B1%D0%B0%D1%80%D0%B0_%D0%A1%D1%82%D1%8D%D0%BD%D0%B2%D0%B8%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q94002#P569",
+      "verified": {
+        "revision": 2563999241,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-07-16",
+        "originalCalendar": "gregorian",
+        "claim": "q94002$CCCFA0C4-20F7-417D-A101-71AF8D4FB03C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q9550",
+      "name": "Катрина Каиф",
+      "birthDate": "1983-07-16",
+      "birthYear": 1983,
+      "description": "индийская актриса и модель",
+      "category": "screen",
+      "sitelinks": 85,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%B8%D1%84,_%D0%9A%D0%B0%D1%82%D1%80%D0%B8%D0%BD%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q9550#P569",
+      "verified": {
+        "revision": 2561515139,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1983-07-16",
+        "originalCalendar": "gregorian",
+        "claim": "Q9550$a1da061a-4cd5-bd5f-f561-6a334fceb98c",
+        "references": [
+          "https://www.indiatvnews.com/entertainment/celebrities/salman-khan-wishes-katrina-kaif-on-birthday-with-adorable-picture-and-heartfelt-note-719896"
+        ]
+      }
+    },
+    {
+      "id": "Q184586",
+      "name": "Гарет Бейл",
+      "birthDate": "1989-07-16",
+      "birthYear": 1989,
+      "description": "валлийский футболист",
+      "category": "sport",
+      "sitelinks": 93,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B9%D0%BB,_%D0%93%D0%B0%D1%80%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q184586#P569",
+      "verified": {
+        "revision": 2563643100,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1989-07-16",
+        "originalCalendar": "gregorian",
+        "claim": "Q184586$A6F75FD8-F0CC-4AD5-BD29-39B130A47171",
+        "references": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "02-05",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q11571",
+      "name": "Криштиану Роналду",
+      "birthDate": "1985-02-05",
+      "birthYear": 1985,
+      "description": "португальский футболист",
+      "category": "sport",
+      "sitelinks": 214,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D1%88%D1%82%D0%B8%D0%B0%D0%BD%D1%83_%D0%A0%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4%D1%83",
+      "source": "https://www.wikidata.org/wiki/Q11571#P569",
+      "verified": {
+        "revision": 2563575061,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1985-02-05",
+        "originalCalendar": "gregorian",
+        "claim": "q11571$DDC30704-A271-406C-8AD2-BDA6160AEA47",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/ronaldo-cristiano"
+        ]
+      }
+    },
+    {
+      "id": "Q142794",
+      "name": "Неймар",
+      "birthDate": "1992-02-05",
+      "birthYear": 1992,
+      "description": "бразильский футболист",
+      "category": "sport",
+      "sitelinks": 159,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D0%BC%D0%B0%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q142794#P569",
+      "verified": {
+        "revision": 2564442450,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1992-02-05",
+        "originalCalendar": "gregorian",
+        "claim": "Q142794$520B9721-007B-40F6-B515-9401590934A2",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/neymar"
+        ]
+      }
+    },
+    {
+      "id": "Q234679",
+      "name": "Шарлотта Рэмплинг",
+      "birthDate": "1946-02-05",
+      "birthYear": 1946,
+      "description": "британская актриса",
+      "category": "screen",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%8D%D0%BC%D0%BF%D0%BB%D0%B8%D0%BD%D0%B3,_%D0%A8%D0%B0%D1%80%D0%BB%D0%BE%D1%82%D1%82%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q234679#P569",
+      "verified": {
+        "revision": 2557839070,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1946-02-05",
+        "originalCalendar": "gregorian",
+        "claim": "q234679$427ECB22-26E5-49AD-B2A0-7729D1972B21",
+        "references": []
+      }
+    },
+    {
+      "id": "Q187058",
+      "name": "Абхишек Баччан",
+      "birthDate": "1976-02-05",
+      "birthYear": 1976,
+      "description": "индийский актёр",
+      "category": "screen",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%87%D1%87%D0%B0%D0%BD,_%D0%90%D0%B1%D1%85%D0%B8%D1%88%D0%B5%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q187058#P569",
+      "verified": {
+        "revision": 2563963285,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1976-02-05",
+        "originalCalendar": "gregorian",
+        "claim": "Q187058$D4A83C13-C101-4843-8DBD-47889ABFD739",
+        "references": []
+      }
+    },
+    {
+      "id": "Q188176",
+      "name": "Уильям Сьюард Берроуз",
+      "birthDate": "1914-02-05",
+      "birthYear": 1914,
+      "description": "американский писатель и эссеист",
+      "category": "literature",
+      "sitelinks": 78,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D1%80%D1%80%D0%BE%D1%83%D0%B7,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%A1%D1%8C%D1%8E%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q188176#P569",
+      "verified": {
+        "revision": 2563857352,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1914-02-05",
+        "originalCalendar": "gregorian",
+        "claim": "q188176$90843CEF-24F5-4B71-91A8-35E8DD1F42FF",
+        "references": []
+      }
+    }
+  ]
+}

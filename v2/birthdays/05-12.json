@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "05-12",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q37103",
+      "name": "Флоренс Найтингейл",
+      "birthDate": "1820-05-12",
+      "birthYear": 1820,
+      "description": "сестра милосердия и общественный деятель Англии",
+      "category": "other",
+      "sitelinks": 153,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B9%D1%82%D0%B8%D0%BD%D0%B3%D0%B5%D0%B9%D0%BB,_%D0%A4%D0%BB%D0%BE%D1%80%D0%B5%D0%BD%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q37103#P569",
+      "verified": {
+        "revision": 2564105242,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1820-05-12",
+        "originalCalendar": "gregorian",
+        "claim": "q37103$D1D15404-22DD-4939-BBDB-CC8E798547AC",
+        "references": []
+      }
+    },
+    {
+      "id": "Q56016",
+      "name": "Кэтрин Хепбёрн",
+      "birthDate": "1907-05-12",
+      "birthYear": 1907,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 131,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B5%D0%BF%D0%B1%D1%91%D1%80%D0%BD,_%D0%9A%D1%8D%D1%82%D1%80%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q56016#P569",
+      "verified": {
+        "revision": 2563165122,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1907-05-12",
+        "originalCalendar": "gregorian",
+        "claim": "q56016$82BF037D-1F9A-40F7-918D-5AA23B717EF0",
+        "references": []
+      }
+    },
+    {
+      "id": "Q20055561",
+      "name": "Риши Сунак",
+      "birthDate": "1980-05-12",
+      "birthYear": 1980,
+      "description": "британский политик, премьер-министр Великобритании (2022-2024)",
+      "category": "public",
+      "sitelinks": 141,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BD%D0%B0%D0%BA,_%D0%A0%D0%B8%D1%88%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q20055561#P569",
+      "verified": {
+        "revision": 2564411331,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1980-05-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q20055561$4B38FE14-97D1-4A7D-8E38-F596629CA8E4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q150651",
+      "name": "Джордж Карлин",
+      "birthDate": "1937-05-12",
+      "birthYear": 1937,
+      "description": "американский комик",
+      "category": "screen",
+      "sitelinks": 104,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BB%D0%B8%D0%BD,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q150651#P569",
+      "verified": {
+        "revision": 2561652714,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1937-05-12",
+        "originalCalendar": "gregorian",
+        "claim": "q150651$BBCA201E-2954-4CDC-8B9E-4CFFF3FA14B2",
+        "references": []
+      }
+    },
+    {
+      "id": "Q7487",
+      "name": "Дороти Ходжкин",
+      "birthDate": "1910-05-12",
+      "birthYear": 1910,
+      "description": "английский химик",
+      "category": "science",
+      "sitelinks": 107,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%B4%D0%B6%D0%BA%D0%B8%D0%BD,_%D0%94%D0%BE%D1%80%D0%BE%D1%82%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q7487#P569",
+      "verified": {
+        "revision": 2563679731,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1910-05-12",
+        "originalCalendar": "gregorian",
+        "claim": "q7487$C1CFF34A-8500-40FF-B9D8-FE9C197C152F",
+        "references": []
+      }
+    }
+  ]
+}

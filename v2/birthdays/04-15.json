@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "04-15",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7604",
+      "name": "Леонард Эйлер",
+      "birthDate": "1707-04-15",
+      "birthYear": 1707,
+      "description": "швейцарский, немецкий и российский математик",
+      "category": "science",
+      "sitelinks": 191,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B9%D0%BB%D0%B5%D1%80,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q7604#P569",
+      "verified": {
+        "revision": 2564798270,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1707-04-15",
+        "originalCalendar": "gregorian",
+        "claim": "q7604$1B6A89E1-88F8-4DF1-9526-AA9C09FBEF66",
+        "references": []
+      }
+    },
+    {
+      "id": "Q35314",
+      "name": "Никита Сергеевич Хрущёв",
+      "birthDate": "1894-04-15",
+      "birthYear": 1894,
+      "description": "советский государственный деятель, Первый секретарь ЦК КПСС",
+      "category": "other",
+      "sitelinks": 170,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D1%80%D1%83%D1%89%D1%91%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q35314#P569",
+      "verified": {
+        "revision": 2559701850,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1894-04-03",
+        "originalCalendar": "julian",
+        "claim": "q35314$6DB0E59A-05F4-41B8-816B-1326EFCE1727",
+        "references": []
+      }
+    },
+    {
+      "id": "Q39476",
+      "name": "Эмма Уотсон",
+      "birthDate": "1990-04-15",
+      "birthYear": 1990,
+      "description": "британская киноактриса и фотомодель (род. 1990)",
+      "category": "screen",
+      "sitelinks": 145,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BE%D1%82%D1%81%D0%BE%D0%BD,_%D0%AD%D0%BC%D0%BC%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q39476#P569",
+      "verified": {
+        "revision": 2563954994,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1990-04-15",
+        "originalCalendar": "gregorian",
+        "claim": "q39476$3679CEC3-1475-4521-BCA4-2E4AE10914B7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q41117",
+      "name": "Ким Ир Сен",
+      "birthDate": "1912-04-15",
+      "birthYear": 1912,
+      "description": "северокорейский политик, руководитель КНДР в 1948—1994 годах, вечный президент КНДР",
+      "category": "public",
+      "sitelinks": 161,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC_%D0%98%D1%80_%D0%A1%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q41117#P569",
+      "verified": {
+        "revision": 2563040650,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-04-15",
+        "originalCalendar": "gregorian",
+        "claim": "q41117$5D496206-5D20-4C1A-AD84-954EA8BE968F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q15948",
+      "name": "Эмиль Дюркгейм",
+      "birthDate": "1858-04-15",
+      "birthYear": 1858,
+      "description": "французский социолог и философ",
+      "category": "literature",
+      "sitelinks": 125,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%8E%D1%80%D0%BA%D0%B3%D0%B5%D0%B9%D0%BC,_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8C",
+      "source": "https://www.wikidata.org/wiki/Q15948#P569",
+      "verified": {
+        "revision": 2561518245,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1858-04-15",
+        "originalCalendar": "gregorian",
+        "claim": "q15948$510D15A0-4425-4E70-AF38-70130482D6AC",
+        "references": []
+      }
+    }
+  ]
+}

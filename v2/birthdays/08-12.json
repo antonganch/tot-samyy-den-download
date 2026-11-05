@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "08-12",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q157",
+      "name": "Франсуа Олланд",
+      "birthDate": "1954-08-12",
+      "birthYear": 1954,
+      "description": "французский политик, президент Франции (2012—2017)",
+      "category": "public",
+      "sitelinks": 217,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BB%D0%BB%D0%B0%D0%BD%D0%B4,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q157#P569",
+      "verified": {
+        "revision": 2563645941,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1954-08-12",
+        "originalCalendar": "gregorian",
+        "claim": "q157$6aa1830d-4579-4a73-93d3-b8323606ff13",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/hollande-francois",
+          "https://www.data.gouv.fr/fr/datasets/r/b3bfd9bd-320c-41c4-9990-4303d7013200"
+        ]
+      }
+    },
+    {
+      "id": "Q9130",
+      "name": "Эрвин Шрёдингер",
+      "birthDate": "1887-08-12",
+      "birthYear": 1887,
+      "description": "австрийский физик",
+      "category": "science",
+      "sitelinks": 165,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D1%91%D0%B4%D0%B8%D0%BD%D0%B3%D0%B5%D1%80,_%D0%AD%D1%80%D0%B2%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q9130#P569",
+      "verified": {
+        "revision": 2563998395,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1887-08-12",
+        "originalCalendar": "gregorian",
+        "claim": "q9130$1D63E3C9-076C-4BA5-B447-D74C9F366F12",
+        "references": []
+      }
+    },
+    {
+      "id": "Q83184",
+      "name": "Хасинто Бенавенте-и-Мартинес",
+      "birthDate": "1866-08-12",
+      "birthYear": 1866,
+      "description": "испанский драматург",
+      "category": "literature",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BD%D0%B0%D0%B2%D0%B5%D0%BD%D1%82%D0%B5-%D0%B8-%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B5%D1%81,_%D0%A5%D0%B0%D1%81%D0%B8%D0%BD%D1%82%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q83184#P569",
+      "verified": {
+        "revision": 2564818245,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1866-08-12",
+        "originalCalendar": "gregorian",
+        "claim": "q83184$99F34DB1-980D-423B-8204-2C8098CDAB90",
+        "references": []
+      }
+    },
+    {
+      "id": "Q12908",
+      "name": "Джордж Сорос",
+      "birthDate": "1930-08-12",
+      "birthYear": 1930,
+      "description": "американский трейдер венгерского происхождения, финансист, инвестор, филантроп",
+      "category": "other",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D1%80%D0%BE%D1%81,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6",
+      "source": "https://www.wikidata.org/wiki/Q12908#P569",
+      "verified": {
+        "revision": 2562794230,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1930-08-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q12908$165C9772-5103-4565-948A-1D44A2652476",
+        "references": []
+      }
+    },
+    {
+      "id": "Q129700",
+      "name": "Марио Балотелли",
+      "birthDate": "1990-08-12",
+      "birthYear": 1990,
+      "description": "итальянский футболист",
+      "category": "sport",
+      "sitelinks": 92,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BB%D0%BE%D1%82%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q129700#P569",
+      "verified": {
+        "revision": 2562373640,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1990-08-12",
+        "originalCalendar": "gregorian",
+        "claim": "Q129700$5AEF6514-1580-4930-A096-DE9DCEF7D7C9",
+        "references": []
+      }
+    }
+  ]
+}

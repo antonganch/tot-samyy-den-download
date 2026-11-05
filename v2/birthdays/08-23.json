@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "08-23",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q7732",
+      "name": "Людовик XVI",
+      "birthDate": "1754-08-23",
+      "birthYear": 1754,
+      "description": "сорок пятый король Франции (1774–1792), король Наварры (1774–1792), свергнутый революцией",
+      "category": "public",
+      "sitelinks": 126,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D1%8E%D0%B4%D0%BE%D0%B2%D0%B8%D0%BA_XVI",
+      "source": "https://www.wikidata.org/wiki/Q7732#P569",
+      "verified": {
+        "revision": 2563911304,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1754-08-23",
+        "originalCalendar": "gregorian",
+        "claim": "q7732$82CB97B1-31B0-44E3-98BF-D1D4849B0198",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/ludwig-ludwig-xvi"
+        ]
+      }
+    },
+    {
+      "id": "Q25369",
+      "name": "Коби Брайант",
+      "birthDate": "1978-08-23",
+      "birthYear": 1978,
+      "description": "американский баскетболист",
+      "category": "sport",
+      "sitelinks": 116,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD%D1%82,_%D0%9A%D0%BE%D0%B1%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q25369#P569",
+      "verified": {
+        "revision": 2563423731,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-08-23",
+        "originalCalendar": "gregorian",
+        "claim": "q25369$CF80ECA7-E002-4E87-9D88-042A26843579",
+        "references": [
+          "https://www.blackpast.org/african-american-history/bryant-kobe-1978/"
+        ]
+      }
+    },
+    {
+      "id": "Q73089",
+      "name": "Джин Келли",
+      "birthDate": "1912-08-23",
+      "birthYear": 1912,
+      "description": "американский актёр, кинорежиссёр, сценарист, продюсер, хореограф и певец",
+      "category": "screen",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%94%D0%B6%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q73089#P569",
+      "verified": {
+        "revision": 2557890446,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-08-23",
+        "originalCalendar": "gregorian",
+        "claim": "q73089$596D9F71-B15E-4AF0-815E-1FD815089AF7",
+        "references": []
+      }
+    },
+    {
+      "id": "Q106494",
+      "name": "Константин Сергеевич Новосёлов",
+      "birthDate": "1974-08-23",
+      "birthYear": 1974,
+      "description": "российско-британский физик",
+      "category": "science",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D1%91%D0%BB%D0%BE%D0%B2,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q106494#P569",
+      "verified": {
+        "revision": 2563199453,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1974-08-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q106494$C4AA9A8D-BE05-4A86-BB9F-5072297035D1",
+        "references": [
+          "https://www.nobelprize.org/prizes/physics/2010/novoselov/facts/"
+        ]
+      }
+    },
+    {
+      "id": "Q192592",
+      "name": "Кеннет Эрроу",
+      "birthDate": "1921-08-23",
+      "birthYear": 1921,
+      "description": "американский ученый, экономист",
+      "category": "science",
+      "sitelinks": 72,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D1%80%D1%80%D0%BE%D1%83,_%D0%9A%D0%B5%D0%BD%D0%BD%D0%B5%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q192592#P569",
+      "verified": {
+        "revision": 2563199498,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1921-08-23",
+        "originalCalendar": "gregorian",
+        "claim": "q192592$D8464CD7-0D02-4A31-A977-18B676F60246",
+        "references": []
+      }
+    }
+  ]
+}

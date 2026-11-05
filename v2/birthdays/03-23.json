@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "03-23",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q8006",
+      "name": "Акира Куросава",
+      "birthDate": "1910-03-23",
+      "birthYear": 1910,
+      "description": "японский кинорежиссёр, сценарист и продюсер",
+      "category": "screen",
+      "sitelinks": 176,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D1%80%D0%BE%D1%81%D0%B0%D0%B2%D0%B0,_%D0%90%D0%BA%D0%B8%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q8006#P569",
+      "verified": {
+        "revision": 2561924586,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1910-03-23",
+        "originalCalendar": "gregorian",
+        "claim": "q8006$5F14CAA2-1050-4711-AEDD-48B4B9B4F27C",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/kurosawa-akira"
+        ]
+      }
+    },
+    {
+      "id": "Q44481",
+      "name": "Пьер-Симон Лаплас",
+      "birthDate": "1749-03-23",
+      "birthYear": 1749,
+      "description": "французский математик, физик и астроном (1749–1827)",
+      "category": "science",
+      "sitelinks": 127,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BF%D0%BB%D0%B0%D1%81,_%D0%9F%D1%8C%D0%B5%D1%80-%D0%A1%D0%B8%D0%BC%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q44481#P569",
+      "verified": {
+        "revision": 2564800543,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1749-03-23",
+        "originalCalendar": "gregorian",
+        "claim": "q44481$17B3692D-11FF-4256-80BA-E8541417A52E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57384",
+      "name": "Вернер фон Браун",
+      "birthDate": "1912-03-23",
+      "birthYear": 1912,
+      "description": "Немецко-американский ракетный инженер и пионер космонавтики",
+      "category": "science",
+      "sitelinks": 108,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%92%D0%B5%D1%80%D0%BD%D0%B5%D1%80_%D1%84%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q57384#P569",
+      "verified": {
+        "revision": 2564037727,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1912-03-23",
+        "originalCalendar": "gregorian",
+        "claim": "q57384$1E0928D5-4380-48D3-B2CF-A72F76238514",
+        "references": []
+      }
+    },
+    {
+      "id": "Q129155",
+      "name": "Роже Мартен дю Гар",
+      "birthDate": "1881-03-23",
+      "birthYear": 1881,
+      "description": "французский писатель",
+      "category": "literature",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%80%D1%82%D0%B5%D0%BD_%D0%B4%D1%8E_%D0%93%D0%B0%D1%80,_%D0%A0%D0%BE%D0%B6%D0%B5",
+      "source": "https://www.wikidata.org/wiki/Q129155#P569",
+      "verified": {
+        "revision": 2563198433,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1881-03-23",
+        "originalCalendar": "gregorian",
+        "claim": "Q129155$9B981F54-E478-437F-9126-CE8C962F77BD",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57085",
+      "name": "Эрих Фромм",
+      "birthDate": "1900-03-23",
+      "birthYear": 1900,
+      "description": "немецкий социолог и психоаналитик (1900–1980)",
+      "category": "other",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%BE%D0%BC%D0%BC,_%D0%AD%D1%80%D0%B8%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q57085#P569",
+      "verified": {
+        "revision": 2556004195,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1900-03-23",
+        "originalCalendar": "gregorian",
+        "claim": "q57085$C421287C-E332-4A01-915B-4C4A6E89B92D",
+        "references": []
+      }
+    }
+  ]
+}

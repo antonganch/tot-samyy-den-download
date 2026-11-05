@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "day": "06-13",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q40213",
+      "name": "Уильям Батлер Йейтс",
+      "birthDate": "1865-06-13",
+      "birthYear": 1865,
+      "description": "ирландский поэт, драматург",
+      "category": "literature",
+      "sitelinks": 154,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%99%D0%B5%D0%B9%D1%82%D1%81,_%D0%A3%D0%B8%D0%BB%D1%8C%D1%8F%D0%BC_%D0%91%D0%B0%D1%82%D0%BB%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q40213#P569",
+      "verified": {
+        "revision": 2564789935,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1865-06-13",
+        "originalCalendar": "gregorian",
+        "claim": "q40213$C340E71D-41CD-4BC8-8B63-C8B76192617F",
+        "references": [
+          "https://tritius.kmol.cz/authority/866146"
+        ]
+      }
+    },
+    {
+      "id": "Q1253",
+      "name": "Пан Ги Мун",
+      "birthDate": "1944-06-13",
+      "birthYear": 1944,
+      "description": "южнокорейский политик и дипломат, генеральный секретарь ООН (2007-2016)",
+      "category": "public",
+      "sitelinks": 153,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BD_%D0%93%D0%B8_%D0%9C%D1%83%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q1253#P569",
+      "verified": {
+        "revision": 2564766899,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1944-06-13",
+        "originalCalendar": "gregorian",
+        "claim": "Q1253$ED4FC7E9-8755-458C-9FA6-C83A0D999EEE",
+        "references": []
+      }
+    },
+    {
+      "id": "Q178348",
+      "name": "Крис Эванс",
+      "birthDate": "1981-06-13",
+      "birthYear": 1981,
+      "description": "американский актёр (р. 1981)",
+      "category": "screen",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B2%D0%B0%D0%BD%D1%81,_%D0%9A%D1%80%D0%B8%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q178348#P569",
+      "verified": {
+        "revision": 2560614329,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1981-06-13",
+        "originalCalendar": "gregorian",
+        "claim": "Q178348$D3ACC0C2-1331-4B7D-9259-6655210CE969",
+        "references": []
+      }
+    },
+    {
+      "id": "Q128736",
+      "name": "Джон Форбс Нэш",
+      "birthDate": "1928-06-13",
+      "birthYear": 1928,
+      "description": "американский математик",
+      "category": "science",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9D%D1%8D%D1%88,_%D0%94%D0%B6%D0%BE%D0%BD_%D0%A4%D0%BE%D1%80%D0%B1%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q128736#P569",
+      "verified": {
+        "revision": 2563199678,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-06-13",
+        "originalCalendar": "gregorian",
+        "claim": "q128736$B6CFDB54-2F62-40B4-AF7B-18F1799E882F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q173481",
+      "name": "Фернандо Пессоа",
+      "birthDate": "1888-06-13",
+      "birthYear": 1888,
+      "description": "португальский поэт, прозаик, драматург",
+      "category": "literature",
+      "sitelinks": 106,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%81%D1%81%D0%BE%D0%B0,_%D0%A4%D0%B5%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q173481#P569",
+      "verified": {
+        "revision": 2560462708,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1888-06-13",
+        "originalCalendar": "gregorian",
+        "claim": "q173481$5E7FCD80-B1DB-4A1A-B472-2C9FA5DF5042",
+        "references": [
+          "https://cs.isabart.org/person/33249"
+        ]
+      }
+    }
+  ]
+}

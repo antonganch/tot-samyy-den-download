@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "day": "07-26",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q19185",
+      "name": "Джордж Бернард Шоу",
+      "birthDate": "1856-07-26",
+      "birthYear": 1856,
+      "description": "Ирландский писатель, романист и драматург (1856—1950)",
+      "category": "literature",
+      "sitelinks": 187,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A8%D0%BE%D1%83,_%D0%94%D0%B6%D0%BE%D1%80%D0%B4%D0%B6_%D0%91%D0%B5%D1%80%D0%BD%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q19185#P569",
+      "verified": {
+        "revision": 2563197422,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1856-07-26",
+        "originalCalendar": "gregorian",
+        "claim": "q19185$0D82185B-65FB-45C5-86AB-17C69E8D56F6",
+        "references": [
+          "https://tritius.kmol.cz/authority/865267"
+        ]
+      }
+    },
+    {
+      "id": "Q2001",
+      "name": "Стэнли Кубрик",
+      "birthDate": "1928-07-26",
+      "birthYear": 1928,
+      "description": "американский кинорежиссёр, сценарист, фотограф и продюсер (1928—1999)",
+      "category": "screen",
+      "sitelinks": 159,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%B1%D1%80%D0%B8%D0%BA,_%D0%A1%D1%82%D1%8D%D0%BD%D0%BB%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q2001#P569",
+      "verified": {
+        "revision": 2561511193,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-07-26",
+        "originalCalendar": "gregorian",
+        "claim": "q2001$035CB39F-652E-426C-8358-693AAC27BA59",
+        "references": [
+          "https://books.google.ca/books?id=XBQi4cCEYNIC&pg=PA15&lpg=PA15&dq=stanley+kubrick+july+1928&source=bl&ots=SuF9HfdynY&sig=ECIpQt2GObyVKxVmnMo8ueI7wlI&hl=en&sa=X&ved=0ahUKEwjl1sfDtdXYAhWC44MKHYWSBuY4ChDoAQgyMAI#v=onepage&q=stanley%20kubrick%20july%201928&f=false"
+        ]
+      }
+    },
+    {
+      "id": "Q41532",
+      "name": "Карл Густав Юнг",
+      "birthDate": "1875-07-26",
+      "birthYear": 1875,
+      "description": "швейцарский психолог (1875–1961)",
+      "category": "science",
+      "sitelinks": 153,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AE%D0%BD%D0%B3,_%D0%9A%D0%B0%D1%80%D0%BB_%D0%93%D1%83%D1%81%D1%82%D0%B0%D0%B2",
+      "source": "https://www.wikidata.org/wiki/Q41532#P569",
+      "verified": {
+        "revision": 2563977905,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1875-07-26",
+        "originalCalendar": "gregorian",
+        "claim": "q41532$4985AF3F-71B6-46C1-9BD2-09BDD958EB44",
+        "references": []
+      }
+    },
+    {
+      "id": "Q81447",
+      "name": "Олдос Хаксли",
+      "birthDate": "1894-07-26",
+      "birthYear": 1894,
+      "description": "английский прозаик, писатель-фантаст, новеллист и философ (1894—1963)",
+      "category": "literature",
+      "sitelinks": 143,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BA%D1%81%D0%BB%D0%B8,_%D0%9E%D0%BB%D0%B4%D0%BE%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q81447#P569",
+      "verified": {
+        "revision": 2564377076,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1894-07-26",
+        "originalCalendar": "gregorian",
+        "claim": "q81447$1DBC8D52-EE85-4F6C-9434-60C5B2EEA01C",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/huxley-aldous-leonard"
+        ]
+      }
+    },
+    {
+      "id": "Q40791",
+      "name": "Сандра Буллок",
+      "birthDate": "1964-07-26",
+      "birthYear": 1964,
+      "description": "американская актриса и продюсер",
+      "category": "screen",
+      "sitelinks": 129,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%BB%D0%BE%D0%BA,_%D0%A1%D0%B0%D0%BD%D0%B4%D1%80%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q40791#P569",
+      "verified": {
+        "revision": 2560791998,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-07-26",
+        "originalCalendar": "gregorian",
+        "claim": "q40791$0B214734-E244-4B30-A184-7539F3D10C93",
+        "references": []
+      }
+    }
+  ]
+}

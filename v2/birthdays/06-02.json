@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "06-02",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q132805",
+      "name": "Томас Харди",
+      "birthDate": "1840-06-02",
+      "birthYear": 1840,
+      "description": "английский писатель",
+      "category": "literature",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%B4%D0%B8,_%D0%A2%D0%BE%D0%BC%D0%B0%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q132805#P569",
+      "verified": {
+        "revision": 2562727252,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1840-06-02",
+        "originalCalendar": "gregorian",
+        "claim": "q132805$00167913-BFA2-40AD-B38F-2E3CAE15A815",
+        "references": [
+          "https://cs.isabart.org/person/103175"
+        ]
+      }
+    },
+    {
+      "id": "Q43739",
+      "name": "Пий X",
+      "birthDate": "1835-06-02",
+      "birthYear": 1835,
+      "description": "папа римский",
+      "category": "public",
+      "sitelinks": 118,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D0%B9_X",
+      "source": "https://www.wikidata.org/wiki/Q43739#P569",
+      "verified": {
+        "revision": 2564646446,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1835-06-02",
+        "originalCalendar": "gregorian",
+        "claim": "q43739$566B5B42-DABA-464E-8041-4F4CF3BD1A45",
+        "references": []
+      }
+    },
+    {
+      "id": "Q131487",
+      "name": "Карл Адольф Гьеллеруп",
+      "birthDate": "1857-06-02",
+      "birthYear": 1857,
+      "description": "датский поэт и писатель",
+      "category": "literature",
+      "sitelinks": 91,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%8C%D0%B5%D0%BB%D0%BB%D0%B5%D1%80%D1%83%D0%BF,_%D0%9A%D0%B0%D1%80%D0%BB_%D0%90%D0%B4%D0%BE%D0%BB%D1%8C%D1%84",
+      "source": "https://www.wikidata.org/wiki/Q131487#P569",
+      "verified": {
+        "revision": 2563196112,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1857-06-02",
+        "originalCalendar": "gregorian",
+        "claim": "q131487$EB631032-79B8-4FA7-9285-DBA3240AB3A4",
+        "references": []
+      }
+    },
+    {
+      "id": "Q119562",
+      "name": "Серхио Агуэро",
+      "birthDate": "1988-06-02",
+      "birthYear": 1988,
+      "description": "аргентинский футболист",
+      "category": "sport",
+      "sitelinks": 90,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%B3%D1%83%D1%8D%D1%80%D0%BE,_%D0%A1%D0%B5%D1%80%D1%85%D0%B8%D0%BE",
+      "source": "https://www.wikidata.org/wiki/Q119562#P569",
+      "verified": {
+        "revision": 2558234992,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1988-06-02",
+        "originalCalendar": "gregorian",
+        "claim": "q119562$36467E91-958E-4148-B6A0-F8C75FDFE22A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q179631",
+      "name": "Эдуард Элгар",
+      "birthDate": "1857-06-02",
+      "birthYear": 1857,
+      "description": "английский композитор",
+      "category": "music",
+      "sitelinks": 75,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BB%D0%B3%D0%B0%D1%80,_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q179631#P569",
+      "verified": {
+        "revision": 2564773432,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1857-06-02",
+        "originalCalendar": "gregorian",
+        "claim": "q179631$F54E7E43-431C-43EB-8278-A663AE9F30CF",
+        "references": []
+      }
+    }
+  ]
+}

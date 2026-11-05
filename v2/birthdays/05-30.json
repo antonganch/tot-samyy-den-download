@@ -1,0 +1,111 @@
+{
+  "schema": 1,
+  "day": "05-30",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q27645",
+      "name": "Михаил Александрович Бакунин",
+      "birthDate": "1814-05-30",
+      "birthYear": 1814,
+      "description": "русский мыслитель, революционер, панславист, анархист",
+      "category": "other",
+      "sitelinks": 142,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%BA%D1%83%D0%BD%D0%B8%D0%BD,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q27645#P569",
+      "verified": {
+        "revision": 2564713497,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1814-05-30",
+        "originalCalendar": "gregorian",
+        "claim": "Q27645$81b58176-4ebe-a3f8-2abc-82f4565ef021",
+        "references": []
+      }
+    },
+    {
+      "id": "Q459830",
+      "name": "Стивен Джеррард",
+      "birthDate": "1980-05-30",
+      "birthYear": 1980,
+      "description": "английский футболист и футбольный тренер",
+      "category": "sport",
+      "sitelinks": 97,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B5%D1%80%D1%80%D0%B0%D1%80%D0%B4,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q459830#P569",
+      "verified": {
+        "revision": 2558246016,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1980-05-30",
+        "originalCalendar": "gregorian",
+        "claim": "Q459830$D5B8B4D1-4423-4FB3-8927-512316951326",
+        "references": []
+      }
+    },
+    {
+      "id": "Q154269",
+      "name": "Алексей Архипович Леонов",
+      "birthDate": "1934-05-30",
+      "birthYear": 1934,
+      "description": "советский лётчик-космонавт, первый человек, вышедший в открытый космос",
+      "category": "exploration",
+      "sitelinks": 87,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D1%80%D1%85%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q154269#P569",
+      "verified": {
+        "revision": 2558504834,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1934-05-30",
+        "originalCalendar": "gregorian",
+        "claim": "q154269$6484709F-664A-4FC4-860E-BBC15185F63F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q54945",
+      "name": "Ханнес Альфвен",
+      "birthDate": "1908-05-30",
+      "birthYear": 1908,
+      "description": "шведский физик",
+      "category": "science",
+      "sitelinks": 84,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B2%D0%B5%D0%BD,_%D0%A5%D0%B0%D0%BD%D0%BD%D0%B5%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q54945#P569",
+      "verified": {
+        "revision": 2563200287,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1908-05-30",
+        "originalCalendar": "gregorian",
+        "claim": "q54945$4293A885-CA02-43C1-A420-77508ADF72C7",
+        "references": [
+          "https://sok.riksarkivet.se/bildvisning/80001061_00322#?c=&m=&s=&cv=321&xywh=-55%2C2481%2C1956%2C1115",
+          "https://sok.riksarkivet.se/bildvisning/80001061_00322#?c=&m=&s=&cv=321&xywh=76%2C2528%2C1786%2C1313"
+        ]
+      }
+    },
+    {
+      "id": "Q229990",
+      "name": "Аньес Варда",
+      "birthDate": "1928-05-30",
+      "birthYear": 1928,
+      "description": "французская кинорежиссёр, сценаристка и продюсер художественного и документального кино, фотограф",
+      "category": "screen",
+      "sitelinks": 65,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%80%D0%B4%D0%B0,_%D0%90%D0%BD%D1%8C%D0%B5%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q229990#P569",
+      "verified": {
+        "revision": 2557609705,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1928-05-30",
+        "originalCalendar": "gregorian",
+        "claim": "q229990$99353CBA-236D-4CA0-A86C-D1FA8D2846BF",
+        "references": []
+      }
+    }
+  ]
+}

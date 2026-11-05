@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "05-03",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q72984",
+      "name": "Бинг Кросби",
+      "birthDate": "1903-05-03",
+      "birthYear": 1903,
+      "description": "американский эстрадный певец и киноактёр",
+      "category": "screen",
+      "sitelinks": 123,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D1%81%D0%B1%D0%B8,_%D0%91%D0%B8%D0%BD%D0%B3",
+      "source": "https://www.wikidata.org/wiki/Q72984#P569",
+      "verified": {
+        "revision": 2563744900,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1903-05-03",
+        "originalCalendar": "gregorian",
+        "claim": "q72984$DE4889B0-389A-4179-B61F-6ED586F54A24",
+        "references": []
+      }
+    },
+    {
+      "id": "Q42992",
+      "name": "Голда Меир",
+      "birthDate": "1898-05-03",
+      "birthYear": 1898,
+      "description": "израильский политический и государственный деятель, премьер-министр Израиля (1969-1974)",
+      "category": "public",
+      "sitelinks": 137,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D0%B8%D1%80,_%D0%93%D0%BE%D0%BB%D0%B4%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q42992#P569",
+      "verified": {
+        "revision": 2562946221,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1898-05-03",
+        "originalCalendar": "gregorian",
+        "claim": "Q42992$f74c91c7-7f85-4a3e-9910-b80dd72a42ce",
+        "references": []
+      }
+    },
+    {
+      "id": "Q5950",
+      "name": "Джеймс Браун",
+      "birthDate": "1933-05-03",
+      "birthYear": 1933,
+      "description": "американский певец",
+      "category": "music",
+      "sitelinks": 100,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D1%80%D0%B0%D1%83%D0%BD,_%D0%94%D0%B6%D0%B5%D0%B9%D0%BC%D1%81",
+      "source": "https://www.wikidata.org/wiki/Q5950#P569",
+      "verified": {
+        "revision": 2563759366,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-05-03",
+        "originalCalendar": "gregorian",
+        "claim": "q5950$8AA43941-CF31-41FC-B7A8-584E36E4680E",
+        "references": []
+      }
+    },
+    {
+      "id": "Q244441",
+      "name": "Пит Сигер",
+      "birthDate": "1919-05-03",
+      "birthYear": 1919,
+      "description": "американский фолк-музыкант",
+      "category": "music",
+      "sitelinks": 89,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%B5%D1%80,_%D0%9F%D0%B8%D1%82",
+      "source": "https://www.wikidata.org/wiki/Q244441#P569",
+      "verified": {
+        "revision": 2563770522,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1919-05-03",
+        "originalCalendar": "gregorian",
+        "claim": "q244441$4CF338D5-B2D5-4EF8-9BC6-4887D71D110A",
+        "references": []
+      }
+    },
+    {
+      "id": "Q179282",
+      "name": "Стивен Вайнберг",
+      "birthDate": "1933-05-03",
+      "birthYear": 1933,
+      "description": "американский физик",
+      "category": "science",
+      "sitelinks": 96,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D0%B9%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q179282#P569",
+      "verified": {
+        "revision": 2563198123,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1933-05-03",
+        "originalCalendar": "gregorian",
+        "claim": "q179282$EFA5B713-55A3-4F61-817C-16B9B4E8F0AD",
+        "references": []
+      }
+    }
+  ]
+}

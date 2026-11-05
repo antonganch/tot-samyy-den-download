@@ -1,0 +1,108 @@
+{
+  "schema": 1,
+  "day": "09-22",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q42402",
+      "name": "Андреа Бочелли",
+      "birthDate": "1958-09-22",
+      "birthYear": 1958,
+      "description": "Итальянский певец",
+      "category": "music",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D1%87%D0%B5%D0%BB%D0%BB%D0%B8,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B0",
+      "source": "https://www.wikidata.org/wiki/Q42402#P569",
+      "verified": {
+        "revision": 2563203302,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1958-09-22",
+        "originalCalendar": "gregorian",
+        "claim": "q42402$F328ADA2-7A57-4776-A363-4C171C1430FA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q106949",
+      "name": "Сол Перлмуттер",
+      "birthDate": "1959-09-22",
+      "birthYear": 1959,
+      "description": "американский астрофизик",
+      "category": "science",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%BB%D0%BC%D1%83%D1%82%D1%82%D0%B5%D1%80,_%D0%A1%D0%BE%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q106949#P569",
+      "verified": {
+        "revision": 2563198307,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1959-09-22",
+        "originalCalendar": "gregorian",
+        "claim": "q106949$21B621D3-B7A7-47C3-A4F8-FAF6377F6E4C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q210453",
+      "name": "Тиагу Силва",
+      "birthDate": "1984-09-22",
+      "birthYear": 1984,
+      "description": "защитник и капитан футбольных команд",
+      "category": "sport",
+      "sitelinks": 74,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BB%D0%B2%D0%B0,_%D0%A2%D0%B8%D0%B0%D0%B3%D1%83_(%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%B8%D1%81%D1%82)",
+      "source": "https://www.wikidata.org/wiki/Q210453#P569",
+      "verified": {
+        "revision": 2564312569,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1984-09-22",
+        "originalCalendar": "gregorian",
+        "claim": "q210453$94a73321-4689-0f45-9e3e-0b28964c545f",
+        "references": []
+      }
+    },
+    {
+      "id": "Q105682",
+      "name": "Том Фелтон",
+      "birthDate": "1987-09-22",
+      "birthYear": 1987,
+      "description": "английский актёр и певец",
+      "category": "screen",
+      "sitelinks": 64,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%BB%D1%82%D0%BE%D0%BD,_%D0%A2%D0%BE%D0%BC",
+      "source": "https://www.wikidata.org/wiki/Q105682#P569",
+      "verified": {
+        "revision": 2563806740,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1987-09-22",
+        "originalCalendar": "gregorian",
+        "claim": "q105682$1A134DBF-BE54-4D4B-B2E9-E729291B40BF",
+        "references": []
+      }
+    },
+    {
+      "id": "Q81923",
+      "name": "Сеголен Руаяль",
+      "birthDate": "1953-09-22",
+      "birthYear": 1953,
+      "description": "французский политик",
+      "category": "public",
+      "sitelinks": 82,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D1%83%D0%B0%D1%8F%D0%BB%D1%8C,_%D0%A1%D0%B5%D0%B3%D0%BE%D0%BB%D0%B5%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q81923#P569",
+      "verified": {
+        "revision": 2560908741,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-09-22",
+        "originalCalendar": "gregorian",
+        "claim": "Q81923$0E170F55-315B-4439-AA5E-65216E3894C4",
+        "references": []
+      }
+    }
+  ]
+}

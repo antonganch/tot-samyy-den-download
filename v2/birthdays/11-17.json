@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "11-17",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q41148",
+      "name": "Мартин Скорсезе",
+      "birthDate": "1942-11-17",
+      "birthYear": 1942,
+      "description": "американский кинорежиссёр, актёр, продюсер и сценарист (род. 1942)",
+      "category": "screen",
+      "sitelinks": 114,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BE%D1%80%D1%81%D0%B5%D0%B7%D0%B5,_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q41148#P569",
+      "verified": {
+        "revision": 2563470644,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1942-11-17",
+        "originalCalendar": "gregorian",
+        "claim": "q41148$A68AEEDE-B1B0-42FD-B533-C2FD1D061C13",
+        "references": []
+      }
+    },
+    {
+      "id": "Q190386",
+      "name": "Рэйчел Макадамс",
+      "birthDate": "1978-11-17",
+      "birthYear": 1978,
+      "description": "канадская актриса",
+      "category": "screen",
+      "sitelinks": 94,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B0%D0%B4%D0%B0%D0%BC%D1%81,_%D0%A0%D0%B5%D0%B9%D1%87%D0%B5%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q190386#P569",
+      "verified": {
+        "revision": 2564487141,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1978-11-17",
+        "originalCalendar": "gregorian",
+        "claim": "Q190386$D26238D5-9D05-4137-99AD-2708686C7C4F",
+        "references": []
+      }
+    },
+    {
+      "id": "Q155790",
+      "name": "Юджин Вигнер",
+      "birthDate": "1902-11-17",
+      "birthYear": 1902,
+      "description": "венгро-американский физик и математик",
+      "category": "science",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D0%B3%D0%BD%D0%B5%D1%80,_%D0%AE%D0%B4%D0%B6%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q155790#P569",
+      "verified": {
+        "revision": 2563197695,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1902-11-17",
+        "originalCalendar": "gregorian",
+        "claim": "q155790$9441DF05-D72A-4F59-B8CF-D73E5F2B6BCB",
+        "references": []
+      }
+    },
+    {
+      "id": "Q1148669",
+      "name": "Сирил Рамафоса",
+      "birthDate": "1952-11-17",
+      "birthYear": 1952,
+      "description": "южноафриканский политик, президент ЮАР (с 2018), вице-президент ЮАР (2014-2018)",
+      "category": "public",
+      "sitelinks": 99,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%B0%D1%84%D0%BE%D1%81%D0%B0,_%D0%A1%D0%B8%D1%80%D0%B8%D0%BB",
+      "source": "https://www.wikidata.org/wiki/Q1148669#P569",
+      "verified": {
+        "revision": 2557848244,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1952-11-17",
+        "originalCalendar": "gregorian",
+        "claim": "q1148669$E4957AB9-6FDD-4760-8E4C-25BA8FDFE97C",
+        "references": []
+      }
+    },
+    {
+      "id": "Q39637",
+      "name": "Николя Аппер",
+      "birthDate": "1749-11-17",
+      "birthYear": 1749,
+      "description": "французский изобретатель консервов (1749–1841)",
+      "category": "science",
+      "sitelinks": 86,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BF%D0%B5%D1%80,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D1%8F",
+      "source": "https://www.wikidata.org/wiki/Q39637#P569",
+      "verified": {
+        "revision": 2546344881,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1749-11-17",
+        "originalCalendar": "gregorian",
+        "claim": "q39637$4989B467-030D-4F56-8BFB-938ED2D005F6",
+        "references": [
+          "https://archives.marne.fr/ark:/86869/dgjptf8cr91b/84a48ed2-b667-486a-b85f-f6e1b6454bf9"
+        ]
+      }
+    }
+  ]
+}

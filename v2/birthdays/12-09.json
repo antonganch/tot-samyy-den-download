@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "12-09",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q79759",
+      "name": "Джон Мильтон",
+      "birthDate": "1608-12-09",
+      "birthYear": 1608,
+      "description": "английский поэт, политический деятель, мыслитель",
+      "category": "public",
+      "sitelinks": 155,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BB%D1%8C%D1%82%D0%BE%D0%BD,_%D0%94%D0%B6%D0%BE%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q79759#P569",
+      "verified": {
+        "revision": 2564779709,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1608-12-09",
+        "originalCalendar": "gregorian",
+        "claim": "q79759$8F5E57CF-C571-4041-93D2-6987DAE865BA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q104027",
+      "name": "Кирк Дуглас",
+      "birthDate": "1916-12-09",
+      "birthYear": 1916,
+      "description": "американский актёр",
+      "category": "screen",
+      "sitelinks": 101,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B3%D0%BB%D0%B0%D1%81,_%D0%9A%D0%B8%D1%80%D0%BA",
+      "source": "https://www.wikidata.org/wiki/Q104027#P569",
+      "verified": {
+        "revision": 2563923037,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1916-12-09",
+        "originalCalendar": "gregorian",
+        "claim": "q104027$3C698103-0980-428B-8774-7E1FA7678285",
+        "references": [
+          "https://www.filmportal.de/person/kirk-douglas_f9e9977b38934c8ba35abfbda7086865"
+        ]
+      }
+    },
+    {
+      "id": "Q5752",
+      "name": "Пётр Алексеевич Кропоткин",
+      "birthDate": "1842-12-09",
+      "birthYear": 1842,
+      "description": "русский революционер, теоретик анархизма, географ, геоморфолог, историк, литератор",
+      "category": "other",
+      "sitelinks": 120,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD,_%D0%9F%D1%91%D1%82%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+      "source": "https://www.wikidata.org/wiki/Q5752#P569",
+      "verified": {
+        "revision": 2564796619,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1842-11-27",
+        "originalCalendar": "julian",
+        "claim": "Q5752$3bab3b8a-4ca0-71f9-6ae8-7abbff1eded5",
+        "references": []
+      }
+    },
+    {
+      "id": "Q28054",
+      "name": "Джуди Денч",
+      "birthDate": "1934-12-09",
+      "birthYear": 1934,
+      "description": "британская актриса театра и кино",
+      "category": "screen",
+      "sitelinks": 98,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D1%87,_%D0%94%D0%B6%D1%83%D0%B4%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q28054#P569",
+      "verified": {
+        "revision": 2562498189,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1934-12-09",
+        "originalCalendar": "gregorian",
+        "claim": "q28054$4CD69E69-AC48-4287-8428-16D66A278AEA",
+        "references": []
+      }
+    },
+    {
+      "id": "Q57075",
+      "name": "Фриц Габер",
+      "birthDate": "1868-12-09",
+      "birthYear": 1868,
+      "description": "немецкий химик",
+      "category": "science",
+      "sitelinks": 95,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B1%D0%B5%D1%80,_%D0%A4%D1%80%D0%B8%D1%86",
+      "source": "https://www.wikidata.org/wiki/Q57075#P569",
+      "verified": {
+        "revision": 2563989390,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1868-12-09",
+        "originalCalendar": "gregorian",
+        "claim": "q57075$B0E6D229-2150-4314-9A92-11B03B8D9388",
+        "references": []
+      }
+    }
+  ]
+}

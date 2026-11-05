@@ -1,0 +1,110 @@
+{
+  "schema": 1,
+  "day": "06-15",
+  "updated": "2026-11-05",
+  "license": "CC0-1.0",
+  "people": [
+    {
+      "id": "Q15031",
+      "name": "Си Цзиньпин",
+      "birthDate": "1953-06-15",
+      "birthYear": 1953,
+      "description": "китайский политик, Генеральный секретарь Коммунистической партии Китая (с 2012)",
+      "category": "public",
+      "sitelinks": 191,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8_%D0%A6%D0%B7%D0%B8%D0%BD%D1%8C%D0%BF%D0%B8%D0%BD",
+      "source": "https://www.wikidata.org/wiki/Q15031#P569",
+      "verified": {
+        "revision": 2564755535,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1953-06-15",
+        "originalCalendar": "gregorian",
+        "claim": "q15031$346fcdd2-4beb-f346-12e3-43553ae1e10e",
+        "references": []
+      }
+    },
+    {
+      "id": "Q80621",
+      "name": "Эдвард Григ",
+      "birthDate": "1843-06-15",
+      "birthYear": 1843,
+      "description": "норвежский композитор периода романтизма, музыкальный деятель, пианист, дирижёр",
+      "category": "music",
+      "sitelinks": 111,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B3,_%D0%AD%D0%B4%D0%B2%D0%B0%D1%80%D0%B4",
+      "source": "https://www.wikidata.org/wiki/Q80621#P569",
+      "verified": {
+        "revision": 2564788738,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1843-06-15",
+        "originalCalendar": "gregorian",
+        "claim": "q80621$E5F01ACB-9173-4CE6-BB2E-BE175D660563",
+        "references": [
+          "https://brockhaus.de/ecs/julex/article/grieg-edvard-hagerup"
+        ]
+      }
+    },
+    {
+      "id": "Q1354960",
+      "name": "Мохаммед Салах",
+      "birthDate": "1992-06-15",
+      "birthYear": 1992,
+      "description": "египетский футболист",
+      "category": "sport",
+      "sitelinks": 105,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4_%D0%A1%D0%B0%D0%BB%D0%B0%D1%85",
+      "source": "https://www.wikidata.org/wiki/Q1354960#P569",
+      "verified": {
+        "revision": 2562462654,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1992-06-15",
+        "originalCalendar": "gregorian",
+        "claim": "Q1354960$B04202C2-BCBD-4C06-9BF9-A77A51A8F644",
+        "references": []
+      }
+    },
+    {
+      "id": "Q58912",
+      "name": "Кортни Кокс",
+      "birthDate": "1964-06-15",
+      "birthYear": 1964,
+      "description": "американская актриса",
+      "category": "screen",
+      "sitelinks": 88,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BA%D1%81,_%D0%9A%D0%BE%D1%80%D1%82%D0%BD%D0%B8",
+      "source": "https://www.wikidata.org/wiki/Q58912#P569",
+      "verified": {
+        "revision": 2557951100,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1964-06-15",
+        "originalCalendar": "gregorian",
+        "claim": "q58912$A4A54F6B-6037-4289-9CB7-DF93F47920F9",
+        "references": []
+      }
+    },
+    {
+      "id": "Q131261",
+      "name": "Оливер Кан",
+      "birthDate": "1969-06-15",
+      "birthYear": 1969,
+      "description": "немецкий футболист",
+      "category": "sport",
+      "sitelinks": 83,
+      "bio": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD,_%D0%9E%D0%BB%D0%B8%D0%B2%D0%B5%D1%80",
+      "source": "https://www.wikidata.org/wiki/Q131261#P569",
+      "verified": {
+        "revision": 2562662852,
+        "at": "2026-11-05",
+        "precision": 11,
+        "originalDate": "1969-06-15",
+        "originalCalendar": "gregorian",
+        "claim": "q131261$6468BFF9-4EA4-4529-899C-984A391AA323",
+        "references": []
+      }
+    }
+  ]
+}
