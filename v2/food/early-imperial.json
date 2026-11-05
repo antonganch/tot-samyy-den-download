@@ -1,0 +1,1277 @@
+{
+  "schema": 1,
+  "dataset": "prewar-monetary-reconstruction",
+  "updated": "2026-11-05",
+  "units": {
+    "bread": "currency/kg",
+    "beef": "currency/kg"
+  },
+  "method": "Observed retail anchors plus explicitly approximate stable-regime reconstruction. 1900–1905 reference 1900; 1906–1910 reference 1910; later years use their own published annual observations. The 1913 anchor may cover pre-war 1914. Other groceries use approximate family ratios. Foreign gold-parity amounts are model estimates, not observed local prices. Never valid from 28 July 1914 onward.",
+  "priceSeries": [
+    {
+      "id": "prewar-ruble-1900-ge",
+      "currency": "RUE",
+      "denomination": "RUE",
+      "country": "Российская империя",
+      "city": "Гори",
+      "cityRegion": "ge",
+      "lat": 41.98532,
+      "lon": 44.1129,
+      "allowNearby": true,
+      "observedFrom": "1900-04-14",
+      "observedTo": "1900-05-13",
+      "validFrom": "1900-01-01",
+      "validTo": "1905-12-31",
+      "estimated": true,
+      "estimation": "stable-denomination-anchor",
+      "referenceYear": 1900,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "bread": 0.061,
+        "beef": 0.2442
+      },
+      "sources": [
+        {
+          "url": "https://dspace.nplg.gov.ge/handle/1234/63881",
+          "scan": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kavkaz_1900_N94.pdf",
+          "title": "Кавказ, №94, 8 апреля 1900 (старый стиль), утверждённая такса по Гори",
+          "published": 1900,
+          "pages": "1",
+          "kind": "published-retail-tariff",
+          "original": {
+            "bread": {
+              "kopecks": 2.5,
+              "unit": "Russian pound",
+              "description": "Хлеб из местной муки, 1-й сорт"
+            },
+            "beef": {
+              "kopecks": 10,
+              "unit": "Russian pound"
+            }
+          },
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "kopecksPerRuble": 100
+          }
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода."
+    },
+    {
+      "id": "prewar-DEM-GOLD-1900",
+      "currency": "DEM-GOLD",
+      "denomination": "DEM-GOLD",
+      "country": "Германия",
+      "observedFrom": "1900-04-14",
+      "observedTo": "1900-05-13",
+      "validFrom": "1900-01-01",
+      "validTo": "1905-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1900,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "bread": 0.1319,
+        "beef": 0.5275
+      },
+      "sources": [
+        {
+          "url": "https://dspace.nplg.gov.ge/handle/1234/63881",
+          "scan": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kavkaz_1900_N94.pdf",
+          "title": "Кавказ, №94, 8 апреля 1900 (старый стиль), утверждённая такса по Гори",
+          "published": 1900,
+          "pages": "1",
+          "kind": "published-retail-tariff",
+          "original": {
+            "bread": {
+              "kopecks": 2.5,
+              "unit": "Russian pound",
+              "description": "Хлеб из местной муки, 1-й сорт"
+            },
+            "beef": {
+              "kopecks": 10,
+              "unit": "Russian pound"
+            }
+          },
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "kopecksPerRuble": 100
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://www.bundesbank.de/en/statistics/economic-activity-and-prices/national-producer-and-consumer-prices/purchasing-power-comparisons-of-historical-amounts-of-money-795290",
+          "title": "Deutsche Bundesbank. Mark gold parity before the First World War",
+          "goldGramsPerUnit": 0.35842293906810035
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Гори",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "DEM-GOLD",
+        "multiplier": 2.16011286,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.35842293906810035,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-AUC-1900",
+      "currency": "AUC",
+      "denomination": "AUC",
+      "country": "Австро-Венгрия",
+      "observedFrom": "1900-04-14",
+      "observedTo": "1900-05-13",
+      "validFrom": "1900-01-01",
+      "validTo": "1905-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1900,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "bread": 0.155,
+        "beef": 0.6201
+      },
+      "sources": [
+        {
+          "url": "https://dspace.nplg.gov.ge/handle/1234/63881",
+          "scan": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kavkaz_1900_N94.pdf",
+          "title": "Кавказ, №94, 8 апреля 1900 (старый стиль), утверждённая такса по Гори",
+          "published": 1900,
+          "pages": "1",
+          "kind": "published-retail-tariff",
+          "original": {
+            "bread": {
+              "kopecks": 2.5,
+              "unit": "Russian pound",
+              "description": "Хлеб из местной муки, 1-й сорт"
+            },
+            "beef": {
+              "kopecks": 10,
+              "unit": "Russian pound"
+            }
+          },
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "kopecksPerRuble": 100
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://www.oenb.at/dam/jcr:f2ae77c7-1f6f-41a2-8ea8-f7f3d0334a0b/II.-AUSTRIA.pdf",
+          "title": "Oesterreichische Nationalbank. Austria: crown gold content",
+          "pages": "14",
+          "goldGramsPerUnit": 0.304878
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Гори",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "AUC",
+        "multiplier": 2.5394879263180683,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.304878,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-FIM1-1900",
+      "currency": "FIM1",
+      "denomination": "FIM1-gold",
+      "country": "Российская империя · Великое княжество Финляндское",
+      "observedFrom": "1900-04-14",
+      "observedTo": "1900-05-13",
+      "validFrom": "1900-01-01",
+      "validTo": "1905-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1900,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "bread": 0.1628,
+        "beef": 0.6512
+      },
+      "sources": [
+        {
+          "url": "https://dspace.nplg.gov.ge/handle/1234/63881",
+          "scan": "https://upload.wikimedia.org/wikipedia/commons/7/71/Kavkaz_1900_N94.pdf",
+          "title": "Кавказ, №94, 8 апреля 1900 (старый стиль), утверждённая такса по Гори",
+          "published": 1900,
+          "pages": "1",
+          "kind": "published-retail-tariff",
+          "original": {
+            "bread": {
+              "kopecks": 2.5,
+              "unit": "Russian pound",
+              "description": "Хлеб из местной муки, 1-й сорт"
+            },
+            "beef": {
+              "kopecks": 10,
+              "unit": "Russian pound"
+            }
+          },
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "kopecksPerRuble": 100
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://otos.stat.fi/bitstreams/2b62cec0-3166-4d5b-a64b-06088837b03e/download",
+          "title": "Bank of Finland 1925 report, Official Statistics of Finland: pre-inflation markka",
+          "published": 1926,
+          "pdfPage": 6,
+          "goldGramsPerUnit": 0.29032
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Гори",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "FIM1",
+        "multiplier": 2.6668297051529346,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.29032,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-ruble-1910-ru",
+      "currency": "RUE",
+      "denomination": "RUE",
+      "country": "Российская империя",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75586,
+      "lon": 37.61764,
+      "allowNearby": true,
+      "observedFrom": "1910-01-01",
+      "observedTo": "1910-12-31",
+      "validFrom": "1906-01-01",
+      "validTo": "1910-12-31",
+      "estimated": true,
+      "estimation": "stable-denomination-anchor",
+      "referenceYear": 1910,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 0.5372,
+        "bread": 0.0702
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 22,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 115,
+              "unit": "Russian pood"
+            }
+          }
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода."
+    },
+    {
+      "id": "prewar-DEM-GOLD-1910",
+      "currency": "DEM-GOLD",
+      "denomination": "DEM-GOLD",
+      "country": "Германия",
+      "observedFrom": "1910-01-01",
+      "observedTo": "1910-12-31",
+      "validFrom": "1906-01-01",
+      "validTo": "1910-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1910,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.1605,
+        "bread": 0.1517
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 22,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 115,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://www.bundesbank.de/en/statistics/economic-activity-and-prices/national-producer-and-consumer-prices/purchasing-power-comparisons-of-historical-amounts-of-money-795290",
+          "title": "Deutsche Bundesbank. Mark gold parity before the First World War",
+          "goldGramsPerUnit": 0.35842293906810035
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "DEM-GOLD",
+        "multiplier": 2.16011286,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.35842293906810035,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-AUC-1910",
+      "currency": "AUC",
+      "denomination": "AUC",
+      "country": "Австро-Венгрия",
+      "observedFrom": "1910-01-01",
+      "observedTo": "1910-12-31",
+      "validFrom": "1906-01-01",
+      "validTo": "1910-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1910,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.3643,
+        "bread": 0.1783
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 22,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 115,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://www.oenb.at/dam/jcr:f2ae77c7-1f6f-41a2-8ea8-f7f3d0334a0b/II.-AUSTRIA.pdf",
+          "title": "Oesterreichische Nationalbank. Austria: crown gold content",
+          "pages": "14",
+          "goldGramsPerUnit": 0.304878
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "AUC",
+        "multiplier": 2.5394879263180683,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.304878,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-FIM1-1910",
+      "currency": "FIM1",
+      "denomination": "FIM1-gold",
+      "country": "Российская империя · Великое княжество Финляндское",
+      "observedFrom": "1910-01-01",
+      "observedTo": "1910-12-31",
+      "validFrom": "1906-01-01",
+      "validTo": "1910-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1910,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.4327,
+        "bread": 0.1872
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 22,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 115,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://otos.stat.fi/bitstreams/2b62cec0-3166-4d5b-a64b-06088837b03e/download",
+          "title": "Bank of Finland 1925 report, Official Statistics of Finland: pre-inflation markka",
+          "published": 1926,
+          "pdfPage": 6,
+          "goldGramsPerUnit": 0.29032
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "FIM1",
+        "multiplier": 2.6668297051529346,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.29032,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-ruble-1911-ru",
+      "currency": "RUE",
+      "denomination": "RUE",
+      "country": "Российская империя",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75586,
+      "lon": 37.61764,
+      "allowNearby": true,
+      "observedFrom": "1911-01-01",
+      "observedTo": "1911-12-31",
+      "validFrom": "1911-01-01",
+      "validTo": "1911-12-31",
+      "estimated": true,
+      "estimation": "stable-denomination-anchor",
+      "referenceYear": 1911,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 0.5861,
+        "bread": 0.0702
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 115,
+              "unit": "Russian pood"
+            }
+          }
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода."
+    },
+    {
+      "id": "prewar-DEM-GOLD-1911",
+      "currency": "DEM-GOLD",
+      "denomination": "DEM-GOLD",
+      "country": "Германия",
+      "observedFrom": "1911-01-01",
+      "observedTo": "1911-12-31",
+      "validFrom": "1911-01-01",
+      "validTo": "1911-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1911,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.266,
+        "bread": 0.1517
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 115,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://www.bundesbank.de/en/statistics/economic-activity-and-prices/national-producer-and-consumer-prices/purchasing-power-comparisons-of-historical-amounts-of-money-795290",
+          "title": "Deutsche Bundesbank. Mark gold parity before the First World War",
+          "goldGramsPerUnit": 0.35842293906810035
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "DEM-GOLD",
+        "multiplier": 2.16011286,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.35842293906810035,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-AUC-1911",
+      "currency": "AUC",
+      "denomination": "AUC",
+      "country": "Австро-Венгрия",
+      "observedFrom": "1911-01-01",
+      "observedTo": "1911-12-31",
+      "validFrom": "1911-01-01",
+      "validTo": "1911-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1911,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.4883,
+        "bread": 0.1783
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 115,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://www.oenb.at/dam/jcr:f2ae77c7-1f6f-41a2-8ea8-f7f3d0334a0b/II.-AUSTRIA.pdf",
+          "title": "Oesterreichische Nationalbank. Austria: crown gold content",
+          "pages": "14",
+          "goldGramsPerUnit": 0.304878
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "AUC",
+        "multiplier": 2.5394879263180683,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.304878,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-FIM1-1911",
+      "currency": "FIM1",
+      "denomination": "FIM1-gold",
+      "country": "Российская империя · Великое княжество Финляндское",
+      "observedFrom": "1911-01-01",
+      "observedTo": "1911-12-31",
+      "validFrom": "1911-01-01",
+      "validTo": "1911-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1911,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.5629,
+        "bread": 0.1872
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 115,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://otos.stat.fi/bitstreams/2b62cec0-3166-4d5b-a64b-06088837b03e/download",
+          "title": "Bank of Finland 1925 report, Official Statistics of Finland: pre-inflation markka",
+          "published": 1926,
+          "pdfPage": 6,
+          "goldGramsPerUnit": 0.29032
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "FIM1",
+        "multiplier": 2.6668297051529346,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.29032,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-ruble-1912-ru",
+      "currency": "RUE",
+      "denomination": "RUE",
+      "country": "Российская империя",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75586,
+      "lon": 37.61764,
+      "allowNearby": true,
+      "observedFrom": "1912-01-01",
+      "observedTo": "1912-12-31",
+      "validFrom": "1912-01-01",
+      "validTo": "1912-12-31",
+      "estimated": true,
+      "estimation": "stable-denomination-anchor",
+      "referenceYear": 1912,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 0.5861,
+        "bread": 0.0788
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 129,
+              "unit": "Russian pood"
+            }
+          }
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода."
+    },
+    {
+      "id": "prewar-DEM-GOLD-1912",
+      "currency": "DEM-GOLD",
+      "denomination": "DEM-GOLD",
+      "country": "Германия",
+      "observedFrom": "1912-01-01",
+      "observedTo": "1912-12-31",
+      "validFrom": "1912-01-01",
+      "validTo": "1912-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1912,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.266,
+        "bread": 0.1701
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 129,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://www.bundesbank.de/en/statistics/economic-activity-and-prices/national-producer-and-consumer-prices/purchasing-power-comparisons-of-historical-amounts-of-money-795290",
+          "title": "Deutsche Bundesbank. Mark gold parity before the First World War",
+          "goldGramsPerUnit": 0.35842293906810035
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "DEM-GOLD",
+        "multiplier": 2.16011286,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.35842293906810035,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-AUC-1912",
+      "currency": "AUC",
+      "denomination": "AUC",
+      "country": "Австро-Венгрия",
+      "observedFrom": "1912-01-01",
+      "observedTo": "1912-12-31",
+      "validFrom": "1912-01-01",
+      "validTo": "1912-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1912,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.4883,
+        "bread": 0.2
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 129,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://www.oenb.at/dam/jcr:f2ae77c7-1f6f-41a2-8ea8-f7f3d0334a0b/II.-AUSTRIA.pdf",
+          "title": "Oesterreichische Nationalbank. Austria: crown gold content",
+          "pages": "14",
+          "goldGramsPerUnit": 0.304878
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "AUC",
+        "multiplier": 2.5394879263180683,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.304878,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-FIM1-1912",
+      "currency": "FIM1",
+      "denomination": "FIM1-gold",
+      "country": "Российская империя · Великое княжество Финляндское",
+      "observedFrom": "1912-01-01",
+      "observedTo": "1912-12-31",
+      "validFrom": "1912-01-01",
+      "validTo": "1912-12-31",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1912,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.5629,
+        "bread": 0.21
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 129,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://otos.stat.fi/bitstreams/2b62cec0-3166-4d5b-a64b-06088837b03e/download",
+          "title": "Bank of Finland 1925 report, Official Statistics of Finland: pre-inflation markka",
+          "published": 1926,
+          "pdfPage": 6,
+          "goldGramsPerUnit": 0.29032
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "FIM1",
+        "multiplier": 2.6668297051529346,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.29032,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-ruble-1913-ru",
+      "currency": "RUE",
+      "denomination": "RUE",
+      "country": "Российская империя",
+      "city": "Москва",
+      "cityRegion": "ru",
+      "lat": 55.75586,
+      "lon": 37.61764,
+      "allowNearby": true,
+      "observedFrom": "1913-01-01",
+      "observedTo": "1913-12-31",
+      "validFrom": "1913-01-01",
+      "validTo": "1914-07-27",
+      "estimated": true,
+      "estimation": "stable-denomination-anchor",
+      "referenceYear": 1913,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 0.5861,
+        "bread": 0.0763
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 125,
+              "unit": "Russian pood"
+            }
+          }
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода."
+    },
+    {
+      "id": "prewar-DEM-GOLD-1913",
+      "currency": "DEM-GOLD",
+      "denomination": "DEM-GOLD",
+      "country": "Германия",
+      "observedFrom": "1913-01-01",
+      "observedTo": "1913-12-31",
+      "validFrom": "1913-01-01",
+      "validTo": "1914-07-27",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1913,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.266,
+        "bread": 0.1648
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 125,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://www.bundesbank.de/en/statistics/economic-activity-and-prices/national-producer-and-consumer-prices/purchasing-power-comparisons-of-historical-amounts-of-money-795290",
+          "title": "Deutsche Bundesbank. Mark gold parity before the First World War",
+          "goldGramsPerUnit": 0.35842293906810035
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "DEM-GOLD",
+        "multiplier": 2.16011286,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.35842293906810035,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-AUC-1913",
+      "currency": "AUC",
+      "denomination": "AUC",
+      "country": "Австро-Венгрия",
+      "observedFrom": "1913-01-01",
+      "observedTo": "1913-12-31",
+      "validFrom": "1913-01-01",
+      "validTo": "1914-07-27",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1913,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.4883,
+        "bread": 0.1938
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 125,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://www.oenb.at/dam/jcr:f2ae77c7-1f6f-41a2-8ea8-f7f3d0334a0b/II.-AUSTRIA.pdf",
+          "title": "Oesterreichische Nationalbank. Austria: crown gold content",
+          "pages": "14",
+          "goldGramsPerUnit": 0.304878
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "AUC",
+        "multiplier": 2.5394879263180683,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.304878,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    },
+    {
+      "id": "prewar-FIM1-1913",
+      "currency": "FIM1",
+      "denomination": "FIM1-gold",
+      "country": "Российская империя · Великое княжество Финляндское",
+      "observedFrom": "1913-01-01",
+      "observedTo": "1913-12-31",
+      "validFrom": "1913-01-01",
+      "validTo": "1914-07-27",
+      "estimated": true,
+      "estimation": "gold-parity-reconstruction",
+      "referenceYear": 1913,
+      "maxDistanceDays": 3660,
+      "retail": {
+        "beef": 1.5629,
+        "bread": 0.2035
+      },
+      "sources": [
+        {
+          "url": "https://istmat.org/node/236",
+          "title": "Статистический ежегодник города Москвы, вып.4, 1911–1913. Москва, 1916",
+          "published": 1916,
+          "pages": "170–173",
+          "reproduction": "Таблица 16; Россия 1913 год, ИРИ РАН, 1995",
+          "kind": "published-annual-reference-prices",
+          "conversion": {
+            "RussianPoundKg": 0.40951241,
+            "RussianPoodKg": 16.3804964,
+            "kopecksPerRuble": 100
+          },
+          "original": {
+            "beef": {
+              "kopecks": 24,
+              "unit": "Russian pound"
+            },
+            "bread": {
+              "kopecks": 125,
+              "unit": "Russian pood"
+            }
+          }
+        },
+        {
+          "url": "https://cbr.ru/Content/Document/File/48219/ArchivalFonds_015.pdf",
+          "title": "Банк России. Архивная справка №39 от 25 апреля 1956 года",
+          "pages": "83",
+          "goldGramsPerUnit": 0.774234
+        },
+        {
+          "url": "https://otos.stat.fi/bitstreams/2b62cec0-3166-4d5b-a64b-06088837b03e/download",
+          "title": "Bank of Finland 1925 report, Official Statistics of Finland: pre-inflation markka",
+          "published": 1926,
+          "pdfPage": 6,
+          "goldGramsPerUnit": 0.29032
+        }
+      ],
+      "note": "Приблизительная реконструкция стоимости праздничного меню в деньгах выбранного периода.",
+      "referenceCity": "Москва",
+      "referenceCurrency": "RUE",
+      "conversion": {
+        "from": "RUE",
+        "to": "FIM1",
+        "multiplier": 2.6668297051529346,
+        "sourceGoldGrams": 0.774234,
+        "targetGoldGrams": 0.29032,
+        "validFrom": "1900-01-01",
+        "validTo": "1914-07-27",
+        "limitation": "Currency parity reconstruction, not a local retail-price observation or purchasing-power equivalence."
+      }
+    }
+  ]
+}
